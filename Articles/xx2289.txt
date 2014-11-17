@@ -1,0 +1,106 @@
+                             2289 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                       July 22, 2014 Tuesday 9:22 PM EST
+
+Washington starts hunt for a 'model city' for wireless experimentation;
+Washington starts hunt for a 'model city' for wireless experimentation
+
+BYLINE: Nancy Scola
+
+LENGTH: 763 words
+
+
+No, the federal government isn't whipping up a new American city from scratch to
+test out its ideas about the wireless Internet. Can you imagine getting budget
+approval for that? But it is doing something new and provocative: searching for
+an urban area in the United States willing to host experiments on how the
+private sector can tap the limited and valuable radio spectrum that the federal
+government, by general consensus, currently hogs.
+
+Last week, two federal telecommunications agencies put out a call for such a
+spectrum-sharing "model city."
+
+Radio spectrum is the oxygen that gives life to mobile technologies like
+smartphones and tablets, and the U.S. government has been nudged by many to
+figure out how the country can wring more use out of the frequencies it
+controls; as of 2012, according to the National Telecommunications and
+Information Administration, federal agencies dominated some 43 percent of the
+best radio frequencies.
+
+But tests on so-called smart radio or cognitive radio (think "radio" as in radio
+waves, not the music and chatter you might listen to in the car) have been
+generally limited to military bases, computer labs or rural areas. "Small-scale
+settings" is how one NTIA official describes them, "where nobody is going to get
+hurt."
+
+Those locations can fall short as testing grounds for dynamic sharing. For one
+thing, government frequencies are used on Army and Navy bases for everything
+from training to communications to air traffic safety, skewing research toward
+believing that federal spectrum is more crowded than it generally is in the
+outside world.
+
+And they can lack a large diverse user base needed to put sharing schemes
+through their paces. More broadly, those often homogeneous environments fail to
+mimic what spectrum has to stand up to in day-to-day use.
+
+"As systems grow in complexity, interconnectedness, and geographic
+distribution," reads a 2012 report from the President's Council of Advisors on
+Science and Technology that floated the "model city" plan, "they increasingly
+experience emergent behavior." In other words, the unpredictable messiness of
+city living is what is needed to demonstrate whether dynamic sharing can ever
+evolve from a promising technology of the future to a viable solution for the
+federal government's spectrum management challenges.
+
+The ideal test city? According to NTIA, which is leading the project along with
+the Federal Communications Commission, it will be an urban area with a large,
+diverse pool of possible users and possibly an academic or research community
+willing to roll up its sleeves and try spectrum sharing on for size.
+
+The test city would, in the best case, offer up for telecommunications purposes
+its resources, including its roadways and utility poles, in much the same way
+has happened with Google Fiber in Kansas City and elsewhere. Landlocked Chicago
+is one possibility, as it is outside the range of naval radar. Wilmington, N.C.,
+is another, as it has served as a testing ground on unlicensed, empty spectrum
+"white spaces" in the past. But NTIA cautions that no decisions have been made.
+
+Part of what is driving the "model city" concept, whose cost has been pegged at
+$60 million for the first three years of operation, is the notion that
+commercial users have been reluctant to try sharing spectrum with the federal
+government, even given its considerable potential for wireless broadband and
+other technologies, out of a lack of certainty and transparency over how such
+public-private slicing up of a shared resource would work.
+
+A particular worry: that despite a stated interest from the federal government
+in exploring a "lights and sirens" approach -- that is, only using the available
+spectrum for public safety reasons during emergencies -- they might in practice
+become more skittish about possible radio interference. The test city would give
+all parties a chance to test out working relationships as much as new
+technologies.
+
+Brent Skorup is a research fellow with Mercatus Center's Technology Policy
+Program at George Mason University. "Dynamic spectrum sharing is still fairly
+theoretical at this point," he cautions, "and it could be decades before it
+becomes widespread." But the federal government, he says, doesn't have many
+other good, obvious options for upgrading its spectrum management.
+
+The potential is big. More spectrum, say many, means the possibility of more
+wireless innovation in the United States, with increased space on the radio
+waves freeing experimentation on everything from remote-controlled drones to new
+ways of delivering mobile broadband.
+
+LOAD-DATE: July 22, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

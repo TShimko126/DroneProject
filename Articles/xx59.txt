@@ -1,0 +1,138 @@
+                              59 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             April 14, 2014 Monday
+                              Late Edition - Final
+
+Flying Lessons Not Included
+
+BYLINE: By NICK BILTON
+
+SECTION: Section B; Column 0; Business/Financial Desk; BITS; Pg. 6
+
+LENGTH: 808 words
+
+
+Updated. | Expanded explanation of DJI's new camera stabilization.
+
+Yep, I crashed another one.
+
+Over the past two weeks, testing out a new drone from DJI called the ''Phantom 2
+Vision Plus,'' I managed to fly it into the San Francisco Bay.
+
+It did not float.
+
+When I got my hands on another DJI drone, I immediately flew that one into a
+tree. I then banged into a few walls. I chased myself down the street and I
+almost hit myself with it. Finally, as the video above shows, I crashed it into
+concrete in a New York City park.
+
+Flying a drone is really, really difficult. It's like backing up an
+eighteen-wheeler in a blind alley, or landing a Boeing 747 in a crosswind. Well,
+at least it felt like that to me.
+
+When I was able to finally figure out the flying part -- note to self: moving
+the controls left will fly the drone right, and vice versa -- the photos and
+videos that the Phantom 2 Vision Plus took were gorgeous.
+
+For photographers and videographers, the latest drones are opening up an
+entirely new genre of visual storytelling that once required a helicopter or
+huge crane. It won't be long before these flying cameras are included in
+people's camera bags like tripods, flashes and lenses are today.
+
+The Phantom 2 Vision Plus is similar to DJI's other offerings, designed as a
+quadrocopter with four propellers, but this new model has a number of features
+specifically designed for photographers.
+
+While drones in the past have required people to buy a GoPro or other
+third-party camera to capture images, DJI has started to build its own camera
+systems into the drones with the hopes of adding more controls for the pilot.
+All with the goal of capturing better images.
+
+Eric Cheng, director of aerial photography for DJI, said one of the benefits of
+the new Phantom over previous models is the increased image stabilization, which
+eliminates a past problem where rolling shutter combined with vibration of the
+drone can cause videos to look like they are wobbling, just like Jell-O.
+
+Mr. Cheng said the camera is stabilized even further as it sits on a motorized
+gimbal, which is a support that can move in several directions. These new
+updates help the camera look like it's floating smoothly in space.
+
+The company was able to do this by taking most of the components out of the
+camera and sticking them inside the actual drone, drastically reducing the
+weight and wobble of the camera.
+
+The new drone has a built-in GPS unit so if you lose it, you know where it went
+down -- unless it's in the San Francisco Bay. The Phantom 2 Vision Plus can fly
+as high as 1,000 feet or about one-fifth of a mile. It can also go 800 meters
+away from you, or almost half a mile. But these heights and distances aren't
+advisable because you can no longer see your drone.
+
+The new Phantom comes with a built-in 14-megapixel camera that can also record
+1080p video.
+
+This drone really excels at letting the user control the camera, with a free app
+that comes with an array of camera settings. The app, called DJI Vision, allows
+you to control the camera from your smartphone so you can swing it up and down
+and side to side.
+
+The app also lets a user control the actual camera in midflight, telling it to
+start shooting HD video or to capture photos in high resolution, or RAW, by just
+pressing a few buttons. If you want to shoot gorgeous high-resolution video,
+simply click the video capture button, the same way you snap videos on your
+iPhone.
+
+Amit Gupta, the founder of the online photography store Photojojo, said the
+Phantom drones ''feel like you have a giant tripod in the sky.'' He said the
+company is seeing a lot of interest from photographers about drones and will
+eventually start renting them out.
+
+''The great thing about the Phantoms is that they have a built-in GPS unit, so
+you can tell it to stay somewhere, even in the wind, and it won't move,'' Mr.
+Gupta said.
+
+Yes, if you're thinking what I'm thinking, it's perfect for those people who
+want to take high-end selfies.
+
+All of this fancy technology comes at a price: The new Phantom drone can be
+preordered from DJI's website for $1,299.
+
+While it's definitely worth the investment for photographers and hobbyists, I
+would advise first buying an inexpensive practice drone that you can break
+without worry.
+
+Mr. Cheng of DJI recommends that people buy a Blade Nano QX, $100, or Syma X1,
+$33, to get used to the controls of the drone before taking out the expensive
+model. Once you feel comfortable you can graduate to the Phantom.
+
+''Drones are really easy to fly until something goes wrong,'' Mr. Cheng said.
+''Then people panic and usually end up crashing.''
+
+Take it from me, to know what to do when something goes wrong, practice
+beforehand. If not, you could fly your brand new $1,300 drone into a tree, a
+wall or even a large body of water.
+
+This is a more complete version of the story than the one that appeared in
+print.
+
+URL: http://bits.blogs.nytimes.com/2014/04/08/crashing-djis-new-drone
+-into-water-and-land/
+
+LOAD-DATE: April 15, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: The Phantom 2 Vision Plus, a new drone from DJI, has some
+features intended specifically for shooting photos and video. (PHOTOGRAPH BY
+CHARLES PLATIAU/REUTERS)
+
+DOCUMENT-TYPE: Web Log
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

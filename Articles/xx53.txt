@@ -1,0 +1,135 @@
+                              53 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                    September 25, 2014 Thursday 5:42 PM EST
+
+Drones and laws of general applicability
+
+BYLINE: Michael Berry;Nabiha Syed (guest-blogging)
+
+LENGTH: 1201 words
+
+
+Our last post described the laws some states have passed to regulate private
+drone use. In addition to these new laws, existing common-law doctrines and
+statutes throughout the country serve to regulate people's use of drones. Those
+laws serve to protect individual's privacy, safety, and property.
+
+First, the tort of intrusion upon seclusion provides a remedy for a person who
+claims a drone invaded her privacy. The tort has two necessary elements: (1) a
+person "intentionally intrudes, physically or otherwise, upon the solitude or
+seclusion of another or his private affairs or concerns," and (2) "the intrusion
+would be highly offensive to a reasonable person." As the comments in the
+Restatement (Second) of Torts section addressing intrusion explain, the tort is
+committed if the defendant pries into a private place or "otherwise invades a
+private seclusion that the plaintiff has thrown about his person or affairs." In
+the words of the Restatement, an intrusion can be committed through "the use of
+the defendant's senses, with or without mechanical aids, to oversee or overhear
+the plaintiff's private affairs, as by looking into his upstairs windows with
+binoculars." Thus, intrusion claims have been lodged against people for illicit
+filming and eavesdropping. The key is that the alleged victim had a reasonable
+expectation of privacy at the time and in the place of the alleged intrusion.
+This tort would seem to cover people who claim that a drone recorded or
+photographed them in a private place, gathered private information about them,
+or otherwise invaded their physical privacy.
+
+While the intrusion tort can give rise to liability for gathering information in
+a manner that invades someone's privacy, the publication of private facts tort
+provides a remedy when private information is disseminated. A person commits
+that tort by publishing or broadcasting private information about someone else
+if the disclosure of that information would be highly offensive to the
+reasonable person and the information is not a matter of legitimate public
+concern. This tort only protects information about which people have a
+reasonable expectation of privacy and is circumscribed by the First Amendment
+protection afforded to the publication of truthful information about matters of
+legitimate public concern. Accordingly, if a drone filmed a person engaged in a
+private activity, and then the film was subsequently published, that person
+might have a claim for publication or private facts, as long as the publication
+did not address a matter of legitimate public concern.
+
+A number of statutes also protect people from invasions of privacy, including
+invasions involving drones. For example, state wiretap statutes serve to
+restrict people from using drones to record audio. Under those laws, people who
+intentionally intercept audio communications when the speakers have a reasonable
+expectation of privacy could face civil and criminal liability. "Peeping Tom"
+and similar state statutes set out crimes when people film, photograph, or
+observe others in places or circumstances where they have reasonable
+expectations of privacy. Other criminal laws might apply as well. Over the past
+year, New York police arrested drone operators for reckless endangerment
+following incidents in which one operator lost control of his drone, another
+flew a drone over the U.S. Open, and yet another flew a drone to close to a
+police helicopter.
+
+Some states have unique laws designed to protect privacy that seemingly would
+cover alleged invasions by drones. The California legislature, for instance,
+recently amended its controversial anti-paparazzi law with an eye toward
+ensuring that it covers drones. The amended law would create a private cause of
+action for "constructive invasion of privacy," which is committed when someone
+"attempts to capture, in a manner that is offensive to a reasonable person," an
+image or recording of a person "engaging in a personal or familial activity
+under circumstances in which the plaintiff had a reasonable expectation of
+privacy, through the use of any device" if the image or recording "could not
+have been achieved without a trespass unless the device was used."
+
+Existing laws also provide remedies for any physical harm that might be caused
+by drones. If a drone crashes into a person, that person can pursue claims for
+battery or negligence. Likewise, if someone used a drone to follow another
+person or to place them in reasonable fear of physical injury, criminal stalking
+and harassment statutes could come in to play.
+
+Existing state law also protects people's interest against having drones flying
+over their property, most notably through the law of trespass and nuisance. At
+common law, property ownership "extended to the periphery of the universe." But,
+in 1946, the Supreme Court abrogated that common-law understanding in United
+States v. Causby.The Causby case involved a Fifth Amendment takings claim by a
+chicken farmer who lived near a runway used by military planes. In addressing
+that claim, the Court held that a landowner "must have exclusive control of the
+immediate reaches of the enveloping atmosphere" and that a taking occurs only
+when the government engages in activity that has a "direct and immediate
+interference with the enjoyment and use of the land."
+
+In the wake of Causby and with the proliferation of airplanes, state trespass
+long began to evolve. Now, the Restatement provides that "flight by an aircraft"
+constitutes a trespass if "it enters into the immediate reaches of the air space
+next to the land" and "interferes substantially with the [owner's] use and
+enjoyment of his land." While state laws vary on trespass through the air,
+Restatement commentary explains that "it is an actionable trespass . . . to fire
+projectiles or to fly an advertising kite or balloon through the air above
+[land], even though no harm is done to the land or to the possessor's enjoyment
+of it."
+
+The law of nuisance also serves as a potential check on drone operations. A
+person can assert a nuisance claim, and seek an injunction, by showing that
+someone has committed an intentional and unreasonable invasion that interferes
+with a property owner's enjoyment of his land. Courts have allowed nuisance
+claims in some instances when a property owner is regularly subjected to flying
+objects. For example, property owners have used the law of nuisance to seek
+redress and injunctions against golf balls regularly flying onto their property
+because an adjoining driving range has not fixed a broken net. Courts permit
+these claims because there is a continuing possibility that a ball could be hit
+onto the private property. This same theory could be applied to drone operators.
+
+* * * * *
+
+Drones are not flying into entirely lawless territory. Although the protections
+and remedies vary from state to state, there are a number of pre-existing laws
+that can help guide the integration of drones into domestic airspace. In our
+final piece, we will discuss why these existing laws may provide a sufficient
+framework for providing remedies for alleged wrongs, as potential uses of drones
+evolve, the technology develops, and the FAA eventually issues regulations.
+
+LOAD-DATE: September 25, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

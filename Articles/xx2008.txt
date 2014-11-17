@@ -1,0 +1,143 @@
+                             2008 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                            December 1, 2013 Sunday
+
+Disruptions: Calling From the Clouds
+
+BYLINE: NICK BILTON
+
+SECTION: TECHNOLOGY
+
+LENGTH: 946 words
+
+
+
+HIGHLIGHT: It may be difficult for passengers on flights to get what many want
+&#8212; access to cellular data &#8212; without getting what many don&#8217;t
+want &#8212; the occasional Chatty Cathy in 21B.
+
+
+You know there is trouble when Tony Robbins, the tirelessly upbeat Mr.
+Motivation, is sulking.
+
+But there he was taking to Twitter, lamenting the prospect of yet another
+torment in the hell of modern air travel: people talking on cellphones. The
+Federal Communications Commission is considering letting passengers use their
+phones while flying, and Mr. Robbins - and a lot of other people - are not
+happy.
+
+"Do we really need this!?" Mr. Robbins, the Oprah of motivational speaking,
+wrote in response to the news.
+
+Others were more blunt. My inbox was flooded with angry messages. "I already
+hate my fellow passengers - this would only make it worse," one reader wrote. A
+petition was created on the White House website to rally the quiet-cabin camp.
+
+The reaction was the opposite of the mostly celebratory, Twitter-tape parade
+that marched through social media last month when the Federal Aviation
+Administration finally relented and let passengers read on their devices, surf
+the web and check emails during takeoff and landing. For many, the takeaway
+seems to be this: Let the guy squeezed next to me read quietly on a Kindle? No
+problem. Let him drone away in my ear? No way.
+
+So why is the F.C.C. proposing something many people don't seem to want? The
+agency is, in fact, trying to give us what we want: access to data while flying.
+One byproduct, however, is that people would, or could, also be able to make
+calls. But it may be difficult for people to get what many want - access to
+cellular data on flights - without getting what many don't want - the occasional
+Chatty Cathy in 21B.
+
+It isn't a done deal. The F.C.C. has not issued a formal ruling, and commission
+officials declined to comment for this article. But an earlier statement from
+the F.C.C.'s chairman, Tom Wheeler, echoed the concerns that people like Mr.
+Robbins are voicing.
+
+"We understand that many passengers would prefer that voice calls not be made on
+airplanes. I feel that way myself," Mr. Wheeler said. "Ultimately, if the F.C.C.
+adopts the proposal in the coming months, it will be airlines' decisions, in
+consultation with their customers, as to whether to permit voice calls while
+airborne."
+
+The F.C.C. provided me with documents and filings that help explain how this
+issue has evolved. The rules about using cellphones on planes date to the early
+'90s, when phones were the size of milk cartons. Those devices, coupled with the
+weak electrical insulation in aircrafts, created crackly interference for
+pilots, so they were quickly banned. In 2007, the F.C.C. opened an internal
+review about whether to lift the rules, but safety concerns were still an issue,
+and the proposal was shelved.
+
+Now, as the F.A.A.'s revision of its rules on using devices during takeoff and
+landing illustrate, today's gadgets and planes are made for each other. In many
+respects, the F.C.C. is looking out for consumers, trying to give people the
+opportunity to connect to data on a cellphone rather than pay for costly - and
+often laboriously slow - Wi-Fi available on airplanes.
+
+As is often the case with technology, the United States is trailing other parts
+of the world on this issue. The European Union began enabling airlines to permit
+cellphone and data use in 2008. As will be the case in the United States if the
+rules change, the European Union left it to airlines to choose which components
+of a cell service to make active during flights.
+
+In Europe, Virgin Atlantic allows unlimited data connections, but it lets only
+six people talk on a cellphone at once. Some Lufthansa flights allow data
+connections through a cellphone, but no phone calls. Emirates lets an unlimited
+number of passengers talk on their phones - though few apparently do. How is it
+working so far? A study by the F.A.A. in 2012 found no reports "of air rage or
+flight attendant interference related to passengers using cellphones on
+aircraft" in other countries.
+
+The change here, if it comes, will not happen overnight. There's a long process
+to go through first.
+
+"Once the F.C.C. issues its opinion, it would be up to the F.A.A., the airlines,
+or both, to decide whether to roll out services," said Angela Giancarlo, a
+lawyer at Mayer Brown and a former F.C.C. official. Then, as in Europe, the
+airlines would be able to decide whether to allow data services, voice services,
+neither or both. Most important, pilots and stewards would have a "kill switch,"
+so if someone is talking too much, his or her phone could be shut off from the
+cockpit.
+
+"There is no quiet car at 30,000 feet," Senator Edward J. Markey, a
+Massachusetts Democrat and member of the Senate Commerce, Science and
+Transportation Committee, wrote in an email. "Staying connected and entertained
+by checking email and playing a game on your phone is one thing, but loud,
+intrusive phone calls would strain the social compact we all enter into when we
+board a plane."
+
+So what happens next? On Dec. 12, the F.C.C. proposal will be presented to its
+commissioners. If approved, it will then be put online for a public comment.
+That's when everyone - airlines and passengers alike - can voice their opinions.
+
+But, travelers, think carefully. Say no to cellphone use, and you lose that data
+connection on your iPad and smartphone at 30,000 feet. And that is what many of
+you been asking for all along. You might have to sit next to Chatty Cathy. But
+at least you will be able to tweet about it.
+
+Email: bilton@nytimes.com
+
+
+     ·    The F.C.C. Puts Onus on Airlines for In-Flight Calls
+     ·    Answers to Readers' Questions About Electronics on Planes
+     ·    T-Mobile to Pay $308 Million for More Spectrum
+     ·    It's Called 'Airplane Mode' for a Reason
+     ·    Disruptions: How the F.A.A., Finally, Caught Up to an Always-On
+          Society
+
+
+LOAD-DATE: December 1, 2013
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2013 The News York Times Company
+                              All Rights Reserved
+
+

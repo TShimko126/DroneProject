@@ -1,0 +1,98 @@
+                             2325 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                      August 7, 2014 Thursday 12:06 PM EST
+
+New RoboBees show that the future of robotics is very, very small
+
+BYLINE: Dominic Basulto
+
+LENGTH: 770 words
+
+
+Earlier this summer, President Obama worried about the disappearing honeybee
+population and what it means for the nation's food supplies. In a presidential
+memorandum, he announced plans for the creation of a "Pollinator Health Task
+Force" to help save the honeybee. According to Obama, this was a $15 billion
+problem in search of an immediate answer.
+
+Well, not to worry, amazing robotic bees the size of pennies might one day
+pollinate crops, ending all concerns about Colony Collapse Disorder within the
+next 15-20 years. At Harvard, researchers led by Robert Wood are developing
+RoboBees - a completely mechanical flying device loaded up with sensors and
+batteries that would fly from flower to flower, picking up and then depositing
+pollen the way a real honeybee would. Once it's proven that these RoboBees can
+maneuver and carry their pollen payloads for long distances, you could
+theoretically replace a colony of honeybees with a swarm of robotic bees.
+
+While it may be too early now to start talking about these RoboBees as the
+solution to Colony Collapse Disorder, it's exciting to consider how much we can
+learn from nature to reverse-engineer tiny robots that look and function like
+their real-world counterparts. In a National Geographic video, for example,
+Harvard's Robert Wood showcased examples of robotic flies, robotic millipedes
+that crawl over toys and robotic cockroaches that scurry across the floor.
+
+What's making all this possible is a lot of technological innovation that
+borrows from many other fields of cutting-edge research. Smart sensors are
+needed to detect the flowers, the same way a bee's antennae and eyes would.
+Wireless communication devices are needed for the colony of bees to communicate
+with each other in the field. Small, extremely portable power sources are needed
+to power these bees for long periods of time. And highly advanced engineering
+techniques are needed to stabilize these bees in mid-flight.
+
+There are plenty of uses for these small, bio-inspired robots that go beyond
+crop pollination. When deployed as part of a robotic swarm, these tiny robots
+might be used as part of search and rescue missions in the aftermath of a
+disaster such as an earthquake or hurricane. They could be used to explore
+dangerous natural environments where humans can't go, or used as part of
+high-resolution weather and climate mapping initiatives. They could be used to
+monitor traffic patterns from a distance or to report back on oil pipelines that
+have been deployed through uninhabited zones.
+
+Of course, there's a downside to tiny robots being deployed all over the globe.
+Consider, for example, how they might be deployed in warfare. The U.S.
+Department of Defense has already started to investigate the prospect of sending
+tiny buzzing fleets of "robo bugs" - including dragonflies and spiders - to spy
+on the enemy. These micro aerial vehicles would function much like unmanned
+drones today - but would be virtually undetectable.
+
+Privacy, too, would be a huge concern. Inevitably, people will begin using these
+micro-robots to spy on celebrities (or their next-door neighbors). Can't get
+close enough with a telescopic lens? Just send a robot the size of a fly to
+become a literal "fly on the wall."
+
+If you think about it, innovations such as the RoboBee are actually a mental
+breakthrough as much as a technological breakthrough. Ever since Karel Capek's
+R.U.R. (Rossum's Universal Robots) - generally credited with giving the world
+the word "robot" in the 1920s - we've been used to thinking about future robots
+as being vaguely the same size and shape as humans, or as hulking, unthinking
+items on the assembly lines of factories. We are only beginning to realize that
+thousands of very tiny robots the size of a penny might accomplish more than a
+few androids amongst us. All of nature - not just humans - could one day have
+their robotic counterparts. That's a staggering idea.
+
+So where do we go from here? Some have suggested that the future of robotics is
+robots building other robots, with each new iteration of robots getting smaller
+and smaller, until we reach the scale of nanobots doing amazingly sophisticated
+tasks. That in itself is a pretty exciting technological concept, but it comes
+laden with all kinds of warnings about what these robots mean for concerns like
+privacy and ethics. At some point in the near future, it seems like we will need
+to take something like Isaac Asimov's rules for robots written nearly 70 years
+ago and codify them in a way that's relevant and timely for a complex
+technological society in which the robots just keep getting smaller and smaller.
+
+LOAD-DATE: August 7, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

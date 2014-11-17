@@ -1,0 +1,151 @@
+                             2062 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                             March 28, 2014 Friday
+
+The Tech Bubble's Silver Lining: Cheap Services for Everyone
+
+SECTION: TECHNOLOGY
+
+LENGTH: 1199 words
+
+
+
+HIGHLIGHT: Box&#8217;s documents filed for its initial public offering show that
+the cloud-storage firm is losing a lot of money. There&#8217;s another way to
+say this: It&#8217;s giving customers lots of services for free. And it&#8217;s
+not alone.
+
+
+ Box is losing money. A lot of money. In documents it filed for its initial
+public offering, the cloud-storage firm disclosed this week that it took in $124
+million in 2013, but spent $257 million.
+
+Its losses have grown substantially over the last two years because the vast
+majority of its 25 million users don't pay anything for the company's services.
+Box has hired an army of sales and marketing people in an effort to convert some
+of its free users into paying customers. Still, the company says it does not
+expect to turn a profit "for the foreseeable future."
+
+There are two ways to think about Box's finances. You could argue, as many have,
+that the losses are proof we're in an incipient tech bubble. Box's I.P.O. is one
+of the most anticipated tech offerings of the year; it is widely seen as a
+precursor to a raft of offerings by other start-ups selling cloud services,
+including  Dropbox. But if investors go gaga over a company that's losing
+hundreds of millions of dollars a year, doesn't it prove we're back to where we
+were in the late 1990s, with soaring valuations for companies that don't have a
+solid business future?
+
+Perhaps. But there's another, happier way to think about Box's numbers: Whether
+or not Box's business pans out, isn't it amazing that investors are financing a
+company that is giving away 25 million cloud-storage accounts for free?
+
+Box isn't alone in its apparent generosity. Thanks to the high hopes and deep
+pockets of tech investors, a host of high-profile tech firms are now offering
+incredible business and consumer services at impossibly low prices. The trend is
+playing out across a range of industries, including business I.T. services,
+communications, media, payments, local delivery and e-commerce. And because
+these start-ups are exerting pricing pressure on established market players,
+even customers who don't use their services might benefit from their rise.
+
+This is the silver lining of a tech bubble. If investors and acquirers keep
+throwing money into tech - at companies from Box to Dropbox to Square to Uber to
+WhatsApp to Postmates and more - we'll get more great products at low prices. We
+might even get services completely for free, even if it imperils the companies
+offering them. So as long as you don't make the mistake of investing in dubious
+tech dreams, you may be able to ride out the bubble to some pretty great swag.
+
+Why are these companies setting their prices so low? They aren't stupid, nor are
+they altruistic; they all want to make money someday. But many start-ups are in
+new kinds of businesses in which growth is considered more important than
+profit, at least in the short run. Box offers a telling example. The company
+believes it can be an important player in a cloud-services industry that will
+eventually be worth tens of billions of dollars. If that's the case, then
+grabbing as much of the market as possible now, before other players do, makes
+sense - even if doing so comes at a steep cost for the next few years.
+
+Box may or may not be right about this plan. But it doesn't have much choice
+about keeping its prices low, because every other player in the cloud-storage
+business is acting on the same profits-be-damned calculus. Dropbox, like Box,
+has also been raising money at a rapid clip to finance a wild expansion.
+Meanwhile, huge rivals like Google and Microsoft are also pushing into the
+market with eye-popping prices. Google recently slashed the price of its online
+storage to $9.99 per month for 1 terabyte of space, from $49.99 a month. The end
+result for consumers and businesses: Thanks to all these firms clawing for a
+foothold in a future megabusiness, we can all get boatloads of online storage
+for very little money.
+
+The price declines in cloud storage might look like a special case, because the
+underlying infrastructure in that business - data capacity on servers - is
+always getting cheaper. But we see similar price trends in other businesses
+being attacked by start-ups.
+
+Look at communications services. As I wrote last month, Internet-based texting
+apps like WhatsApp have saved customers billions of dollars by providing a much
+cheaper alternative to carriers' exorbitant texting plans. WhatsApp's rise
+forced carriers to slash their S.M.S. fees. Now Facebook's acquisition of the
+firm is cementing those price cuts. Facebook has said it doesn't expect WhatsApp
+to make money until it has billions of users. That gives the company several
+years to figure out a business plan - several years in which users can expect to
+get nearly free texts, thanks to Facebook's largesse.
+
+Then there's local delivery. In New York and San Francisco, there are many new
+firms looking to deliver food and other items at extremely low cost. I've become
+a fan of Google's Shopping Express same-day shopping service, which sends
+Googlers to local retailers to pick up items for you, at no charge. The service
+is so convenient I often order single items when I don't have time to go out.
+There's no way Google made a profit on my $3 baby shampoo order, or my $2.50
+order of Hershey's chocolate syrup. But as long as Google has money to burn, and
+as long as it sees local delivery as an important business that it has to defend
+against the likes of Uber, Postmates, Instacart and Amazon - well, as long as
+all that, Google is going to be o.k. losing a bit on my chocolate syrup order.
+
+And that gets us to the granddaddy of profitless consumer friendliness, Amazon.
+For years, the e-commerce giant has made tiny profits, yet investors, expecting
+a future bonanza, constantly drive up the company's stock price. This is a
+fantastic state of affairs for consumers. Freed from the pressures of profits,
+Amazon is able to spend billions of dollars every year building huge warehouses
+that can ship us all our stuff in a couple days' time. It is sending armies of
+trucks into urban areas to deliver groceries. It's working on drones to ship you
+batteries. As Matthew Yglesias once wrote at Slate, "Amazon, as best I can tell,
+is a charitable organization being run by elements of the investment community
+for the benefit of consumers."
+
+Sure, there are hidden costs to all this spending in search of future growth.
+The bubble is fueling dislocation and yawning inequality across the San
+Francisco Bay Area. My no-cost Google orders are probably environmentally
+taxing, though no more so than if I'd run to the store for my chocolate syrup.
+And because lots of these start-ups are going to fail, you may be sorry if you
+choose the wrong one. You could lose your data, or your privacy, if your wrong
+choice tries to sell your data.
+
+These are all legitimate worries about the bubble. But it's worth keeping in
+mind that not all effects of the bubble are terrible. To the extent that tech
+companies are forgoing profits, it means they're doing other valuable things
+with their money - including offering cheaper services, investing in future
+innovations or hiring lots of people. Or all three.
+
+
+     ·    Google's Bigger, Cheaper Cloud
+     ·    Did Big Internet Companies Handicap Start-Ups in FISA Rule Changes?
+     ·    Cloud Computing's Watershed Week
+     ·    Tech Companies Offer Update on Government Data Requests
+     ·    Daily Report: U.S. Eases Some Rules on Data Disclosure
+
+
+LOAD-DATE: March 30, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

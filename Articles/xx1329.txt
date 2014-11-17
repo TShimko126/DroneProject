@@ -1,0 +1,174 @@
+                             1329 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             June 17, 2014 Tuesday
+                              Late Edition - Final
+
+A Helicopter of One's Own
+
+BYLINE: By DANNY HAKIM
+
+SECTION: Section D; Column 0; Science Desk; Pg. 2
+
+LENGTH: 1186 words
+
+
+LIVERPOOL, England -- You know what would be cool?
+
+If we had our own personal mini-helicopters that were almost as easy to fly as
+cars are to drive, and we could take off from our backyards, soar over the
+traffic and peer down at the earthbound masses, trudging along below.
+
+That would be cool.
+
+As it turns out, the European Union is making plans for that very thing. Six
+research institutions across Europe are studying the feasibility of small
+commuter helicopters, helped along by a $4.7 million grant from the European
+government in a project dubbed ''MyCopter.''
+
+The initial project is almost complete, and a second phase is being considered.
+Scientists and engineers at the Max Planck Institute for Biological Cybernetics
+in Tübingen, Germany, and here, at the University of Liverpool's engineering
+school, are among those leading the research.
+
+At a high-ceilinged laboratory at the university's Center for Engineering
+Dynamics in downtown Liverpool, I recently strapped in for a test flight in an
+orb-shaped flight simulator. The university has long expertise in flight
+simulation, including a project that aims to develop flying buses that don't
+need a runway.
+
+For MyCopter, researchers here are trying to figure out how to make personal
+helicopters easy to fly for ordinary people. They started by collaborating with
+former military test pilots, and have moved on to testing their flight systems
+with people who have no flying experience.
+
+People like me, that is. As I took my seat, a large video screen wrapped around
+past my peripheral vision on each side. The sky was blue, the grass was green.
+There was a throttle between my legs that controlled my speed and turns, and a
+lever to my left to control my altitude; these are similar to normal helicopter
+controls, though a variety of control types are being studied.
+
+I don't know how to fly and I'm not even a very enthusiastic driver, but I took
+off easily enough from what looked like a field surrounded by six houses in the
+English countryside. Then I followed a virtual aerial highway stretching out
+before me by flying through a series of purple squares spread across the
+simulated skyline.
+
+For a nonpilot, the biggest challenge was remembering not to confuse the
+throttle with the altitude lever. That was easy enough while we were cruising.
+
+After a few minutes of chugging along the airway, I could see the Mersey River
+was on my left, downtown Liverpool on the right, and its famous docks up ahead.
+
+''Where is John Lennon's house?'' I asked Mark D. White, the flight simulation
+laboratory manager, who was sitting next to me.
+
+He pointed to the far right. ''By that green field over there,'' he told me.
+''It's on that road.''
+
+Over the piped-in roar of the helicopter engine, Dr. White added, ''We can do a
+whole Beatles tour!'' That sounded good until I veered off the skyway while
+rubbernecking for a glimpse of Penny Lane.
+
+MyCopter was proposed in response to a 2007 European Union report called ''Out
+of the Box: Ideas About the Future of Air Transport,'' which solicited ideas
+from researchers on radical changes to Europe's existing transportation system,
+including ideas for a ''personal air vehicle.''
+
+''You have so many man-hours lost sitting in traffic jams, and you have a lot of
+space above us,'' Dr. White said. ''Could you utilize that dimension to offload
+the road usage that we've got? Can you travel from your home to your city-center
+work location without getting stopped in traffic jams?''
+
+MyCopter is not about designing such a vehicle, but figuring out how it might
+work. Part of the challenge would be creating a way for masses of airborne cars
+to fly under airplanes, not to crash into one another, and not to require
+thousands of new air traffic controllers or physical infrastructure.
+
+The project was the brainchild of Heinrich H. Bülthoff, director of perception,
+cognition and action at the Max Planck Institute.
+
+''There's a longstanding dream of flying cars, and there have been many
+proposals and attempts over the years, but there are still a lot of problems to
+solve before one can actually build such a flying car and get it to work,'' Dr.
+Bülthoff said in a phone interview.
+
+Right now, the six institutions are dividing the research tasks. In addition to
+the University of Liverpool, researchers at the Swiss Federal Institute of
+Technology in Zurich are working on ways to automate the operation of the
+helicopters by conducting testing on drones.
+
+At the Max Planck Institute, they are studying driver feedback technologies that
+are already showing up in cars, like vibrating steering wheels and warnings when
+you drift out of a lane that could be used to help pilots stay in their proper
+flight path. They are also looking at how to display highways that armies of
+airborne commuters could follow.
+
+At the Swiss Federal Institute of Technology in Lausanne, researchers are
+studying how to avoid collisions. Among other things, they are looking at how
+birds fly in dense flocks.
+
+At the Institute for Technology Assessment and Systems Analysis in Karlsruhe,
+Germany, the researchers are surveying Europeans about what they might think
+about flying cars, to see how they would be accepted.
+
+Surveys in Zurich, for example, found that ''people liked the idea of going to
+work and avoiding the morning and evening traffic jams, but they didn't want
+these flying cars all day,'' Dr. Bülthoff said. ''They wanted to be able to sit
+on their balconies and enjoy the view and not have to see a swarm of cars.''
+
+Finally, at the German Aerospace Center in Braunschweig, researchers will come
+together and try out the technologies developed at the various institutions in a
+real test helicopter.
+
+Cutting to the chase here: When will cars fly?
+
+The next phase of MyCopter, which officially ends this year, would be to
+collaborate with private companies on potential designs, but funding has not yet
+been approved.
+
+Some small companies are already developing flying cars, like Pal-V of the
+Netherlands, which aims to bring a small car that can turn into a helicopter
+onto the market by 2016, priced at around $300,000.
+
+Mike Stekelenburg, chief operating officer of Pal-V, said the biggest long-term
+problem for mass-marketing such vehicles will not be piloting, but environmental
+issues.
+
+''Automatic pilots have already been out there for a long time, and they are
+already experimenting with the electronics to let cars drive by themselves,'' he
+said. ''The bigger challenge is getting away from the fossil fuels. You need
+something renewable that will not increase carbon dioxide emissions.''
+
+Dr. Bülthoff said he believed small, light helicopters could be competitive
+because they would avoid sitting in traffic and travel more directly, though
+environmental groups might take some convincing.
+
+As for my own test flight, it went great. Landing isn't a big deal, is it?
+Toward the end, I confused my hand on the throttle with the hand on the altitude
+lever, and seemed to go into some kind of stall. Bells started ringing, and Dr.
+White had to step in and momentarily take control. Suddenly, I felt 16 all over
+again.
+
+Next time, I'll take the one with autopilot.
+
+URL: http://www.nytimes.com/2014/06/17/science/a-helicopter-of-ones-own.html
+
+LOAD-DATE: June 17, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Mark D. White, the laboratory  manager, in the flight simulator
+at the University of Liverpool.  Researchers are working on  making a personal
+helicopter  easy to fly for ordinary people,  part of the MyCopter project
+funded by the European Union. (PHOTOGRAPH BY ANDREW TESTA FOR THE NEW YORK
+TIMES)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

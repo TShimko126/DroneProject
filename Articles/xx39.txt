@@ -1,0 +1,81 @@
+                              39 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     September 22, 2014 Monday 5:14 PM EST
+
+The possible perils of private drones
+
+BYLINE: Michael Berry;Nabiha Syed (guest-blogging)
+
+LENGTH: 559 words
+
+
+While the advantages of drones are numerous, as we mentioned earlier Monday,
+they are not without risks.
+
+At the top of the list is safety. Drones can cause serious injuries if not
+operated properly. Last year, a Brooklyn man was killed when his own drone hit
+him in the head. Other incidents have been close calls, including a drone in
+Manhattan falling hundreds of feet and landing at the feet of pedestrians on the
+sidewalk below, and a wedding photographer's drone accidentally flying into a
+groom who was posing for romantic images with his bride-to-be. Recently, we have
+seen news reports of drones flying too close to airports and in the paths of
+helicopters. And, it's not hard to imagine the safety concerns that arise from
+many drones flying through the sky - something like a three-dimensional highway
+system with no roads, no traffic lights, and no drivers in the cars. Those same
+concerns might have implications for safety on the ground: just think of drones
+flocking to catch a glimpse of medical emergencies, forest fires, or a
+presidential motorcade.
+
+The security of drones themselves is an important safety issue. Drones are
+vulnerable to hijacking through tactics like GPS spoofing. It is conceivable
+that drones could be hacked or stolen, compromising any data they have
+collected.
+
+Drones also implicate questions of private property rights, as others at the
+Volokh Conspiracy have explored in the past. Drones raise issues about property
+rights in airspace that rarely come up for most landowners. These issues have
+the potential to inflame passions and raise a host of additional questions.
+Indeed, some individuals have expressed the desire to defend themselves and
+their property against drones flying overhead.
+
+Any review of potential drone risks is not complete without mentioning privacy.
+Privacy concerns have dominated the discussion about domestic drone use.
+Camera-equipped drones have elicited the most concern: Sen. Dianne Feinstein
+claimed that a drone was flown outside the window of her house during a protest,
+and Supreme Court Justice Sonia Sotomayor recently spoke about the privacy
+concerns drones raise. Government officials are not the only ones who have
+expressed privacy concerns. Indeed, a woman reportedly assaulted a teenager
+flying a drone above a beach. The possibility of sensors attached to drones -
+such as infrared sensors - also raise privacy concerns.
+
+Some of these risks and concerns may eventually be mitigated by technological
+solutions like airborne sense-and-avoid technology (which would help drones
+avoid collisions), return-to-base functionality (which would automatically send
+a drone back to its starting point if it loses contact with its operator),
+systems that would slow a drone's fall to the ground in case of damage or low
+battery, and technology that can alert someone if a drone is hovering nearby.
+
+Nevertheless, each of these risks and concerns - safety, security, property, and
+privacy - have sparked calls for legislation and regulation. Federal regulators,
+members of Congress, and state lawmakers have heard these calls and have set
+their sights on addressing each concern. In our next post, we'll begin to
+explore the legal landscape governing drone use, first discussing the
+philosophical approaches to drone regulation and then turning our attention to
+where the law stands today.
+
+LOAD-DATE: September 22, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

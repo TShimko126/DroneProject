@@ -1,0 +1,158 @@
+                              25 of 2956 DOCUMENTS
+
+
+
+                               Washingtonpost.com
+
+                       March 25, 2014 Tuesday 2:27 AM EST
+
+Unmanned future: Drones to clean your gutter, tend to crops and take aerial
+selfies?
+
+BYLINE: Dan Zak
+
+SECTION: Style; Pg. C01
+
+LENGTH: 1229 words
+
+
+The drone settles back on the cracked asphalt after a brief ascent into the
+lower reaches of the suburban troposphere. ¶ "Yeah, it flies," says Christopher
+Vo, director of education for the D.C. Area Drone User Group. His thumbs release
+the remote-control levers that animate the three-pound vehicle, which is the
+size of a large pizza. ¶ "I want to give it a try," says the quadcopter's
+creator, Herndon resident Karl Arnold, a telecom sales engineer who got into
+drone building as a hobby. "Just get it up a few feet." ¶ "Right now?" Vo says,
+a bit incredulous. "Have you flown in the simulator?" ¶ "For two minutes." ¶ Vo
+hesitates, then hands over the controls. "All right, everyone, step back," he
+says. ¶ "My car is right there," says Frank Bi, a digital news developer for
+"PBS NewsHour," as he backs up toward a large trash bin.¶ "Mine, too," Vo says,
+looking at Arnold and then at the contraption. "It's yourdrone."
+
+¶ It is indeed his drone, which Arnold built in about nine hours over a couple
+of weeks, with help from fellow drone enthusiasts. They're a niche group, for
+now, living in the world they think we will all be inhabiting before too long:
+using drones for fun and convenience, like any other toy or gadget, and for the
+betterment of society.
+
+We're living in drone-y times. Reports surfaced this month that Facebook is
+considering purchasing a drone production company. In December, Jeffrey P.
+Bezos, who founded Amazon and owns The Washington Post, made headlines by
+suggesting that Amazon could deliver orders by drone within five years. Three
+weeks later, the Federal Aviation Administration announced a multiyear process
+to study and test the application of unmanned aerial vehicles in the various
+climates and geographies of the United States.
+
+At the drone user group gathering, Arnold activates the four propellers, which
+make a sound like an electric weed cutter or a mutant wasp. He nudges a lever on
+the remote control, and the drone hiccups upward an inch, tilts back and skids
+on the ground. "Okay, maybe I'll wait," Arnold says, humbled by the sensitivity
+and latent power of his creation.
+
+"Have fun," Vo says, heading back inside Nova Labs, a nonprofit "makerspace"
+hidden in a Reston office-park labyrinth. "Don't break it. Don't break other
+things with it."
+
+Outside the labs, at least one car bears a bumper sticker that says, "My Other
+Vehicle Is Unmanned." Inside the labs Sunday, the drone group's all-day building
+workshop is underway. Thirty people crowd two small rooms with folding tables
+and every tool imaginable. They talk with great energy about the unmanned aerial
+vehicles in front of them, which are in various stages of assembly. There is
+buzzing and beeping and the odor of soldered wiring. Men walk in with plastic
+tubs of parts as if they're meeting up in a friend's garage to break things and
+make their mothers nervous.
+
+Speaking of which, Leslie Shampaine arrives shortly after the 10 a.m. start to
+drop off her 15-year-old son, Brahm Soltes, who is building a drone for a class
+project at Bethesda-Chevy Chase High School. She found the group online and
+connected Brahm in order to make sure the drone parts - which average about $500
+for a basic model - were actually put to use.
+
+"I didn't want them to be sitting around the house," she says before leaving.
+(She'll be one of just two women - both mothers passing through - who will enter
+the space Sunday.)
+
+Hovering nearby the high school sophomore is Ken White, here for higher-altitude
+reasons than a class project. White is an enterprise architect for the
+Department of Homeland Security.
+
+"I'm on a mission, but it's low," he says, referring to the priority of his
+attendance, which is his way of absorbing the mechanics of civilian drone work
+so that he can integrate it into his own. "My belief is you have to walk the
+walk and build a skill set."
+
+The D.C. Area Drone User Group is the largest of its kind, with about 1,000
+members, and the monthly workshop is an open forum for experts and rookies to
+learn, build and share best practices. Other group events include regular
+"fly-ins," where users congregate on open terrain to launch their drones, and
+occasional competitions such as a search-and-rescue challenge scheduled for May,
+when organizers will stage a missing-person scenario and drone users will hunt
+for photographic aerial evidence.
+
+The people gathered at Nova Labs are hobbyists who get a kick out of extending
+their reach to the sky as well as businessmen who see a golden opportunity to
+robotically monitor agriculture or deliver products. Think of the drone
+possibilities for wedding photography and videography, they say, although the
+average news consumer might picture drones delivering Hellfire missiles into
+foreign wedding convoys, as was the case in December in Yemen, where a U.S.
+strike by an unmanned aerial vehicle killed more than a dozen revelers.
+
+"You hear the word 'drone,' and everybody has that military connotation," says
+Ken Druce, an avionics systems engineer from Leonardtown, Md., who makes the
+drive to Nova Labs several times a week. "There's no delineation between the
+light quadcopters here and the 100-pound drones" made by private contractors for
+military surveillance and offense. "The applications are different."
+
+Suffice it to say that none of the devices (or people) here at Nova Labs look
+threatening, although users are aware of the public's concern about privacy and
+safety as well as the FAA's attempts to regulate the use of personal drones.
+Drone technology still has some maturing to do, and its relationship to
+telecommunications and aviation needs to be streamlined and solidified, says
+telecom executive Peter Lewis, who dropped into the Sunday workshop as a
+self-described drone novice interested in commercializing the technology.
+
+"Is a drone going to drop on people's heads on K Street during rush hour?" Lewis
+says, a notepad in hand as he meanders between work spaces. "Is it going to
+disrupt a symphony at Wolf Trap or buzz a funeral at Arlington Cemetery? That's
+what's going to give this thing a black eye, unless we all figure out these
+rules of flying."
+
+The D.C. Area Drone User Group hopes to help figure out the rules, and it will
+continue to bring the curious into its fold and fantasize about using civilian
+drone fleets for everything from crop dusting to crisis mapping.
+
+"I think probably one in five people will have their own drone" eventually, says
+the group's president, Timothy Reuter, who is leaving his government job next
+month to focus on his drone start-up company. "It's going to be a great
+accessory for people who want to have a system to automatically check their
+gutters or to document their lives. I can see people doing aerial selfies. It's
+an extension of that same philosophy: Let's see the world and document your
+adventures from a new perspective."
+
+The collaborative energy in Nova Labs among teenagers, PhD students, federal
+technicians and robotics junkies feels like a preview of communal tinkering on a
+much larger scale. Imagine, for a moment, a world in which we have ceased
+staring down at our smartphones and started looking up all the time at that
+buzzing airborne extension of ourselves.
+
+"Did you get up flying?" Druce asks Arnold as he leaves with his quadcopter.
+"You've stabilized?"
+
+"Yeah," Arnold says.
+
+"Good. I'll see you after your next crash."
+
+dan.zak@washpost.com
+
+LOAD-DATE: March 25, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Publication
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

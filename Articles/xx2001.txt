@@ -1,0 +1,204 @@
+                             2001 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                (After Deadline)
+
+                           November 19, 2013 Tuesday
+
+International Style
+
+BYLINE: PHILIP B. CORBETT
+
+SECTION: TIMESTOPICS
+
+LENGTH: 1264 words
+
+
+
+HIGHLIGHT: By coincidence, the timing of our stylebook revisions dovetailed with
+the rebranding of our global editions as The International New York Times. As
+part of that integration, our colleagues in Paris, London and Hong Kong have
+made a Herculean effort to adopt our stylebook and largely eliminate the
+variations and exceptions The Herald Tribune had maintained.
+
+
+This week, a few more highlights from the recent revisions in The Times's
+stylebook.
+
+With the integration of our global editions as The International New York Times,
+it's important for writers and editors in New York and elsewhere to be mindful
+of our growing global audience. This doesn't mean we are trying to homogenize
+our writing or disguise its origins. But in stories of international interest,
+writers might think twice about American-centric expressions - for example,
+sports metaphors like "the length of three football fields" or "a slam-dunk."
+More broadly, we should consider whether international examples or voices might
+broaden the appeal of a particular story. The Times's audience includes plenty
+of educated readers in Tokyo, Brussels and Rio, not just in New York or Houston.
+
+With that in mind, we added this stylebook entry on currencies, allowing wider
+use of currency symbols when appropriate:
+
+currencies. Amounts in American dollars should use the dollar symbol: $20
+billion; $10. For euros, yen and British pounds, spell out the names on first
+reference in an article: 100 billion euros. If there are additional references
+to amounts, the appropriate symbol may be used as long as the reference is
+clear: (EURO)20 billion; ¥100 million; £10,000. Also provide a dollar equivalent
+at least once, at the latest exchange rate. When a foreign sum is given in round
+numbers, round the conversion as well, especially if the details are immaterial.
+Do not use symbols for any other currencies; spell out the names, including for
+foreign dollars: 100 Canadian dollars.
+
+We are encouraging more Celsius conversions for stories of interest
+internationally:
+
+temperatures. Fahrenheit readings are the norm for casual or passing references,
+and in weather stories aimed largely at American readers. But if a story
+referring to temperatures is likely to be of interest to international readers,
+provide a Celsius equivalent at least once. Examples might include news of a
+European heat wave or reports on climate change and other scientific topics. Use
+an online conversion tool to avoid arithmetic errors, but do not give a
+converted figure that is more precise than the original: For 75 degrees
+Fahrenheit, the equivalent is 24 degrees Celsius, not 23.89 degrees Celsius.
+
+We should also consider including metric equivalents for measurements in stories
+likely to attract a large international audience. In our reports about the
+typhoon in the Philippines, for instance, we had many references to wind speeds
+of 140 or 190 miles an hour; Asian readers would no doubt have welcomed a metric
+reference, too.
+
+
+ What Things Are Worth
+
+We added this new entry about adjusting for inflation, particularly when
+reporting on "record" sums:
+
+inflation. Adjusting for inflation is crucial in providing accurate comparisons
+for dollar figures across time; failing to do so can be seriously misleading. In
+particular, avoid describing a sum of money as a record or the largest ever
+unless the superlative is true after inflation is taken into account. So, for
+example, a baseball player's new contract should not be described as the largest
+ever unless that is true after adjusting for inflation. Other common examples
+include government budget figures, box-office totals, legal settlements and
+merger deals.
+
+When appropriate, use a less sweeping description like one of the largest ever
+or the largest in two decades.
+
+This is not statistical quibbling. It is simply not accurate to say that $1,000
+in 2013 dollars is worth more than, for example, $900 in 1960 dollars; the
+opposite is true ($1,000 in 2013 is equivalent to about $127 in 1960 dollars).
+The Bureau of Labor Statistics' online inflation calculator provides easy
+comparisons.
+
+This entry is part of a larger effort to improve the way we deal with numbers,
+both in financial stories and in other contexts. More recommendations will
+follow.
+
+
+ In a Word
+
+This week's grab bag of grammar, style and other missteps, compiled with help
+from colleagues and readers.
+
+Critics of the Benghazi report have accused Ms. Logan and her producers of
+having a conservative bias; as evidence, some have pointed to an Oct. 2012
+speech by Ms. Logan that called in passionate terms for American revenge after
+the Benghazi attack.
+
+Abbreviate the month only when it is followed by the date; otherwise, spell out:
+"October 2012."
+
+Studies have suggested that, on average, twins fair less well when the pregnancy
+is allowed to continue to full term.
+
+Fare, not fair, of course.
+
+But there are reportedly about 300 players in the academy in a given year, and
+less than 10 percent typically make the first team.
+
+Referring to a number of players (rather than an amount), make it "fewer than."
+
+The runoff was the first of what is likely to be many battles to come over the
+direction of the party, and it proved, to the relief of many in the Republican
+leadership, that a strong showing by the establishment can win tough races.
+
+"What" refers to "many battles," so it needs a plural verb. Also, delete "to
+come," since the many battles include the one just past as well as those in the
+future.
+
+James W. Giddens, the trustee unwinding MF Global's brokerage unit, recovered
+large swathes of the money and gradually disbursed it to clients.
+
+The preferred spelling is "swath." In any case, the word, which means a strip,
+seems odd in this context.
+
+As a Jew living in occupied Paris during World War II, her life was
+circumscribed: There was a yellow Star of David sewn onto her clothes, cinemas
+and parks were off limits, and she had to submit to an 8 p.m. curfew.
+
+A dangler; the phrase "as a Jew" describes her, not "her life." Rephrase.
+
+Not too long after his first recordings, made at 16 with a doo-wop band in
+Freeport, N.Y., Mr. Reed started singing outside of the song's melody, as if he
+were giving a speech with a fluctuating drone in a New York accent.
+
+Avoid such double prepositions; there's no need for "of" here.
+
+New York City has violated the rights of about 900,000 of its residents with
+disabilities by failing to accommodate for their needs during emergencies, a
+federal judge ruled on Thursday.
+
+"Accommodate" is a transitive verb that takes a direct object; there's no need
+for "for" here.
+
+Her genesis began more mundanely, in a conversation between Sana Amanat and
+Steve Wacker, two editors at Marvel. "I was telling him some crazy anecdote
+about my childhood, growing up as a Muslim-American," Ms. Amanat said.
+
+No hyphen with a religious description like this. From the stylebook:
+
+(-)American. Hyphenate Italian-American, Japanese-American, Irish-American,
+Polish-American, Asian-American and similar phrases denoting foreign heritage.
+Though some idioms (like Korean grocery and Irish Catholic) seem entrenched in
+the language, many members of such groups demand the addition of -American to
+acknowledge their full membership in this society. Usage does not call for the
+hyphen in religious references like Jewish American or in French Canadian,
+English Canadian or Latin American.
+
+Did the she have pancreatitis? It didn't really fit. And the CT scan was even
+more concerning.
+
+"Concerning" means "relating to." It shouldn't be used to mean "worrisome" or "a
+cause for concern."
+
+[Subheading] The Ownership of Chagalls, Matisses and Other Works Lost During
+World War II Are in Question
+
+The ownership "is" in question, not are.
+
+[Headline] Knicks' Chandler Out With Nondisplaced Fracture
+
+This sort of medical jargon seems out of place in a headline.
+
+
+     ·    More Style Choices
+     ·    New Warnings for Old Problems
+     ·    The Latest Style
+     ·    Red Pencils Ready?
+     ·    More Ugly Disagreements
+
+
+LOAD-DATE: November 19, 2013
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2013 The News York Times Company
+                              All Rights Reserved
+
+

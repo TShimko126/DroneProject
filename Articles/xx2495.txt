@@ -1,0 +1,134 @@
+                             2495 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     October 16, 2014 Thursday 12:08 PM EST
+
+Four innovation buzzwords you need to know
+
+BYLINE: Dominic Basulto
+
+LENGTH: 1067 words
+
+
+Sometimes it seems like the only thing that matches the relentless pace of
+innovation in the technology sector is the relentless change in the language
+used to describe this innovation. While some of the new words that appear - such
+as "phablet" or "The Snappening" - are clearly either marketing lingo or just
+plain attempts to troll the Internet - there are other buzzwords that hint at
+deeper changes taking place within the cultural zeitgeist - changes in the way
+we think about what technology can do for us as a society.
+
+With that in mind, here are four recent buzzwords that are changing the way we
+think about innovation:
+
+1. Medical armor
+
+The changing narrative around the Ebola virus - from an exotic virus found only
+in poor nations of West Africa to one that can potentially infect and even kill
+friends and neighbors here in the United States - has changed the conventional
+thinking about how best to deal with these types of medical outbreaks. We've
+shifted from a defensive posture (the quarantine mentality), to one that demands
+immediate action. It involves military troops being sent abroad and a more
+aggressive approach by all front-line relief workers.
+
+And there's perhaps no better word to capture that change in zeitgeist than the
+term "medical armor." It refers not only to the hazmat-style clothing worn by
+medical workers, but also to just about any protective gear endorsed by the
+military that can keep bodily fluids - such as blood or vomit - from getting
+where they shouldn't. "Medical armor" implies that we're "fighting" disease the
+same way that we "fight" other insurgents, and that could change the way we
+think about medical innovation. We may borrow ideas and concepts from the
+military sphere - such as "expeditionary medical support system" - to push
+innovators to come up with new ways to stop the spread of other medical
+outbreaks.
+
+2. Data fundamentalism
+
+Big data is becoming, if anything, even bigger, and with it, comes a changing
+notion of what all those terabytes, petabytes and zettabytes of data can do for
+us. It's not only that we can use big data to aid us in our everyday
+decision-making, it's that it can now magically solve all of our problems. We
+have data clouds and data lakes, and it's just a matter of finding the right
+data to solve any hard problem faced by society. People who subscribe to this
+mind-set are data fundamentalists. As Kate Crawford wrote for Harvard Business
+Review, they are believers that "massive data sets and predictive analytics
+always reflect objective truth."
+
+In talking about his new book The Glass Cage with New York Magazine,
+best-selling author Nicholas Carr suggested that data fundamentalism is becoming
+a real problem. As Carr points out about society's growing preoccupation with
+data, "It's one way to look at questions. But it doesn't obviate the need for
+human perspective." That's what data fundamentalists don't get, he says, "It's
+very easy to assume that somehow, if you just get the right data and process it
+in the right way, we can see through problems and resolve them. But it doesn't
+work because it distorts your view of the problems."
+
+3. Haptic technology
+
+The recent introduction of the Apple Watch was notable for several reasons, not
+the least of which was Apple's decision to focus on the emotional connection
+that the Apple Watch makes possible with the user. Apple called it the company's
+"most personal device ever" - a product that you wear next to you everyday. To
+make this point, Apple showcased how we would one day be able to send
+personalized heartbeats to our loved ones to show them how we feel, send
+personalized emoji back and forth to each other, and receive gentle feedback
+from the Apple Watch in the form of very slight tactile sensations.
+
+What's making all this possible is a new focus on design that integrates haptic
+technology, or the use of tactile feedback as a form of interaction between
+humans and digital devices. Apple is essentially designing into the Apple Watch
+another way for users to communicate with their digital device that involves
+physical sensations. There's the Force Touch, which differentiates between
+different levels of touch - a press or a tap - used with the device. And there's
+the Taptic Engine, "a linear actuator inside Apple Watch that produces haptic
+feedback." The company that gave us "skeuomorphism" as a design aesthetic now
+may give us haptic technology as a new way of thinking about product innovation.
+
+4. Permissionless innovation
+
+According to technologists in Silicon Valley and other technology hubs around
+the country, innovation is usually the cure for just about any societal problem.
+If there were a clever catchphrase to describe this mind-set, it would be
+"Technology to the rescue!" The only problem is, government policymakers and
+bureaucratic regulators don't always share that approach. Their first instinct
+is usually to view any new technology - drones, driverless cars, de-extinction -
+
+ as something potentially posing a real risk to society. Technology, they say,
+needs to be regulated and controlled in order to prevent things from spiraling
+out of control.
+
+So along came a new term - "permissionless innovation" - to describe the policy
+approach favored by the digital elite. The word means exactly what it sounds
+like it should mean: Innovators shouldn't have to ask permission before they
+bring a new technology into the world. Instead, the burden of proof should be on
+regulators - they should be forced to show that there is a real and immediate
+threat to society posed by the technology. In the absence of such proof, the
+innovation should be allowed to flourish. Adam Thierer, a senior research fellow
+with the Technology Policy Program at the Mercatus Center at George Mason
+University, argues in Permissionless Innovation that a failure to embrace this
+view of innovation will result in "fewer services, lower quality goods, higher
+prices, diminished economic growth, and a decline in the overall standard of
+living."
+
+***
+
+While none of these buzzwords may have the immediate Internet sex appeal of a
+word like "selfie" - they hint at longer-lasting implications for the way we
+regulate technology, the types of technology companies we create, and the way we
+design new digital products. They are the new language of innovation.
+
+LOAD-DATE: October 16, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

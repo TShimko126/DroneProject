@@ -1,0 +1,55 @@
+                             1203 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                            March 19, 2014 Wednesday
+                              Late Edition - Final
+
+'Hijacking' by Hackers
+
+SECTION: Section A; Column 0; Editorial Desk; LETTER; Pg. 22
+
+LENGTH: 202 words
+
+
+To the Editor:
+
+Re ''Out of Control,'' by Gregg Easterbrook (Op-Ed, March 18): Yes, transponders
+and other equipment in airline cockpits can be turned off or disabled physically
+by pilots or intruders. Just as readily, however, they can also be manipulated
+from external sources.
+
+Modern aircraft can be completely ''hijacked'' and fully controlled
+electronically from the ground, by satellite and by specialized aircraft in the
+same vicinity. Remote control technology is decades old but has become
+especially refined through drone aircraft development and improvements in
+electromagnetic weaponry and software.
+
+Aircraft transponders and other equipment can also be jammed or made to send
+''ghost'' or false signals. Mr. Easterbrook asserts that a ''transponder's off
+switch is a vestige of an earlier era.'' That may be. So, too, are hijackers
+storming a cockpit with knives and guns.
+
+The more problematic threat to aircraft integrity isn't hijacking but hacking
+into an aircraft's various systems through malware and active electronic
+interception. Those are plausible causes of this particular flight's fate.
+
+MATT ANDERSSON Chicago, March 18, 2014
+
+The writer is the founder and former chief executive of Indigo Airlines.
+
+URL: http://www.nytimes.com/2014/03/19/opinion/hijacking-by-hackers.html
+
+LOAD-DATE: March 19, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: Letter
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

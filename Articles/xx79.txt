@@ -1,0 +1,168 @@
+                              79 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                            January 2, 2014 Thursday
+                              Late Edition - Final
+
+Civilian Photography, Now Rising To New Level
+
+BYLINE: By KIT EATON.
+
+Kit Eaton, a regular contributor to The Times, is a guest columnist for State of
+the Art.
+
+SECTION: Section B; Column 0; Business/Financial Desk; STATE OF THE ART; Pg. 1
+
+LENGTH: 1169 words
+
+
+Five years ago, the DJI Phantom 2 Vision would have seemed like a science
+fiction film prop or a piece of surveillance hardware flown only by the sexiest
+of superspies. But it is the first camera-carrying drone you may want to own --
+and you could do that without spending thousands of dollars.
+
+This drone is an intelligent, remote-controlled air vehicle that can fly far out
+of direct line of sight of its operator. It can record great video and photo
+stills from a thousand feet in the air over whatever ''target'' you can imagine.
+If it loses the connection to its remote control, it can even use GPS to fly
+automatically back to its launching point and land by itself. It is just like
+what you see on the news, only smaller, with about 20 to 25 minutes of flying
+time and less aggressive missions.
+
+I'm not exaggerating here: From the moment I opened the (huge) box containing
+this four-bladed flying machine and its remote control, I felt a degree of
+wariness that I imagine you'd feel if a bit of a stealth bomber fell off and
+landed in your backyard.
+
+But once that wariness wore off, and I'd gotten over the complexity of the
+hardware, the one word to sum up the Phantom 2 Vision is fun. Oh, my goodness,
+this thing is fun.
+
+The Vision is the latest quadrocopter from DJI, which has been in the business
+for a relatively short while. It's not a toy by any means -- and at $1,200, it
+is certainly not cheap. But it's a world away from those tiny $20 remote-control
+helicopters that probably filled many a stocking this Christmas. The Vision is
+serious hardware.
+
+DJI has learned from the experience of its earlier Phantom drone, which is
+similar in appearance and still on sale at a reduced price of around $500. The
+older machine could carry a camera, like a GoPro, but you had to supply your own
+and mating it to the drone was expensive and tricky, often resulting in wobbly
+video.
+
+The Vision has better systems, including an improved battery unit that can be
+extracted from the drone to be charged, plus better flight software. Its best
+feature, though, is the dedicated high-res camera slung under its belly, mounted
+on a special vibration-reducing platform.
+
+Live video from the camera is streamed over a Wi-Fi link to your iOS or Android
+smartphone running DJI's app. The app has controls for tilting the camera,
+activating a video capture or snapping a still photo. By tilting the camera, you
+can aim it more easily in flight to capture images at different angles. And
+while flying the drone using the traditional remote controller, you can watch
+the video feed on the app to take the drone beyond where you can see it.
+
+Testing the Vision in a forest clearing, I could fly it up through the opening
+in the trees, then when it was high above the leaves I could fly it farther just
+by looking at the display on the phone. It's incredible.
+
+With the Vision, you can accurately film things that you would otherwise find
+hard to see properly with your own eyes -- like a historic building from the
+right angle, or surfers from a vantage point close to the waves. It is easy to
+imagine how the Vision could be useful for sports photographers, architectural
+photographers and even event photographers -- because you know drone videos are
+going to be the next wedding special effect.
+
+But is the built-in camera up to the job? Absolutely. Like the GoPro units it's
+meant to replace, the unit has a wide-angle view and can record video onto an
+onboard micro-SD card in full HD at up to 1080i resolution and 60 frames a
+second. The vibration-reducing mount really does seem to do the job, too,
+resulting in smooth images.
+
+This is particularly true if the drone isn't maneuvering when you hit Record.
+The camera doesn't record audio, but most external sounds would be drowned out
+by the loud whizzing of the nearby props and their electric motors.
+
+Still images are captured at 14-megapixel resolution, which matches some
+high-end D.S.L.R. cameras, and the unit seems to do a good job of coping with a
+variety of lighting conditions. If the lighting is difficult, perhaps from
+bright sunlight, you can control some features, like white balance or shutter
+speed, from the app.
+
+The imaging unit is not without flaws, and it's not as powerful as a
+professional hand-held S.L.R. camera. For example, there's a noticeable fish-eye
+distortion in the image that comes from the unit's really wide vision angle, and
+you can't zoom the field of view.
+
+Even though the Vision is a large, complicated device, flying it is far easier
+than flying a traditional remote control helicopter or a large R.C. aircraft,
+thanks in part to its intelligence. If you let go of the controls, for instance,
+the Vision will use its GPS system to stop where it is in midair, keeping itself
+more or less stationary both horizontally and vertically, even in blustery wind
+conditions.
+
+Still, all is not smooth sailing. First, it comes with a 50-plus page manual,
+which you must read, because what you're flying is in effect a very light
+aircraft. The last thing you want to do is to crash it, damaging your machine or
+potentially even hurting someone with its 14-inch-wide, three-pound mass and
+whirling blades.
+
+And despite its automatic systems, you are going to have quite a learning curve
+to safely and confidently fly the Vision -- particularly if you're going to take
+it beyond where you can see it directly.
+
+Another thing to consider is that regulations governing drones -- whether for
+commercial use or by hobbyists -- differ among countries and localities and are
+changing quickly. So it is best to check the local rules before you fly.
+
+As with real aircraft, dangerous moments happen near the ground. Manually
+landing the drone is hard, and takes practice. You're going to bump it into the
+ground a few times. Luckily the body is sturdy, and it probably won't get
+damaged. The one time I did this, all that happened was that it got muddy as the
+blades dug into the soft forest floor.
+
+Using the remote control's traditional twin joysticks while tapping on the
+dedicated smartphone app to control the camera is tricky. You almost have to
+have three hands. You can, however, rely on the Vision's autopilot to handle the
+flying for a moment or two so you can set up a photograph properly.
+
+It's also tough to keep on top of charging all the batteries needed. The remote
+takes standard AAs, but the drone has a huge lithium battery that charges with a
+special wall unit. There's also a ''Wi-Fi range extender'' bolted to the top of
+the remote control to connect your smartphone to the Vision's camera; this is
+charged over a micro-USB cable and another wall charger.
+
+And you have to remember to keep your smartphone charged to actually fly the
+drone.
+
+Once you've gotten past all this, you are in for pure excitement, plus great
+video and stills.
+
+For professional photographers or videographers looking for an unusual shot in
+decent digital resolution, it may well be worth the price tag. For the rest of
+us, it's a way to have a bit of tomorrow's tech in your hands today.
+
+URL:
+http://www.nytimes.com/2014/01/02/technology/personaltech/review-the-phantom-2-v
+ision-photo-drone-from-dji.html
+
+LOAD-DATE: January 2, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: What you need to take photos aloft: the Phantom 2 Vision drone,
+its remote controller and your iOS or Android device. With its underslung
+camera, the drone takes video and stills from places a photographer can't reach.
+
+ The Phantom 2 Vision drone in action. If it loses connection with its
+controller,  it will use GPS to find its way back to its launching site and land
+itself. (PHOTOGRAPHS BY KIT EATON) (B7)  DRAWING (DRAWING BY STUART GOLDENBERG)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

@@ -1,0 +1,203 @@
+                             1715 of 2956 DOCUMENTS
+
+
+
+                              The Washington Post
+
+                              May 18, 2014 Sunday
+                                 Every Edition
+
+NSA mantra: 'Collect it all . . . know it all'
+
+BYLINE: David Cole
+
+SECTION: OUTLOOK; Pg. B07
+
+LENGTH: 1770 words
+
+
+At a meeting with his British counterparts in 2008, Keith Alexander, then head
+of the National Security Agency, reportedly asked, "Why can't we collect all the
+signals, all the time?" The NSA has since sought to dismiss that remark as a
+quip taken out of context. In his new book, "No Place to Hide," Glenn Greenwald,
+one of three recipients of the voluminous, top-secret material that NSA
+contractor Edward Snowden chose to leak, uses those documents to prove that this
+was indeed the agency's guiding principle.
+
+In one remarkable slide presented at a 2011 meeting of five nations'
+intelligence agencies and revealed here for the first time, the NSA described
+its "collection posture" as "Collect it All," "Process it All," "Exploit it
+All," "Partner it All," "Sniff it All" and, ultimately, "Know it All."
+
+Much has been written about the NSA's omnivorous appetite for personal data -
+much of it by Greenwald for the Guardian and other outlets. In his new book,
+however, he offers a revealing and disturbing overview, illustrated by dozens of
+reproduced secret documents, of just how far the NSA has gone to achieve
+Alexander's vision of collecting and knowing it all. Relying on newly disclosed
+and already disclosed documents, Greenwald shows that the scope of the NSA's
+surveillance exceeds not only our imagination but also the agency's capacity
+even to store, much less analyze, it all.
+
+In a one-month period last year, for example, a single unit of the NSA, the
+Global Access Operations unit, collected data on more than 97 billion e-mails
+and 124 billion phone calls from around the world; more than 3 billion of those
+calls and e-mails were collected as they passed through the United States. As of
+2012, the agency was processing more than 20 billion telecommunications per day.
+In a single month in 2011, the NSA collected 71 million calls and e-mails from
+Poland alone - not a major hub of terrorist activity, the last time I checked.
+The NSA has admitted that "it collects far more content than is routinely useful
+to analysts." These numbers call to mind Sen. Everett Dirksen's quip about
+government spending: "A billion here, a billion there, and pretty soon you're
+talking about real money."
+
+The NSA achieves these ends by working hand in hand with private
+telecommunications and Internet service providers. One NSA document describes an
+unnamed corporate partner as "aggressively involved in shaping traffic to run
+signals of interest past our monitors" and reports that in a single month, this
+top-secret, public-private partnership yielded more than 6 billion records of
+telephone calls and Internet activity. Under another program revealed here, the
+NSA intercepts routers, servers and other network equipment being shipped
+overseas; installs back-door surveillance bugs; rewraps the packages with
+factory seals; and sends them on their way, thereby ensuring that the agency
+will have clandestine access to all information that passes through them.
+
+Other documents describe X-KEYSCORE, the NSA's most powerful tool, which, as its
+name implies, enables the agency to track every keystroke on a computer,
+permitting the agency to monitor in real time all of a user's e-mail,
+social-media and Web-browsing activity. In a single month in 2012, X-KEYSCORE
+collected 41 billion records for one NSA unit. Greenwald contends that this is
+the program Snowden was referring to when he said that, with an e-mail address,
+he could tap into any American's communications. (The NSA has accused Snowden of
+exaggerating, but the documents suggest that he may be right.)
+
+Some of Greenwald's most disturbing disclosures concern not the NSA but its
+British counterpart, the Government Communications Headquarters (GCHQ). His
+documents reveal that the GCHQ engages in "online covert action" against loosely
+defined "hacktivists" designed to disrupt, degrade and discredit their online
+presence. Taking a page from COINTELPRO, the FBI's 1960s campaign against U.S.
+radicals, the GCHQ's tactics include luring targets to sexually compromising Web
+sites, posting false blogs and launching other "info ops to damage reputations."
+
+Other revelations are less surprising, although Greenwald tends to deliver them
+as if they were all equally scandalous. He reports, for example, that the NSA
+cooperates with other countries' spy agencies, even as they spy on us and we on
+them. Is anyone other than Greenwald "shocked, shocked" by this news? He notes
+that the NSA collects data not only for counterterrorism purposes but for
+economic and diplomatic advantage. Again, did anyone think otherwise? Since
+1978, the Foreign Intelligence Surveillance Act has expressly authorized the
+collection of "foreign intelligence information," defined to include any
+information about a foreign power or territory that "relates to . . . the
+conduct of the foreign affairs of the United States." Surely oil supplies and
+trade negotiations are as relevant to our foreign affairs as terrorism is. And
+it hardly follows that, as Greenwald claims, "stopping terror is clearly a
+pretext" for the NSA.
+
+Some disclosures raise more questions about Greenwald's judgment than about the
+NSA's activities. One document, for example, identifies the specific methods
+used to bug 24 named foreign embassies. The document reveals top-secret methods
+and targets, and its disclosure is likely to undermine legitimate
+intelligence-gathering and cause serious diplomatic problems. Yet it is
+difficult to see what possible value it adds to the public debate. It is one
+thing to disclose secret government practices that raise serious moral,
+political and constitutional concerns - as many of Snowden's disclosures have
+done. But bugging foreign embassies is at the core of foreign intelligence, and
+there is nothing particularly surprising about the fact that we do it.
+
+Greenwald does not always recognize the difference between justified and
+unjustified disclosures. And that's too bad, as Snowden placed his trust in
+Greenwald to make such calls.
+
+Greenwald's descriptions of NSA programs can also be misleading. He never
+mentions, for example, that there are significant "back-end" limits on how the
+agency can search and use much of the data it collects. These limitations
+constitute the core of the NSA's defenses of its programs. While I don't find
+those defenses entirely convincing, a serious effort to grapple with the issue
+would not simply ignore them.
+
+The force of Greenwald's argument is sometimes undermined by his hyperbolic
+style and more-radical-than-thou attitude. He depicts the NSA, for example, as
+part of a grand scheme by elites to control the masses, of a piece with what he
+sees as "the response to the Occupy movement . . . to crush it with force,
+through tear gas, pepper spray, and prosecution." Really? Maybe I'm imagining
+things, but I recall seeing Occupy demonstrations for months on end throughout
+the country, including in the nation's capital.
+
+And he asserts that "both the United States and the United Kingdom have made
+clear that there are no limits - ethical, legal, or political - that they will
+observe when they claim to be acting in the name of 'terrorism.' " Has he read
+the substantial debates in Britain over preventive detention, control orders,
+complicity in torture and the like? Has he seen the Obama administration's brief
+to the U.S. Court of Appeals for the D.C. Circuit insisting that the laws of war
+must limit detention authority at Guantanamo and urging the court to reverse a
+statement to the contrary? Or President Obama's orders barring the use of
+enhanced interrogation techniques? Such overstatement weakens Greenwald's
+credibility, which is unfortunate, because much of what he has to say is
+extremely valuable.
+
+Part of the problem is that Greenwald sees the world in black and white. As he
+puts it, "There are, broadly speaking, two choices: obedience to institutional
+authority or radical dissent from it." For him there is apparently nothing in
+between. Anyone who does not share his radical dissent is, therefore, a tool for
+the political elite. When the New Yorker's Hendrik Hertzberg and The Washington
+Post's Ruth Marcus question the significance of metadata collection, Greenwald
+concludes that "journalists who devote their careers to venerating the country's
+most powerful official - the president . . . and defending his political party
+rarely, if ever, risk alienating those in power." I, too, think Hertzberg and
+Marcus fail to adequately appreciate the dangers of metadata collection, but one
+need only read a random sample of their hard-hitting columns to see that they
+are hardly averse to alienating those in power.
+
+Similarly, Greenwald blasts the "establishment media" for consulting with the
+government about disclosing secret information and accuses them of wanting only
+to make the government look good. But then how does one explain the disclosures
+of the Pentagon Papers, Watergate, Abu Ghraib, the CIA's black sites and torture
+program, renditions to torture, the NSA's warrantless wiretapping, the New York
+Police Department's spying on Muslims and the drone program? Most of what we
+know about the government's most troubling national security measures comes from
+what Greenwald dismisses as "the establishment media."
+
+This is an important and illuminating book. It would have been more important
+and illuminating were Greenwald able to acknowledge that the choices we face
+about regulating surveillance in the modern age are difficult and that there are
+no simple answers. (He notably suggests virtually nothing in the way of positive
+reforms, sticking instead to criticism.)
+
+Snowden handed Greenwald the story of a lifetime. NSA coverage based on the
+leaked material resulted in The Washington Post and the Guardian winning
+Pulitzer Prizes for public service this year. Greenwald has done the world a
+service by helping to explain the significance of the disclosures for everyone's
+privacy. He has helped spark a much-needed national and worldwide debate about
+how to preserve privacy when we do so much online, and when the NSA and others
+have the technological means to track virtually all we do there. But his book
+would have been more persuasive had he confronted what is difficult about the
+issue and not simply been satisfied with lobbing grenades at all who are less
+radical than he is.
+
+bookworld@washpost.com
+
+David Cole  is the Hon. George Mitchell professor in law and public policy at
+Georgetown University Law Center and the legal affairs correspondent for the
+Nation.
+
+NO PLACE TO HIDE
+
+Edward Snowden, the NSA, and the U.S. Surveillance State
+
+By Glenn Greenwald
+
+Metropolitan. 259 pp. $27
+
+LOAD-DATE: May 18, 2014
+
+LANGUAGE: ENGLISH
+
+DISTRIBUTION: Every Zone
+
+PUBLICATION-TYPE: Newspaper
+
+
+     Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a
+                            Washington Post Digital
+                              All Rights Reserved
+
+

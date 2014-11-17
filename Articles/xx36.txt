@@ -1,0 +1,127 @@
+                              36 of 2956 DOCUMENTS
+
+
+
+                               Washingtonpost.com
+
+                        July 1, 2014 Tuesday 2:53 AM EST
+
+FAA likely to miss drone deadline
+
+BYLINE: Craig Whitlock
+
+SECTION: A section; Pg. A09
+
+LENGTH: 907 words
+
+
+The Federal Aviation Administration will miss a September 2015 deadline set by
+Congress to allow drones to fly throughout the nation's skies because of
+technical and regulatory obstacles that are unlikely to be resolved anytime
+soon, according to a government audit released Monday.
+
+The FAA is significantly behind schedule in drawing up rules and standards to
+ensure that drones are airworthy, that pilots are trained properly and that
+their aircraft won't interfere with other air traffic, the Transportation
+Department's inspector general concluded in a highly critical audit.
+
+The report said the FAA has so many hurdles to confront that it is unclear when
+- or if - remotely controlled aircraft can be safely integrated into U.S.
+airspace.
+
+In 2012, Congress passed a law that effectively legalized commercial and
+civilian drone flights in the United States. With backing from drone
+manufacturers and other businesses eager to embrace a new era in aviation,
+lawmakers directed the FAA to come up with rules and standards to permit
+widespread drone traffic by Sept. 30, 2015.
+
+The inspector general's audit, however, highlighted the difficulties of
+absorbing drones into U.S. skies and concluded that "safety risks will persist"
+until the FAA can establish a set of rules for doing so.
+
+A Washington Post investigation in June found that at least 49 large military
+drones have crashed while on training missions in the United States since 2001.
+In addition, nearly two dozen civilian drones have been involved in accidents
+since 2009, according to FAA data. More recently, a rising number of small,
+unlicensed drones have flown dangerously close to passenger planes near some of
+the country's busiest airports.
+
+The FAA has missed several deadlines, much to the frustration of manufacturers
+and lawmakers eager to see drones used more widely. The inspector general's
+audit found that many basic barriers remain and that "the magnitude of
+unresolved safety and privacy issues will prevent" the FAA from meeting the
+timetable imposed by Congress.
+
+Les Dorr, an FAA spokesman, acknowledged that the agency faces numerous
+challenges but said it has made "significant progress" toward safely integrating
+drones into the nation's airspace.
+
+In an e-mailed statement, Dorr said the FAA agrees with the inspector general's
+recommendations for improving the process. He said the agency plans to propose
+regulations governing the use of small drones - those that weigh less than 55
+pounds and don't fly above 400 feet in altitude - this year.
+
+The FAA had said it would issue proposed rules for small drones three years ago.
+Transportation Department auditors said the delay was largely due to uncertainty
+over how and whether the rules should include privacy protections to prevent
+drone operators from conducting surveillance. Small drones are relatively cheap
+- some models cost about $500 - and can be equipped with powerful cameras.
+
+After the FAA issues proposed rules for small drones this year, the agency must
+then allow for a lengthy period of public comment before finalizing the
+standards. The audit estimated that the rules wouldn't become final until next
+year at the earliest. Standards for larger drones that would share airspace with
+passenger planes aren't expected to be fixed for several more years.
+
+The FAA has imposed a de facto ban on commercial drones until it can sort out
+the rules of the sky. The agency has issued only two permits for commercial
+operations, both of them in rural parts of Alaska. FAA officials have said they
+may relax restrictions in the coming months for a handful of industries,
+including filmmakers, oil-and-gas producers and large-scale farms.
+
+Because drones are inexpensive and relatively easy to operate, however, many
+users are flying them anyway - increasingly in an unsafe manner.
+
+In 15 cases over the past two years, drones have flown dangerously close to
+passenger planes near airports, including two incidents on the same day in May
+in New York and Los Angeles, according to FAA reports obtained by The Post. A
+separate aviation safety database managed by NASA has recorded 50 other reports
+of close calls or improper flight operations involving drones over the past
+decade.
+
+Although commercial drones are effectively banned for the moment, the FAA has
+issued about 300 special-use certificates for public agencies to fly the
+aircraft. About half of those have been granted to the military to train with
+drones in civilian airspace. Many others have been issued to law enforcement
+agencies, such as Customs and Border Protection, which flies large surveillance
+drones along the borders with Canada and Mexico.
+
+The audit also blamed the delays on technological barriers that the FAA and
+manufacturers have been unable to resolve.
+
+Drones rely on GPS signals to navigate and are controlled by pilots or operators
+on the ground via a two-way radio transmission link. But those links are not
+completely reliable, and it is common for operators to lose control of a drone
+for seconds or minutes at a time.
+
+With no pilot in the cockpit, drones also lack the technology to see and avoid
+other aircraft, raising the risk of a midair collision. The inspector general
+called that problem the "most pressing technical challenge to integration."
+
+Manufacturers are hard at work on fixes to both of those technological
+shortcomings. But the audit indicated that solutions are not close at hand.
+
+craig.whitlock@washpost.com
+
+LOAD-DATE: July 1, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Publication
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

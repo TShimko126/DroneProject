@@ -1,0 +1,140 @@
+                              26 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             April 22, 2014 Tuesday
+                              Late Edition - Final
+
+Drones Are Becoming Energy's New Roustabouts
+
+BYLINE: By TODD WOODY
+
+SECTION: Section F; Column 0; Energy; Pg. 7
+
+LENGTH: 971 words
+
+
+PALO ALTO, Calif. -- THE egg white drone lifted off from its ground station at a
+hospital construction site here, hovered for an instant, then zoomed off,
+sounding like a five-pound bee as it buzzed around the cranes towering over the
+six-acre project.
+
+Capable of carrying a high-resolution camera and other sensors, the quadcopter,
+a helicopter with four rotors that resembles a spaceship from a 1950s science
+fiction movie, was flying in a demonstration of its ability to serve a
+potentially lucrative new market for drones: the energy industry.
+
+Skycatch, a year-old start-up based in San Francisco that has raised $3.2
+million from Google and other investors, built the drone. The company has
+already signed deals to test its technology with the construction giants Bechtel
+and DPR; First Solar, a developer of photovoltaic power plants; and SolarCity, a
+solar panel installer. Drones from Skycatch and more established companies are
+monitoring power lines, inspecting oil and gas pipelines, checking wind turbines
+for defects and pinpointing malfunctioning solar panels.
+
+''Drones can do just about anything the energy companies don't want to send
+people to do,'' said Michael Blades, an analyst for the research firm Frost &
+Sullivan, who studies the unmanned aerial vehicle, or U.A.V., industry.
+
+The Federal Aviation Administration in 2007 imposed what amounted to a
+nationwide no-fly zone on commercial drones in the United States while it wrote
+rules regulating their operation, but in March an administrative law judge for
+the National Transportation Safety Board ruled that the F.A.A. had no authority
+to impose such a ban. The F.A.A. said it expected to issue regulations for the
+commercial operation of small drones by the end of this year.
+
+While it is not clear what regulations will eventually emerge, a host of
+companies is planning to take to the skies with drones. Amazon has said it plans
+to deliver packages with drones, and Google just purchased Titan Aerospace, a
+maker of high-altitude drone satellites.
+
+Executives at Aeryon Labs, a Canadian company that made headlines for supplying
+drones to rebels in Libya, say energy is a growth area, as sensor-equipped
+drones offer a safe, low-cost way to inspect smokestacks, power lines and wind
+turbines without having to send workers to scale towers or hiring helicopters,
+which can cost thousands of dollars an hour to operate.
+
+''To do a detailed inspection of a tower is very difficult, as it's hard to get
+close enough, and of course there's the safety issue,'' said Ian McDonald, an
+Aeryon vice president.
+
+Aeryon has dispatched its drones to look for cracks in wind turbine blades,
+which can hang hundreds of feet above the ground. BP has deployed Aeryon drones
+and thermal cameras in Alaska to scan oil pipelines for hot spots that may
+indicate structural weaknesses.
+
+Unlike the large, airplanelike military drones built for combat, commercial
+U.A.V.s tend to be small and nimble battery-operated helicopters. The advent of
+cheap 3-D printing of drone parts, open-source software and cloud computing has
+let start-ups like Skycatch jump in.
+
+For Christian Sanz, Skycatch's chief executive, the energy market is more about
+data than drones. A tech industry veteran, he began tinkering with drones,
+building his own U.A.V. outfitted with a GoPro camera. He volunteered to fly the
+drone over a local construction site and take photos so managers could monitor
+the project's progress. Soon he was being deluged with requests.
+
+''It was this massive demand for data that led me to start the business,'' Mr.
+Sanz said.
+
+He also realized that potential customers did not want to devote time and
+resources to flying drones themselves.
+
+Skycatch drones are designed to operate autonomously. When a drone completes a
+mission, it flies back to a ground station, a 100-pound, 2-by-2-foot box with a
+circular opening on top. As the drone nears, guided by its camera, G.P.S. and a
+sonar sensor, the ground station uses its own sensors and a radio signal to
+guide the approach. Once the drone has landed, a robotic arm removes the
+battery, which also stores 15 gigabytes of data, and replaces it with a fresh
+one from a 10-battery carousel. The data is then beamed up to Box, a cloud
+computing service.
+
+Mr. Blades, the analyst, said the companies that succeed would be those that
+minimize their costs by developing low-cost U.A.V.s that operate autonomously.
+
+SolarCity, a Silicon Valley company that is one of the nation's largest
+installers of solar panels, tested Skycatch's technology last month.
+
+''We're looking at using the U.A.V.s to do operation and maintenance and replace
+some of our labor-intensive site-surveying duties,'' said Damien Scott,
+SolarCity's vice president for engineering.
+
+Drones may prove particularly useful at detecting malfunctioning solar panels,
+which generate a distinctive heat signature as they fail. ''Right now, you would
+have to have employees use hand-held devices to find them by making their way
+around a large installation,'' Mr. Scott said.
+
+At remote photovoltaic plants in the desert Southwest, solar panels can number
+in the hundreds of thousands.
+
+Mr. Sanz said some companies were interested in deploying drones to detect
+protected wildlife that may wander onto a wind farm or solar power installation.
+''With a U.A.V. flying close to the ground, they can find all these endangered
+species that can shut down a project,'' he said, suggesting that a drone could
+be used to scare off birds that fly too close to a wind turbine.
+
+Bouygues, the French construction and energy conglomerate, uses operator-flown
+drones to inspect power lines but plans to test Skycatch's autonomous system at
+a building site in Miami.
+
+''There are cases when you want the drone to be up 24/7,'' said Sébastien
+Wickert, an executive for a Bouygues subsidiary in San Jose, Calif.
+
+URL: http://www.nytimes.com/2014/04/22/business/energy-environment/drones
+-are-becoming-energys-new-roustabouts.html
+
+LOAD-DATE: April 22, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: INSPECTOR GADGET: Vehicles like the Skycatch quadcopter can
+locate malfunctioning panels at solar power plants. (PHOTOGRAPH BY CHRISTIAN
+SANZ/SKYCATCH)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

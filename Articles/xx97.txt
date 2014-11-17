@@ -1,0 +1,130 @@
+                              97 of 2956 DOCUMENTS
+
+
+                                  Denver Post
+
+                              June 8, 2014 Sunday
+                              SUN BUSINESS Edition
+
+Drone dream launches race to build better sensor
+
+BYLINE: Thomas Black
+
+SECTION: BUSINESS; Pg. 12K
+
+LENGTH: 891 words
+
+
+In the quest to build drones that can help companies such as Amazon.com make
+door to door deliveries, engineers are racing to overcome a fundamental
+challenge: helping unmanned, suitcase sized aircraft see where they're going.
+
+The answer is developing sensors that are smart enough to keep the drones from
+smacking into buildings, people and anything else that would impede travel yet
+small and light enough that the machines can stay aloft.
+
+Startups around the U.S., eager for a slice of a market projected by Teal Group
+to more than double to $11.6 billion by 2023, are responding. Virginia based
+Aurora Flight Sciences is testing echo location, a method that mimics how bats
+navigate in the dark, while engineers at 3 D Robotics are turning to optic flow
+sensors, which detect objects by examining video pixels.
+
+"Sense and avoid is one of the biggest opportunities in the industry," said
+Jesse Kallman, chief of global business development for San Francisco based
+Airware, a drone equipment maker backed by Google Ventures. "The technology is
+not there yet, but it's something the industry needs badly."
+
+Size is the key to success and the smaller the better. Sagetech has reduced
+transponders, which send and receive signals on aircraft location, to the
+approximate dimensions of credit cards. In Alaska, a serial entrepreneur has
+licensed a miniature radar system, the technology considered most difficult to
+shrink because of the need for an antenna and a receiver.
+
+Amazon CEO Jeff Bezos pushed the concept of home delivery drones to the
+forefront in a Dec. 1 interview on CBS's "60 Minutes," saying Amazon plans to
+use small, helicopter like aircraft to deliver packages as heavy as 5 pounds
+within a 10 mile radius.
+
+U.S. airspace regulations for drones are just starting to take shape. There are
+still "serious unanswered questions" about the safety and reliability of
+unmanned aircraft, a National Academy of Sciences panel said Thursday. A report
+from the 17 member group cited "many substantial barriers" to integrating
+unmanned aircraft into U.S. airspace, including technology, a regulatory system
+unprepared to oversee them and privacy questions.
+
+Preliminary rules due by year's end from the U.S. Federal Aviation
+Administration may let drones weighing 55 pounds or less fly below 400 feet and
+within sight of a licensed operator.
+
+The first commercial applications probably will be tasks such as surveying
+crops, filming movies, and inspecting bridges and flare stacks that are
+difficult and dangerous to reach. In public safety, small aerial robots will
+help police diagram auto accidents and firefighters highlight hot spots during a
+blaze. Those duties are extensions of the way the military pioneered using
+unmanned aircraft for surveillance and strike missions.
+
+Harnessing the full potential of drones will require the ability to fly on
+autopilot and beyond the line of sight.
+
+Amazon is flight testing fifth and sixth generation drones for its Prime Air
+program and is in the design phase for the next two versions, company
+spokeswoman Mary Osako said.
+
+To give small drones the sensing capabilities of jumbo jets, Hood River, Ore.
+based Sagetech has shrunk the transponder for aircraft location to 3.5 ounces
+from about 3 pounds, president Kelvin Scribner said. The company plans to
+produce a unit to let drones avert collisions with other aircraft. That system
+will weigh 7 ounces, or only about 5 percent as much as the equipment on a
+commercial airliner.
+
+The challenge doesn't stop there: Sensors still need refinement so low flying
+drones dodge the trees, streetlights and humans that aren't in the path of
+conventional planes.
+
+Optical flow sensors, which allow a computer mouse to function without a
+trackball, are being adapted for collision avoidance.
+
+John Parker, who started Kenai, Alaska based Integrated Robotics Imaging Systems
+in 2012, said he has an answer for equipping drones with radar.
+
+Parker licensed a 12 ounce system from three University of Denver professors
+with a range of a mile. The former private aviation investigator and owner of
+real estate service companies is betting he can cut the weight by half, produce
+the unit commercially in 18 months and sell it for $7,000 to $10,000.
+
+Lucas Van Oostrum, CEO of Aerialtronics, a Dutch company that has sold 250
+drones to mostly European customers, including London police, expects sensors to
+shrink to the size of coins. He envisions a system in which airborne vehicles
+fly autonomously within rules similar to street traffic.
+
+The hardware solutions are within reach, and research into driverless cars will
+help advance sensor technology, Van Oostrum said. The software that follows will
+let the industry take off.
+
+"We're moving from hardware to software again like with the mobile phones," Van
+Oostrum said. "First you could text and then it moved on to applications, and
+that's where we see this going as well."
+
+Dronecon 2014
+
+The annual developer conference Dronecon will be held June 20 at the University
+of Colorado at Boulder. Developers will share information about their work on
+land, sea and air vehicles, ground stations and other developments in open
+source autonomous vehicles. The event will also include plenary talks on
+technical developments and applications. Dronecon will start at 9 a.m. at the
+Atlas Building on campus. For more information, go DIYdrones.com.
+
+LOAD-DATE: June 11, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: The first commercial applications probably will be tasks such as
+surveying crops and filming movies. Craig F. Walker, Denver Post file
+
+PUBLICATION-TYPE: Newspaper
+
+
+                         Copyright 2014 The Denver Post
+                              All Rights Reserved
+
+

@@ -1,0 +1,152 @@
+                              32 of 2956 DOCUMENTS
+
+
+
+                              The Washington Post
+
+                            December 3, 2013 Tuesday
+                                Suburban Edition
+
+All about Amazon's drone delivery
+
+BYLINE: Brian Fung
+
+SECTION: A-SECTION; Pg. A10
+
+LENGTH: 1018 words
+
+
+You may have heard that unmanned drones will eventually deliver your Amazon.com
+purchases. The idea seems so crazy that it's bound to raise a few questions. Is
+it really possible? What kind of obstacles will Amazon chief executive (and
+Washington Post owner) Jeffrey P. Bezos have to overcome? And how will his plan
+shape the future of drone technology? Answers to these questions and more are
+below.
+
+All about delivery drones
+
+You may have heard that unmanned drones will eventually be making your Amazon
+deliveries. The idea seems so crazy, it's bound to raise a few questions. Is it
+really possible? What kind of obstacles will Amazon chief executive (and
+Washington Post owner) Jeffrey Bezos have to overcome? And how will his plan
+shape the future of drone technology? Answers to these and more are below.
+
+First things first. What does Amazon have in mind?
+
+In as soon as five years, Amazon says, it's going to field a fleet of drones
+that will deliver anything you order - as long as it's less than five pounds -
+in minutes.
+
+What? That's crazy. How would that even work?
+
+Conveniently, Amazon has giant distribution centers scattered across the
+country. Most of the company's deliveries start out from these facilities; the
+drones would cut out the truck drivers who deliver your packages today.
+
+Why would Amazon want to do this?
+
+Traditional retailers compete on the strength of their products. But Amazon
+increasingly is competing on the basis of time - fulfilling our wishes as close
+to instantaneously as possible. The drone strategy promises to cut what's now a
+one- or two-day shipping window down to 30 minutes or less. Drones have an
+advantage over delivery trucks in that they can use a more direct route, rather
+than having to follow winding streets. That saves time.
+
+What do we know about Amazon's drones?
+
+Bezos has said that the drones will be able to carry a five-pound payload for
+about 10 miles. A 15-minute flight out, followed by a 15-minute flight back,
+would call for average speeds of 40 mph. That's pretty zippy.
+
+Are current drones even capable of all that?
+
+This is essentially a physics problem: The larger your payload, the more lift
+you need. The more lift you need, the larger your battery has to be, which
+further adds to the weight, which adds to the power requirements, and so on.
+
+After analyzing Amazon's promotional video, Christopher Vo - a robotics
+researcher at George Mason University - estimates that Amazon's "octocopter"
+drone probably uses a 10,000-mAh, 22-volt lithium ion polymer battery made up of
+six or 10 cells. These batteries are a lot like the ones that power a laptop,
+except that their chemistry allows for a much greater energy draw. You can find
+these on hobbyist Web sites. In fact, according to Vo, you can buy an octocopter
+resembling the one in Amazon's video for about $24,000.
+
+What about larger payloads? Five pounds doesn't sound like much.
+
+It's possible, but improbable, at least for now. Some private drones can carry
+more than 12 pounds. But in a "60 Minutes" interview Sunday, Bezos acknowledged
+that "we're not going to deliver kayaks or table saws that way."
+
+Where we might actually see faster progress is in the way that companies ship
+things internally. Big 747s and other cargo planes can already fly on autopilot,
+for the most part. From there, it's not too far of a leap to convert them into
+fully autonomous aircraft.
+
+Bezos predicts the Amazon drones will take off in about five years. How
+realistic is that?
+
+It's optimistic but not unrealistic. A spokesman for the Federal Aviation
+Administration says that while current rules prohibit Amazon from rolling this
+out today, a three-to-five-year target "kind of lines up" with an FAA process to
+relax those regulations. Last month, the agency released a road map charting out
+how those regulations will be rewritten. By August, the FAA expects to have
+rules ready for consumer drones, followed by guidelines for commercial drones a
+few years later.
+
+Here's something else to think about: The United States may not be the best
+place to test this program. Timothy Reuter, who heads a D.C.-based drone
+hobbyist group, says Canada might be an attractive choice. "It's not so far
+away, but they're much more permissive," Reuter says.
+
+Are these drones going to crash into my dogs and kids?
+
+Human pilots instinctively know to avoid trees and buildings. Drones don't. For
+that, they need something called sense-and-avoid technology - which is pretty
+good at the moment, but not so good that we can trust a machine to fly itself
+exclusively. Until then, Amazon will probably hire drone pilots to fly each
+drone. Then it might graduate to a system where one overseer is monitoring a
+handful of machines at once from a control center.
+
+Another way to solve the problem, Vo says, is to reduce the number of variables
+that the drone will have to contend with near the ground. You could do this by
+building some kind of helipad on rooftops. Maybe those will even become standard
+on new homes so that other companies - FedEx, UPS, etc. - could take advantage
+of them, too.
+
+This all sounds creepy. Wait here - I'm getting my shotgun.
+
+Whoa, okay. That actually points to something else Amazon will have to think
+about - how to protect its unmanned vehicles. Residents of one Colorado town
+have even considered giving out hunting permits for unmanned vehicles.
+
+Then there's the question of how to secure the data link between Amazon's drones
+and the ground control station that monitors them. You don't want your delivery
+to get hacked and stolen, or worse - turned into a flying weapon.
+
+Hang on. Didn't Amazon just announce a deal with the U.S. Postal Service? Won't
+these drones supersede them?
+
+That's a possibility. But remember, this future is still years away. Amazon's
+experiment with drone technology suggests it may be looking at drones as simply
+one part of a broader delivery system that integrates multiple technologies.
+There are other emerging new technologies, such as 3-D printing and self-driving
+cars, that might help Amazon tighten up any lags in its supply chain and get
+items to consumers more quickly.
+
+- Brian Fung
+
+LOAD-DATE: December 3, 2013
+
+LANGUAGE: ENGLISH
+
+DISTRIBUTION: Every Zone
+
+PUBLICATION-TYPE: Newspaper
+
+
+     Copyright 2013 Washingtonpost.Newsweek Interactive Company, LLC d/b/a
+                            Washington Post Digital
+                              All Rights Reserved
+
+

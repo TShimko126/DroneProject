@@ -1,0 +1,73 @@
+                             224 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                            August 28, 2014 Thursday
+
+Google Joins Amazon in Dreams of Drone Delivery
+
+BYLINE: CONOR DOUGHERTY
+
+SECTION: TECHNOLOGY
+
+LENGTH: 327 words
+
+
+
+HIGHLIGHT: Who needs UPS trucks and bicycle delivery when you can fly in things
+people buy online?
+
+
+Amazon, it seems, is not the only big technology company dreaming of a drone
+delivery service.
+
+After two years of stealth research, Google on Thursday lifted the veil on an
+experimental program to deliver goods with tiny unmanned, or "drone," aircraft
+that are a cross between a plane and a helicopter, according to Google. The
+project was detailed in a lengthy Atlantic story.
+
+If the idea sounds familiar, that's because online retailer Amazon announced an
+experimental program last year that would also deliver goods through the air.
+
+The program, which Google is calling "Project Wing," was led for two years by
+Nicholas Roy, an M.I.T. professor who took a sabbatical for the project.
+According to The Atlantic, Google now has dozens of people on Project Wing.
+They're working on improving the technology, and may create a drone delivery
+app.
+
+The Internet giant is also aggressively working on other kinds of robotics, most
+notably self-driving cars.
+
+The Federal Aviation Administration has so far not been keen on the drone
+delivery concept. Earlier this year, it blocked an aerial delivery service
+proposed by a local brewery in Minnesota for ferrying beer to ice fishermen who
+didn't want to come in from the cold.
+
+A Google spokeswoman said the company has briefed the F.A.A. on its hopes for a
+fleet of baby helicopters, which would not be built for at least a few years.
+
+In terms of how the actual delivery would be handled, Google said it tried the
+parachute approach (like in The Hunger Games), as well as shooting the package
+downward like a missile. They also tried landing it, but that was problematic
+because Google believed people might get too close to the vehicle and lose a
+finger to the drone's rotors while trying to fetch their delivery.
+
+In the end, they settled on a kind of fishing line that lowers the payload to
+customers from an airborne drone about 150 feet above the ground, as Google
+demonstrates with a package of dog food in this video.
+
+LOAD-DATE: August 28, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

@@ -1,0 +1,172 @@
+                             1351 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                              June 30, 2014 Monday
+                              Late Edition - Final
+
+Sky Isn't Falling After Scandal, N.S.A. Chief Says
+
+BYLINE: By DAVID E. SANGER
+
+SECTION: Section A; Column 0; National Desk; Pg. 1
+
+LENGTH: 1285 words
+
+
+FORT MEADE, Md. -- The newly installed director of the National Security Agency
+says that while he has seen some terrorist groups alter their communications to
+avoid surveillance techniques revealed by Edward J. Snowden, the damage done
+over all by a year of revelations does not lead him to the conclusion that ''the
+sky is falling.''
+
+In an hourlong interview Friday in his office here at the heart of the country's
+electronic eavesdropping and cyberoperations, Adm. Michael S. Rogers, who has
+now run the beleaguered spy agency and the military's Cyber Command for just
+short of three months, described the series of steps he was taking to ensure
+that no one could download the trove of data that Mr. Snowden gathered -- more
+than a million documents.
+
+But he cautioned that there was no perfect protection against a dedicated
+insider with access to the agency's networks.
+
+''Am I ever going to sit here and say as the director that with 100 percent
+certainty no one can compromise our systems from the inside?'' he asked. ''Nope.
+Because I don't believe that in the long run.''
+
+The crucial change, he said, is to ''ensure that the volume'' of data taken by
+Mr. Snowden, a former agency contractor, ''can't be stolen again.'' But the
+Defense Department, of which the security agency and Cyber Command are a part,
+made the same vow in 2010 after an Army private, Chelsea Manning, downloaded
+hundreds of thousands of secret State Department and Pentagon files and released
+them to WikiLeaks.
+
+Notable in his comments was an absence of alarm about the long-term effects of
+the Snowden revelations. Like former Secretary of Defense Robert M. Gates, who
+urged colleagues in the Obama administration to calm down about the WikiLeaks
+revelations in 2010, Admiral Rogers seemed to suggest that, as technology
+progressed, the agency would find new ways to compensate for the damage done,
+however regrettable the leaks.
+
+He repeated past warnings that the agency had overheard terrorist groups
+''specifically referencing data detailed'' by Mr. Snowden's revelations. ''I
+have seen groups not only talk about making changes, I have seen them make
+changes,'' he said.
+
+But he then added: ''You have not heard me as the director say, 'Oh, my God, the
+sky is falling.' I am trying to be very specific and very measured in my
+characterizations.''
+
+His tone was in contrast to that of some politicians and intelligence
+professionals, including his immediate predecessor, Gen. Keith B. Alexander, who
+described in stark terms the risks to American and allied national security from
+the revelations, calling it ''the greatest damage to our combined nations'
+intelligence systems that we have ever suffered.''
+
+Admiral Rogers discussed his vision of how the United States might use
+cyberweapons against adversaries -- a subject of debate inside the
+administration that American officials rarely discuss in public -- saying he
+could imagine a day when, under strict rules of armed conflict, they were used
+selectively but as part of ordinary military operations, like cruise missiles
+and drones.
+
+He also acknowledged that the quiet working relationships between the security
+agency and the nation's telecommunications and high technology firms had been
+sharply changed by the Snowden disclosures -- and might never return to what
+they once were in an era when the relationships were enveloped in secrecy.
+
+Telecommunications businesses like AT&T and Verizon, and social media companies,
+now insist that ''you are going to have to compel us,'' Admiral Rogers said, to
+turn over data so that they can demonstrate to foreign customers that they do
+not voluntarily cooperate. And some are far more reluctant to help when asked to
+provide information about foreigners who are communicating on their networks
+abroad. It is a gray area in the law in which American courts have no
+jurisdiction; instead, the agency relied on the cooperation of American-based
+companies.
+
+Last week, Verizon lost a longstanding contract to run many of the
+telecommunications services for the German government. Germany declared that the
+revelations of ''ties revealed between foreign intelligence agencies and firms''
+showed that it needed to rely on domestic providers.
+
+Google has announced steps to seal gaps in its system that the security agency
+exploited to gain access to the company's databases. Microsoft is challenging in
+court the validity of warrants to turn over data that it stores outside the
+United States.
+
+''I understand why we are where we are,'' said Admiral Rogers, the first career
+cryptologist to run the country's code-breaking and code-making agency, and a
+former commander of the Navy's Fleet Cyber Command. ''I don't waste a lot of
+time saying, 'Why wouldn't you want to work with us?' ''
+
+Admiral Rogers said the majority of corporations that had long given the agency
+its technological edge and global reach were still working with it, though they
+had no interest in advertising the fact. He was unapologetic about the agency's
+past activities, even as he said he recognized that unlike his predecessors for
+the past six decades he was going to have to engage ''in a public dialogue''
+about how the agency operated.
+
+When asked about the changes the agency had made to prevent another insider
+attack like the one Mr. Snowden executed without detection -- including a
+''two-man rule'' that would require two systems operators to enter codes to gain
+access to sensitive data, much as two officers must enter codes to launch
+nuclear weapons -- he refused to say whether he had embraced one major
+recommendation of a presidential commission on the agency's operations.
+
+The commission, which issued a public report in December, said it was surprised
+that the agency did not encrypt the vast databases of information it stores on
+its computers and in the Internet cloud. Had it encrypted that information, the
+files Mr. Snowden downloaded would have been unreadable, unless he also had the
+cryptologic key.
+
+In discussing the post-Snowden changes, Admiral Rogers said the security agency
+had received instructions to cease its monitoring of a number of world leaders
+beyond Chancellor Angela Merkel of Germany, whose cellphone was monitored in a
+decade-long operation that President Obama halted.
+
+''There are some specific targets where we've been instructed, 'Hey, don't
+collect against them anymore,' '' he said. He declined to say how many beyond
+noting, ''Probably more than half a dozen, but not in the hundreds by any
+means.''
+
+Admiral Rogers has taken command of the agency just as its power to collect and
+retain ''telephone metadata'' -- the records of numbers dialed and the duration
+of calls -- is being stripped from the agency. Mr. Obama defended the program
+last summer, after the initial round of revelations. But he had a change of
+heart, fueled by his commission's conclusion that it could not find a case in
+which the program had definitively halted a potential terrorist attack.
+
+Mr. Obama ultimately decided to cease the government collection of the data,
+putting it into the hands of a third party and requiring an individual warrant
+from the Foreign Intelligence Surveillance Court to obtain the data.
+
+Admiral Rogers indicated that system, so long resisted by the security agency,
+was workable. ''I am not going to jump up and down and say, 'I have to have
+access to that data in minutes and hours,' '' he said. ''The flip side is that I
+don't want to take weeks and months to get to the data.''
+
+The House passed a bill that would keep the data in the hands of
+telecommunications businesses; the Senate has yet to act.
+
+''Clearly the intention,'' he said, is to get the security agency ''out of the
+data-retention business'' for domestic calling records.
+
+URL:
+http://www.nytimes.com/2014/06/30/us/sky-isnt-falling-after-snowden-nsa-chief-sa
+ys.html
+
+LOAD-DATE: June 30, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Adm. Michael S. Rogers, seen last month, says it is crucial to
+''ensure that the volume'' of data stolen before ''can't be stolen again.''
+(PHOTOGRAPH BY SAUL LOEB/AGENCE FRANCE-PRESSE -- GETTY IMAGES) (A13)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

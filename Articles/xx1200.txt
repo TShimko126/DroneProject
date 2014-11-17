@@ -1,0 +1,171 @@
+                             1200 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             March 17, 2014 Monday
+                              Late Edition - Final
+
+Start-Ups Aim to Conquer Space Market
+
+BYLINE: By QUENTIN HARDY and NICK BILTON
+
+SECTION: Section B; Column 0; Business/Financial Desk; Pg. 1
+
+LENGTH: 1226 words
+
+
+SAN FRANCISCO -- It was party time at the Planet Labs satellite factory, in an
+unkempt office in the trendy South of Market neighborhood here.
+
+A man in a blue tuxedo shared pancakes with about two dozen young engineers at
+the space start-up. The air was filled with the smell of bacon and the voices of
+Russian and Japanese astronauts. The astronauts communicated over a video hookup
+to the International Space Station, 230 miles above the kitchen, one morning
+last month.
+
+''Now we're going to push the boundaries,'' said Chester Gillmore, the company's
+director of manufacturing. He was referring to his cooking skills, but he could
+just as well have been talking about his 40-employee company, which has already
+put dozens of small satellites in space. Once they are connected, they will be
+able to provide near-constant images of what is going on back on Earth.
+
+And that, Mr. Gillmore believes, could be the basis of a very good business.
+
+Silicon Valley, not content with changing how retailers, taxi companies and
+hotels do business, is taking its disruptive ways into outer space. Several
+young companies with roots in Silicon Valley are trying to elbow their way into
+a business long dominated by national governments and aeronautics giants like
+Boeing.
+
+Space Exploration Technologies, or SpaceX, started by the Tesla founder Elon
+Musk, is already a contractor for NASA, running supply missions to the
+International Space Station. Another start-up, Masten Space Systems, with
+headquarters in Mojave, Calif., is developing rockets designed for unmanned
+research flights. Skybox Imaging, based in Mountain View, Calif., makes
+satellites similar to those of Planet Labs, though they are significantly
+larger.
+
+These start-ups have one thing in common: They think they can undercut the old
+guard with lower prices and smarter thinking.
+
+While the Planet Labs staff ate pancakes that morning in February, two
+shoebox-size nine-pound pods made in the company's unconventional factory
+floated from the International Space Station toward a polar orbit of Earth. Ten
+hours later, two more were released.
+
+The plan was to launch two to four a day, for a configuration of 28 satellites.
+The small, basic devices with solar panels and simple maneuvering equipment and
+radios are expected to last two to four years and are capable of taking weekly
+photos with details as small as a car.
+
+But that is just the start. Last week, Planet Labs announced that it would put
+about 100 satellites into space from the United States and Russia, bringing the
+total number of ''Doves,'' as the company calls them, to 131. That larger
+network, which Planet Labs hopes to complete within a year, is expected to
+create a daily photo mosaic of most of Earth.
+
+That mosaic could be valuable to private customers, like agricultural companies
+monitoring farmlands, or even to governments trying to figure out how to aid
+natural disaster victims. The company has so far booked contracts worth more
+than the $65 million in private equity it has raised, according to Will
+Marshall, the company's co-founder and chief executive.
+
+Working from what he calls a ''clean-ish room,'' separated from the kitchen by
+some loose plastic sheets, Mr. Gillmore and a small team are working on newer
+versions of the lightweight satellites, adjusting and improving them with the
+frequency you would normally see at a software company. The satellites now in
+space are the seventh version; versions eight through 10, which are expected to
+cost less and do more, are being assembled.
+
+These satellites are powered by batteries normally found in a laptop, with
+semiconductors similar to those in a smartphone. ''Nothing here was prequalified
+to be in space,'' Mr. Marshall said. ''We bought most of our parts online.''
+
+Planet Labs will not disclose its manufacturing costs, but potential customers
+who have seen the products think the satellites are approximately 95 percent
+cheaper than most satellites, a figure Mr. Marshall would neither confirm nor
+dispute. ''We leverage the billions of dollars spent on the consumer mobile
+phone business'' for most of the company's parts, he said.
+
+Launch costs, which are mostly based on weight and distance above the planet,
+are also lower. All 28 satellites together weigh about 126 pounds and can easily
+hitch a ride on rockets carrying other space cargo. In comparison, a single
+Landsat, a popular Earth-imaging satellite, weighs 4,566 pounds and flies twice
+as high.
+
+With these small, inexpensive satellites, ''we'll eventually be able to see
+anything on the planet. Anything,'' said Chris Boshuizen, co-founder and chief
+technology officer at Planet Labs. ''We'll be able to tell you what something
+looked like the day before, the day of and the day after an event.''
+
+Planet Labs was founded in 2010 by three scientists who worked at NASA. Mr.
+Boshuizen is Australian, while Mr. Marshall is British. The third, Robbie
+Schingler, is an American who is the company's chief operating officer. Like
+many tech entrepreneurs, all three grew tired of the conventional way things
+were built -- in this case, space products.
+
+For example, the cost of designing, building, launching and monitoring the
+government's Landsat satellite, which takes pictures of Earth from 480 miles up,
+is over $1 billion, according to the United States Geological Survey, which
+administers data from the satellite.
+
+Breaking into a field dominated by big companies with long government contracts
+is tough to do. And doing it cheaply is even harder.
+
+In designing their satellites, Planet Labs threw out things like propulsion
+systems, because of the high cost and weight. Instead, the satellites use
+commercial light sensors, accelerometers and motors to orient their cameras.
+Laptop batteries were chosen because a more expensive version cost too much.
+Plus, they fit inside the satellite's frame.
+
+By making little machines that are often updated, Mr. Gillmore said, ''we're
+building satellites with computers that are six months old. Lots of satellites
+have 10-year-old computers.'' Version nine, which is almost complete, cost about
+35 percent less than the current version in space, and was made four times
+faster, he estimated.
+
+Should Boeing be worried? Not yet, said James P. Lloyd, associate professor of
+astronomy and mechanical and aerospace engineering at Cornell University.
+Professor Lloyd said he believed the space market was big enough for expensive
+Boeing systems and cheaper alternatives from start-ups.
+
+''Essentially anybody can do it, because a combination of miniaturization,
+simplification and availability of technology for building small satellites has
+made it accessible in a way that has never been before,'' he said.
+
+Also, while Planet Labs can beat older competitors on price, those expensive
+features do matter, said David Friedberg, chief executive of Climate, an
+agricultural data analysis firm owned by Monsanto. Monsanto buys data from
+several older imaging satellites, he said, but is not a Planet Labs customer
+because it does not yet offer the infrared imagery needed to judge the health of
+plants. ''Their real competition may be drones,'' he said.
+
+Still, Mr. Marshall is confident that his fast and cheap method will hold its
+own.
+
+''This is the rapid prototyping, like you see with software, taken into space,''
+he said. ''We can see rivers changing course. We can count individual trees.''
+
+URL:
+http://www.nytimes.com/2014/03/17/technology/start-ups-aim-to-conquer-space-mark
+et.html
+
+LOAD-DATE: March 17, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: Planet Labs, a San Francisco start-up, is producing and
+launching dozens of relatively cheap shoebox-size satellites. (B1)
+Engineers and technicians at Planet Labs, which has contracts for its imaging
+with both private companies and governments. (PHOTOGRAPHS BY JIM WILSON/THE NEW
+YORK TIMES)
+ A Planet Labs satellite is released into orbit. The company aims to create a
+daily photo mosaic of most of Earth. (PHOTOGRAPH BY NASA) (B3)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

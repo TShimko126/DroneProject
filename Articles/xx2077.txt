@@ -1,0 +1,118 @@
+                             2077 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                             April 22, 2014 Tuesday
+
+Lytro Goes After Prosumer Photographers With New Camera
+
+BYLINE: NICK BILTON
+
+SECTION: TECHNOLOGY
+
+LENGTH: 675 words
+
+
+
+HIGHLIGHT: The new Lytro Illum camera offers photographers a range of new
+features, while still allowing them to refocus a photo after the fact
+
+
+When the Lytro camera debuted in 2012, it was the talk of techies and
+photographers. What else would you expect from a camera that was developed in
+Silicon Valley and used both photography expertise and a lot of fancy
+programming code?
+
+The first Lytro was capable of performing photography magic. You could take a
+picture as you would with any normal camera, but the digital file it created
+could be refocused after the fact.
+
+While seeing this magic trick in real life was enough to make your mind melt a
+little, it wasn't enough to make people buy one of the company's $400 cameras.
+Carrying an additional camera was more work than it was worth for many
+consumers.
+
+To solve this problem, Lytro is making its camera even bigger and more
+expensive. Stay with me here - I know this doesn't make much sense yet.
+
+The company on Tuesday announced a new Lytro camera, the Lytro Illum. Unlike
+it's predecessor, which looked somewhat like a cube-shaped toy, this new Lytro
+looks like a real camera.
+
+The Lytro Illum comes packed with features. It has an 8x zoom lens, which is the
+equivalent of a 30-250mm camera lens. It can shoot at f2.0, which lets in a
+tremendous amount of light. And it has a 1/4000 of a second shutter speed, which
+means it can be used for sports and high-speed photography.
+
+But why would Lytro make a bigger camera with more controls instead of a
+smaller, simpler model?
+
+Over the last two years, Lytro said it had been working with customers and
+photographers to understand the kind of camera consumers want. This research led
+the company to realize its core customers were not moms and pops, who either own
+a point-and-shoot camera or smartphone.
+
+Instead, the company needed to make products for "prosumer "photographers,
+including people who take pictures for work, or skilled photography hobbyists.
+
+"We realized that our core audience was photographers, not just everyday
+people," Jason Rosenthal, Lytro's chief executive, said in an interview in San
+Francisco. "Photographers want control of their photos and the new Lytro - with
+the new hardware and new software - gives them control over every aspect of the
+image."
+
+Going after professional and serious photographers is a smart move by Lytro.
+While the company's first camera was fun, it was still more effort than a simple
+smartphone camera.
+
+Lytro cameras capture images as rays of light instead of pixels, which makes it
+difficult to compare the image quality with other standard digital cameras (it
+would be like comparing apples and steaks), but Mr. Rosenthal said the new
+camera had four times more resolution than the first Lytro.
+
+The new Lytro Illum has a 40 megaray customized sensor, or 40 million rays,
+which is used to capture the color, intensity and direction of the light rays
+flowing into the camera.
+
+While the new camera can take amazing images, and the ability to refocus after
+the fact still seems like a magic trick, some of the photos shot with the camera
+can sometimes look a little digital. It's almost like you can tell that they
+were shot with a digital camera and not with film. This can easily be fixed in
+post-production by applying a filter or toning down the sharp highlights of an
+image.
+
+The quality of the Lytro images is still far better than any point-and-shoot or
+smartphone camera. And it's way better than Google's attempt to use fancy
+software techniques to fake these types of blurry photos.
+
+All of the technology in the Lytro does comes at a price. The new Illum is
+$1,600. But when compared with other high-end digital cameras, it's actually not
+that expensive. The body alone for the Canon 5D Mark III is $3,400. Throw in a
+comparative lens and you're over $5,000 for a similar camera.
+
+The Lytro Illum can be ordered on the company's website for an introductory
+price of $1,500. It will also be available in some stores this year.
+
+
+     ·    Google Uses Algorithms to Create SLR-Like Photos
+     ·    Crashing DJI's New Drone Into Water and Land
+     ·    Picking a Bag for a Camera
+     ·    A Lesson Learned About the Intensity of Camera Enthusiasts
+     ·    Wirelessly Expand Your Smartphone or Tablet Memory
+
+
+LOAD-DATE: April 22, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

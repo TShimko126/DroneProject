@@ -1,0 +1,149 @@
+                             1372 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             July 10, 2014 Thursday
+                              Late Edition - Final
+
+Chinese Hackers Pursue Key Data on U.S. Workers
+
+BYLINE: By MICHAEL S. SCHMIDT, DAVID E. SANGER and NICOLE PERLROTH; Michael S.
+Schmidt and David E. Sanger reported from Washington, and Nicole Perlroth from
+San Francisco. Richard A. Oppel Jr. contributed reporting from New York.
+
+SECTION: Section A; Column 0; Foreign Desk; Pg. 1
+
+LENGTH: 1139 words
+
+
+WASHINGTON -- Chinese hackers in March broke into the computer networks of the
+United States government agency that houses the personal information of all
+federal employees, according to senior American officials. They appeared to be
+targeting the files on tens of thousands of employees who have applied for
+top-secret security clearances.
+
+The hackers gained access to some of the databases of the Office of Personnel
+Management before the federal authorities detected the threat and blocked them
+from the network, according to the officials. It is not yet clear how far the
+hackers penetrated the agency's systems, in which applicants for security
+clearances list their foreign contacts, previous jobs and personal information
+like past drug use.
+
+In response to questions about the matter, a senior Department of Homeland
+Security official confirmed that the attack had occurred but said that ''at this
+time,'' neither the personnel agency nor Homeland Security had ''identified any
+loss of personally identifiable information.'' The official said an emergency
+response team was assigned ''to assess and mitigate any risks identified.''
+
+One senior American official said that the attack was traced to China, though it
+was not clear if the hackers were part of the government. Its disclosure comes
+as a delegation of senior American officials, led by Secretary of State John
+Kerry, are in Beijing for the annual Strategic and Economic Dialogue, the
+leading forum for discussion between the United States and China on their
+commercial relationships and their wary efforts to work together on economic and
+defense issues.
+
+Computer intrusions have been a major source of discussion and disagreement
+between the two countries, and the Chinese can point to evidence, revealed by
+Edward J. Snowden, that the National Security Agency went deep into the computer
+systems of Huawei, a major maker of computer network equipment, and ran many
+programs to intercept the conversations of Chinese leaders and the military.
+
+American officials say the attack on the Office of Personnel Management was
+notable because while hackers try to breach United States government servers
+nearly every day, they rarely succeed. One of the last attacks the government
+acknowledged occurred last year at the Department of Energy. In that case,
+hackers successfully made off with employee and contractors' personal data. The
+agency was forced to reveal the attack because state disclosure laws force
+entities to report breaches in cases where personally identifiable information
+is compromised. Government agencies do not have to disclose breaches in which
+sensitive government secrets, but no personally identifiable information, has
+been stolen.
+
+Just a month ago, the Justice Department indicted a group of Chinese hackers who
+work for the People's Liberation Army Unit 61398, and charged them with stealing
+corporate secrets. The same unit, and others linked to the P.L.A., have been
+accused in the past of intrusions into United States government computer
+systems, including in the office of the secretary of defense.
+
+But private security researchers say the indictments have hardly deterred the
+People's Liberation Army from hacking foreign targets, and American officials
+are increasingly concerned that they have failed in their effort to deter
+computer attacks from China or elsewhere. ''There's no price to pay for the
+Chinese,'' one senior intelligence official said recently, ''and nothing will
+change until that changes.''
+
+The indictments have been criticized as long on symbolism and short on real
+punishment: There is very little chance that the Chinese military members would
+ever see the inside of an American courtroom, even if the F.B.I. has put their
+pictures on wanted posters.
+
+''I think that it was speaking loudly and carrying a small stick,'' said Dennis
+Blair, the former director of national intelligence during President Obama's
+first term, who was a co-author of a report last year urging that the United
+States create a series of financial disincentives for computer theft and
+attacks, including halting some forms of imports and blocking access to American
+financial markets.
+
+Not long after several members of Unit 61398 were indicted, security researchers
+were able to pin hundreds more cyberattacks at American and European space and
+satellite technology companies and research groups on a second Shanghai-based
+Chinese military unit, known as Unit 61486. Researchers say that even after
+Americans indicted their counterparts in Unit 61398, members of Unit 61486 have
+shown no signs of scaling back.
+
+The same proved true for the dozen other Chinese military and naval units that
+American officials have been tracking as they break into an ever more concerning
+list of corporate targets including drone, missile and nuclear propulsion
+technology makers.
+
+The intrusion at the Office of Personnel Management was particularly disturbing
+because it oversees a system called e-QIP, in which federal employees applying
+for security clearances enter their most personal information, including
+financial data. Federal employees who have had security clearances for some time
+are often required to update their personal information through the website.
+
+The agencies and the contractors use the information from e-QIP to investigate
+the employees and ultimately determine whether they should be granted security
+clearances, or have them updated.
+
+A representative of the Office of Personnel Management said that monitoring
+systems at the Department of Homeland Security and the agency office allowed
+them to be ''alerted to a potential intrusion of our network in mid-March.''
+
+In the past, the Obama administration has urged American companies to share
+intrusion information with the government and reveal breaches to consumers in
+cases where their personal information was compromised and could be used without
+authorization.
+
+But in this case there was no announcement about the attack. ''The
+administration has never advocated that all intrusions be made public,'' said
+Caitlin Hayden, a spokeswoman for the Obama administration. ''We have advocated
+that businesses that have suffered an intrusion notify customers if the intruder
+had access to consumers' personal information. We have also advocated that
+companies and agencies voluntarily share information about intrusions.''
+
+Ms. Hayden noted that the agency had intrusion-detection systems in place and
+notified other federal agencies, state and local governments about the attack,
+then shared relevant threat information with some in the security industry. Four
+months after the attack, Ms. Hayden said the Obama administration had no reason
+to believe personally identifiable information for employees was compromised.
+
+''None of this differs from our normal response to similar threats,'' Ms. Hayden
+said.
+
+URL:
+http://www.nytimes.com/2014/07/10/world/asia/chinese-hackers-pursue-key-data-on-
+us-workers.html
+
+LOAD-DATE: July 10, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

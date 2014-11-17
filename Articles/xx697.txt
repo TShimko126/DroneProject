@@ -1,0 +1,125 @@
+                             697 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             April 29, 2014 Tuesday
+                              Late Edition - Final
+
+White House Details Thinking on Cybersecurity Flaws
+
+BYLINE: By DAVID E. SANGER
+
+SECTION: Section A; Column 0; National Desk; Pg. 15
+
+LENGTH: 910 words
+
+
+WASHINGTON -- In a rare insight into the government's thinking on the use of
+cyberweapons, the White House on Monday published a series of questions it asks
+in deciding when to make public the discovery of major flaws in computer
+security or whether to keep them secret so that American intelligence agencies
+can use them to enable surveillance or an attack.
+
+The discussion came not in a presidential policy directive or a speech, like the
+kind President Obama gave when describing the criteria for conducting drone
+attacks, but in a blog post on the White House website. The item was posted by
+Michael Daniel, the White House cybersecurity coordinator, and appeared to be
+distilled from a far more detailed classified document giving guidance to the
+National Security Agency, the F.B.I. and others who often exploit flaws in
+Internet security.
+
+Mr. Daniel repeated the N.S.A.'s declaration several weeks ago that ''we had no
+prior knowledge of the existence of Heartbleed,'' a security vulnerability that
+created widespread fears that passwords or other delicate information
+transmitted by millions of computer users may have been revealed. But he
+acknowledged that the Heartbleed incident had cast a light on a balancing test
+the White House has until now declined to discuss in any detail: When should the
+government reveal flaws that it discovers, and when should it use them for its
+still-unacknowledged ''stockpile'' of flaws that would help it penetrate foreign
+computer networks?
+
+It is a heated issue inside the N.S.A. and the Pentagon. The United States made
+use of four so-called zero-day vulnerabilities -- flaws that had been known for
+zero days to the outside world -- to attack and disable elements of Iran's
+nuclear program in an operation called Olympic Games. The United States and
+Israel, which mounted that campaign, have never acknowledged their involvement,
+and most of the time such vulnerabilities are exploited for more routine
+actions, especially the interception of email or other Internet traffic.
+
+But the intelligence agencies, along with the F.B.I., have argued that giving up
+a key weapon in that arsenal would amount to unilateral disarmament. The White
+House seems to agree.
+
+''In the majority of cases, responsibly disclosing a newly discovered
+vulnerability is clearly in the national interest,'' Mr. Daniel wrote, because
+of the need to keep Internet transactions, on which the world economy heavily
+depends, as secure as possible. ''This has been and continues to be the case.''
+
+But he spent the rest of his blog entry describing what conditions might lead to
+a decision not to publish the details of a flaw -- perhaps for a short time,
+perhaps for much longer. ''Disclosing a vulnerability can mean that we forego an
+opportunity to collect crucial intelligence that could thwart a terrorist
+attack, stop the theft of our nation's intellectual property, or even discover
+more dangerous vulnerabilities that are being used by hackers or other
+adversaries to exploit our networks,'' Mr. Daniel wrote, describing the review
+that has taken place at the White House in the past few months.
+
+''This is an acknowledgment of the need to do offensive cyber, both espionage
+and attack,'' said Jack Goldsmith, a Harvard law professor who served in the
+Bush administration and has written extensively on the legal rationales for the
+use of cyberweapons. ''What's notable is that the White House has now agreed
+that these issues have to be considered at a higher level, that often it's a
+hard call, and it's not an issue that should just be left to the N.S.A. or the
+F.B.I.''
+
+Mr. Daniel wrote that the administration has now ''established a disciplined,
+rigorous and high-level decision-making process for vulnerability disclosure.''
+He did not say who would participate, or whether the hardest questions would be
+bounced to the president, much as he sometimes reviews the details of drone
+strikes or other covert operations that could have diplomatic implications. Mr.
+Daniel did not say who runs that process, but administration officials say it is
+largely directed by the National Security Council, and often by Mr. Daniel
+himself.
+
+That group would weigh at least nine questions that Mr. Daniel enumerated.
+
+The first was: ''How much is the vulnerable system used in the core Internet
+infrastructure, in other critical infrastructure systems, in the U.S. economy,
+and/or in national security systems?'' That seemed to suggest that a
+vulnerability that had potentially wide impact on the American economy, its
+utilities or the cellphone networks, for example, would be more important than
+one with narrow implications.
+
+Another question for the group to consider, he wrote, was how much harm ''an
+adversary nation or criminal group'' could do with the vulnerability and whether
+it would be possible to know that such a nation or group was exploiting it. In
+the case of Heartbleed, the government was apparently unaware of the flaw, even
+though it had existed for roughly two years.
+
+Other questions turned to the issue of whether intelligence agencies think the
+information is necessary, for surveillance or an attack, and whether there are
+other ways to get it. Among the most interesting questions on the list was this
+one: ''Could we utilize the vulnerability for a short period of time before we
+disclose it?''
+
+That suggests an option to allow the White House to split the difference between
+its intelligence needs and the principle of public disclosure.
+
+URL:
+http://www.nytimes.com/2014/04/29/us/white-house-details-thinking-on-cybersecuri
+ty-gaps.html
+
+LOAD-DATE: April 29, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Michael Daniel (PHOTOGRAPH BY BRENDAN SMIALOWSKI/A.F.P. -- GETTY
+IMAGES)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

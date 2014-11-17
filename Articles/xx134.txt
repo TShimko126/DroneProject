@@ -1,0 +1,77 @@
+                             134 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                          September 11, 2014 Thursday
+                              Late Edition - Final
+
+An Eye in the Sky, Accessible to the Hobbyist
+
+SECTION: Section B; Column 0; Personal Tech; GADGETWISE; Pg. 6
+
+LENGTH: 321 words
+
+
+Look to the sky and say ''Cheese!''
+
+Taking photos and videos from a flying drone has quickly emerged as a popular
+hobby, allowing for often stunning images from new perspectives.
+
+One of the latest drones designed to capture these images is the Phantom 2
+Vision Plus, a $1,300 machine made by DJI. The drone, which has four propellers,
+comes equipped with a camera attached to the bottom that can record
+high-resolution images and high-definition video.
+
+The Phantom comes with many other features for visual storytelling. A user can
+control the device using a remote control hooked up to an iPhone or Android
+smartphone, where live video from the drone's camera can be streamed. By using
+images supplied to the smartphone, pilots can navigate the drone even when it is
+out of a direct line of sight.
+
+People flying the Phantom 2 can capture images at different angles by using an
+app to control the camera. And compared with previous drones from DJI, the
+Phantom 2 has a removable battery and smarter flight software.
+
+Flying it is far easier than flying previous remote control helicopters or
+aircraft, thanks in part to the drone's intelligence. If a user lets go of the
+controls, for instance, the Vision will use a GPS device to position itself.
+That GPS device will also help stabilize the aircraft from external forces, like
+strong gusts of wind. And the device can be programmed to move to specific
+points in the air over time.
+
+It is easy to imagine how the Vision Plus could be put into the hands of people
+who want to document sports or other events, or even those who might want to
+photograph the exteriors of buildings.
+
+The camera does not record audio, but most external sounds would be drowned out
+by the loud whizzing of the props and their electric motors anyway. And besides,
+those taking videos at a wedding -- one of the many new popular uses for drones
+-- will probably want to set them to ''Electric Boogie'' anyway.
+
+URL:
+http://www.nytimes.com/2014/09/11/technology/personaltech/a-teardown-of-the-phan
+tom-2-vision-plus-drone-from-dji.html
+
+LOAD-DATE: September 11, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS (PHOTOGRAPHS BY TONY CENICOLA/THE NEW YORK TIMES) GRAPHICS:
+Phantom 2 Vision Plus: Maximum flight speed: 33.5 m.p.h. Maximum ascent speed:
+13.4 m.p.h. Body width: 11.4 in. Weight: 2.7 lbs.
+Steadying the Camera: The Vision Plus features a stabilized camera mount called
+a gimbal. Motors on each of its three axes allow the camera to remain steady as
+the drone moves. For example, if the drone rolls clockwise, the gimbal
+automatically rotates the camera a corresponding amount counterclockwise to help
+produce smooth video.
+ Remote Control: Includes a mount  for a smartphone  and a range  extender that
+allows the phone  to communicate  with the drone up  to 2,300 feet away.
+(Source: DJI Technologies) (GRAPHICS BY FRANK O'CONNELL/THE NEW YORK TIMES)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

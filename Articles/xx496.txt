@@ -1,0 +1,145 @@
+                             496 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             July 29, 2014 Tuesday
+                              Late Edition - Final
+
+A Tentacled, Flexible Breakthrough
+
+BYLINE: By KATHERINE HARMON COURAGE
+
+SECTION: Section D; Column 0; Science Desk; Pg. 3
+
+LENGTH: 957 words
+
+
+LIVORNO, Italy -- For years, roboticists have yearned to develop a flexible
+machine that can explore tight spaces, repair dangerous equipment and
+potentially even conform to the human body.
+
+Now one of the first members of this new breed of robots is almost here. It has
+sinewy arms, a powerful grip and the ability to work underwater without coming
+up for air.
+
+Yes, it is an octopus.
+
+Because octopuses can swim, crawl and manipulate objects, they make ''the ideal
+underwater robot,'' said Francesco Giorgio-Serchi, a scientist at the Research
+Center on Sea Technologies and Marine Robotics here, who is working on the
+project.
+
+In a small seaside laboratory, he and others have been tinkering away on a
+prototype of a multiarmed robot they call PoseiDrone for the sea god Poseidon.
+Pieces of half-built arms are scattered about, and an inflatable kiddie pool
+sits between tables.
+
+It was in that modest body of water that their robotic octopus got its sea legs,
+as it were.
+
+It did so well in the pool that the researchers borrowed a small boat and
+deployed it in the Ligurian Sea, still attached to their controls via cables. It
+successfully swam in the waves and adeptly crawled along the rocky bottom.
+
+Robotic technology is generally based on hard materials -- a logical approach,
+because they can be controlled with precise movements and low computing power.
+Soft robotics is something else altogether, promising ''the mechanical
+versatility you find in natural organisms,'' said Carmel Majidi, a mechanical
+engineer at Carnegie Mellon University's Robotics Institute who is working to
+develop sensitive artificial skin and strong artificial muscles.
+
+Imagine a roving vacuum cleaner that could literally squeeze itself into nooks
+where dust bunnies hide. Or more grandly, Dr. Majidi said, exploration vehicles,
+construction drones, ''wearable robots and maybe even implantable robots.''
+
+Early efforts in the field date to the 1940s, when scientists developed
+pneumatic ''artificial muscles'' to be used in traditional robots. Progress has
+inched along since then, producing small-scale projects like scooting
+soft-bodied caterpillars and pneumatic quadrupeds.
+
+But the advent of 3D printing has greatly accelerated the chase.
+
+Dr. Majidi said the technology had been ''a bit of a game-changer,'' enabling
+just about any research team -- or garage tinkerer -- to make new molds to
+create stretchy prototypes, a process that just a few years ago was slow and
+costly.
+
+A group at Harvard used molds from a 3D printer to create a prototype of a soft,
+octopuslike four-legged robot that could be controlled via tubes of liquid or
+air. And here in Italy, Dr. Giorgio-Serchi and his colleagues recently acquired
+a 3D printer that allows them to design, experiment and revise quickly.
+
+They aim to replicate the key features of an octopus: eight arms to provide an
+almost infinite range of motion; the ability to squeeze through any opening
+larger than its chitinous beak; and an unusual nervous system in which the arms
+are semiautonomous and the central brain is thought to do little more than issue
+general commands (''Arms, let's go catch that crab!'').
+
+To make quicker headway, some of the PoseiDrone's components, such as the
+electronics, remain hard for now. The exterior will be silicone -- a material
+whose density, like that of an octopus, is similar to water's.
+
+The drone's potential missions include inspecting and repairing underwater
+turbines, wave-energy generators, oil rigs, ship hulls and perhaps fishing nets.
+In contrast to a hard-bodied underwater bot, which would need to hover at a safe
+distance from such equipment, the PoseiDrone should be able to attach itself
+directly without damaging the equipment or itself, Dr. Giorgio-Serchi said.
+Sending robots down to perform dangerous tasks could also help keep human divers
+safer.
+
+The drone can already crawl, swim and even carry small tools. But it is not yet
+ready to repair a turbine.
+
+And although the researchers are applying for patents, it is still a crude
+specimen, a robotic Frankenstein's monster bridging the eras of hard and squishy
+-- currently only 80 percent soft materials.
+
+''It's still very much a work in progress,'' Dr. Majidi said. And Mark R.
+Cutkosky, a professor at the Stanford School of Engineering, said: ''How do we
+build stretchy conductors? That's still a very open question.''
+
+''It sounds pretty prosaic,'' he added, ''yet one of the biggest challenges is
+just wiring. This was true 20 years ago, and it's still true.'' The PoseiDrone's
+movements still rely on external control of conventional motors and actuators.
+
+Nevertheless, the octopus robot is more sophisticated than a standard robot
+covered in rubber, Dr. Giorgio-Serchi said. Its abundance of soft, elastic
+materials enables it to do things most other robots cannot -- much as
+stiff-jointed humans cannot do what an octopus can, despite our soft skin and
+muscles.
+
+''Without the soft part,'' Dr. Giorgio-Serchi said, ''it would just be a pile of
+motors and cables.''
+
+Also like real cephalopods, the PoseiDrone, whose body is about the length of an
+adult human hand, could be just about any scale -- from fractions of an inch to
+dozens of feet across. A larger version is in the works. And perhaps not
+reassuring to those who fear a robot uprising, the bigger it is, ''the easier it
+is to make it stronger -- and fast,'' Dr. Giorgio-Serchi said.
+
+Virtually any conceivable form is now just a click away, so why do researchers
+focus on animal models? Dr. Cutkosky, who has built a climbing robot with
+gecko-inspired grippers, says we inevitably look to the natural world for
+inspiration.
+
+And caution. Comparing the octopus robot to its real-life counterpart, he said,
+''It's probably a good thing they're confined to water.''
+
+URL:
+http://www.nytimes.com/2014/07/29/science/a-tentacled-underwater-workhorse-.html
+
+LOAD-DATE: July 29, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: This image from ''The Age of  Robots'' shows the type of  robot
+Francesco Giorgio-Serchi  is designing, one that relies  more on ''soft,''
+skinlike  technology. (PHOTOGRAPH BY 'THE AGE OF ROBOTS' BY M. BREGA)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

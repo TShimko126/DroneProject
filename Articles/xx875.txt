@@ -1,0 +1,384 @@
+                             875 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                            December 22, 2013 Sunday
+                              Late Edition - Final
+
+Buy It Now
+
+BYLINE: By JEFF HIMMELMAN
+
+SECTION: Section MM; Column 0; Magazine Desk; Pg. 38
+
+LENGTH: 4015 words
+
+
+A blue BMW crossed the cracked parking lot and rolled to a stop outside a
+tired-looking Macy's.
+
+The passenger door opened, and out sprang John Donahoe, the chief executive of
+eBay, who began striding toward the store. It was earlier this year, and from
+the outside the Westfield Valley Fair mall near San Jose had a kind of
+ghost-town feel to it. But Donahoe thinks he can change that. As he walked from
+store to store -- a nearly empty GNC, a quiet Foot Locker -- he pointed out how
+little had changed in physical retail stores over the last 30 or 40 years and
+what would have to change in the next few years in order for these stores to
+compete with Amazon and Walmart.
+
+As he sat in a patisserie on the mall's ground floor, Donahoe touched on his
+usual themes: how technology has driven scale and automation; how the big-box
+retailers have crushed Main Street; the way in which our shopping experiences
+have become less dependent on human interaction. And these changes in the
+commercial landscape, he said, tend to be ''phrased in zero-sum terms: big
+retailers versus the little guy. Local versus global. The Chinese imports will
+kill you. Online is going to disrupt offline.''
+
+There has been much talk about Amazon driving retailers out of business -- most
+recently, and somewhat unbelievably, by proposing to use drones to deliver
+purchases. For some time now, physical retailers have lived in fear of the
+various ways in which Amazon can undercut them. If you're looking for a product
+that you don't need to try on or try out, Amazon's customer analytics and
+nationwide network of 40-plus enormous fulfillment centers is awfully tough to
+compete with. And even if you do need to try something on, Amazon conveniently
+includes a bar-code scanner in its mobile application so you can compare prices
+while you're in a store and then have the same item shipped to your home with
+just a few clicks. (Retailers call this act of checking out products in a store
+and then buying them online from a different vendor ''showrooming.'') Amazon
+holds such sway that for many it's the default place to buy things online.
+
+And yet online commerce currently accounts for only about 6 percent of all
+commerce in the United States. We still buy more than 90 percent of everything
+we purchase offline, often by handing over money or swiping a credit card in
+exchange for the goods we want. But the proliferation of smartphones and tablets
+has increasingly led to the use of digital technology to help us make those
+purchases, and it's in that convergence that eBay sees its opportunity. As
+Donahoe puts it: ''We view it actually as and. Not online, not offline: Both.''
+
+Most people think of eBay as an online auction house, the world's biggest garage
+sale, which it has been for most of its life. But since Donahoe took over in
+2008, he has slowly moved the company beyond auctions, developing technology
+partnerships with big retailers like Home Depot, Macy's, Toys ''R'' Us and
+Target and expanding eBay's online marketplace to include reliable, returnable
+goods at fixed prices. (Auctions currently represent just 30 percent of the
+purchases made at eBay.com; the site sells 13,000 cars a week through its mobile
+app alone, many at fixed prices.)
+
+Under Donahoe, eBay has made 34 acquisitions over the last five years, most of
+them to provide the company and its retail partners with enhanced technology.
+EBay can help with the back end of websites, create interactive storefronts in
+real-world locations, streamline the electronic-payment process or help monitor
+inventory in real time. (Outsourcing some of the digital strategy and
+technological operations to eBay frees up companies to focus on what they
+presumably do best: Make and market their own products.) In select cities, eBay
+has also recently introduced eBay Now, an app that allows you to order goods
+from participating local vendors and have them delivered to your door in about
+an hour for a $5 fee. The company is betting its future on the idea that its
+interactive technology can turn shopping into a kind of entertainment, or at
+least make commerce something more than simply working through
+price-plus-shipping calculations. If eBay can get enough people into Dick's
+Sporting Goods to try out a new set of golf clubs and then get them to buy those
+clubs in the store, instead of from Amazon, there's a business model there.
+
+Aâ[#x20ac][0/00]key element of eBay's vision of the future is the digital
+wallet. On a basic level, having a ''digital wallet'' means paying with your
+phone, but it's about a lot more than that; it's as much a concept as a product.
+EBay bought PayPal in 2002, after PayPal established itself as a safe way to
+transfer money between people who didn't know each other (thus facilitating eBay
+purchases). For the last several years, eBay has regarded digital payments
+through mobile devices as having the potential to change everything -- to
+become, as David Marcus, PayPal's president, puts it, ''Money 3.0.''
+
+EBay's current iteration of Money 3.0 sits on the third floor of a low-rise
+building on Sixth Avenue in the Flatiron district of Manhattan, in a series of
+spaces that the company calls the Commerce Innovation Showcase. A ''brand
+ambassador'' named Josh Beyers led me on a tour through them earlier this year.
+As he moved from a model living room to a model toy store to a model cafe, the
+PayPal mobile app served as a kind of virtual key that unlocked everything that
+you might want to do in places like these. Once Beyers ''checked in'' through
+the app at the toy store, for example, he was able to retrieve a purchase that
+he made earlier on the eBay website without ever having to remove his phone from
+his pocket. At the cafe, Beyers's sandwich -- which he ordered earlier from his
+phone, down to the condiments -- was ready for him when he arrived. The app also
+saved his preferences, so he could order the same thing again later without
+having to repeat the process. His picture popped up on the point-of-sale system
+at the cafe, and the ''clerk'' verified who he was and then handed him his
+sandwich. At a model stadium, he entered with a digital ticket -- StubHub, the
+online-ticket-resale vendor, was acquired by eBay several years ago -- and was
+able to have food delivered to his seat and a souvenir jersey sent to his home
+that same day, even though the in-stadium store was sold out.
+
+There was a hokey Potemkin village feel to the whole show, but the seamlessness
+of the personalization was striking. When you shop online -- when you do
+anything online, as we are all supposed to know by now -- you're being tracked.
+Sites know who you are, when you're there, how you got there, what pages you
+clicked on, how long you stayed on each page and in some instances exactly where
+and for how long your cursor hovered as you tried to make up your mind. Online
+companies collect all of this information and use it. Offline retailers --
+physical stores -- do not have these advantages. They don't know who you are
+unless you use your card to buy something, and that's only after the fact. They
+can't target you or make you any kind of specific offer, as online retailers
+can. The technology on display in eBay's Commerce Innovation Showcase is
+designed to try to close that gap.
+
+EBay can't claim to be the only one capable of bringing this vision to life.
+Along with others, Walmart is also making the move into digital retailing as
+fast as it can in an effort to compete with Amazon -- and in a much more direct
+way. Walmart's reputation in Silicon Valley is for a kind of old-school
+efficiency: getting pallets of goods (often from China) into a big-box store in
+America and then into the hands of its customers, all for very low prices. There
+are more than 200 million visits to its stores every week. But until fairly
+recently, Walmart's online search engine was having trouble doing something as
+simple as identifying what visitors wanted when they searched for ''denim.'' And
+so two years ago the company opened @WalmartLabs, in Silicon Valley, where 1,500
+people now work. There are an additional 1,000 people around the world dedicated
+solely to e-commerce. All of Walmart's stores are now ''geofenced'' -- that is,
+they know when individual customers are in the store, thanks to the Walmart app
+on their phones that can guide them to what they want. In roughly 220 of
+Walmart's 4,000 locations, customers can make their purchases with their
+telephones, bypassing registers (and their lines) altogether. ''People know
+Walmart as the world's largest retailer, but they're going to know us as one of
+the largest and fastest-growing e-commerce companies,'' Neil Ashe, the head of
+global e-commerce at Walmart, said. This is corporate messaging, to be sure, but
+it also reflects a very real shift in strategy. Ashe has said elsewhere that
+turning Walmart into a digital retailer is not just a project but a permanent
+part of its future as a business.
+
+''People expect Toys 'R' Us to act like Amazon,'' said Christopher Saridakis,
+who heads eBay Enterprise, ''but they don't realize how hard it is.'' He was
+preparing to show me around a 543,000-square-foot fulfillment center in a remote
+corporate complex in Walton, Ky. What he meant was that Amazon has conditioned
+consumers to expect an ease to online shopping -- a few clicks, desired items
+always in stock, free two-day shipping and returns -- that physical retailers
+have a hard time competing with. EBay Enterprise, which was known as GSI
+Commerce when eBay purchased it in 2011, now drives eBay's effort to enable its
+larger retail partners to meet the same expectations.
+
+Saridakis referred to the facility in Walton as ''the other side of the
+computer'': When we press ''buy'' on the websites of Levi's or AÃ©ropostale or
+Quicksilver or PBS or Major League Baseball, whose products are all warehoused
+in Walton, that purchase often becomes a package bound from Walton for your
+door. Five miles of conveyor belts feed into a double-tilt tray sorter that
+dumps individually wrapped goods into the appropriate chutes at one end of the
+facility and then packed-and-stamped boxes onto ramps that lead directly into
+UPS trucks at the other. Almost 200,000 products from nearly 600,000 unique
+locations within the facility make their way via human pickers and machine
+sorters into the proper packages and off to the people who want them.
+
+EBay Enterprise also helps retailers rethink and reorganize how they use their
+physical stores. Increasingly, retailers are starting to regard their stores as
+small-scale distribution centers for their products, as nodes in the fulfillment
+process as well as showrooms. If you live in Manhattan and you order Beanie
+Babies online from Toys ''R'' Us, sometimes it makes more economic sense for an
+employee at a local Toys ''R'' Us to pack and ship that order than it does to
+have the fulfillment center in Kentucky do it. This takes an enormous amount of
+integrated technology to orchestrate, but it's also the only way to compete with
+Amazon: using everything from physical stores to mobile applications to delivery
+services to make sure that customers can get what they want when they want it.
+Walmart is doing some of the same things: building million-square-foot
+online-only warehouses and experimenting with using stores as distribution
+centers. The company is now shipping goods directly from roughly 35 of its 4,000
+stores.
+
+While this process is about efficiently moving goods, the deeper purpose is to
+improve and manage the relationship with the customer. Healey Cypher, the head
+of retail innovation at eBay, tells a story about a bookseller who was convinced
+that online commerce would kill his business: ''I said to him: 'How do you know
+when someone's in your store? You don't, unless they bought something, and then
+only after the purchase. What if you had a platform for the first time ever that
+said, ''This person is in your store, they like these things, they bought these
+things on your web store, and here's an offer you should give them based on
+their purchases''? You don't have to take it, but you've never had that
+opportunity before.'â[#x20ac][0/00]''
+
+The best current example of the digital wallet's promise, according to many in
+Silicon Valley, is Uber, a digital platform that connects riders and drivers.
+You enter your credit-card information into the Uber app once, and then every
+time you want to use it, the app knows where you are and shows you how many cars
+are nearby and how soon one can be available. You order with one touch on a
+mobile screen, and a text lets you know a driver is on the way and then another
+tells you when he's near. He greets you by name, you tell him where you want to
+go and then, when you are dropped off, there is no further exchange -- no tip,
+no receipt, no signing anything. The app takes care of all that for you. Uber
+didn't change anything about the nature of cars or how they are driven. It just
+figured out how to use data and technology to make what was out there work much
+more efficiently. (EBay, through its acquisition of the company Shutl, has begun
+to exploit a similar inefficiency in the spare capacity of courier companies.)
+
+In this fashion, services can become both frictionless and more personal to you.
+Imagine that everything functioned as Uber does. Steve Yankovich, the vice
+president of innovation and new ventures at eBay, often asks people to do just
+that in order to envision eBay's plans for the future. Imagine that, when you
+walk into a store, you could look at your mobile device and see everything
+currently available in your size there. Instead of having to stuff the ''buy
+nine sandwiches, get the 10th sandwich free'' cards from various merchants into
+your wallet, suppose every 10th sandwich showed up free without your having to
+do anything at all. Ditto your frequent-flier information and every other
+affinity or rewards program.
+
+''It's not about payment,'' Jack Dorsey, a founder of Square, a PayPal
+competitor, says. ''It's about identity. And it's about the experience that a
+merchant can create, which is what actually builds loyalty. We believe that it's
+important that the technology, the mechanics of payments, actually fade away to
+the background. They disappear completely.'' After helping found Twitter in
+2006, Dorsey became chief executive of Square in 2009. Its initial innovation
+was the Square Reader, a small device that plugs into the headphone jack of a
+smartphone or tablet and enables anyone, anywhere, to process a credit-card
+payment. (PayPal now has a similar reader.) In 2011, Square introduced what
+would become known as the Square Wallet, an app that links to a credit card (as
+Uber does) and allows consumers to pay either by holding their phones up to a
+scanner or, in some cases, simply by having the phones on in their pockets.
+Dorsey talks about how cool it is to get your coffee without having to do
+anything, but he also emphasizes what it means for the merchants. ''The seller
+gets this very interesting tool,'' he says. ''They can recognize me when I walk
+in.''
+
+The idea is that, someday not too far off from now, you'll store everything in
+your digital wallet that you currently store in your old leather one --
+including your driver's license, health-insurance information, all of it. We've
+all gone out for the night and not wanted to bring a bulky wallet, so we grab
+our phone, our license, a credit card and $20 and head out the door. The digital
+wallet, if it develops to its potential, will make the license and the credit
+card redundant, and eventually also the $20.
+
+It's hard to predict who will prevail in any sector of the tech world, but
+PayPal does have some advantages. This year Square processed more than $20
+billion in payments -- mostly through its card readers, not the wallet -- but
+PayPal has 137 million active users, and millions of them have downloaded the
+PayPal app. PayPal's head start has enabled it to create a greater variety of
+payment options than other companies offer. It doesn't just link to a credit
+card. It's set up more like a bank: through it, you can make payments with any
+of your credit cards or a debit card, have the amount withdrawn directly from
+your checking account or even finance the purchase through a line of credit with
+PayPal itself. And for up to a week after you've made a purchase, you can choose
+how you want to pay for it. Almost anybody can build a digital wallet. The trick
+is getting people to entrust that wallet with their financial information and
+then to offer them enough benefits that they'll use it.
+
+Of course there's a catch -- or, really, a series of catches. The first is that
+there's not much genuine demand for the digital wallet. Even Hill Ferguson,
+PayPal's chief product officer, says, ''The digital wallet is the linchpin for
+everything we do, but it's interesting, because consumers aren't asking for
+them.'' People who don't work at corporations that have a financial interest in
+digital wallets are even more direct. Sucharita Mulpuru, a vice president with
+Forrester Research who specializes in online commerce and consumer behavior,
+says: ''Digital wallets, at this point in time, are solutions looking for
+problems. We don't fundamentally have friction in payments in the U.S. People
+who want to use cash are using cash for a reason: They prefer to or they don't
+want to be traced. As for credit cards, there is not something fundamentally
+inconvenient about them. They're fast, they're reliable, our networks are
+good.'' She has also been watching a start-up called Coin, which is basically
+one card with a magnetic strip that can store any swipable card that you have.
+At the point of sale you can pick one by pressing a button on the card. This
+requires no change whatsoever in consumer behavior. (PayPal has issued a card,
+together with Discover, for much the same reason: some people aren't quite ready
+to make the leap to purely digital transactions.) Credit cards really are pretty
+easy. And if you're paying with your phone, what do you do if you run out of
+batteries or if the network is down? The credit-card network rarely falters, and
+it is ubiquitous; as of now, there are very few places that look anything like
+the Commerce Innovation Showcase.
+
+Another catch is that the ''personalization'' envisioned by the pioneers of the
+digital wallet isn't really all that personal, and in many ways the process
+benefits retailers more than it does consumers. Entering a store that happens to
+be geofenced and receiving notifications on your phone based on who you are and
+where you're standing -- does anybody truly want that? The same can be asked of
+mobile coupons meant to pull people into stores. The lack of demand for this
+stuff right now suggests that consumers aren't so sure. Having a clerk you don't
+know identify you by your picture on a point-of-sale system and then hand you
+your macchiato isn't much of a personal interaction. Yes, you might be addressed
+by name, but it doesn't mean you're going to get to know the clerk. People at
+PayPal and Square rhapsodize about the bygone era of 50 or 100 years ago when
+you went to a general store in which the owner knew your name and you had an
+account and simply took what you wanted and then settled up at some later date.
+But it's a purposefully naÃ¯ve reading of an idealized past that most of us
+never experienced. ''We use newly coined ideas of authenticity to attempt to
+hold on to something we can't quite articulate that might have been lost in the
+course of becoming modern,'' Jaron Lanier, a well-known computer scientist and
+technology expert, writes in his recent book, ''Who Owns the Future?''
+
+There are also privacy concerns. Consumers have to be willing to share
+information about themselves -- their location, their preferences -- in order
+for the software to do its job. With the recent revelations that the government
+has been watching us more thoroughly than we ever knew, that has become a
+tougher sell than it once was. Security and the risk of identity theft pose
+challenges, too. The hope, according to David Marcus of PayPal, is that
+biometric technologies -- for example, the fingerprint sensor on the iPhone 5s
+-- will eventually become ubiquitous and create the sense of security that
+people need to make the leap to mobile-only transactions. In general, Silicon
+Valley tends to be overly optimistic about how fast new technologies and
+behaviors will be adopted. Payment companies talk about making the transition to
+digital payments within the next three to five years, but Mulpuru says she
+thinks it's going to be at least 10 years before people are ready to accept such
+a radically new way of doing things.
+
+In some ways, the future is already here. At City Winery in New York City right
+now, you can use your PayPal app to track your bill in real time as you eat and
+drink and then pay it (including the gratuity) on your phone without having to
+wait for the server. (Ferguson, who's in charge of PayPal's digital wallet, says
+that the early results indicate that diners leave bigger tips when they don't
+have to wait for the check.) And maybe it is better if our phones can work
+quietly from our pockets instead of drawing our attention away from others. ''I
+think technology is at its best when it reminds us that we already have
+everything we need,'' Jack Dorsey says. ''I'm excited when technology disappears
+more and we're using what we already have. This whole trend of moving from a
+keyboard and a mouse to actually using our fingers, our voice.'' We carry our
+phones with us everywhere today, but that doesn't mean we will in a few years.
+The strategy of the future isn't necessarily about your phone. It's about your
+phone as another intelligent screen.
+
+EBay and Square and retailers trying to compete with Amazon have to try to take
+advantage of every new technology because that seems to be the best way to avoid
+being squashed. Amazon is so big, has so many distribution centers and offers so
+much ease of use that in some sense it has already won -- unless its competitors
+can find new ways to bring the convenience and connectivity of online
+interaction to the physical retail world.
+
+But even John Donahoe hesitates to predict exactly what facets of the digital
+wallet, or of the technologies that eBay is trying to deliver to its retail
+partners, will take off. Maybe a ''smart'' mirror in a store, which takes your
+measurements and allows you to try on several outfits virtually and then
+purchase them from the screen itself, will catch on; maybe it won't. (EBay has
+been experimenting with a concept it calls Connected Glass, and the company says
+it's much less gimmicky than it sounds. Right now eBay uses it mostly to create
+interactive digital storefronts in physical locations like a mall or an unused
+building, but Yankovich says that someday we'll pull up to a drive-through and
+order by touching the connected screen embedded in our driver-side windows.)
+Maybe eBay will find itself fabricating things via 3-D printing, instead of
+simply facilitating sales. Maybe you'll be able to use your camera to take a
+panoramic scan of your surroundings and then tap on any item in the image and
+look up all kinds of things about it, from its cost to its user manual.
+
+In five years, digital wallets may well be a part of how we live, but they might
+also remain the province of the same early adopters who bought Segways. The
+recent rise of Bitcoin proves how fast things can change. Nobody's going to use
+a PayPal digital wallet just because John Donahoe wants them to. Many people at
+eBay said the exact same thing, as if singing from the same sheet: ''The
+consumer leads; the technology enables.'' A good tagline, but it's also true. If
+you don't like it, if it doesn't give you something you don't want to live
+without, you won't use it.
+
+''I would say everything we're doing is just enabling the future,'' Donahoe
+said, as we wrapped up our interview at the Westfield mall. The slow trickle of
+midday mall traffic eased past us. He sounded confident, even if the future was
+a little hard to see from where we were sitting.
+
+URL:
+http://www.nytimes.com/2013/12/22/magazine/ebays-strategy-for-taking-on-amazon.h
+tml
+
+LOAD-DATE: December 23, 2013
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO (PHOTOGRAPH BY GRANT CORNETT
+ PROP STYLIST: JANINE IVERSEN) CHARTS: MARKET MAKERS   (CHARTS BY U.S.
+SECURITIES AND EXCHANGE COMMISSION) (MM41)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2013 The New York Times Company
+
+

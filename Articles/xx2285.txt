@@ -1,0 +1,158 @@
+                             2285 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                        July 21, 2014 Monday 5:45 PM EST
+
+Why the Ukraine separatists screwed up: Badly organized insurgents can't master
+complex weapons systems;
+Many insurgent organizations don't have the internal institutions that would
+allow them to really use complex modern weapons systems. This helps explain why
+Flight 17 was shot down.
+
+BYLINE: Stephen Biddle;Ivan Oelrich
+
+LENGTH: 1345 words
+
+
+Stephen Biddle is a professor of political science and international affairs at
+George Washington University and an adjunct senior fellow for defense policy at
+the Council on Foreign Relations.
+
+Ivan Oelrich is a former vice president of the Strategic Security Program at the
+Federation of American Scientists, and serves as an adjunct professor of
+international affairs at George Washington University.
+
+For many people, "nonstate actors" are supposed to be ill-equipped militias,
+warlord bands or Vietcong insurgents in black pajamas. Because they lack
+sophisticated weapons, so the common assumption goes, they resort to irregular
+guerilla tactics. But if they somehow got modern precision weapons, it is often
+argued, they would quickly become a grave danger to state militaries like the
+Americans' - or the Ukrainians. In fact, the increasing proliferation of modern
+weapons to nonstate actors has given rise to a new category of "hybrid" threats
+- nonstate actors who combine irregular or terrorist tactics with precision
+firepower, and which many now see as a central defense planning challenge for
+the United States.
+
+This brings us to the problem of the Russian-designed SA-11 antiaircraft missile
+now widely believed to have shot down Malaysian Airlines flight 17 on July 17.
+Many now assume that Ukrainian separatist rebels acquired at least one SA-11 TEL
+(transporter-erector-launcher), and used it to fire the fatal shot. The SA-11 is
+certainly a sophisticated weapon: a modern, radar-guided surface-to-air missile
+(SAM), it has a slant range of over 20 miles, a speed of about Mach 3, and is
+capable of tracking and engaging multiple high-performance aircraft
+simultaneously. How, then, could such a sophisticated weapon shoot down a
+civilian airliner? And what, if anything, does this tell us about the larger
+problem of how to assess the threat posed by advanced weapons in nonstate
+actors' hands?
+
+In fact the real military capability conveyed by any given weapon is only weakly
+related to the weapon's technical characteristics. Especially for nonstate
+militaries, the presence or absence of the institutional infrastructure needed
+to use complex systems effectively is a much stronger predictor of real power.
+Some nonstate actors are actually surprisingly mature on this score; others much
+less so. And the difference matters - a lot.
+
+Consider the problem of modern air defense weapons, like, say, the SA-11. Modern
+airspace on a continent like Europe is crowded - there is often a complex mix of
+civilian aircraft, friendly combat planes and hostile threats intermingled in
+the sky. To use a SAM effectively requires, inter alia, the ability to shoot
+down only the enemy while avoiding everyone else. This is a tall order. In air
+defense, life and death decisions have to be made in minutes or seconds - jet
+aircraft close with potential targets at hundreds of miles an hour, and if a
+radar blip is actually an enemy airplane trying to kill you, you need to engage
+it as quickly as possible. All modern air defense systems thus have complex IFF
+(identification, friend or foe) systems to distinguish enemy aircraft from one's
+own, and combat planes from civilian airliners. These systems typically combine
+antennas that receive coded transponder signals from friendly combat planes and
+noncombatant aircraft, software that uses features of the target's radar
+signature to identify the kind of airplane being tracked, and contextual
+information received from other radars and communication systems in a larger
+network. Taken together, a trained crew, working with other trained crews in a
+networked IADS (integrated air defense system) can usually arrange to shoot down
+the enemy rather than someone else. But this is a very demanding job requiring
+close cooperation among many technically proficient people in many locations.
+
+To do this well requires a well-functioning organization. A few individuals in
+one place operating on their own cannot accomplish this. Accuracy on these
+timelines demands constant practice and the ability to trust that other people
+in distant locations are themselves going to have the training and skills needed
+to make quick calls accurately on the basis of very abstract incoming
+information. A pickup team of separatist rebels, some of whom might have trained
+on similar equipment once upon a time when they used to be soldiers, few of whom
+have had much if any chance to train together, some of whom may represent
+factions who distrust other parts of the rebel movement, and many of whom may
+never have met one another or know whose faction other people in the radio net
+report to, is going to have a very hard time making fast, accurate, consistent
+decisions on what to fire at. This is so hard that even professional state
+militaries sometimes get this wrong: U.S. Patriot missile batteries have shot
+down more British fighters accidentally than the Iraqi Air Force ever did
+deliberately, and the USS Vincennes accidentally shot down an Iranian airliner
+over the Persian Gulf in 1988. For a poorly institutionalized pickup militia of
+Ukrainian separatists to get this right, every time, is a very challenging
+project.
+
+Yet some nonstate actors have shown impressive skill in using even complex
+modern weapons. In 2006, the Shiite militia Hezbollah deployed mobile encrypted
+communications systems, Russian-made SA-14 and SA-16 guided surface-to-air
+missiles, Iranian-made armed drones, and large numbers of modern guided antitank
+missiles, including the Russian-made second-generation Kornet and Metis-M
+systems, which they used very effectively against the Israel Defense Force.
+Hezbollah really does pose an important threat for Israelis. Crucially,
+Hezbollah in 2006 was among the most elaborately institutionalized nonstate
+actors in the world, with a formal hierarchical military command structure and a
+regime of multiple civil administrative agencies that ran an extensive system of
+clinics and schools in southern Lebanon. Though a nonstate actor, it resembled a
+state government in many important respects - including its military
+organization.
+
+Other nonstate actors have had much less success. Many have long had access to
+far more sophisticated weapons than they could actually use. Mohammed Farah
+Aideed's Somali Habr Gidr militia of Blackhawk Down fame, for example, had
+access to at least 86 modern wire-guided TOW antitank missiles during their
+battle with the U.S. Rangers in Mogadishu. The Habr Gidr proved unable to
+operate them, however, and they sat unused throughout the conflict. In fact,
+heavy weapons have long been much more widespread than the institutional
+maturity needed to use them effectively. As Stathis Kalyvas and Laia Balcells
+have shown, nonstate actors with conventional weapons have been common across
+the international system for decades. Real military power, by contrast, has been
+much more scarce.
+
+For the Ukrainian separatists on July 17, this challenge was probably beyond
+their organizations' capacity. The ability to defend airspace effectively is a
+much bigger problem than having the right radar and a fast missile. A nonstate
+actor's hardware is simply not a good predictor of their real military
+capability: effectiveness lies in the interaction between an actor's hardware
+and the institutional wetware that has to use it.
+
+Past Monkey Cage posts on developments in Ukraine, Russia and Crimea can be
+found by clicking here. Recent posts include:
+
+Joshua Rovner: Putin's Grand Strategy is Failing
+
+Ivan Katchanovski: What do citizens of Ukraine actually think about secession?
+
+Oxana Shevel: Will the Malaysia Airlines tragedy change the trajectory of events
+in Ukraine?
+
+Austin Long: Was the downing of the Malaysian Air flight accidental?
+
+Henry Farrell: Europe may get a lot tougher on Russia sanctions
+
+Sergiy Kudelia: Ukraine's 2014 presidential election result is unlikely to be
+repeated
+
+LOAD-DATE: July 21, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

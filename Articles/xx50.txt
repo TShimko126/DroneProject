@@ -1,0 +1,241 @@
+                              50 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                           November 23, 2013 Saturday
+                              Late Edition - Final
+
+Little Trepidation in Europe as Civilian Drones Take to Its Skies
+
+BYLINE: By NICOLA CLARK
+
+SECTION: Section B; Column 0; Business/Financial Desk; Pg. 3
+
+LENGTH: 1892 words
+
+
+GROSSMITTEL, Austria -- Deep within a secluded Austrian military training ground
+here, an odd, shark-shaped machine hovered just above a stand of windswept
+pines.
+
+Guided by the keystrokes and joystick commands of a pair of pilots in a nearby
+trailer, the unmanned helicopter, about the size of a large motorcycle, traced a
+precise path, aiming its high-definition camera over an expanse of grassland.
+The throbbing of its main rotor seemed to go unnoticed by the wild deer that
+roam the site, where the Austro-Hungarian army first experimented with missiles
+two centuries ago.
+
+Despite the military setting for the demonstration flight, this flying drone --
+called a Camcopter S-100 -- is not meant for monitoring combat zones or tracking
+terrorists. Instead, its Austrian maker, Schiebel Aircraft, is finding a market
+among civilian customers in industries like oil and gas, electric utilities,
+mining, shipping and agriculture. Schiebel is one of more than 400 small and
+midsize European companies developing new types of unmanned aerial vehicles, or
+U.A.V.'s, most of them for civilian uses. It has sold more than 150 of its
+drones to customers worldwide.
+
+Perhaps surprisingly, given the stigma of military drones and European
+sensitivities to electronic surveillance -- not to mention serious safety
+concerns -- European aviation officials so far seem less likely to impede
+development of the civilian drone industry than regulators in the United States.
+
+In Washington, the Federal Aviation Administration has effectively grounded
+development of commercial drones, pending the planned publication of rules
+expected early next year for licensing them and integrating them into civilian
+airspace starting in 2015.
+
+While the European Union is also trying to map out such rules, individual
+countries are taking their own approaches to civilian U.A.V.'s, in many cases
+even encouraging their development. That is a reason that nearly 1,000 unmanned
+vehicles are currently authorized to fly commercially in and around a dozen
+European countries. They are led by Britain, France and Germany, which have also
+provided funding for research and have, as in the case of Austria and Schiebel,
+made military facilities available to companies for flight testing.
+
+''Five years ago, everybody was convinced that defense was going to be 80
+percent or more of the market'' for remotely piloted aerial systems, said Chris
+Day, a top engineer at Schiebel, which will produce about three dozen Camcopter
+drones this year at a factory in nearby Wiener Neustadt. ''I have a fair amount
+of confidence today that within the next five years, civil will overtake the
+military in terms of new users.''
+
+The rush to develop the technology, however, has also raised safety concerns,
+particularly in light of some recent, well-publicized accidents. Last spring, a
+U.A.V. being used to film parts of an episode of the British television show
+''The X Factor'' lost control while flying over central London and tumbled into
+the Thames. Two years ago, a surveillance drone used by the police in
+Merseyside, in northwest England, crashed during a training mission and was not
+replaced.
+
+Schiebel's drones, for example, sell for $3 million to $4 million, depending on
+the type of cameras or sensors they carry, a lot less than the $10 million or
+more for weaponized drones for the military. And some of the new civilian drones
+being developed by others are designed to sell for $100,000 or less.
+
+The declining cost and widening availability of sophisticated components like
+high-definition cameras and infrared sensors continues to lower the business
+barriers for smaller companies looking to break into an international market --
+a field that analysts and industry groups say could reach more than $11 billion
+a year by 2025 and might create as many as 100,000 highly skilled jobs worldwide
+over the next decade.
+
+An estimated one-third of all new U.A.V. systems in development are being made
+in Europe. Of those, about 80 percent are being developed either exclusively or
+primarily for civilian purposes, according to UVS International, an independent
+consulting firm in Paris.
+
+''The whole thing is being driven by the nonmilitary applications,'' said Peter
+van Blyenburgh, president of UVS International. ''There's been a huge profusion
+of small companies coming out of the woodwork.''
+
+The burst of activity in Europe comes as a similar-size crop of American
+start-ups -- equally eager to market their remote-controlled wares -- face new
+regulatory hurdles at home.
+
+As American aviation officials review proposals to create as many as a
+half-dozen commercial U.A.V. test sites in the country, their decision has been
+delayed by privacy groups, who worry about the potential for drones to eavesdrop
+on the public in all sorts of new ways, not to mention the safety hazards posed
+by new swarms of flying hardware.
+
+European regulators, too, are devising a uniform set of guidelines for the safe
+operation of unmanned systems in their skies, as well as rules governing the use
+of the data they collect. In June, the European Commission, the Brussels-based
+administrative arm of the European Union, published a ''road map'' that aims to
+gradually open the skies of the 28-member bloc to remotely piloted aircraft
+starting in 2016.
+
+But unlike the United States, where Congress and the F.A.A. are the ultimate
+arbiters of what types of vehicles are allowed to fly and where, the reach of
+Brussels has been limited. Drones weighing less than 150 kilograms, or about 330
+pounds, are not subject to oversight by the European Aviation Safety Agency;
+individual member states have been free to set their own rules and authorization
+procedures. Most of the U.A.V.'s now flying in Europe weigh less than 70 pounds
+-- no bigger than a large microwave oven -- and fly at altitudes below 1,000
+feet, well away from urban areas and airports used by conventional aircraft.
+
+Schiebel, founded 60 years ago as a maker of mine and metal detectors, began
+experimenting with U.A.V. technology in the mid-1990s but did not sell its first
+Camcopter, which weighs 242 pounds, until 2005. The company now employs 200
+people.
+
+Mr. Day, 54, joined the company a year ago, after three decades in the British
+military and later at the Thales Group of France, working on large unmanned
+systems like the Watchkeeper, which is used by the British military for
+surveillance and intelligence gathering.
+
+Schiebel's first paying customers were governments and militaries in the Middle
+East, which use the drones for surveillance and patrolling borders, harbors and
+territorial waters. Schiebel has since diversified, with just 30 percent of new
+business coming from such clients. Schiebel's civilian customers include large
+farmers in Brazil, the Russian Coast Guard, and Transpower, the state-owned
+operator of New Zealand's electricity grid.
+
+The company is still trying to find buyers in Europe, though. Mr. Day conceded
+that the relatively high cost of its machines still put such technology out of
+reach for many smaller users.
+
+''For them, the cost has to be significantly lower than a manned aircraft
+alternative,'' he said. ''Otherwise, there's no market.''
+
+Seeking to develop that low-cost niche, Cyberhawk Innovations, based in
+Livingston, Scotland, started in 2008 as an aerial inspection and surveying
+company specializing in the oil and gas industries.
+
+The company uses a souped-up version of the same multirotor drones favored by
+hobbyist fliers, selling them for $15,000 to $30,000 each to perform scheduled
+monitoring of offshore oil and gas platforms for leaks and structural problems
+-- work that has typically been done by human inspectors rappelling by rope from
+towering derricks. About 50 percent of the company's clients are in Europe,
+including energy giants like BP, Shell, Statoil and Total.
+
+Malcolm Connolly, Cyberhawk's 34-year-old founder and a former rope-access rig
+inspector, said he had been inspired by seeing remote-controlled submarines used
+to inspect the underwater platform structures. ''It is a natural idea after you
+see that,'' he said. ''The biggest driver is industrial safety. The other is
+saving money.''
+
+Because certain parts of an oil or gas platform must be shut down during
+inspections, any time spent offline involves lost revenue.
+
+By deploying a U.A.V., Cyberhawk can reduce a weeklong shutdown to just three or
+four days, Mr. Connolly said, potentially saving his clients tens of millions of
+dollars.
+
+Industry executives and analysts said the applications offered by companies like
+Schiebel and Cyberhawk represent the easy, early targets for up-and-coming
+U.A.V. companies. But a recent European Commission study said the technology had
+the potential to create new markets ''in the same way the iPad created an
+entirely new and unpredicted market for mobile data services.''
+
+Of course, mobile devices do not fly around overhead the way drones do, which is
+why critics are less enthusiastic.
+
+Chris Cole, an activist who runs the website Drone Wars UK, said the reliability
+of even the most mature U.A.V. systems operating in war zones was unacceptably
+low for use in Europe's crowded civilian skies. He said Drone Wars had verified
+more than 100 crashes since 2008 of large combat and reconnaissance drones, like
+the General Atomics Predator or the Northrop Grumman Global Hawk, from an active
+military fleet of about 6,000 U.A.V.'s.
+
+''The smaller ones crash so often it's even harder to track,'' Mr. Cole said.
+
+European officials also acknowledged that so far there has been little public
+debate about the effects on privacy and civil liberties of so many new platforms
+for aerial data and image gathering. But it may still be ahead.
+
+''It's vital to gain public support and indeed the support of politicians,''
+Frank Brenner, the head of Eurocontrol, the Brussels-based agency that
+coordinates air traffic management across the region, told an industry
+conference in Cologne, Germany, last month. ''I receive letters from the public
+that make me believe there will be a big wave of public concern ahead of us.''
+
+Sophie in't Veld, a Dutch member of the European Parliament and vice chairwoman
+of its committee on civil liberties, justice and home affairs, said new civilian
+drone applications were developing so quickly that legislators were struggling
+to keep up.
+
+''Data protection rules are meant to be technology neutral and context neutral,
+so in that sense normal, existing rules should apply,'' Ms. in't Veld said.
+''The unanswered question is, can they be properly applied and enforced across
+these new platforms?''
+
+Mr. Day at Schiebel said he understood Europeans' unease. The region's civilian
+drone industry is partly to blame for its ''quiescence,'' he said, in the face
+of opposition from ''a small community that are growing ever more vocal.''
+
+But the bigger worry might be market demand. He looked out at Schiebel's
+gleaming hangar, filled with a half-dozen Camcopters in various stages of
+completion, all destined for customers abroad.
+
+Despite the flurry of new European players in the civilian drone market, Mr. Day
+said he was doubtful there would be sufficient domestic demand in the coming
+years to sustain them all.
+
+''We still have to earn our spurs,'' Mr. Day said. ''But for now, we'll have to
+earn them overseas.''
+
+This is a more complete version of the story than the one that appeared in
+print.
+
+URL:
+http://www.nytimes.com/2013/11/23/business/international/europe-at-ease-with-eye
+s-in-the-sky.html
+
+LOAD-DATE: November 23, 2013
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: A pilot on the ground commands the Camcopter S-100, a drone
+made by the Austrian company Schiebel. At left, a worker in  the Camcopter
+plant. The craft is finding buyers in sectors like  oil and gas, utilities,
+mining, shipping and agriculture. (PHOTOGRAPH BY AKOS STILLER FOR THE NEW YORK
+TIMES)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2013 The New York Times Company
+
+

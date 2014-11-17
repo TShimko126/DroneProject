@@ -1,0 +1,132 @@
+                              14 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     September 22, 2014 Monday 1:53 PM EST
+
+An introduction to journo-drones
+
+BYLINE: Michael Berry;Nabiha Syed (guest-blogging)
+
+LENGTH: 974 words
+
+
+Small unmanned aircraft systems, commonly known as drones, open up new
+possibilities for many industries, including journalism. We begin our
+exploration of the legal landscape of drones by looking at their uses for news
+gathering.
+
+Drones are looming on the horizon these days: lurking on the border, looking for
+missing children and delivering beer. Public opinion on whether this is a good
+or bad thing varies widely. The legal issues surrounding our drone future are
+similarly unsettled. Thanks to the hospitality of the Volokh Conspiracy, we'll
+be exploring the legal and policy dimensions of domestic drone use all week,
+with a special focus on the use of drones for journalistic purposes - we are
+media lawyers, after all!
+
+Drones for journalistic use - journo-drones, as we'll call them - have been on
+the scene since at least 2011, when the Daily, News Corp.'s now-defunct tablet
+newspaper, flew camera-equipped drones to survey the devastation wrought by
+tornadoes in Alabama.(The Federal Aviation Administration was not impressed.)
+
+Since then, journo-drones have demonstrated their capabilities as one of the
+newest tools of the journalist trade. For example, in 2012 a hobbyist flying his
+drone over the Trinity River in Texas noticed a nearby creek with red rivulets,
+which, upon closer inspection, were streams of pig blood flowing from a local
+slaughterhouse. The footage prompted a lengthy investigation. Likewise, in 2013,
+while Colorado was in the midst of horrific rains and flooding, a private
+company used drones to map the floods in an effort to educate the public. And in
+Australia, one media company used a drone to observe refugee encampments on
+Christmas Island after being denied permission to view the area.
+
+Journalists are eager to use drones in their reporting for many reasons. Here
+are a few:
+
+Vantage point. First, and most obviously, drones have the ability to capture
+incredible images, offering vantage points that previously could only be
+accessed at great expense. Unlike aerial footage from news helicopters, drones
+offer viewpoints that previously were unimaginable. The Daily's footage of
+tornado damage illustrates this advantage: Although on-the-ground reporting
+might have given a close-up of the outside of destroyed buildings, and
+helicopter imagery could have displayed the destroyed horizon, the Daily's news
+drones were able to switch between those vantage points, offering people
+perspectives that otherwise could never have been seen. Indeed, many of the
+places the drone surveyed were not accessible to people, at least not safely. In
+addition to their visual capabilities, drones can be equipped with an array of
+sensors to gather data about weather, temperature and radiation, as well as
+other environmental information.
+
+Drones - better known in the technology industry and among regulators as small
+unmanned aircraft systems (sUAS) - come in a variety of shapes and sizes. Some
+look like model airplanes, while others look nothing like the manned aircraft we
+have seen in the past, taking the form of futuristic mini-spaceships with
+multiple rotors. From what we've seen, most journalists are interested in drones
+that span less than a few feet in diameter and weigh only a few pounds. The
+advantage of such drones over helicopters is clear: Their small size permits
+accessibility to otherwise hard-to-reach areas, allowing versatility in vantage
+points that range seamlessly from up above to up close, into tight spots and in
+between obstacles.
+
+Cost. Today, a small Parrot AR drone, which can fly a few hundred feet in the
+air for about 15 minutes, costs only $300. The cost of a more sophisticated
+drone can range from roughly $1,000 to $40,000, depending on its size, the
+distance it can travel and the time it can stay in the air. By way of
+comparison, operating a helicopter for news coverage costs approximately $1,000
+per hour, including the cost of the personnel required to fly it.
+
+Safety. Unmanned drones can eradicate the need for placing humans in harm's way
+when reporting on natural disasters and other dangerous events, making
+on-the-scene reporting possible as never before. For example, drones can easily
+fly over forest fires, through the aftermath of a typhoon and even into erupting
+volcanoes, all without risking human life.
+
+As a result,the demand for drones is growing exponentially. The technology is
+developing just as rapidly, building on drones' advantages and minimizing their
+risks.
+
+The law has not kept pace, lurching forward in fits and starts. Federal
+regulators have not moved quickly enough to accommodate this nascent industry or
+to safely integrate drones into American airspace. Though drone enthusiasts,
+including the media, want the FAA to issue regulations to provide some clear and
+comprehensive guidance, that has yet to happen.
+
+We will spend the next week wading through a number of issues related to
+domestic drone use. Given our backgrounds and interest in journo-drones, we will
+focus primarily on private drone use, leaving for others the questions and
+debates triggered by drones used by government agencies and law enforcement
+officials. In our subsequent posts, we will:
+
+(1) Outline some of the potential legal issues raised by drones;
+
+(2) Take a look at the various approaches that policymakers might pursue in
+regulating drones;
+
+(3) Provide a broad overview of the regulatory history and current regulatory
+landscape governing drones;
+
+(4) Describe the laws some states have passed governing the private use of
+drones;
+
+(5) Discuss laws of general applicability that serve to regulate private drone
+use; and
+
+(6) Offer our thoughts on the laws states have passed thus far regulating
+private drone use and where we should go from here.
+
+Stay tuned! We look forward to sharing our insights and reading your comments
+and questions.
+
+LOAD-DATE: September 22, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

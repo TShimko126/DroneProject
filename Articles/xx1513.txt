@@ -1,0 +1,142 @@
+                             1513 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                           October 16, 2014 Thursday
+                              Late Edition - Final
+
+Google Profit Will Depend on Wringing More From Mobile Ads
+
+BYLINE: By CONOR DOUGHERTY
+
+SECTION: Section B; Column 0; Business/Financial Desk; Pg. 2
+
+LENGTH: 988 words
+
+
+Over the last three months Google has, among other things, announced a project
+to deliver packages with drone aircraft and acquired a maker of high-tech
+utensils for people with hand tremors. But when the company reports its
+third-quarter earnings on Thursday, people will forget about the ''moonshots''
+and remember that Google is a company that sells ads.
+
+To that end, investors are mostly smitten. Google has grown around 20 percent a
+year like clockwork, which, given that it is on pace to make something like $60
+billion in revenue over the next year, is quite a feat.
+
+But there is one longstanding problem investors will be sure to pick over when
+the numbers are released. As people spend more time with mobile phones, where
+advertising has been less lucrative, Google has seen an effective drop in ad
+prices.
+
+Nobody would accuse Google of letting mobile pass it by. The company has moved
+well beyond its roots in desktop search to just about every kind of screen,
+including the billion people using its Android mobile devices. But over the past
+year it has spent considerable effort trying to persuade advertisers to buy more
+mobile ads in hopes that this will raise ad prices toward the plum levels to
+which it has become accustomed.
+
+''They are pulling the advertisers into the mobile world that is passing them
+by, because users are already there,'' said Ginny Marvin, of Search Engine Land,
+a website that closely follows Google and other search engines.
+
+It's not that advertisers are shunning mobile. Over the last two years the share
+of ad dollars spent on mobile devices has roughly tripled, becoming 11.4 percent
+of the total United States advertising market, according to eMarketer.
+
+The problem is that consumers have moved even faster: They now spend close to a
+quarter of their time on mobile phones -- this excludes the time they spend
+actually talking on them -- which is enough to forget certain life skills, like
+how to navigate a crowded sidewalk.
+
+To give a sense of how fast things are moving, just two years ago, in 2012,
+people spent only 14 percent of their time on a mobile phone, and advertisers
+spent around 3 percent of their dollars there.
+
+If mobile advertising is going to catch up with Google's dominant business in
+desktop search, which still accounts for a majority of its revenue, according to
+analyst estimates, then Google will have to bend that curve.
+
+Google does not disclose how much money it makes on mobile advertising versus
+desktop, but for the past several quarters its ''cost per click'' -- how much it
+is paid, on average, each time it entices a user to click on its advertisers'
+ads -- has been falling. Mobile is a primary culprit.
+
+''Brands have been playing catch-up with mobile,'' said Jeremy Hull, a director
+at iProspect, a digital marketing agency that places ads for companies.
+
+Google sells search ads through a complicated auction process, so it cannot just
+raise prices. Rather, it needs advertisers to bid against one another more
+fervently, so that they raise prices on themselves.
+
+To that end, Google has spent much of the past year trying to nudge advertisers
+toward mobile, by overhauling how the company sells and displays ads.
+
+Last year, for instance, the company introduced ''enhanced campaigns,'' which,
+depending on your point of view, either encouraged or forced advertisers to
+think about mobile by having them bid on ads across several devices at once
+instead of creating different campaigns for different devices.
+
+''Google is saying 'O.K., you guys, somebody is on the phone a block from your
+store and you're telling them about shopping online?''' said Ms. Marvin, of
+Search Engine Land.
+
+Also, like any good salesman, Google has been supplying advertisers with reams
+of new features and data that it hopes will convince them that their ads are
+working. Central to this effort was last year's ''estimated total conversions''
+program, which tries to show advertisers how users are moving seamlessly between
+devices -- in other words, that they may search for something on a phone and
+then buy it an hour later on a desktop.
+
+The program has been augmented several times over the past year, but the
+overarching idea is to show advertisers that even if their mobile ads do not
+''convert'' right away, meaning that viewers do not buy something, the ads might
+still be effective, since many people come back to buy later on a different
+device, or use the ad to make a phone call, or buy something at an actual store.
+
+Is any of this enough to arrest Google's decline in cost per click? Mark
+Mahaney, an analyst at RBC Capital Markets, says it might be.
+
+One circumstantial piece of evidence he points to: Last quarter the company
+started breaking out price trends for ads on Google's own sites, like its search
+engine, versus the ads it places on other sites. That data, previously
+unavailable to investors, shows the decline in cost per click has slowed on
+sites Google owns.
+
+Mr. Mahaney's theory is that Google is being more forthcoming with investors
+because it thinks those trends will continue to be flattering.
+
+Even if Google turns a corner on ad prices, its profit margins are expected to
+be down, as the company is spending heavily on infrastructure like computer
+servers while investing in areas such as satellites, biotechnology and
+driverless cars. And while it is making more money outside of advertising -- for
+example, by selling services to businesses through its Google for Work unit --
+this has not been as lucrative as its core business selling search ads, Mr.
+Mahaney said.
+
+Google does not break out revenue for YouTube, but analysts believe it will
+continue to be a lucrative source of growth. This spring, for instance, Google
+created Google Preferred, a bid to grab TV advertising dollars by setting aside
+the top 5 percent of YouTube's video channels and guaranteeing the ability to
+reach certain demographics, similar to the way brands buy television
+commercials.
+
+URL:
+http://www.nytimes.com/2014/10/16/technology/google-earnings-will-depend-on-wrin
+ging-more-from-mobile-advertisers.html
+
+LOAD-DATE: October 16, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Google's campus in Manhattan. The company is trying to persuade
+advertisers to buy more mobile ads, in a bid to raise prices. (PHOTOGRAPH BY
+KARSTEN MORAN FOR THE NEW YORK TIMES)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

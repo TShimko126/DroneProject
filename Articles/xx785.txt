@@ -1,0 +1,206 @@
+                             785 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                           October 25, 2014 Saturday
+
+The Robot in the Cloud: A Conversation With Ken Goldberg
+
+BYLINE: QUENTIN HARDY
+
+SECTION: TECHNOLOGY
+
+LENGTH: 1000 words
+
+
+
+HIGHLIGHT: Robots are going to get smarter and more capable, fast, according to
+a leading researcher in the field. The reason: Whatever one robot encounters and
+learns about the world can be sent to the cloud and mixed with what all the
+other robots find.
+
+
+Ken Goldberg has been thinking hard about robots for almost three decades.
+
+His work ranges from over 170 peer-reviewed papers on things like robot
+algorithms and social information filtering to art projects about the
+interaction of people and machines. A professor at the University of California,
+Berkeley, he is establishing a research center to develop medical robots to
+assist in surgery. That is just the latest development in what he thinks will be
+one of the great technology breakthroughs of our age: the fusing of robotics and
+cloud computing. He talks about it in this edited and condensed conversation.
+
+Q.
+
+What is cloud robotics?
+
+A.
+
+Cloud robotics is a new way of thinking about robots. For a long time, we
+thought that robots were off by themselves, with their own processing power.
+When we connect them to the cloud, the learning from one robot can be processed
+remotely and mixed with information from other robots.
+
+Q.
+
+Why is that a big deal?
+
+A.
+
+Robot learning is going to be greatly accelerated. Putting it a little simply,
+one robot can spend 10,000 hours learning something, or 10,000 robots can spend
+one hour learning the same thing.
+
+Q.
+
+How long has this been around?
+
+A.
+
+The term "cloud robotics" was coined in 2010 by James Kuffner, who was at
+Carnegie Mellon and then went to Google. I had been doing robot control over the
+Internet since the mid-90s, with a garden people could connect to, then plant
+seeds or water their plants.
+
+The cloud is different from my Internet "telegarden," though. The cloud can have
+all the computation and memory stored remotely. That means all of the endpoints
+can be lightweight, and there is a huge collective benefit. These robots can
+address billions of behaviors and learn how to do important things quickly.
+
+Q.
+
+What are some examples of this?
+
+A.
+
+Google's self-driving cars are cloud robots. Each can learn something about
+roads, or driving, or conditions, and it sends the information to the Google
+cloud, where it can be used to improve the performance of other cars.
+
+Health care is also very promising: Right now radiation treatments involve
+putting a radioactive seed next to a tumor, using a catheter that has to push
+through other tissue and organs. The damage could be minimized if the catheter
+worked like a robot and had motion planning to avoid certain objects. Tedious
+medical work, like suturing a wound, might be done faster and better. Giving
+intravenous fluids to Ebola patients is difficult and risks contamination; some
+people are looking at ways a robot could sense where a vein is and insert the
+needle.
+
+Another area is household maintenance, particularly with seniors. Robots could
+pick up clutter, which would help elderly people avoid falling and hurting
+themselves.
+
+Q.
+
+Where are some of the most interesting developments?
+
+A.
+
+In about a year Google bought eight robotics companies. No one knows what they
+are doing. For sure, it's not connected with cars; I have students in both the
+robotics and the self-driving car teams, and they're not allowed to talk with
+each other. They may be trying to build a core operating system for robots, but
+that's just a guess. They have collected some of the best minds in the field.
+
+Another thing is Microsoft's Kinect sensor, which can sense and model objects in
+three dimensions. It costs about $100 and is getting cheaper. Very soon we'll
+see 3-D sensors in every laptop, following your motions and modeling human
+faces. If lots of that information is shared in the cloud, it will be used to
+make robots more perceptive, able to deal with sensing and space better.
+
+Q.
+
+What are the risks?
+
+A.
+
+There are a lot. Obviously, if your household robot is hacked, you could have
+all of your personal data, like your house layout and where your valuables are,
+sent out around the world. Privacy is a worry there, too, particularly if you
+consider who may be selling the robots. War robots worry me, too. A drone attack
+in the U.S. would be terrifying.
+
+Q.
+
+Isn't that how war works elsewhere already?
+
+A.
+
+Yes. But if it happened here, and people knew there were drones in the sky
+monitoring them, maybe able to take them out at any moment, everyone would feel
+vulnerable.
+
+Q.
+
+What are some things you learned about robots early on, which are still true?
+
+A.
+
+The telegarden had an insight I didn't appreciate at the time, which was how
+social it was. There was a chat room and people interacting in the garden. More
+than 100,000 people visited. They could have planted seeds on top of each other,
+or over-watered someone's plant, but mostly they didn't. They watered for other
+people when those people went on vacation. Maybe that was because it was a
+garden.
+
+More important was a philosophical question it raised. A student asked, "How do
+I know there is a garden there?" since that kind of thing can be easily spoofed.
+That's when we got into the idea of tele-epistemology - how do we know that
+remote things, things done via robot, are true?
+
+Q.
+
+And?
+
+A.
+
+We don't. It's kind of like when the telescope was invented and people saw the
+moons of Jupiter, or the microscope showed microorganisms living on your hand.
+People began to wonder what else they didn't see. The Internet garden
+reinvigorated that sense of doubt.
+
+Q.
+
+Are you saying we can learn from robots, too?
+
+A.
+
+For a robot, the world is uncertain and jagged. When it gets new information, it
+has to change what it thinks is true. You could say it's good with doubt. Robots
+could teach us a lot about never finally believing your own perceptions.
+
+Q.
+
+Can we program a robot to behave ethically?
+
+A.
+
+I don't think so. An ethical conflict is an exception. The idea that we can
+program a single answer is a mistake. There will still have to be human
+oversight. The hope is that realizing robots are prone to ethical failures will
+help us remember that we need to be careful, too.
+
+Q.
+
+Are there things robots will never be able to do?
+
+A.
+
+We'll see them get more dexterity, but we won't see them tell jokes, do
+research, or be creative.
+
+LOAD-DATE: October 27, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

@@ -1,0 +1,71 @@
+                             322 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                             March 4, 2014 Tuesday
+
+Now Facebook Has a Drone Plan
+
+SECTION: TECHNOLOGY
+
+LENGTH: 286 words
+
+
+
+HIGHLIGHT: Facebook is in discussions to acquire a manufacturer of high-altitude
+drones for about $60 million. The purchase would allow the social network to
+advance its ambitions of connecting everyone in the world to the Internet.
+
+
+With all his talk of better data compression and more efficient phone chips,
+Mark Zuckerberg, Facebook's chief executive, has had a bit of trouble getting
+people excited about Internet.org, his ambitious plan to get everyone in the
+world onto the Internet.
+
+Not anymore. The web was abuzz on Tuesday after a report in TechCrunch that
+Facebook was in negotiations to buy a manufacturer of drones, Titan Aerospace,
+for about $60 million.
+
+If a deal is completed, it will give Mr. Zuckerberg an intriguing new technology
+to further the cause of Internet.org.
+
+Titan's drones, which resemble solar-powered airplanes, are designed to fly as
+high as 65,000 feet and stay aloft for as long as five years - essentially
+functioning like cheap satellites. They could blanket large areas with wireless
+Internet signals, although the signals would be slower and unable to handle as
+much data as land-based Internet connections. For remote places like rural
+Africa, they would be enough to provide at least rudimentary access to the
+Internet through mobile phones.
+
+Facebook would have to overcome lots of technical and legal problems before a
+global Facenet would be a reality. But the idea would allow the social network
+to one-up its rival, Google, which has its own far-fetched plan to extend the
+Internet to far-flung places via a network of balloons.
+
+And it is a lot closer to reality than Amazon's idea of drones that will deliver
+packages.
+
+
+     ·    Tech Companies Offer Update on Government Data Requests
+     ·    As Facebook Turns 10, Zuckerberg Wants to Change How Tech Industry
+          Works
+     ·    Google Buys A.I. Company for Search, Not Robots
+     ·    Daily Report: U.S. Eases Some Rules on Data Disclosure
+     ·    Did Big Internet Companies Handicap Start-Ups in FISA Rule Changes?
+
+
+LOAD-DATE: March 4, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

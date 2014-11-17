@@ -1,0 +1,162 @@
+                             2088 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                  (Sinosphere)
+
+                              May 20, 2014 Tuesday
+
+Charges of Chinese Cyberspying, Wanted Posters Included
+
+BYLINE: AUSTIN RAMZY
+
+SECTION: WORLD; asia
+
+LENGTH: 1214 words
+
+
+
+HIGHLIGHT: The five members of China&#8217;s military accused of hacking against
+American companies are at the top of the F.B.I. &#8220;Cyber&#8217;s Most
+Wanted&#8221; list, but little has been revealed about them beyond their names
+and aliases.
+
+
+A United States indictment accusing members of China's military of computer
+hacking against American companies has put a face on a practice the Obama
+administration has long complained of, the use of state cyberwarfare
+capabilities to steal corporate secrets. While little is publicly known about
+the five indicted members of the People's Liberation Army, the F.B.I. has
+released photos and aliases of the men accused of being members of the Chinese
+military's computer espionage Unit 61398, also known as the "Comment Crew."
+
+The members of the Shanghai-based unit went by online handles such as
+"UglyGorilla," "WinXYHappy" and "KandyGoo." With the announcement on Monday of
+the 31-count indictment filed at a federal court in Pittsburgh, the five were
+placed at the top of the F.B.I. "Cyber's Most Wanted" list.
+
+They were shown in "Wanted by the F.B.I." posters, a nearly century-old practice
+of telling the public whom law enforcement officers are trying hardest to
+capture. But unlike other wanted posters, those produced for the five hacking
+suspects reveal little beyond their names and aliases. It was not clear how the
+photos of the men, two of whom are shown in military uniform, were obtained.
+
+
+As Michael S. Schmidt and David E. Sanger write, the charges were "almost
+certainly symbolic since there is virtually no chance that the Chinese would
+turn over the five People's Liberation Army members named in the indictment."
+
+The "Comment Crew" was outlined publicly last year in a report by the United
+States-based security firm Mandiant, which said a building off Datong Road in
+Shanghai was most likely a P.L.A. cyberspying headquarters because of the large
+number of attacks that emerged from there.
+
+The Chinese Ministry of Foreign Affairs denounced the indictment. A ministry
+spokesman, Qin Gang, said the case was "based on fabricated facts, grossly
+violates the basic norms governing international relations and jeopardizes
+China-U.S. cooperation and mutual trust," according to a statement posted on the
+ministry's website.
+
+The ministry said it summoned the United States ambassador to China, Max Baucus,
+Monday evening to register its complaints regarding the legal case. It also said
+that China would suspend its participation in a United States-China working
+group on cybersecurity.
+
+China's Ministry of National Defense also condemned the indictment, saying "the
+Chinese government and military have never engaged or participated in any theft
+of commercial secrets over the Internet," according to a statement posted on its
+website on Tuesday. It accused the United States of "hypocrisy and double
+standards" and said that WikiLeaks and the revelations of the former National
+Security Agency contractor Edward J. Snowden had shown that the United States
+has the technology and capabilities "to carry out large-scale, organized
+cybertheft, bugging and monitoring against foreign politicians, businesses and
+individuals."
+
+In a news analysis, David E. Sanger writes that the Obama administration is
+drawing a fine line between hacking done for national security purposes and that
+done for commercial gain, a division that is not recognized by China. And the
+United States does not always respect that line, either, Mr. Sanger writes:
+
+Even before Mr. Snowden walked out of the Hawaii facilities of the N.S.A. with a
+trove of documents, it was clear that the United States was not above economic
+espionage, as long as it was not for the direct benefit of specific companies.
+
+For example, the United States spies regularly for economic advantage when the
+goal is to support trade talks; when the Clinton administration was locked in a
+high-stakes negotiation in the 1990s to reach an accord with Japan, it bugged
+the Japanese negotiator's limousine. At the time, the chief beneficiaries would
+have been the Big Three auto companies and a smattering of parts suppliers. It
+is also widely believed to be using intelligence in support of trade
+negotiations underway with European and Asian trading partners. But in the view
+of a succession of Democratic and Republican administrations, that is fair game.
+
+Companies can also be targets. Documents released by Mr. Snowden showed that the
+American government pried deep into the servers of Huawei, one of China's most
+successful Internet and communications companies. The documents made clear that
+the N.S.A. was seeking to learn whether the company was a front for the People's
+Liberation Army and whether it was interested in spying on American firms. But
+there was a second purpose: to get inside Huawei's systems and use them to spy
+on countries that buy the company's equipment.
+
+The indictment lists Westinghouse Electric, SolarWorld, United States Steel
+Corporation, Alcoa and Allegheny Technologies as the companies targeted by the
+hackers along with a labor union, the United Steelworkers, which had encouraged
+the United States to pursue trade cases against China.
+
+The indictment does not specify the Chinese state-owned enterprises that would
+have benefited, listing them simply as SOE-1, SOE-2 and SOE-3. However,
+descriptions of the cases give strong signals as to their identities.
+
+The indictment says that Westinghouse signed a contract to construct four
+reactors in China for SOE-1 on or around 2007, which coincides with the American
+nuclear power plant builder's contract to build reactors for the China National
+Nuclear Corporation, or C.N.N.C.  The State Nuclear Power Technology
+Corporation, which is partly owned by C.N.N.C., contracted with Westinghouse on
+the project, indicating that it or C.N.N.C. is most likely SOE-1.
+
+Allegheny Technologies Inc., or A.T.I., had a joint venture with SOE-2,
+according to the indictment, and A.T.I. and the Chinese company were also
+involved in litigation before the World Trade Organization, both of which
+describe A.T.I.'s relationship with the Chinese steel maker Baosteel.
+
+SOE-3 is probably the Aluminum Corporation of China, or Chinalco. The indictment
+says that in 2001 Alcoa entered into a partnership with a Chinese aluminum
+company to purchase shares, which would have been Chalco.
+
+The indictment raises further questions about the United States' strategy in
+pursuing such a public case, Nicole Perlroth writes, and whether the legal
+challenge will be expanded:
+
+Beyond Unit 61398, the National Security Agency and its intelligence partners
+are currently tracking more than 20 Chinese hacking groups - over half of them
+Chinese military and naval units - as they break into an array of American
+government agencies and companies, ranging from drone and nuclear weapon parts
+makers to technology, retail and energy firms and nonprofit research
+organizations, according to a half-dozen United States officials who declined to
+be named because of the classified and ongoing nature of the investigations.
+
+While most of those hacking groups are military units, they include private
+companies and academic institutions, Ms. Perlroth writes, and the ways they are
+organized and contracted are far from clear.
+
+
+     ·    A Magazine Cover for a Famously Humble Ambassador
+     ·    Pushing Back Against Government Surveillance
+     ·    After Obama Visit, Planned Naval Drills With Russia Reported
+     ·    F.B.I. Video Warns of Efforts to Recruit American Students as Spies
+     ·    Chinese Government Expands Freedom of Information
+
+
+LOAD-DATE: May 20, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

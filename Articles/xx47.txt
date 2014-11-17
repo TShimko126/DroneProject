@@ -1,0 +1,175 @@
+                              47 of 2956 DOCUMENTS
+
+
+                                  Denver Post
+
+                              July 6, 2014 Sunday
+                              SUN PERSPECT Edition
+
+FLYING BLIND
+
+SECTION: PERSPECT; Pg. 6D
+
+LENGTH: 1320 words
+
+
+The Washington Post last month published a series of reports on unmanned
+aircraft, or drones, that could make your hair curl.
+
+Much of the reporting revealed an alarming number of crashes involving large
+military drones, both on the battlefield in Afghanistan and elsewhere. But the
+articles said the number of accidents involving civilian drones had climbed,
+too, along with close calls between commercial aircraft and "small rogue drones
+near airports."
+
+So is it time to hit the brakes on civilian drones, which are being sold by the
+thousands to hobbyists and others intrigued by their potential?
+
+To the contrary. It's time for the Federal Aviation Administration to create a
+framework for accountability in the use of unmanned aerial vehicles, something
+the agency notably has failed to do.
+
+Seven years ago, the FAA declared that commercial use of unmanned aircraft fell
+within its jurisdiction and that such uses were illegal, absent a special
+waiver. That's still its position and yet it has failed to clarify how it
+intends to integrate civilian drones into the nation's airspace.
+
+In 2012 Congress decided to prod the agency with the FAA Modernization and
+Reform Act, ordering it to "safely accelerate" its rulemaking process and
+setting a September 2015 deadline for release of a plan. Although rule making
+for small, unmanned devices could begin before the close of this year, even the
+inspector general of the Transportation Department has concluded that the FAA
+"will not meet the September 2015 deadline for safe (drone) integration and it
+is uncertain when this will be achieved."
+
+Meanwhile, an agency official reportedly has warned that the entire rulemaking
+process could take up to a decade.
+
+"The fact that they're saying that full blown integration with complete
+regulations will take another 10 years is kind of frustrating," says professor
+Matt Waite, founder of the Drone Journalism Lab at the University of Nebraska
+Lincoln.
+
+"The sooner we have rules that allow for commercial operations that give people
+a legal path to use these devices for a business purpose, things can get
+dramatically safer," he explains. "A lot of pressure will be relieved and
+operators will come into the light and follow the rules."
+
+But without such rules, "cowboy operators" will feel emboldened to deploy their
+unmanned vehicles without constraint.
+
+"When it comes to what the FAA is going to do in terms of regulation," Waite
+says, "we are absolutely flying blind."
+
+Some rules are predictable, Waite acknowledges, such as licensing of commercial
+operators, registration of airframes "so the owner can be identified," and
+liability insurance. But who can be sure?
+
+The FAA, meanwhile, disputes that it is creeping along. In an information sheet
+it released this year titled "Busting Myths about the FAA and Unmanned
+Aircraft," the agency contends "there are a lot of misconceptions and
+misinformation" about its record with drones. One myth, the FAA insists, is the
+idea that the agency "is lagging behind other countries in approving commercial
+drones."
+
+"This comparison is flawed," the FAA says, because "the United States has the
+busiest, most complex airspace in the world" and developing rules is a "very
+complex task."
+
+If you're going to do a job, you should "get it right the first time."
+
+If you read the FAA's full myth busting answer, however, you'll notice the
+agency never explicitly denies that it is lagging behind other countries in
+approving rules and licenses for the commercial use of unmanned aircraft. And
+that's because it can't. The U.S. clearly has allowed some countries including
+Australia, Japan and even Britain to move ahead in the deployment of this
+transformational technology while our regulators dither, deliberate and
+occasionally react to a surge of unauthorized drones flown by everyone from
+filmmakers, photographers, real estate agents and construction crews to search
+and rescue outfits.
+
+If you own a small drone defined as 55 pounds or less you may fly it as a
+hobbyist under rules for model aircraft issued years ago ("below 400 feet, three
+miles from an airport, away from populated areas," in FAA shorthand). Public
+agencies such as police forces or universities may also be able to secure
+permission on a case by case basis to use a drone. However, the FAA has kept the
+door almost entirely locked on commercial operations with the sole exceptions
+occurring in the Arctic.
+
+But of course with drones so easily available and relatively affordable "I can
+find a drone that fits your budget," Waite assured me would be operators are
+increasingly taking matters into their own hands. And the FAA is responding with
+what at times appears to be arbitrary enforcement.
+
+A few weeks ago, for example, the Catholic archdiocese of Washington used a
+drone mounted camera to film a procession marking the canonizations of popes
+John Paul II and John the 23rd. Was the filming illegal? Apparently, according
+to The Washington Post, in part because unmanned aircraft are banned within 15
+miles of Reagan National Airport. But the FAA turned a blind eye.
+
+By contrast, the FAA was less forgiving earlier this year with Texas EquuSearch,
+demanding that it stop using drones in its search missions one of which
+succeeded in locating the body of a missing 2 year old boy.
+
+A few targets of the FAA fight back. When the agency fined a commercial
+photographer $10,000 for shooting a promotional video over the University of
+Virginia using a drone with foam wings and weighing less than 5 pounds, he
+challenged the decision. In March, an administrative law judge concluded the
+agency had indeed overstepped its authority. The FAA has appealed the ruling.
+
+Meanwhile, a coalition of news organizations, including The New York Times and
+Washington Post, has filed a brief on the side of the photographer, arguing that
+the FAA's "overly broad policy, implemented through a patchwork of regulatory
+and policy statements and an ad hoc cease and desist enforcement process, has an
+impermissible chilling effect on the First Amendment newsgathering rights of
+journalists."
+
+If there is a rationale for when the FAA chooses to crack down, no one outside
+the agency has figured it out.
+
+"I recognize that the FAA has a really difficult job, and that they are a
+notoriously conservative safety organization that doesn't like to move until
+they're sure there is absolutely no risk to aviation safety," Waite says. "But
+the fact is that they've been talking about this for a very long time."
+
+Waite doesn't discount the threat of small drones encroaching on an airport's
+airspace, but he believes the greater danger is to people on the ground in the
+event of a crash. As a result, he says, drones should be barred from flying over
+densely packed crowds.
+
+But of course you wouldn't have to fly drones over crowds for a number of
+possible commercial uses, such as agriculture. And yet the FAA hasn't moved on
+those fronts, either.
+
+Polls show the public tends to be skeptical of civilian drone use, and probably
+unaware of their potential except when someone like Amazon's Jeff Bezos makes a
+splash with his wildly ambitious plan to use unmanned aerial vehicles to deliver
+packages.
+
+Politicians, meanwhile, tend to harp on privacy concerns involving drones,
+although smart phones and the Internet represent greater risks to privacy than a
+theoretical drone hovering outside your window. Peeping Tom laws may need to be
+updated, but that's not a heavy lift.
+
+A study prepared last year for the Air Force predicts that by 2035 unmanned
+aircraft operations will "surpass manned aircraft operations, for both military
+and commercial domains" with 175,000 drones in the commercial marketplace alone.
+
+The study assumed, naturally, that a host of regulatory and policy obstacles
+could be overcome in timely fashion. But that may have been the study's most
+unlikely assumption of all.
+
+E mail Vincent Carroll at vcarroll@denverpost.com Follow him on Twitter
+@vcarrollDP
+
+LOAD-DATE: July 09, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Newspaper
+
+
+                         Copyright 2014 The Denver Post
+                              All Rights Reserved
+
+

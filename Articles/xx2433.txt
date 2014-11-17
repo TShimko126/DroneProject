@@ -1,0 +1,103 @@
+                             2433 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     September 15, 2014 Monday 3:51 PM EST
+
+Why the U.S. might just need a Federal Commission on Robots
+
+BYLINE: Nancy Scola
+
+LENGTH: 794 words
+
+
+Why does the United States needs a new federal commission focused solely on
+understanding our robot future? The real question is, why don't we?
+
+Ryan Calo is an assistant professor at the University of Washington School of
+Law, and in a new paper out from Brookings he makes the case that a new Federal
+Robotics Commission would help make sense of the various technology applications
+that separate human agency from execution. (Of course, robots and robotics are
+not perfectly overlapping fields, but a federal robot agency sounds so much
+cooler as to justify the fuzzy rhetoric.) Calo opens with a recent example from
+the automobile agency:
+
+The U.S. Department of Transportation had a problem: Toyota customers were
+alleging that their vehicle had accelerated unexpectedly, causing death or
+injury. The National Highway Traffic Safety Administration (NHTSA) found some
+mechanical problems that may have accounted for the accidents - specifically, a
+design flaw that enabled accelerator pedals to become trapped by floor mats -
+but other experts suspected a software issue was to blame. Like most
+contemporary vehicles, Toyotas rely on computers to control many elements of the
+car. Congress was worried enough at the prospect of glitches in millions of
+vehicles that it directed the DOT to look for electronic causes.
+
+But such ad hoc cross-agency consultancy isn't a long-term fix, Calo points out.
+For one thing, the space agency has spaceships to attend to. Writes Calo, "The
+best and brightest at NASA can take a break from repairing space stations or
+building Mars robots to take a look at the occasional Toyota," but it's not a
+sustainable solution for the federal government contending with a future that is
+increasingly technologically confusing.
+
+In fact, the glitchy Toyota gas pedals are an odd way to lead the paper, as
+they're one of the more straightforward examples of what's happening in the
+robotics space. There are also autonomous cars, drones, robotic surgery,
+high-frequency trading -- in short, all sorts of examples across fields and
+industries of robotics changing how things are done. But what Calo and others
+argue is that those changes aren't merely variations on existing practices but
+entirely new ones, and ones in which, importantly, outcomes are difficult to
+predict. An algorithm, Calo points out, organizes a warehouse differently than a
+human would, even if it's programmed by a human in the first place.
+
+That's a sort of emergent behavior, and it raises all sorts of legal, ethical
+and technological questions that take a type of expertise and holistic thinking
+to understand and support. Bitcoin enthusiasts, for example, are musing about a
+future in which not only can autonomous taxis "own" money but, without human
+decision-making, can also go about acquiring additions to their fleets. Is the
+Treasury Department set up to make sense of that? Is the Department of
+Transportation?
+
+Of course, there are considerable downsides to starting a new federal agency,
+not the least of which is startup costs -- especially when you consider that
+nearly every Federal Robotics Commission employee is going to want a coffee with
+the unavoidably awesome new agency logo. And there are those who have argued
+that at least when it comes to driverless cars, our existing legal structures
+are perfectly capable of coping with whatever changes they might wreak.
+
+And, too, it's possible that the Treasury or Transportation Department could
+develop the expertise to handle our robotic eventualities. But the way that Calo
+seems to be imagining it, they wouldn't have to. The FRC could serve as as sort
+of floating band of robotics experts available to help out its allied agencies
+when such questions arise but that is meanwhile developing useful expertise in
+its chosen field.
+
+No doubt, there's a risk of technological determinism here; when you're an
+agency charged with focusing on robots, everything can look like a problem for
+robots to solve. But Calo makes a compelling case for the idea that agencies
+rooted in single solutions can evolve into ones that capture major themes of
+modern American life. The Federal Radio Commission grew out of a desire to
+promote and protect the futuristic industry of its time, and that begat today's
+Federal Communications Commission. Or take the newish Consumer Financial
+Protection Bureau, and its organizational starting point of how real-live people
+engage with consumer financial products that seems to be expanding into an
+experiential understanding of citizen-centered enforcement.
+
+We might, in other words, start with a Federal Robotics Commission in 2015 and
+by 2030 end up, usefully, with a United States Department of Emergence.
+
+You can read -- or have your robot assistant read you -- Calo's paper here.
+
+LOAD-DATE: September 15, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

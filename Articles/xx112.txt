@@ -1,0 +1,139 @@
+                             112 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                           December 31, 2013 Tuesday
+                              Late Edition - Final
+
+F.A.A. Picks Diverse Sites To Carry Out Drone Tests
+
+BYLINE: By MATTHEW L. WALD
+
+SECTION: Section A; Column 0; National Desk; Pg. 14
+
+LENGTH: 936 words
+
+
+WASHINGTON -- The Federal Aviation Administration will authorize test sites for
+drone aircraft in upstate New York, New Jersey and at least eight other states,
+the agency said on Monday, preparing for a time when unmanned aircraft of
+various shapes and sizes cruise over the landscape.
+
+The agency picked six institutions to operate test locations, which will explore
+how to set safety standards, train and certify ground-based pilots, ensure that
+the aircraft will operate safely even if radio links are lost and, most
+important, how to replace the traditional method for avoiding collisions.
+Integrating the aircraft into the nation's airspace, set by Congress for 2015,
+will be phased in gradually.
+
+Already, federal investigators have linked one drone aircraft to a problem that
+would have been almost inconceivable if a pilot had been on board: The engine
+failed, and no one noticed.
+
+The F.A.A. did not say precisely where the test flights would go, but it did say
+that selections were made with an eye toward diversity, including operations in
+areas of heavy air traffic, like the Northeast, and Nevada's border with
+California.
+
+While the public is mostly aware of drones like Predators, Global Hawks and
+other high-altitude, long-range planes operated by the government, Monday's
+announcement covers commercial and private aircraft.
+
+These include electric helicopters that a landlord could use to inspect a
+rooftop water tower; midget helicopters, which can fly close to power lines and
+are started by yanking a cord like the one on a chain saw; and Styrofoam planes
+that run on lighter fluid and can fly over fields to look for agricultural
+pests. Police and fire departments are among those eager to operate drones.
+
+Competition to host the test sites was fierce, with state economic development
+agencies predicting the expansion of a major industry.
+
+The six winners, chosen from a field of 25, included Griffiss International
+Airport, a former Air Force base near Rome, N.Y., which will fly some tests from
+Cape Cod in Massachusetts, and Virginia Tech, which will fly in Virginia and has
+an agreement with Rutgers University in New Jersey for testing there as well.
+Virginia Tech plans to conduct ''failure mode'' testing -- finding out what
+happens if the aircraft's control link is lost.
+
+The other winners were the University of Alaska, which plans to test in Hawaii
+and Oregon as well as Alaska, the State of Nevada, the North Dakota Department
+of Commerce, and Texas A&M University Corpus Christi. Michael P. Huerta, the
+administrator of the F.A.A., said the sites provided diverse geography, climate
+and air traffic density.
+
+Mr. Huerta said the choice of the six institutions marked a milestone for the
+aircraft, whose proponents prefer to call them ''unmanned aerial systems.'' But
+he said that while a 2012 law sets 2015 as the year by which they should be
+integrated into an airspace shared with conventional airplanes, ''we would
+envision that that would be a staged process, as we learn more about what these
+aircraft are, and how they interact with other aircraft.''
+
+The phase-in could be by type of drone or by type of airspace, or some other
+factor. The research will continue until 2017, the F.A.A. said. Flights are
+expected to begin within six months.
+
+The basic concept of integrated airspace is that everything in the sky -- manned
+or not -- will use the Global Positioning System to determine its location, and
+will radio that information to the ground, where a computer will develop a whole
+picture and send that to all pilots. Sophisticated drones could use that data
+without human intervention to sense conflicts with other aircraft.
+
+Mr. Huerta said that the agency had already issued the first commercial license
+for drone use: In Alaska it gave ConocoPhillips, the oil company, permission to
+use a ScanEagle off the Alaska coast.
+
+The United States uses the ScanEagle as a spy plane; Iran claims to have
+captured one and copied its design.
+
+The F.A.A. has put several privacy requirements in place for the test program.
+Site operators will be required to publish privacy policies, covering how they
+will use the data they gather and how long they will retain it, among other
+steps.
+
+Many elected officials celebrated the selection of sites in their jurisdictions.
+Senator Heidi Heitkamp, a Democrat from North Dakota, said the selection of
+Grand Forks would help the drone industry grow and ''help make sure it can
+become a key part of North Dakota's economy.''
+
+Some were less certain. ''It's good news and bad news,'' said Luis R. Sepulveda,
+an assemblyman from the Bronx, who said that a bill he introduced this year to
+limit police use of drones would reach the Assembly floor in Albany in January
+or early February.
+
+''There's an opportunity for economic development of a new industry, with the
+potential to be a billion-dollar industry,'' he said. ''But we have some
+concerns about privacy. These are devices that can be disguised in such a way
+that you don't even know you're being recorded.''
+
+A lawyer in New York who specializes in drones, Brendan Schulman, said the
+announcement was about a year behind schedule, meaning that integration into the
+air traffic system might also be delayed.
+
+''The future regulatory framework remains unknown and potentially could be quite
+burdensome,'' he said, although ''the test site news is a glimmer of hope.''
+
+Daniel R. Benson, a New Jersey state assemblyman, said: ''You want to see the
+technology being tested. It's going to mean we're at the cutting edge and
+hopefully it will bring jobs in the future.''
+
+But he added, ''any new technology also brings new concerns.''
+
+URL:
+http://www.nytimes.com/2013/12/31/us/politics/us-names-domestic-test-sites-for-
+drone-aircraft.html
+
+LOAD-DATE: December 31, 2013
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Logan Lass, an aviation student at the University of North
+Dakota in Grand Forks, with a lightweight drone used in training. (PHOTOGRAPH BY
+DAVE KOLPACK/ASSOCIATED PRESS) (A17)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2013 The New York Times Company
+
+

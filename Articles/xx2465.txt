@@ -1,0 +1,163 @@
+                             2465 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     September 28, 2014 Sunday 3:18 PM EST
+
+Hot pursuit in Syria and in history
+
+BYLINE: Lionel Beehner
+
+LENGTH: 1548 words
+
+
+Secretary of State John Kerry justified the use of U.S. airpower in Syria in
+part on the shaky legal grounds of "hot pursuit." Presumably this would entail
+the use of force to pursue militants who committed some crime in Territory X but
+fled into Territory Z and would allow X to temporarily violate Z's sovereignty.
+The phrase has a long and storied history. In the 20th century, the idea of
+chasing bandits across borders conjures an image of Pancho Villa and the United
+States' failed raid into Mexico to nab him - as anyone familiar with the Townes
+Van Zandt tune "Pancho and Lefty" will appreciate.
+
+But the use of the phrase raises several normative and legal questions when
+applied to Syria, and a look at the empirical track record may shed light on
+them. First, the extremist group known as the Islamic State has not directly
+attacked us. Killing American journalists on camera is a horrific act but not a
+legitimate casus belli. Presumably we would be acting on Iraq's behalf. U.N.
+Ambassador Samantha Power, for example, cited the United States' "inherent right
+of individual and collective self-defense." There is some slippage here in which
+U.S. officials appear to use "self defense" and "hot pursuit" interchangeably.
+
+Take Kerry's recent testimony: "Iraq is asking us to help them ... and as a
+matter of right, if they're being attacked from outside their country, you have
+a right of hot pursuit. You have a right to be able to attack those people who
+are attacking you as a matter of self-defense." He is correct, but only up to a
+point. First, the two concepts are not interchangeable. Self-defense is well
+grounded in international law under Article 51, though it requires first that an
+attack take place to defend oneself against. Hot pursuit, on the other hand, is
+still in dispute, as it stems from an obscure law of the seas allowing ships to
+pursue other ships on the high seas but requires a chase be underway - as the
+Pancho Villa case highlights. So presumably we would be allowed to chase Islamic
+State militants fleeing into Syria, but not sedentary Islamic State militants
+holed up in the city of Raqqah. Neither legal justification constitutes a blank
+check to violate a neighbors' sovereignty willy-nilly. And both require that
+states use force that is proportionate, immediate, necessary and a means of last
+resort.
+
+These legal criteria come out of a 19th-century ruling from the Caroline case. A
+more recent case - the ICJ ruling against the United States in the 1986
+Nicaragua case - is also applicable. The court ruled that interventions by the
+United States, which famously supported the Contras to unseat the Sandinista
+government, did not "in itself amount to a use of force," yet nor was the
+Nicaraguan government liable for its failure to halt arms flows into insurgents'
+hands in El Salvador. The operative phrase here, as it pertains to an
+intervention against Syria, is "effective control" - since one could argue that
+Syrian President Bashar al-Assad neither controls the actions of the islamic
+State nor is capable of preventing their activity. As Power put it, "The Syrian
+regime has shown that it cannot and will not confront these safe havens
+effectively itself." But here again, the rationale for our use of force rests on
+the ineffectiveness of Assad, not on the atrocities - or imminent threat posed -
+by the Islamic State (or by the group known as Khorasan).
+
+Regardless of the phrase's legality, what can we learn from how "hot pursuit"
+has been applied by states in the past? Looking at the limited data available on
+such raids, namely from the Correlates of War MIDs and International Militarized
+Intervention (IMI) datasets, a few interesting, if unclear, patterns emerge:
+
+First, in many cases of cross-border incursions, the states doing the pursuing
+and hosting do a switcheroo. For years, Iraq used to chase Kurdish militants
+into Turkey. Then in the 1990s, Turkey began chasing Kurdish militants into
+Iraq. Ditto Venezuela pursuing Colombian poppy farmers into Colombia in 1995
+(later, Colombia would violate Venezuelan and Ecuadoran borders in pursuit of
+FARC rebels). The mechanism behind this is unclear, but it may be that some kind
+of accommodation is made between the chasing state and the rebel group, thus
+allowing de facto sanctuary, which then provokes the neighboring state to
+pursue. Another plausible mechanism is state capacity - as states extend their
+writ and means of coercion, rebels are pushed beyond their borders.
+
+Second, during the Cold War, pursuing states were often proxies acting with the
+external blessing of a great power, which perhaps gave them a feeling of legal
+immunity to violate sovereign borders with impunity. A case in point is
+Nicaragua pursuing guerrillas into Costa Rica in 1978, or the too-many-to-count
+interventions against Mozambique and Angola. Cross-border raids were not limited
+to third-world proxies, of course: The U.S. Army did a fair amount of pursuing
+Viet Cong guerrillas in Cambodia. Moreover, a surprising number of the recorded
+hot-pursuit raids during this era were the results of accidental crossings and
+military mishaps that often resulted in apologies by the pursuing state. (That
+rarely happens anymore.)
+
+Third, the relationship between hot-pursuit raids and civil wars is not
+straightforward. Of course, there are almost always spillover effects of
+internal fighting. For example, Pancho Villa's raid occurred in the midst of the
+Mexican revolution. The Congo saw maybe the most hot-pursuit raids in history.
+And more recently, Turkey's civil war against Kurdish rebels corresponded with a
+wave of "hot-pursuit" raids into Iraq. Yet, one might also expect civil wars to
+be negatively correlated with such raids, on the logic that rebels in weak or
+war-torn states should see less need to cross borders. That is not always the
+case, to be sure. Even in low-capacity states, when militaries begin to use more
+lethal force, we see rebels flee. Boko Haram militants, for example, fled into
+Cameroon recently, prompting a border raid by the Nigerian military.
+
+Finally, empirically, hot-pursuit raids tend to occur between neighboring states
+hostile to one another. Burma's pursuit of Karen rebels in Thailand, Iran's
+pursuit of Kurdish rebels in Iraq and Colombia's pursuit of FARC militants in
+Ecuador provide cases in point. Yet in the current debate over CT strikes
+against the Islamic State in Syria, we run into the fact that Iraq and Syria are
+nominal allies, not enemies, thus inviting the prospect of Syria carrying out
+cross-border strikes against the Islamic State in Iraq and vice versa (in
+addition to U.S. airstrikes). We might think of such raids as a kind of "gateway
+drug" for states itching to go to war. Consider Israel and its Arab neighbors in
+the 1960s and 1970s, or Russia's 2002-2003 raids into Georgia's Pankisi Gorge.
+But in more recent times, such raids appear to act more as a substitute for
+interstate war, not as a harbinger of one. After all, the current rate of
+cross-border raids is consistent with their Cold War-era highs, and yet we see
+fewer interstate war onsets, suggesting either a lack of conflict escalation, a
+substitution effect or a normative acceptance of targeted raids. Moreover, these
+raids are just as likely to follow conflict as to presage it, as Iran's
+incursions into northern Iraq in the 1990s and Rwanda's post-genocide pursuit of
+Hutu militias in Congo suggest.
+
+So what does this mean for our ability to intervene in Syria? Isn't Kerry's use
+of the phrase just confirmation of the might-makes-right truism of international
+politics? Not entirely. After all, the United States has until recent weeks
+avoided violating Syrian sovereignty, despite no shortage of opportunities (and
+threats) to use force. Clearly, the administration wants to be on firm legal
+ground before bombing, say, Raqqah. Second, we've seen this movie before: During
+the Iraq war, according to documents released by WikiLeaks, the U.S. military
+was authorized to pursue insurgents into Iran and Syria but never did (over the
+heckling of some neoconservatives to do so). In other words, the United States
+has no problem with dropping drones in places like Pakistan or Yemen -
+presumably under the legal justification of UNSC Resolution 1373 or the
+Authorization for Use of Military Force (AUMF)  - but when it comes to "hot
+pursuit," it generally shies away from the practice. Finally, the real question
+comes when the the Islamic States foreign fighters scramble in the wake of our
+intervention and fan out across the region. Would "hot pursuit," much less the
+AUMF, allow us to chase them into Turkey, Lebanon, Jordan - or, gasp, all over
+Europe?
+
+Nor does the Bush-era logic of using preventive force in anticipation of
+gathering threats, whether from state leaders (Saddam Hussein) or nonstate
+actors (the Islamic State) hold much legal precedent. Yet the Obama
+administration appears to be invoking anticipatory self-defense, on the grounds
+that the islamic States (or Khorasan) has intent to strike the U.S. homeland or
+kill more Americans.
+
+The legacy of hot-pursuit raids is a mixed one, and one tangled in legal
+uncertainties. The Obama administration is right to finally intervene in Syria,
+but its justification feels a tad flimsy and unpersuasive.
+
+LOAD-DATE: September 29, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

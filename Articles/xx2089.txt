@@ -1,0 +1,91 @@
+                             2089 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                             May 21, 2014 Wednesday
+
+Google Plans to Show Ads Through Your Thermostat and Car
+
+BYLINE: NICK BILTON
+
+SECTION: TECHNOLOGY
+
+LENGTH: 444 words
+
+
+
+HIGHLIGHT: According to a filing with the Securities and Exchange Commission,
+Google wants to put advertisements on your thermostat, in your car and on your
+refrigerator.
+
+
+Science fiction got a few things right.
+
+Our home appliances are becoming intelligent, drones are flying through the
+skies and cars are starting to drive themselves. But they can't fly - yet.
+
+But it seems science fiction thinkers may have missed one big and possibly
+frightening (or annoying) prediction: that these devices would be another place
+for advertising.
+
+According to a December letter sent to the Securities and Exchange Commission,
+which became public on Tuesday, Google hopes to put ads "on refrigerators, car
+dashboards, thermostats, glasses, and watches, to name just a few
+possibilities."
+
+How would this work? Imagine that it's a cold winter day. The snow starts
+floating down, a wind kicks up and you go to your thermostat to kick up the
+heat. In Google's world, that action could be met with an advertisement on your
+thermostat for a new wool sweater.
+
+Google said in its S.E.C. filing that this plan to advertise in places beyond
+the desktop and cellphones came about partly because the company expects people
+to be using several different kinds of Google services and products in the near
+future. If that is the case, which it probably is, the company said its
+advertising would be able to follow customers between those experiences.
+
+Google hopes to offer advertisers a new feature called "Enhanced Campaigns,"
+which are advertisements that can be aimed at people across several kinds of
+devices or experiences, including cellphones, cars or thermostats.
+
+"Enhanced Campaigns allows our advertisers to write one ad campaign, which we
+serve dynamically to the right user at the right time on whatever device makes
+the most sense," Google wrote in the filing. "Because users will increasingly
+view ads and make purchase decisions on and across multiple devices, our view of
+revenue is similarly device-agnostic."
+
+While this might sound like dollar signs for Google, it could be a bit
+frustrating to the company's users. As much as I want my car to drive me to work
+in the morning, I don't want it trying to sell me everything we see along the
+route. "Hey, Nick, should we stop for an Egg McMuffin?"
+
+But that (driverless) ship may already have sailed.
+
+In its letter to the S.E.C., Google said it was disclosing this information
+because the company expected that multidevice advertising campaigns could
+deliver meaningful levels of new revenue in the future.
+
+
+     ·    Daily Report: Google's Results Disappoint as Ads Are Less Profitable
+     ·    Did Anyone Look at That Ad?
+     ·    Daily Report: Closing In on the Internet-Enabled Home
+     ·    Daily Report: With $3.2 Billion Deal for Nest, Google Makes a Play for
+          Your Home
+     ·    Google and Nest: Two Companies in the Business of Understanding You
+
+
+LOAD-DATE: May 21, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

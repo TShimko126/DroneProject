@@ -1,0 +1,538 @@
+                              9 of 2956 DOCUMENTS
+
+
+
+                              The Washington Post
+
+                              June 22, 2014 Sunday
+                                Suburban Edition
+
+More than 400 have since 2001, U.S. military records show
+
+BYLINE: Craig Whitlock
+
+SECTION: A-SECTION; Pg. A01
+
+LENGTH: 4265 words
+
+
+More than 400 large U.S. military drones have crashed in major accidents around
+the world since 2001, a record of calamity that exposes the potential dangers of
+throwing open American skies to drone traffic, according to a year-long
+Washington Post investigation.
+
+Since the outbreak of the wars in Afghanistan and Iraq, military drones have
+malfunctioned in myriad ways, plummeting from the sky because of mechanical
+breakdowns, human error, bad weather and other reasons, according to more than
+50,000 pages of accident investigation reports and other records obtained by The
+Post under the Freedom of Information Act.
+
+Commercial drone flights are set to become a widespread reality in the United
+States, starting next year, under a 2012 law passed by Congress. Drone flights
+by law enforcement agencies and the military, which already occur on a limited
+basis, are projected to surge.
+
+The documents obtained by The Post detail scores of previously unreported
+crashes involving remotely controlled aircraft, challenging the federal
+government's assurances that drones will be able to fly safely over populated
+areas and in the same airspace as passenger planes.
+
+Military drones have slammed into homes, farms, runways, highways, waterways
+and, in one case, an Air Force C-130 Hercules transport plane in midair. No one
+has died in a drone accident, but the documents show that many catastrophes have
+been narrowly averted, often by a few feet, or a few seconds, or pure luck.
+
+"All I saw were tents, and I was afraid that I had killed someone," Air Force
+Maj. Richard Wageman told investigators after an accident in November 2008, when
+he lost control of a Predator that plowed into a U.S. base in Afghanistan. "I
+felt numb, and I am certain that a few cuss words came out of my mouth."
+
+Investigators were unable to pinpoint a definitive cause for the accident but
+said wind and an aggressive turn by the pilot were factors. Wageman did not
+respond to a request for comment through an Air Force spokeswoman.
+
+Several military drones have simply disappeared while at cruising altitudes,
+never to be seen again. In September 2009, an armed Reaper drone, with a 66-foot
+wingspan, flew on the loose across Afghanistan after its handlers lost control
+of the aircraft. U.S. fighter jets shot it down as it neared Tajikistan.
+
+The documents describe a multitude of costly mistakes by remote-control pilots.
+A $3.8 million Predator carrying a Hellfire missile cratered near Kandahar in
+January 2010 because the pilot did not realize she had been flying the aircraft
+upside-down. Later that year, another armed Predator crashed nearby after the
+pilot did not notice he had squeezed the wrong red button on his joystick,
+putting the plane into a spin.
+
+While most of the malfunctioning aircraft have perished in combat zones, dozens
+have been destroyed in the United States during test and training flights that
+have gone awry.
+
+In April, a 375-pound Army drone crashed next to an elementary-school playground
+in Pennsylvania, just a few minutes after students went home for the day. In
+Upstate New York, the Air Force still cannot find a Reaper that has been missing
+since November, when it plunged into Lake Ontario. In June 2012, a Navy RQ-4
+surveillance drone with a wingspan as wide as a Boeing 757's nose-dived into
+Maryland's Eastern Shore, igniting a wildfire.
+
+Defense Department officials said they are confident in the reliability of their
+drones. Most of the crashes occurred in war, they emphasized, under harsh
+conditions unlikely to be replicated in the United States.
+
+Military statistics show the vast majority of flights go smoothly and that
+mishap rates have steadily declined over the past decade. Officials acknowledge,
+however, that drones will never be as safe as commercial jetliners.
+
+"Flying is inherently a dangerous activity. You don't have to look very far,
+unfortunately, to see examples of that," said Dyke Weatherington, director of
+unmanned warfare for the Pentagon. "I can look you square in the eye and say,
+absolutely, the [Defense Department] has got an exceptional safety record on
+this and we're getting better every day."
+
+The Post's analysis of accident records, however, shows that the military and
+drone manufacturers have yet to overcome some fundamental safety hurdles:
+
+l A limited ability to detect and avoid trouble. Cameras and high-tech sensors
+on a drone cannot fully replace a pilot's eyes and ears and nose in the cockpit.
+Most remotely controlled planes are not equipped with radar or anti-collision
+systems designed to prevent midair disasters.
+
+l Pilot error. Despite popular perceptions, flying a drone is much trickier than
+playing a video game. The Air Force licenses its drone pilots and trains them
+constantly, but mistakes are still common, particularly during landings. In four
+cases over a three-year period, Air Force pilots committed errors so egregious
+that they were investigated for suspected dereliction of duty.
+
+l Persistent mechanical defects. Some common drone models were designed without
+backup safety features and rushed to war without the benefit of years of
+testing. Many accidents were triggered by basic electrical malfunctions; others
+were caused by bad weather. Military personnel blamed some mishaps on
+inexplicable problems. The crews of two doomed Predators that crashed in 2008
+and 2009 told investigators that their respective planes had been "possessed"
+and plagued by "demons."
+
+l Unreliable communications links. Drones are dependent on wireless
+transmissions to relay commands and navigational information, usually via
+satellite. Those connections can be fragile. Records show that links were
+disrupted or lost in more than a quarter of the worst crashes.
+
+Among the models that crashed most often is the MQ-1 Predator, the Air Force
+drone manufactured by General Atomics Aeronautical Systems, of San Diego. Almost
+half the Predators bought by the Air Force have been involved in a major
+accident, according to purchasing and safety data.
+
+Frank W. Pace, president of aircraft systems for General Atomics, the leading
+producer of large military drones, said the Predator has exceeded expectations
+for reliability. It was designed to be lightweight and inexpensive, costing less
+than $4 million apiece. During the early years of the wars in Afghanistan and
+Iraq, he said, nobody expected the Predator to last very long.
+
+"It was more of a mind-set that you were going to get shot down or have other
+losses, so you don't want to put all this money into a redundant system," Pace
+said, referring to backup systems designed to kick in when a failure occurs.
+
+He emphasized that none of the Predator accidents have been fatal.
+
+"We've never reported a loss of life," he said, "so we're doing pretty good."
+
+Accidents span globe
+
+Drones have revolutionized warfare. Now they are poised to revolutionize civil
+aviation. Under the law passed by Congress, the Federal Aviation Administration
+is scheduled to issue rules by September 2015 that will begin the widespread
+integration of drones into civilian airspace.
+
+Pent-up demand to buy and fly remotely controlled aircraft is enormous. Law
+enforcement agencies, which already own a small number of camera-equipped drones
+, are projected to purchase thousands more; police departments covet them as an
+inexpensive tool to provide bird's-eye surveillance for up to 24 hours straight.
+
+Businesses see profitable possibilities for drones, to tend crops, move cargo,
+inspect real estate or film Hollywood movies. Journalists have applied for drone
+licenses to cover the news. Amazon.com chief executive Jeffrey P. Bezos wants
+his company to use autonomous drones to deliver small packages to customers'
+doorsteps. (Bezos also owns The Post.)
+
+The military owns about 10,000 drones, from one-pound Wasps and four-pound
+Ravens to one-ton Predators and 15-ton Global Hawks. By 2017, the armed forces
+plan to fly drones from at least 110 bases in 39 states, plus Guam and Puerto
+Rico.
+
+The drone industry, which lobbied Congress to pass the new law, predicts $82
+billion in economic benefits and 100,000 new jobs by 2025.
+
+Public opposition has centered on civil-liberties concerns, such as the morality
+and legality of using drones to spy on people in their back yards. There has
+been scant scrutiny of the safety record of remotely controlled aircraft. A
+report released June 5 by the National Academy of Sciences concluded that there
+were "serious unanswered questions" about how to safely integrate civilian
+drones into the national airspace, calling it a "critical, crosscutting
+challenge."
+
+Nobody has more experience with drones than the U.S. military, which has logged
+more than 4 million flight hours. But the Defense Department tightly guards the
+particulars of its drone operations, including how, when and where most
+accidents occur.
+
+The Post filed more than two dozen Freedom of Information Act (FOIA) requests
+with the Air Force, Army, Navy and Marine Corps. Responding intermittently over
+the course of a year, the military released investigative files and other
+records that collectively identified 418 major drone crashes around the world
+between September 2001 and the end of last year.
+
+That figure is almost equivalent to the number of major crashes incurred by the
+Air Force's fleet of fighter jets and attack planes during the same period, even
+though the drones flew far fewer missions and hours, according to Air Force
+safety statistics.
+
+The military divided the major accidents into two categories of severity, based
+on the amount of damage inflicted to the aircraft or other property. (There are
+three other categories for more minor accidents.)
+
+According to the records, 194 drones fell into the first category - Class A
+accidents that destroyed the aircraft or caused, under current standards, at
+least $2 million in damage.
+
+Slightly over half of those accidents occurred in Afghanistan and Iraq. Almost a
+quarter happened in the United States.
+
+In most instances, military officials convened an accident investigation board
+to determine the cause. In 18 cases, the drone crashes were so sensitive that
+the military classified the names of the countries where they occurred and
+details of what happened.
+
+Two hundred and twenty-four drones crashed in Class B accidents that, under
+current standards, cost between $500,000 and $2 million. Officials withheld
+basic details about those mishaps, such as the dates and locations, on the
+grounds that the lesser damage totals did not warrant a public investigation.
+
+The military documents do not include information about drones operated covertly
+by the CIA. The spy agency has its own fleet of about 30 armed Predator and
+Reaper drones overseas, all flown remotely by Air Force pilots assigned to the
+CIA.
+
+The CIA also flies highly advanced RQ-170 Sentinel surveillance drones,
+including one that U.S. officials have acknowledged went down in Iran in
+December 2011.
+
+'Hit by a UAV!'
+
+As the military dispatched drone after drone to Iraq and Afghanistan in the
+mid-2000s, some Air Force commanders saw the potential for trouble in the
+increasingly crowded skies.
+
+Air Force leaders circulated briefing materials that quoted an unnamed general
+as saying, "What I worry about is the day I have a C-130 with a cargo-load of
+soldiers and a [drone] comes right through the cockpit window."
+
+The general's worries were well founded. On Aug. 15, 2011, a C-130 Hercules
+weighing about 145,000 pounds was descending toward Forward Operating Base
+Sharana, in eastern Afghanistan. Suddenly, a quarter-mile above the ground, the
+huge Air Force plane collided with a 375-pound flying object.
+
+"Holy shit!" yelled the Hercules's navigator, according to a transcript of the
+cockpit voice recorder. "We got hit by a UAV! Hit by a UAV!"
+
+It was an unmanned aerial vehicle, or UAV in military jargon. An RQ-7B Shadow,
+flown by an Army ground crew, had smashed into the cargo plane's left wing
+between two propellers. Jet fuel cascaded out of a gash in the wing.
+
+The Hercules crew shut down one engine and radioed to clear the runway. Within
+two minutes, the plane landed, smoke pouring from the left side. "There's a big
+frickin' hole in the airplane," the pilot said, according to the cockpit voice
+recorder. No one was hurt.
+
+About 50 seconds later, the unwitting drone operator radioed the control tower
+to confess he had lost track of his aircraft.
+
+"We had a, ah, C-130, um, that hit a UAV," the air-traffic controller responded.
+"I'm suspecting that it's yours."
+
+The collision pulverized the Shadow. As word spread, it left drone manufacturers
+and drone advocates in the military on tenterhooks. If investigators determined
+the drone crew was responsible for a midair disaster, it would undermine plans
+to fly robotic aircraft not just overseas but back in the United States.
+
+The military has never publicly disclosed the outcome of the investigation. Two
+Pentagon officials said in interviews that the drone operator was not at fault,
+but they did not give further details.
+
+In response to a FOIA request from The Post, the Air Force released hundreds of
+pages of documents from its safety probe. The official finding of what caused
+the crash was censored, but some of the documents suggest the air-traffic
+controller was at least partly blamed. The records show the controller, a
+civilian contractor whose name was redacted, was temporarily demoted and given
+remedial training.
+
+Military officials said there has been only one other case of a midair drone
+collision, involving a helicopter and a small, hand-launched drone in Iraq a
+decade ago.
+
+Close calls on the ground have been more frequent.
+
+"Where the hell is - where is the runway?" screamed Air Force Capt. Matthew
+Scardaci as his engine conked out and his Predator crashed into Kandahar air
+base on May 5, 2011, according to a voice-recording transcript. "Oh shit, oh
+damn, oh my God what is that!? . . . What was all that stuff that I just hit?"
+
+A row of empty shipping containers, it turned out. Nobody was hurt. Scardaci did
+not respond to a request for comment through an Air Force spokeswoman.
+
+In eastern Afghanistan, Predators armed with Hellfires crashed near residential
+areas in the city of Jalalabad twice in the space of six months.
+
+In one instance, on Aug. 20, 2011, a drone "began falling out of the sky" after
+its propeller broke. "I looked below us, and there were houses everywhere," the
+camera operator told investigators.
+
+The Predator smashed into two Afghan housing compounds and sparked a fire. No
+one was hurt. The military compensated the homeowners with an undisclosed amount
+of money.
+
+'Oops' and 'uh-oh'
+
+Inside ground-control stations, drone pilots sit with binders of checklists that
+guide them through every conceivable scenario. But costly errors are still easy
+to make.
+
+One recurring mistake: forgetting to turn on the Stability Augmentation System,
+which prevents the drone from going wobbly or into a spin. In at least five
+cases, pilots did not switch it on, or accidentally switched it off, then sat
+perplexed as the aircraft went into a nose dive.
+
+On Aug. 16, 2010, neither the pilot nor the camera operator noticed the bright
+red warning lights on the video screens in front of them when their Predator
+took off from Balad air base in Iraq with the stabilizer turned off.
+
+"That's freaking us!" the camera operator yelled as the drone crashed, leaving a
+hole three feet deep near the runway. "What in the hell happened?" Investigators
+blamed "pilot inattention" for the accident.
+
+In four cases between 2009 and 2012, Air Force officials determined that pilots
+were willfully negligent, placing them under investigation for suspected
+dereliction of duty, a criminal charge under military law.
+
+One flew a Predator, unintentionally, into a 17,000-foot Afghan mountain, even
+after he was warned to watch out for high terrain.
+
+Investigators concluded that the inexperienced pilot was rushing to help troops
+on the ground and preoccupied with nearby storm clouds, unaware of the mountain
+looming ahead.
+
+The accident reports do not disclose the outcomes of the dereliction-of-duty
+cases or identify the pilots. Air Force officials declined to elaborate.
+
+In another dereliction case, voice-recorder transcripts show an irritated camera
+operator lecturing a habitually nervous pilot right before takeoff at Jalalabad
+on July 24, 2012.
+
+"Stop saying 'uh-oh' while you're flying," the operator chided. "It's never
+good. Like going to the dentist or a doctor. . . . 'Oops? What the f--- you mean
+oops?' "
+
+Sure enough, a few minutes later - oops. The armed Predator rammed a runway
+barrier and guardhouse.
+
+"Whoa," the pilot said. "I don't know what the hell just happened."
+
+Reliability gripes
+
+The original Predator was designed without redundant systems common to larger,
+manned aircraft. It bore only one engine, one alternator, one propeller. If any
+of those parts failed, the plane would come down.
+
+Since the drone program began, the Air Force has acquired 269 Predators. Forty
+percent have crashed in Class A accidents, the most severe category. An
+additional 8 percent wrecked in Class B accidents.
+
+As the accidents piled up, Air Force crews griped about reliability. Some of the
+complaints were aimed at General Atomics, the manufacturer.
+
+"I don't want to be the one that crashes a plane, but I hope that this causes
+folks - and when I say folks, I mean GA [General Atomics] - I hope we hold them
+accountable for some of this stuff," Air Force Maj. Elizio Bodden, a Predator
+instructor pilot, told an accident investigation board after a crash in Iraq on
+Nov. 29, 2007. "We know we are flying with some defective stuff, but we still do
+it."
+
+Pace, the General Atomics executive, blamed most Predator accidents on pilot
+mistakes during landings. He said that the company has made some safety upgrades
+to the aircraft but that adding extra engines or duplicate power systems was not
+practical, because it would require "a big redo."
+
+He noted that the aircraft has a limited future. General Atomics ceased
+production of the original Predator model in 2011 and replaced it with the MQ-9
+Reaper, a more reliable aircraft that can fly twice as fast and carry more
+missiles and bombs. The Air Force plans to stop flying Predators by 2018 and has
+not been "interested in putting their money into upgrades," Pace said.
+
+The Air Force acknowledged that Predators crash more frequently than regular
+military aircraft, but officials said the drone's safety record has improved
+markedly.
+
+During its first dozen years of existence, the Predator crashed at an
+extraordinarily high rate - for every 100,000 hours flown, it was involved in
+13.7 Class A accidents.
+
+Since 2009, as the Air Force has become more experienced at flying drones, the
+mishap rate for Predators has fallen to 4.79 Class A accidents for every 100,000
+flight hours.
+
+Army crash rates
+
+The Reaper has fared better than the Predator, incurring 3.17 Class A mishaps
+per 100,000 hours over the past five years.
+
+Air Force officials pointed out that the crash rate for Reapers now approaches
+the standard set by two fighter jets, the F-16 and F-15, which over the past
+five years have posted Class A mishap rates of 1.96 and 1.47 respectively,
+according to statistics from the Air Force Safety Center at Kirtland Air Force
+Base in New Mexico.
+
+"We've learned a lot about flying [drones] because we had to," said Air Force
+Col. James Marshall, the safety director for the Air Combat Command. "War is a
+great motivator when lives are on the line."
+
+The Reaper has not been immune to deficiencies.
+
+After one crashed during a training mission in California on March 20, 2009, Air
+Force investigators blamed a faulty temperature control valve in the oil system.
+A similar incident had occurred one month before.
+
+Further investigation revealed that sliders in the valves had been installed
+upside-down. Air Force inspectors were even more surprised to learn from General
+Atomics that the firm had bought the valves from a Houston company that did not
+design its products for use in airplanes.
+
+The valve "is not of aerospace grade. In other words, the thermostatic valve was
+designed specifically for industrial applications ONLY," an Air Force
+investigator wrote in the accident report. "This thermostatic valve was not
+intended for aircraft."
+
+Unlike the Air Force, the Army does not make the argument that its drones are
+nearly as safe as regular planes.
+
+In June 2013, Army safety officials posted a bulletin noting that their drones
+had crashed at 10 times the rate of manned Army aircraft over the previous nine
+months.
+
+As bad as that number sounded, the officials said it actually understated the
+problem. Commanders were not reporting many drone mishaps, as required, to the
+Army Combat Readiness/Safety Center at Fort Rucker, Ala.
+
+About 55 percent of the Army's MQ-5 Hunter drones, which can carry weapons, have
+been "lost for various reasons" in accidents during training and combat
+operations, according to Col. Tim Baxter, the Army's project manager for
+unmanned aircraft systems.
+
+The RQ-7 Shadow, the smaller reconnaissance model that crashed into the Hercules
+cargo plane, has also been accident-prone. At least 38 percent of the Army's
+fleet has been involved in a major accident, according to a Post analysis of
+Army safety statistics.
+
+Into mountains, into the sea
+
+The accident investigation reports describe a profusion of emergencies in which
+drones swerved so far out of control that crews had to resort to extreme
+measures to prevent catastrophes.
+
+On six occasions between 2006 and 2012, records show, pilots intentionally flew
+straight into the side of a mountain after their aircraft's engines began to
+fail.
+
+Under military guidelines, it was considered safer to ram a remote peak on
+purpose than to risk a drone falling on someone during a Hail Mary landing
+attempt at an airfield.
+
+"He smashed it to smithereens," an Air Force mission supervisor reported
+approvingly after a pilot struggling with a broken propeller motor commanded his
+Predator to strike a mountain in eastern Afghanistan on Oct. 26, 2012.
+
+In several other cases, drones simply disappeared and were never found.
+
+The nighttime skies were clear, with little wind, on July 10, 2011, when crew
+members who had been flying an armed Predator at an altitude of 16,500 feet over
+eastern Afghanistan saw their screens go blank. The satellite links had gone
+down. Despite hours of searching, nobody could find the plane on radar. An
+airborne search also proved fruitless.
+
+Large drones are equipped with transponders to broadcast their locations. If
+they lose all electrical power, the transponders do not work; most models do not
+carry battery-powered backup systems, because of the extra weight.
+
+Such was the fate of an armed Predator that disappeared 20 minutes after taking
+off from Kandahar air base on Nov. 20, 2009. Searchers looked for two days but
+found no trace and declared it lost.
+
+Five weeks later, troops stumbled across the wreckage, crumpled in the dirt
+seven miles from the base. Investigators determined the crash was a caused by a
+"catastrophic electrical failure" triggered by a short-circuited alternator
+cable.
+
+Lightning, high winds and icing can be especially lethal for drones.
+
+On Dec. 13, 2012, a Navy helicopter drone was trying to land on the USS Robert
+G. Bradley, a guided-missile frigate, off the coast of Libya when the tail rotor
+shattered just 15 feet above the flight deck.
+
+Witnesses saw a two-foot chunk of ice fall off the tail; investigators concluded
+that icy conditions were to blame. Luckily for the crew, the drone, an MQ-8B
+Fire Scout, veered into the sea at the last second, narrowly missing the ship.
+
+Lost links
+
+Drones depend on wireless links for navigation and control. Pilots and camera
+operators issue directions to the drone by a command link, usually by satellite.
+Data about the aircraft's movements and internal operations returns via a
+separate link.
+
+The links can be easily interrupted by various forms of interference. Usually,
+the outages last only a few seconds and are harmless. Just in case, drones are
+programmed to fly in a circular pattern until the links are restored. In
+worst-case scenarios, they are supposed to return automatically to their launch
+base.
+
+Records show that does not always happen. In more than a quarter of the
+accidents examined by The Post, links were lost around the time of the crash.
+
+Several pilots told investigators that they were so accustomed to lost links
+that they tended not to get nervous unless the disruptions lasted for more than
+a few minutes.
+
+"I'd say after the three- or five-minute period, you sort of get the feeling
+that the plane just stopped talking to us and we may not recover this one," a
+Predator pilot testified after an April 20, 2009, crash in Afghanistan.
+
+Less than a month later, five hours into a reconnaissance mission over
+Afghanistan, a Predator lost its links and vanished in midair. Investigators
+never found the wreckage and were unable to determine a cause; the weather was
+clear, and there were no signs of mechanical problems or errors by the crew.
+
+Satellite connections can be lost when a drone banks too sharply or drops in
+altitude too quickly. Electrical problems on the ground can also disrupt links.
+
+On July 21, 2008, chaos erupted inside an Air Force ground-control station where
+crew members were flying three Predators simultaneously over Afghanistan. The
+station lost its power supply, and all its screens went black.
+
+After several minutes, power was restored and pilots regained control over two
+of the Predators that had followed their programmed flight patterns and were
+flying in circles.
+
+The third disappeared.
+
+craig.whitlock@washpost.com
+
+LOAD-DATE: June 22, 2014
+
+LANGUAGE: ENGLISH
+
+DISTRIBUTION: Every Zone
+
+PUBLICATION-TYPE: Newspaper
+
+
+     Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a
+                            Washington Post Digital
+                              All Rights Reserved
+
+

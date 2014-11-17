@@ -1,0 +1,156 @@
+                             2090 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                              May 27, 2014 Tuesday
+
+The Google Car Takes a Step Away From Boring
+
+BYLINE: JOHN MARKOFF
+
+SECTION: TECHNOLOGY
+
+LENGTH: 1050 words
+
+
+
+HIGHLIGHT: Google is making the leap from semi-autonomous to completely
+autonomous cars. But what exactly does the search company plan to do with them?
+
+
+
+MOUNTAIN VIEW, Calif. - Not so boring?
+
+This month, I stirred up the blogosphere when I wrote that my brief ride in a
+Google self-driving Lexus with two other reporters was "boring."
+
+There was a lot of breathless coverage of Google's press event, which culminated
+with the company's piling reporters three at a time into the back seat of a
+sensor-full autonomous vehicle for a five-mile jaunt through traffic in the
+Silicon Valley community where the company has its headquarters.
+
+To me, what was striking at the time - aside from being cramped in the back seat
+- was the seemingly routine nature of autonomous driving, based on
+Internet-connected navigation technology that Google has been working on for
+more than four years.
+
+Yet despite an optimistic report that Google gave to the reporters at the event,
+held at the Computer History Museum on May 13, the company revealed on Tuesday
+that more than a year ago Google engineers had decided that they would not be
+able to meet their safety goals in modified conventional automobiles that
+require humans to take back control in emergency situations.
+
+So, while continuing to test its fleet of Lexuses - which now require two
+co-pilots - in both city street and freeway driving, last year Google secretly
+embarked on a new strategy to find a way to automate personal transportation
+completely in urban settings. The company is now turning attention to designing
+a new kind of car that can be safe enough that the driver can be taken entirely
+out of the loop.
+
+As a result, it has decided to design its own vehicles from the ground up, with
+only passenger seats and no driver.
+
+This is a radical bet that by creating a sensor-based virtual safety "bubble"
+around a vehicle that travels at relatively low speeds and has a 360-degree
+field of view offered by a variety of sensors, the company will be able to build
+a car that doesn't crash.
+
+Last Thursday, along with a roboticist, Christopher Urmson, the leader of the
+Google car project, I was driven - again in the back seat by an self-driving
+Lexus - to a secluded parking lot several blocks from Google's sprawling campus.
+
+For the demonstration, the parking lot was surrounded with Google security
+guards, making certain that no passers-by would be able to catch a glimpse of
+the next-generation Google car. Once we arrived, Dr. Urmson pulled out his
+smartphone and used it to "summon" the car, which drove up to us, stopped and
+announced its presence.
+
+We climbed in and put on our seat belts, and then he told me I could start our
+ride by pressing the button on the console that was placed between the two
+passenger seats. (There was also a bright red "e-stop" button, which is required
+in autonomous vehicles, on the console.) There was a moment of anxiety while we
+waited for the light on the "go" button to turn green, but it finally did, and
+off the car went.
+
+We took a couple of circuitous - and uneventful - laps through the parking lot.
+
+The experience was different in some ways from my earlier autonomous vehicle
+experience. It was a cross between riding in my office elevator (the elevator to
+reach the San Francisco bureau of The New York Times has buttons to select
+floors; the elevators in the Times Building in New York are more disconcerting -
+the buttons are located outside, on each floor - but that's another story) and
+memories of riding in the Disneyland Tomorrowland people mover as a child.
+
+[Video: How Disney imagined the world almost 50 years ago. Watch on YouTube.]
+
+The passenger compartment has room for just two seats, lots of legroom and, in
+place of the normal automobile dashboard, a small storage area for things like
+groceries. Below the plastic windshield - the idea is that such a material would
+cushion the blow should something go wrong and the car hits a pedestrian - is a
+horizontal flat-panel display. During our ride it showed the time, the local
+temperature and a projection on the time remaining until we were scheduled to
+end our trip, but you could easily see how it might also allow you to do Google
+searches or read Gmail on your ride.
+
+Although both Sergey Brin, a Google co-founder involved in the project, and Dr.
+Urmson were coy about what the search engine company wants to do with its
+self-driving cars, I think the answer is now clear. And it is stunning.
+
+After demonstrating the car, Google ferried me back to campus to interview Mr.
+Brin.
+
+"It does really feel different," he said. "Once you take the steering wheel and
+the pedals out of the vehicle, it's different to the passenger, it's different
+to the software engineer, it's a different deal. It's a pretty big
+discontinuity."
+
+When asked directly about what he thought the business might be, Mr. Brin
+pointed to ending the connection between transportation and vehicle ownership.
+
+"Regardless of Google, I think the right model for most of the world will be not
+through vehicle ownership," he said. "These should be provided as services for
+the most part."
+
+He added: "The fact is that we have the technology to deliver and it's likely
+we're going to have a lot of partners who might be automakers, parts suppliers,
+service providers, cities and countries."
+
+He said that a clear decision had not already been made, and that it might be
+different for different parts of the world.
+
+But what about moving goods? Amazon, of course, drew a great deal of attention
+recently when it claimed it was exploring the use of drones to deliver products.
+
+What about Google robot cars for delivering goods? I asked Mr. Brin this
+question. On my way to my interview, driving between Stanford University in
+nearby Palo Alto and Google's Mountain View campus, I had passed by four Google
+Shopping Express vehicles.
+
+"I'd be open to it," he responded. "The problem with the Google Express stuff is
+there is still the dude who gets out and puts stuff on the porch."
+
+At the same time, he acknowledged that Google had recently bought at least nine
+robotics companies, and Andy Rubin, who created the company's Android phone
+business, is hard at work experimenting with walking robots, among other
+challenges.
+
+So maybe the Google car that will drive up to your house so that a Google robot
+can deliver your packages isn't an absolute fantasy.
+
+But is it a "moonshot," as Mr. Brin likes to call Google's projects? You bet.
+
+LOAD-DATE: May 27, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

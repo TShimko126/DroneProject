@@ -1,0 +1,145 @@
+                             261 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+                                    The Fix
+
+                        July 18, 2014 Friday 1:44 AM EST
+
+How the government's hazy drone rules landed a congressman's wedding in the
+news;
+Rep. Sean Maloney's videographer is suddenly facing action by the FAA.
+
+BYLINE: Philip Bump
+
+LENGTH: 1142 words
+
+
+It's perhaps a sign of the times that the same-sex wedding of a member of
+Congress should be newsworthy because of legal issues surrounding a drone.
+
+But so it is. Rep. Sean Patrick Maloney (D-N.Y.) got married to his partner on
+June 21, and, as one does, hired a photographer to document the scene. That
+photographer then hired Parker Gyokeres, an active duty member of the Air Force
+who runs an aerial photography company called Propellerheads, to do some aerial
+shots of the ceremony. And he did.
+
+Why the headlines? Because the FAA prohibits the use of unmanned drones
+("unmanned aircraft systems" in the agency's vernacular) for commercial
+purposes. Gyokeres' video was something of a giveaway to the agency, which on
+Wednesday announced (indirectly) that it was looking into the situation to
+"determine if there was any violation of federal regulations or airspace
+restrictions."
+
+One of the interesting twists in this case is that Maloney helps oversee the FAA
+as a junior member of the House Transportation and Infrastructure Committee's
+Aviation subcommittee. And in case Maloney wasn't aware previously, the FAA's
+much-debated and hazy rules around unmanned aircraft could probably use a little
+more oversight.
+
+Attorney Brendan Schulman leads the Unmanned Aircraft Systems practice at the
+New York law firm Kramer Levin. Speaking with the Post by phone, Schulman was
+blunt. "The issue is that there hasn't been any rulemaking with regards to
+unmanned air systems," he said, despite it having been on the agency's agenda
+for about a decade. "We're now at a point in which there's tremendous interest
+in commercial applications" for UAS flights -- "as well as humanitarian
+applications." In April of this year, a company called Texas Equusearch retained
+Schulman to sue the government to overturn an FAA prohibition on using UAS's to
+search for missing people. His obvious goal: Clarify the boundaries of what is
+and isn't allowed.
+
+We should explain two things before we continue. First, how the FAA outlines its
+existing prohibitions, and, second, what exactly we're talking about when we
+refer to a drone or UAS.
+
+We'll start with the second. The word "drone" has become ubiquitous, prompting
+two general associations. The first, of course, is silent, plane-like vehicles
+that coast above countries in the Mideast, killing people. The second is those
+little helicopter-like things that guys in glasses and Dr. Who T-shirts take to
+the park on the weekends. But those are two ends of the spectrum. What is at
+stake here lies in between.
+
+"It's a hexacopter," Gyokeres, the videographer, told us about the craft he used
+for Maloney's wedding when reached by phone. "It's about five times the size of
+a DJI Phantom." Gyokeres' UAS is custom-built, 30-inches wide, 14 pounds, and
+with six small helicopter blades that propel it. It flies for nine minutes, with
+two people operating it: One controls the craft, the other monitors the live
+video stream to provide guidance on where it should be flown.
+
+"I am obsessive about safety, which is what the FAA cares about," he said. And
+so he follows several rules when flying, including that he maintains
+"line-of-sight" with the craft (meaning he can see it) "at all times" and that
+the device is restricted in how high it can go. "I have a GPS limiter on my
+vehicle that does not allow me to fly higher than 130 meters. It cannot go
+higher than 400 feet." (The steeple on the church in the video, he estimated,
+was about 100 feet high.)
+
+Which brings us to the FAA's current guidelines. There are at least three
+classes of groups that use a UAS in the FAA's eyes. There are hobbyists, who
+fall under a 1981 "circular" outlining operating standards. For example: "Do not
+operate model aircraft higher than 400 feet above the surface." In June, thanks
+in part to confusion over the rules, the agency released "dos and don'ts" for
+hobbyists, which includes a "don't" about letting your drone leave your sight.
+
+The second group is public agencies (police forces, for example), that want to
+use larger UASs. They can request a Certificate of Waiver or Authorization from
+the FAA, and the FAA grants or rejects it. As of last December, there were 545
+active certificates in the United States.
+
+Recently, the FAA extended that opportunity to the third group: commercial
+operators like Gyokeres. They can now petition the FAA for the right to use a
+UAS. But that's a recent development. For those without that approval, the FAA
+has cracked down. A recent comment on Gyokeres' video is revelatory. "Great
+video, seriously spectacular," a user named Glenn Martin writes. But: "Don't we
+know by now not to put these on the Internets for the FAA to try and hit you
+with the ban hammer?"
+
+"The typical response is a cease-and-desist letter," Schulman told us. "In a
+couple of other cases there have been subpoenas asking for documents or
+testimony." He would know: Schulman also represents the respondent, a commercial
+videographer like Gyokeres who filmed scenes at the University of Virginia, in a
+dispute with the FAA.
+
+"The FAA may take enforcement action against anyone who operates a UAS in a way
+that endangers the safety of the national airspace system," a statement from the
+FAA provided to the Post reads. While Schulman argues that the agency doesn't
+have a regulatory right to crack down on drone operators, given that it hasn't
+developed regulations yet, the FAA leverages its authority over the safety of
+the airspace. In the case of Schulman's U.Va. client, the threat to safety was
+due to the drone's proximity to things that it might hit. It was flown "within
+approximately 15 feet of a UVA statue," "within approximately 50 feet of railway
+tracks," and "directly towards a two-story UVA building below rooftop level and
+made an abrupt climb in order to avoid hitting the building."
+
+Gyokeres is very aware that this is the agency's goal. He explained his various
+precautions: having a clear path to a safe landing zone, never flying above
+people (he explained where he flew over the reception in the video to meet this
+standard), and never letting children near the copter. ("It's straight sorcery
+for a child.") "I carry half a million dollars in insurance," he told us. "The
+only difference is that the FAA says that since I'm taking a dollar for it I'm
+unsafe. I'm unauthorized. I'm unallowed."
+
+In 2012, Congress passed the FAA Modernization and Reform Act which, among other
+things, mandated that the FAA "accelerate the integration" of UASs into the
+airspace system. Sean Patrick Maloney hadn't yet been elected to Congress; his
+predecessor in New York's 18th voted against the bill.
+
+The FAA hasn't contacted Parker Gyokeres yet, but he is ready for them to do so.
+"They want to crush me like a bug," he told us. "I say, I'm going to throw
+spikes and stink before they step on me."
+
+"I will not go quietly into the night."
+
+LOAD-DATE: July 17, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

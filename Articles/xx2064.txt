@@ -1,0 +1,130 @@
+                             2064 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                            March 29, 2014 Saturday
+
+Cloud Computing's Watershed Week
+
+SECTION: TECHNOLOGY
+
+LENGTH: 833 words
+
+
+
+HIGHLIGHT: Moves by older incumbents and young giants show that 2014 is the year
+computing everywhere comes into its own. Now it&#8217;s time for big
+development. Looking for the next frontier? There was plenty of that, too.
+
+
+ In the technology world, March 2014 went out like a plan.
+
+It may be no accident that in the last week of the year's first quarter there
+were so many significant moves by big companies, particularly in giant systems
+of connected computers. Cloud computing and the Internet of Things, these moves
+suggest, are moving from their rough pioneering days to something bigger and
+more stable.
+
+To consider just a few of the biggest moves over the week: Google harmonized its
+cloud computing business to a single entity, with a pricing model intended to
+hold customers by enticing them to build ever cheaper and more complex software.
+
+Cisco announced it would spend $1 billion on a kind of "cloud of clouds"
+project. Later in the week it was part of a consortium of  big multinationals
+that will set engineering standards for wiring  people, machines and computers
+together in large industrial settings.
+
+Microsoft's new chief executive made his first big public appearance, offering
+Office for the Apple iPad, partly as a way to sell more of its cloud-based
+Office 365 product. Intel announced a big investment of money and technology in
+Cloudera, a move that establishes a clear leader in the business of doing big
+data analysis in the cloud.
+
+At a user conference in San Francisco, Amazon Web Services announced the general
+release of its cloud-based desktop computing business, as well as a deal
+withInfor to offer cloud-based enterprise software tools to industries like
+healthcare and manufacturing.
+
+None of these were impulsive, breaking announcements. Rather, they were more
+like deals that were first hatched in late 2013 as strategic plays for the
+coming year. And, at the end of the start of 2014, the bets have been placed.
+
+Some of these, like the moves by Cisco, Microsoft and Intel, seem like efforts
+by incumbents to catch up with the times. (if that sounds like criticism,
+consider the alternative.) Others, like the announcements by Google and A.W.S.,
+further develop cloud computing. The consortium deal tames its next step by
+establishing practices.
+
+What all of them do is admit that cloud computing soon will not be another
+business. It will be a part of almost every business, probably one that
+continues to grow.
+
+"What is surprising to us is how long it took," said Adam Selipsky, vice
+president of marketing at A.W.S., the biggest company in cloud computing. "This
+is a multi-trillion-dollar opportunity. We assumed from the beginning it was
+unlikely we'd be the only participant."
+
+A.W.S. began in 2006, and already takes credit for enabling the creation of
+businesses like Airbnb, which is taking on the hotels business; Spotify, doing
+the same to music; Dropbox, a challenge to traditional data storage; and
+Pinterest, which disrupts things like tearing pages out of catalogs and sharing
+them. With most everyone on cloud computing, there should be more of that, from
+AWS and other cloud outfits.
+
+Established companies like Netflix, Kempinski Hotels, and the Australian bank
+Suncorp have or are in the process of primarily running their business on A.W.S.
+Charles E. Phillips, the head of Infor, said his company is "essentially going
+all in" on a cloud-based enterprise software strategy, changing its compensation
+to sales people and offering to take all of a customer's data over to A.W.S.
+from their existing computers for $55,000.
+
+"Friends don't let friends build data centers anymore," he said. That's likely
+to become a common view, though companies like Cisco still back the idea that
+private computer centers will remain important for a long time.
+
+Mr. Selipsky saw the market changing from start-up curiosity to established
+practice in other ways. "We've seen a huge interest from educational
+institutions in teaching a cloud curriculum," he said. "There's demand in
+computer science and engineering departments in skills like building
+applications on inexpensive commodity hardware," with abilities to grow globally
+fast.
+
+That twinge some feel at times like this is akin to seeing the fences go up on
+the frontier, the record companies signing your favorite underground band, or
+the parents coming down to the basement party just when it was getting good. We
+may be past the wild part, but there's far more potential with this inevitable
+outcome.
+
+If you do feel that way, don't worry. This is also the week that Facebook made
+big investments in virtual reality and solar-powered drones that send high-speed
+data. A representative from Google gave a talk at the University of California,
+Berkeley, about Google's experiments in quantum computing that was cautiously
+optimistic, but not conclusive. Some disagreed.
+
+There's still plenty of frontier out there for everybody.
+
+
+     ·    The Tech Bubble's Silver Lining: Cheap Services for Everyone
+     ·    Tech Companies Offer Update on Government Data Requests
+     ·    Tech Rivals Lay Down Arms for Youth Coding
+     ·    Google Asks Secret Court for Permission to Publish National Security
+          Request Data
+     ·    Daily Report: Tech Companies Reveal Some Numbers on Requests for
+          Customer Data
+
+
+LOAD-DATE: March 30, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

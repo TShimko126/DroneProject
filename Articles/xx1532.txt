@@ -1,0 +1,198 @@
+                             1532 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                            October 28, 2014 Tuesday
+                              Late Edition - Final
+
+Aloft Through Automation
+
+BYLINE: By NICOLA CLARK
+
+SECTION: Section B; Column 0; Business/Financial Desk; ITINERARIES; Pg. 9
+
+LENGTH: 1502 words
+
+
+ORNSKOLDSVIK, Sweden -- On a clear day, Per Granquist cannot see forever. But
+from his perch inside the airport control tower here, he does have an
+unobstructed view of the future.
+
+The big picture is provided from a 33-foot mast where a gray turret holds an
+array of digital video cameras, communications antennas, sensors and microphones
+-- a setup that resembles a cross between a space-age dovecote and a prison
+guard tower. The system is meant to collect and integrate information of the
+sort that Mr. Granquist, 40, has been providing with his own eyes and ears as an
+air traffic controller for the last 17 years at this small airport in northern
+Sweden.
+
+The information from this array, though, is being sent elsewhere -- beamed by
+fiber-optic cable to a windowless room of another airport, 100 miles south, in
+the slightly larger town of Sundsvall.
+
+The system is still in test mode, but the rest of the global commercial aviation
+industry is watching closely. Early next year, Mr. Granquist and a handful of
+his colleagues expect to move to Sundsvall. And from there, they will begin
+''virtually'' guiding the half-dozen or so daily flights in and out of
+Ornskoldsvik.
+
+Ornskoldsvik is about to become the world's first remotely controlled airport.
+
+''At first it seemed a bit weird,'' Mr. Granquist said of his training on the
+new system.
+
+In Sundsvall, instead of surveying the airport through plate-glass windows, he
+will sit before a semicircular wall of more than a dozen 55-inch liquid-crystal
+displays.
+
+''But after two weeks,'' Mr. Granquist added, ''it really feels no different
+from sitting here.''
+
+Carved from an Arctic pine forest along Sweden's fjord-studded eastern coast,
+Ornskoldsvik might seem an unlikely setting for a potential aviation revolution.
+But over the last several years, officials from dozens of countries have made
+their way down the airport's rutted gravel road and past the yellow
+moose-crossing signs to get a firsthand look at technology that many expect will
+eventually transform the way air traffic is managed worldwide.
+
+It is a concept that experts say has uses not only for the world's out-of-the
+way places but could also enhance efficiency and safety at sprawling urban
+airports where increasing air traffic places ever greater demands on human
+controllers.
+
+''I have little doubt that this is the next big thing for our industry,'' said
+Paul Jones, operations manager at NATS, which provides air navigation services
+at Heathrow and a dozen other British airports.
+
+He is among those who have seen the Swedish setup firsthand.
+
+''I do think one day it could replace traditional visual control towers almost
+completely,'' Mr. Jones said.
+
+It is no accident that the idea for a remote-controlled airport emerged from
+Sweden, whose northern regions are thinly populated and poorly served by rail or
+other transportation alternatives. Much like Alaska and vast swaths of northern
+Canada, Scandinavia is dotted with dozens of small airports that provide vital
+connections to the outside world.
+
+While many of the world's remote communities are so tiny as to rely on small
+private planes whose pilots coordinate their own takeoffs and landings by radio,
+towns like Ornskoldsvik -- population 55,000 -- are just big enough to justify
+minimal scheduled airline services and a control tower. Yet with just a handful
+of takeoffs and landings most days, air traffic controllers at such airports
+often spend more of their time monitoring the weather or filling out paperwork
+than actually guiding planes.
+
+''It doesn't really make economic or even social sense to station a fully
+qualified air traffic controller in some of these places,'' said Erik Backman,
+director of operations at LFV, Sweden's state-owned air navigation service
+provider.
+
+Full-time controllers in Sweden average about $77,000 a year in pay, he said, a
+cost that rises to more than $140,000, once social security and other employee
+charges are included. There are also expenses for maintaining a building for use
+by human controllers. For the 28 civilian and military airports that LFV serves
+-- several of them, like Ornskoldsvik, lose money -- air traffic control
+represents a large part of their operating costs.
+
+That is why LFV began exploring the idea of pooling controllers at a single
+location, to guide flights remotely. In 2006, the agency invited the Swedish
+aeronautics and technology group Saab to develop a prototype that could be
+operated with minimal additional training by licensed controllers as well as
+meet international safety requirements. The system Saab developed was installed
+at both Ornskoldsvik and Sundsvall airports in 2012 and it was expected to
+receive certification from Swedish regulators by the end of this week.
+
+To guard against a remote-control airport's being hijacked by hackers, the data
+transmitted between the camera tower and the remote control center is scrambled
+using dedicated hardware and encryption software, said Anders Carp, a Saab vice
+president in charge of traffic management systems. As an added layer of
+security, he said, Saab also uses an algorithm to verify that images have not
+been tampered with en route.
+
+Mikael Henriksson has been at the fore of LFV's push into the future. An air
+traffic controller for 40 years, Mr. Henriksson, 59, has worked at dozens of
+civilian and military airports in Sweden and abroad, including a few harrowing
+stints in the war zones of Iraq. His job now is helping controllers like Mr.
+Granquist make the leap to remote tower technology, which unlike transitioning
+from being an airplane pilot to a drone operator, largely relies on an identical
+set of skills.
+
+''Controllers are already spending most of their time looking at a screen
+instead of out a window,'' Mr. Henriksson said.
+
+On a recent day at the remote control center in Sundsvall, Mr. Henriksson put
+the cameras in Ornskoldsvik through their paces. With the tap of a stylus on a
+sleek glass panel, the arc of display panels flickered to life, presenting a
+crisp 360-degree panorama of the Ornskoldsvik runway.
+
+As passengers boarded a Stockholm-bound turboprop on the tarmac, a flock of
+blackbirds flitted over the projected airfield, then disappeared into the trees,
+which swayed in the gentle breeze. A truck rolling slowly past a hangar was
+automatically highlighted by a red rectangle that followed its movement across
+the screens. Mr. Henriksson clicked to activate one of two robotic zoom cameras,
+opening a new window that functioned as virtual binoculars.
+
+When the plane took off, a few minutes later, the hum of its engines passed from
+right to left through the room's speakers, in perfect surround sound.
+
+Mr. Carp, of Saab, explained that the system could be equipped with optional
+enhancements like infrared or night-vision lenses and 3-D-augmented reality
+overlays. Such features could come in particularly handy in places like
+Scandinavia, where frequent snowstorms and long winter nights are particularly
+challenging to air controllers. A built-in recording function allows airports to
+store and replay video and data for training purposes -- or to aid investigators
+in the event of an accident.
+
+Officials at larger airports are also intrigued by the possibility of using
+remote camera technology to complement traditional control towers -- either to
+give human controllers a clearer view of parts of the airport that might be
+obstructed by other buildings, or to serve as a contingency in the event of
+extreme weather, a disaster or even a terrorist attack.
+
+A few major international airports already have emergency backup centers where a
+team of controllers can direct a reduced number of flights remotely, relying on
+radar and radio communications. Heathrow, for example, set up such a site in
+2009, in a building near the airport that Mr. Jones of NATS said had never been
+deployed but was capable of operating at 80 percent capacity in the event the
+airport's main control towers were disabled by a fire or a power failure.
+
+''But it doesn't have windows,'' Mr. Jones said of the Heathrow site. Installing
+a remote-tower system with cameras and video screens, he said, would --
+virtually, at least -- ''put the windows back in'' and enable the airport,
+Europe's busiest, to operate at close to full capacity in an emergency.
+
+Back in Ornskoldsvik, Mr. Granquist most days now works his nine-hour shift in
+solitude, with only an occasional visit from Robert Gyllroth, the airport
+manager, who sometimes asks him to pitch in with other airport tasks, like
+manning the tiny duty-free shop.
+
+Three years ago, when he first learned of the plan to operate Ornskoldsvik's
+tower remotely, Mr. Granquist was upset at the prospect of having to move his
+family to Sundsvall. But his reluctance has since turned to impatience -- and
+excitement at the career possibilities that remote technology might open for him
+at other, larger airports.
+
+''It will also be nice,'' Mr. Granquist said as he padded in stocking feet to
+adjust a window blind against the setting sun, ''to have some colleagues.''
+
+URL:
+http://www.nytimes.com/2014/10/28/business/international/directing-planes-by-rem
+ote-control.html
+
+LOAD-DATE: October 28, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: Per Granquist, an air traffic controller in Ornskoldsvik,
+Sweden, and colleagues will ''virtually'' guide daily flights.
+ At the remote control center, the tap  of a stylus on a glass panel brings up
+a panorama of the runway. (PHOTOGRAPHS BY CASPER HEDBERG FOR THE NEW YORK TIMES)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

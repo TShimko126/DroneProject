@@ -1,0 +1,153 @@
+                             1404 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             August 3, 2014 Sunday
+                              Late Edition - Final
+
+Facebook's Gateway Drug
+
+BYLINE: By EVGENY MOROZOV.
+
+The author of ''To Save Everything, Click Here: The Folly of Technological
+Solutionism.''
+
+SECTION: Section SR; Column 0; Sunday Review Desk; OPINION; Pg. 5
+
+LENGTH: 1215 words
+
+
+SILICON VALLEY was once content to dominate the tech world. But recently, its
+leading companies have ventured deep into areas well outside its traditional
+bailiwick, most notably international development -- promising to transform a
+field once dominated by national governments and international institutions into
+a permanent playground of hackathons and app-fueled disruption.
+
+To observe this venture humanitarianism in action, look no further than
+Internet.org, a coalition of Facebook, Samsung and several other large tech
+companies that promises to bring low-cost Internet access to people in
+underserviced parts of the world, via smartphones. It has organized ''efficiency
+hackathons,'' where developers build apps that work on older phones, and it has
+lobbied cell providers not to charge for ''essential'' data usage, like weather
+apps and Wikipedia.
+
+Leading the charge for Internet.org is Facebook's chief executive, Mark
+Zuckerberg. His vision is ambitious: Facebook recently bought a small drone
+maker so that it can one day beam connectivity from the sky.
+
+The goal of providing universal, affordable Internet access is a laudatory one.
+But there's more to the nonprofit-tinged ''dot.org'' agenda than meets the eye,
+and its subtext is indicative of a bigger problem with Silicon Valley
+''solutionism'' -- the belief that the tech industry could and should solve all
+of life's problems.
+
+Begin with the fact that while something called ''Internet.org'' might
+presumably give the developing world access to the same content enjoyed
+elsewhere, it does so under very peculiar conditions. Aside from a handful of
+useful apps, it delivers only Facebook, and any services -- from education to
+banking to health -- that agree to make Facebook their middleman.
+
+An under-discussed aspect of the Internet.org strategy -- which has already been
+tried in the Philippines, Paraguay and Tanzania -- is the ''pay-as-you-app''
+model, which charges users different rates for data consumed by different apps.
+Thus, while all apps are equal, some are more equal than others, in that
+Internet.org will subsidize them, while data consumed by other, ''less equal''
+apps will be charged on an individual basis.
+
+This setup might appeal to members of the Internet.org coalition (not to mention
+mobile operators), but the rest of us would find it outrageous in many other
+contexts: Imagine your water meter giving you free quick showers but charging
+you for a bath. And this is the profit-driven assumption behind Internet.org's
+alleged beneficence: Once it gets enough people to take its free digital
+showers, more users will reach into their pockets to take a digital bath.
+
+While most folks may consider such thinking nefarious, Silicon Valley thinks
+it's virtuous. As Mr. Zuckerberg put it in an essay on Internet.org earlier this
+year, one of its goals is to show ''people why it's rational and good for them
+to spend the limited money they have on the Internet.'' But this model also
+shows something else: If you run a website or an app, it's also rational for you
+to move them inside Facebook's ecosystem, so that your audience will not have to
+pay to access it.
+
+When a journalist remarked that Internet.org sounded like a gateway drug, Mr.
+Zuckerberg retorted that he preferred to think about it as an ''on-ramp to the
+Internet'' -- an on-ramp that would shunt an increasing amount of content
+through Facebook, giving it enormous influence over not just how its users got
+access to entertainment or news, but also how they received education, health,
+banking and other social services.
+
+Consider the role of ''identity services,'' the mesh of publicly issued
+identifications that has traditionally meant things like driver's licenses and
+Social Security numbers, but has come to include things like Facebook accounts.
+In a short essay outlining the vision behind Internet.org, Mr. Zuckerberg says
+one of its goals is to offer credit and identity infrastructure ''that is still
+nascent in many developing countries.'' Such services might be of some help in
+developing countries. But is Facebook the best entity to provide them?
+
+One start-up that demonstrates how all this might work is Lenddo, a lender that
+operates exclusively in the developing world. It provides credit by assessing
+the applicant's activity on social media sites. For Lenddo, Internet.org is
+great: The more time its applicants spend inside Facebook, the better it can
+assess their suitability for credit. However, with Facebook as a key provider of
+identity infrastructure for other services, it's not clear just where the
+borders for such tracking -- and users' anxiety over it -- would stop. Whatever
+homilies Mr. Zuckerberg might deliver in Sun Valley, Facebook and its allies are
+for-profit companies, whose interests fundamentally diverge from those of
+everyday citizens.
+
+To be sure, the ''Internet'' in ''Internet.org'' is not a natural resource that
+looks and costs the same everywhere based on its inherent features. It is a
+result of complex, controversial policy decisions over the use and ownership of
+communication infrastructure. These decisions follow years of lobbying and
+clever manipulation of national and international bodies by telecom operators,
+and are a direct consequence of various privatization and liberalization reforms
+in those countries. Facebook, because of its own long-term interest in expanding
+its advertising reach in the developing world, can make that Internet more
+accessible. But to accept its bargain is to abandon the fight to create
+different institutional arrangements -- say, to rein in the power of telecom
+operators and provide cheaper, more equitable services.
+
+Nor should we accept a development agenda that gives students no option but to
+surrender their data to Facebook or pay for online courses (in Rwanda,
+Internet.org is already offering such courses -- with Facebook as an
+intermediary). The answer given by telecom operators -- and tacitly endorsed by
+Internet.org -- is that there's simply no other alternative: that the market
+always knows best, and that connectivity itself, beyond some basic threshold
+determined by Facebook and its partners, ought to be treated as a commodity.
+
+Any emergent social movements concerned with matters of universal and affordable
+connectivity -- as opposed to the corporatism of Silicon Valley -- should not
+take this premise for granted. Nor should they fall for the pseudo-humanitarian
+rhetoric of rights espoused by technology companies. Whenever Mark Zuckerberg
+says that ''connectivity is a human right,'' as he put it in his Internet.org
+essay, you should think twice before agreeing. There is, after all, little joy
+in obtaining free access to an empty library, or browsing a bookstore with empty
+pockets -- which is, in effect, what Internet.org offers, while holding out the
+promise of robust content, if users will pay, a few cents at a time, for the
+privilege.
+
+In this way, Facebook and Internet.org are following a well-trod path. As the
+World Bank has demonstrated, when development becomes just a means of making a
+buck, the losers will always be the people at the bottom. Thus, to Silicon
+Valley's question of ''Is Internet access a human right?'' one could respond by
+turning the tables: What kind of ''Internet,'' and what kind of ''access''?
+
+URL:
+http://www.nytimes.com/2014/08/03/opinion/sunday/evgeny-morozov-facebooks-gatewa
+y-drug.html
+
+LOAD-DATE: August 3, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: DRAWING (DRAWING BY SANTTU MUSTONEN)
+
+DOCUMENT-TYPE: Op-Ed
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

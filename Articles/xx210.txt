@@ -1,0 +1,124 @@
+                             210 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             March 28, 2014 Friday
+                              Late Edition - Final
+
+A New Facebook Lab Is Intent on Delivering Internet Access by Drone
+
+BYLINE: By VINDU GOEL; Quentin Hardy contributed reporting.
+
+SECTION: Section B; Column 0; Business/Financial Desk; Pg. 3
+
+LENGTH: 770 words
+
+
+SAN FRANCISCO -- Watch out, Google. Facebook is gunning for the title of World's
+Coolest Place to Work. And its arsenal includes unmanned drones, lasers,
+satellites and virtual reality headsets.
+
+Mark Zuckerberg, co-founder and chief executive of Facebook, announced on
+Thursday that the company was creating a new lab of up to 50 aeronautics experts
+and space scientists to figure out how to beam Internet access down from
+solar-powered drones and other ''connectivity aircraft.''
+
+To start the effort, Facebook is buying Ascenta, a small British company whose
+founders helped to create early versions of an unmanned solar-powered drone, the
+Zephyr, which flew for two weeks in July 2010 and broke a world record for time
+aloft.
+
+''We want to think about new ways of connectivity that dramatically reduce the
+cost,'' said Yael Maguire, engineering director for the new Facebook
+Connectivity Lab. ''We want to explore whether there are ways from the sky to
+deliver the Internet access.''
+
+It's the second head-spinning announcement from Facebook this week and the third
+this year. On Tuesday, the company said it would spend at least $2 billion to
+buy Oculus VR, a Southern California start-up that is developing virtual reality
+headsets for playing games and other uses. Last month, it said it would buy
+WhatsApp, a messaging app that offers free texting around the world, for as much
+as $19 billion.
+
+The lab is part of Mr. Zuckerberg's ambitious Internet.org project to bring the
+Internet to the two-thirds of the world's population without Internet access.
+With partners like Qualcomm and Nokia, Facebook is working on technology to
+compress Internet data, cut the cost of mobile phones and extend connections to
+people who can't afford them or live in places that are too difficult to reach.
+
+That last part of the problem -- reaching the 10 percent of the world's
+population that are in areas difficult to reach via traditional Internet
+solutions -- is the initial focus of the connectivity lab, said Mr. Maguire.
+
+Currently, satellites can deliver Internet to sparsely populated areas with
+spotty Internet connections, but the cost is very high, said Mr. Maguire.
+
+Facebook wants to explore whether access could be delivered more cheaply through
+both new types of satellites and unmanned aircraft.
+
+The company envisions drones that could stay aloft for months, even years, at a
+time at an altitude of more than 12 miles from the surface of the earth -- far
+above other planes and the ever-changing weather.
+
+[Video: A promotional video for the initiative Watch on YouTube.]
+
+And to make the network more efficient, Mr. Maguire said, the planes would
+transmit data to each other using lasers before finally sending it back down to
+the earth.
+
+''You need to create an Internet in the sky,'' he said.
+
+Mr. Maguire acknowledged that the whole thing sounds a bit pie in the sky. ''We
+want to pursue a lot of directions -- some risky that might not work,'' he said.
+
+But the end goal of connecting the world to the Internet is important to
+Facebook and the company is determined to get there, he said.
+
+Matthew Eastwood, an analyst with IDC, a technology research firm, said Facebook
+was trying to serve a population that no telecommunications provider had ever
+made money from. ''You have to give them credit for thinking the way the telcos
+don't.''
+
+Facebook's recent initiatives immediately bring to mind the ''moon shots''
+pursued by its much bigger Silicon Valley rival, Google.
+
+Google has its own head-mounted computing project, called Glass. It's trying to
+bring the Internet to the middle of nowhere through a network of high-flying
+balloons. The company has also developed self-driving cars, aggressively
+acquired robotics companies and dabbled in an array of science projects that
+wouldn't seem to relate to its core, ad-driven business.
+
+With Facebook, ''the more I think about it -- drones and virtual reality and the
+excessive amount of money they're paying for WhatsApp -- they're making these
+decisions in lieu of having a solid business practice in place,'' said Brian
+Blau, an analyst at the research firm Gartner. ''Sometimes I get the feeling
+that Facebook is really just trying to keep up with the Joneses.''
+
+Or perhaps the Googles.
+
+Mr. Maguire, star of a recruiting video posted on Internet.org, played down the
+idea. He said he was not even trying to poach anyone from Google as he looked to
+add about 40 more rocket scientists, plane designers and laser communications
+wizards to his team.
+
+''You're not going to find that expertise in the traditional Internet-based
+communities,'' he said. ''We think the talent comes from elsewhere.''
+
+URL:
+http://www.nytimes.com/2014/03/28/technology/a-new-facebook-lab-is-intent-on-del
+ivering-internet-access-by-drone.html
+
+LOAD-DATE: March 28, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: A rendering of a solar-powered drone from Ascenta, the British
+company acquired by Facebook. (PHOTOGRAPH BY FACEBOOK)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

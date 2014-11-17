@@ -1,0 +1,185 @@
+                             2380 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                       August 25, 2014 Monday 4:24 PM EST
+
+The opportunities and challenges of online open-access publishing
+
+BYLINE: Erik Voeten
+
+LENGTH: 1631 words
+
+
+This week around 7,000 political scientists will descend on Washington for the
+annual meeting of the American Political Science Association (APSA). (Be
+forewarned if you plan to spend any time in Woodley Park area cafes or
+restaurants in the latter part of this week.) The theme of this year's meeting
+is "Politics after the Digital Revolution."  One contribution I (and co-Monkey
+Cager John Sides) will be making to the discussion  is a panel,  followed by a
+wine reception, on the opportunities and challenges of online open-access
+publishing (details at the link and at the bottom of this post).
+
+Together with SAGE, three co-editors in chief (Catherine de Vries, Bernard
+Steunenberg and Scott McClurg) and a large group of associated editors, I helped
+launch a new open-access, peer-reviewed journal that focuses on publishing
+high-quality short articles quickly: Research & Politics (R&P). The idea is
+straightforward. Much of political science research could be relevant to policy
+makers, students, journalists and the educated public. Yet, it is often written
+up in articles that are too long, obtuse and hidden behind paywalls. Moreover,
+academics are frustrated by the amount of time it takes to get their research in
+print and by the limitations print imposes on how analytic insights and data can
+be presented. Blogs are too short to communicate research findings thoroughly,
+and they don't cater to academic incentives, since peer-review is still valued
+highly (and rightly so).
+
+The panel will discuss the opportunities for but also the challenges of online
+open-access publishing in political science. Below I offer some personal musings
+
+ based on the brief experience we have had.
+
+1. Quality control
+
+Most of you will have heard or read about one or more scandals involving
+open-access journals. If you are a professor, and perhaps if you are not, your
+e-mail inbox will regularly contain an invitation to submit your research to a
+journal you have never heard of on a topic matter that has absolutely nothing to
+do with your expertise. For a reasonable fee, it seems, you too can have a
+"peer-reviewed" publication.
+
+I don't think it is terribly difficult to distinguish a serious journal from
+these types of article factories. A good start is a reputable publisher (in our
+case, SAGE) and an editorial team that contains respected and widely known
+scholars.
+
+When we started I thought it would be absolutely essential to also create
+artificial scarcity. Since we don't publish on paper, the marginal cost of an
+additional article is very small. That might lower the barrier for accepting
+research. If you commit to only publish a limited number of articles, the idea
+goes, you could artificially increase the cost of each acceptance.
+
+In practice, I now think such limits aren't terribly important. The process of
+accepting articles is decentralized. The most important judgments are those by
+individual referees who don't have a terribly good idea how many articles a
+journal can or should publish. The decisions of editors matter, too, of course.
+Yet, editors rarely go against two positive recommendations. Consequentially,
+paper journals regularly run up two- or three-year backlogs because they accept
+more articles than space allows.  Doing so would go against everything R&P
+stands for. If peers deem an article competent and interesting, it should be
+published, quickly.
+
+As long as you pick high-quality reviewers and associate editors, they are not
+going to let bad research pass (at least not more than for paper journals). Our
+acceptance rate is in the 20 to 30 percent range, which is reasonable for a new
+journal that is not yet attracting many "silly submissions" that can summarily
+be rejected (a dirty little secret behind some very low acceptance rates). Even
+as a new and experimental journal, we regularly reject submissions by
+well-established senior scholars (including some involved with our journal!)
+simply because the reviewers identify flaws with the research. I don't think the
+referee process differs much at all from paper journals.
+
+The bigger issue with regard to quality is how do you get people to submit good
+scholarship to your journal? Unlike many new journals, we did not start with an
+issue that contains articles by our most recognized and powerful friends. Not
+doing so is a bit of a risk as such articles generally attract a lot of
+attention and citations. Yet, we also thought it would send a bad signal as to
+how seriously we take peer review.
+
+I have been pleasantly surprised by how many submissions we have been able to
+attract from young professors at high-quality institutions like Cornell, MIT,
+University of California San Diego and Stanford. I think this is partially
+because our format seems quite natural to a younger generation of scholars who
+have grown up expecting quick publication and easy access. Perhaps they are more
+likely to bet that a venture like ours will succeed.
+
+In short, I don't think our issues with quality control are that different from
+any new paper journal. The challenge is to get high-quality scholars to cite
+work published in your journal and to submit their best work to your journal.
+Some of the very best paper journals may be more selective than we are, but they
+are also more selective than other paper journals. Our pool of reviewers is the
+same as that for other serious political science journals, and they don't
+exercise their gatekeeping tasks any differently simply because we don't kill
+any trees.
+
+ 2. How to really use the online-only presence
+
+I am really pleased with the content of R&P's articles. That content reflects
+the possibilities of quick online publishing. For example, we have accepted two
+peer-reviewed articles about the on-going Syrian conflict (the link is to one, a
+second one should be up any day).  Others deal with issue areas of interest to a
+broader audience such as public opinion on drones, the effects of international
+election monitoring and democracy promotion, communal violence in South Africa,
+
+ the English as an official language movement, partisan differences in female
+candidates in U.S. elections, a comparison of Saddam Hussein's public and
+private speeches,and the consequences of political innumeracy.
+
+Yet, I will admit that so far our articles look like any other journal article
+and the Web site like any other journal Web site. SAGE is working hard on
+developing a new Web platform that is better suited for taking advantage of the
+possibilities of online only publishing. This will launch soon enough. The
+bigger challenge is to figure out how to best use the fact that the Web allows
+for more dynamic and interactive presentations than paper.
+
+This is a challenge for all social scientists rather than just for those of us
+serving on the editorial team of a journal. We have started conversations with
+subcommunities of political scientists to see how our platform may work for
+them. For example, R&P would be happy to experiment with active citation and
+publish replications of qualitative research. We would also like to be on the
+forefront of publishing peer-reviewed data visualizations and other forms of
+interactive displays of data and analytic insights.
+
+These are examples of new forms of academic publications that will require new
+standards, expertise and, most of all, creativity and initiative from members of
+the political science community. It is clear to me that online only
+peer-reviewed publishing will allow political scientists to do worthwhile things
+that we are not now doing (or only on the side) simply because ultimately what
+we write, will have to be published on paper. It doesn't matter if most people
+read papers online. If you know that your research will eventually have to
+printed in ink what's the point of exerting a lot of effort creating interactive
+presentations of your findings or citations? Figuring this out is an area where
+we can use a lot of input.
+
+3. How to make open-access work financially.
+
+This may be the most difficult issue. At the moment, R&P doesn't have any fees,
+thanks to SAGE's investments and the editors' willingness to work for free. This
+is obviously not sustainable. We aim to keep operational costs low through
+online publishing and by spreading the workload over many associate editors. We
+also hope to partner with foundations who aim to make scholarly work more widely
+available to the public. But we will have to rely on author fees, too, hopefully
+mostly through research grants.
+
+In Europe, the winds are already changing, and some public funding agencies now
+require that the research they fund is made available on an open-access basis,
+thus creating line items in research budgets for publication. We will have to
+see how this develops. Still, a good bit of political science research is
+produced without large external grants and by professors without large research
+funds. Obviously, we ought to be really careful not to replace one inequity
+(unequal access to published research) with another one (unequal access to
+outlets for publication). We have some policies to prevent this, but if this
+weren't an issue, everyone would already be open-access.
+
+If you are interested in discussing these issues, you are welcome to join us at
+6:15 p.m. Friday (Aug. 29) in the Omni Shoreham hotel (Capitol Room, East
+Promenade, Lobby Level) for a panel followed by a wine reception at 7:15. Aside
+from myself, the panelists are the founding co-editor-in-chief of Political
+Science Research & Methods professor Vera Troeger, the American University
+School of International Studies dean James Goldgeier and the Monkey Cage's very
+own John Sides. We hope to see you there and look forward to listening to your
+thoughts and suggestions.
+
+LOAD-DATE: August 25, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

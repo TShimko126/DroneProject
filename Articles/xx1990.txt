@@ -1,0 +1,125 @@
+                             1990 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                               (You're the Boss)
+
+                            November 4, 2013 Monday
+
+New Options for Small Businesses Looking to Go Paperless
+
+BYLINE: EILENE ZIMMERMAN
+
+SECTION: BUSINESS; smallbusiness
+
+LENGTH: 847 words
+
+
+
+HIGHLIGHT: Three new tools designed to make it easier to manage a small
+business.
+
+
+Academics predicted the rise of a paperless society decades ago. We're not there
+yet, but at least on the small-business front, we're getting closer. In fact, a
+host of new tools have arrived recently, including Shake, an app platform that
+allows users to create, sign and send legally binding agreements from their
+smartphones; Zipmark, a digital checkbook; and SimpleScan, a mobile scanner and
+document management system that integrates with cloud apps used by small
+businesses.
+
+Shake was started in 2012 by Jared Grusd, Jon Steinberg, Abe Geiger and Stuart
+Ellman, a venture capitalist with RRE Ventures, which has invested $1 million.
+It takes long, complex legal documents and shortens them, putting them into
+plain English and allowing them to be dispatched and signed digitally. "People
+sign things all the time they don't understand," Mr. Geiger said. "We think the
+most important thing is to sign something you understand and that will hold up
+in court."
+
+The app is geared toward freelancers and small businesses that need to get deals
+done quickly with documentation but don't have the time or money to go to a
+lawyer. It offers six templates: a freelance contract, a hiring contract, a
+standard nondisclosure agreement, a buy/sell agreement, a rent/lend agreement
+and an agreement for loaning money. There's also a create-your-own agreement,
+which is referred to in-house as "the napkin agreement."
+
+So far, the app works only with an iPhone or an iPad, although the company
+expects to introduce an Android version.  And for now, Shake is free; the
+company plans to roll out premium options that will range in price from $10 to
+$50 a month.
+
+Zipmark's software lets a small business with recurring invoices - like
+subscription-based services, businesses with monthly membership fees or rent -
+accept online payments that clear within 24 hours. Zipmark's application is
+embedded in a host of invoicing platforms small businesses use, said Jay
+Bhattacharya, Zipmark's chief executive.
+
+"Businesses can send an email invoice - my children's piano teacher now does
+this - and at the bottom of the email is a place to click that says, 'Pay with
+your checking account. Powered by Zipmark.' The customer registers and is
+automatically taken through the process of paying," said Mr. Bhattacharya, who
+added that it works much the way PayPal or a credit card does, but the fees are
+lower and the payments clear faster. Zipmark also allows business owners to
+create their own payment website, where customers can find and pay their bills.
+
+The company started in 2010 and has raised almost $4 million in venture capital.
+Its digital check tool works with many of the accounting systems that small
+businesses use, including FreshBooks, WorkingPoint, Apptivo and Toast Invoice.
+
+"We do real-time risk management in such a way that we can economically provide
+a risk-free digital check," said Mr. Bhattacharya. "We created our own algorithm
+that pulls in a variety of data and determines the likelihood the check is going
+to clear." Another key segment for the company is B2B payments, where the risk
+of insufficient funds is also very low. Zipmark charges businesses 1 percent of
+the transaction with a cap of $5.
+
+Mr. Bhattacharya, who opened Zipmark with Jake Howerton, is a veteran of
+Citigroup, and helped start Citi Ventures. He worked in the credit card
+division, where charges can be as high as 3 percent of a transaction. "I saw
+this as a pain point in the small-business community," he said. "These
+businesses that do recurring billing have relationships with their clients so
+the risk is very low that the transaction won't clear. Yet they are forced into
+a payment system where they are charged the same amount as a business that
+doesn't know their customers."
+
+Finally, SimpleScan is a mobile scanner from Document Capture Technologies,
+which has designed and built mobile scanners sold under other brand names, like
+Xerox and Brother. Introduced in July, SimpleScan signals a shift from hardware
+to software, said Karl Etzel, who is chief operating officer of DCT. It works on
+a cloud-based document-management platform that integrates with many
+small-business applications.
+
+Users get a free account and through SimpleScan's Web interface, they can direct
+scanned documents to cloud-based apps like Evernote and Dropbox. "SimpleScan
+will just send a scanned document to the cloud app you want to send it to," said
+Mr. Etzel. And if you forget where you put it? "We have a feature that keeps
+track of that for you," he said
+
+The scanner also offers users the ability to snap photos of receipts with a
+smartphone and send them to the cloud. It ranges in price from $159 to $199. For
+small businesses that want additional document management functions, a premium
+service will be available for $5 a month later this year.
+
+You can follow Eilene Zimmerman on Twitter.
+
+
+     ·    Debating How to Market an iPhone App
+     ·    A Start-Up Struggles to Market Its iPhone App
+     ·    This Week in Small Business: Meet Your Start-Up Mate
+     ·    Today in Small Business: Thank You for Sharing
+     ·    Today in Small Business: Drones That Deliver Pizza
+
+
+LOAD-DATE: November 4, 2013
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2013 The News York Times Company
+                              All Rights Reserved
+
+

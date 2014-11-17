@@ -1,0 +1,152 @@
+                             2533 of 2956 DOCUMENTS
+
+
+
+                               Washingtonpost.com
+
+                      November 3, 2013 Sunday 8:13 PM EST
+
+LET THE CAR DO THE DRI VING
+
+BYLINE: Ashley Halsey III
+
+SECTION: Metro; Pg. C02
+
+LENGTH: 1091 words
+
+
+There is a vision of the future you may have heard about: Computer-controlled
+cars whizzing around the Beltway at the speed limit, still bumper to bumper, in
+rush hour. ¶ Add to that two realities. ¶ The future may arrive so soon it will
+leave your head spinning. ¶ But before it does, there are a whole lot of issues
+that people - including you - have to address.
+
+The era of the automated car, something akin to having an onboard computer
+perform as your chauffeur, awaits its moment like a morning sun just below the
+horizon. There are prototypes on the streets, states that allow test models on
+the highway and projections that you will be surrounded by them - or inside one
+- in little more than a decade.
+
+A pair of assessments last month - a comprehensive review of autonomous vehicles
+by the D.C.-based Eno Center for Transportation, and an essay by Robert W. Poole
+Jr. of the Reason Foundation - provide a crystal-ball glimpse of the barriers
+and benefits ahead.
+
+"I appreciate the potential of autonomous vehicles," Poole wrote. "But I am
+amazed and appalled at some of the hype about likely benefits being spread by
+people who should know better."
+
+He goes on to question predictions of a dramatic drop in car ownership, reduced
+need for parking, the rapidity with which the new vehicles will win the hearts
+of American drivers, the cost to taxpayers of equipping highways with necessary
+electronics and the notion that drivers will be able to nap or play games during
+the commute to work.
+
+The Eno Center study,                                        co-authored by
+Daniel Fagnant and Kara M. Klockelman of the University of Texas at Austin,
+dissects the promises and potential pitfalls.
+
+Autonomous vehicles, also known as AVs, already are on the road. Those test
+models will evolve into production cars by 2020 - Volvo, Toyota, Ford, General
+Motors, Volkswagen and Nissan are working on them - and be on the mass market a
+couple of years later. Nevada, California and Florida have taken fledgling steps
+toward regulating AVs.
+
+The story of exactly how they work must wait for another day, but consider how
+much of the technology already is coming off the assembly lines. Each year, more
+cars are produced with sensors that detect lane changes, backup distances and
+measure the space between your car and the one just ahead.
+
+If you've moved much beyond the Studebaker era, your car was built with a
+computer that keeps track of all that and a great deal more. Before you know it,
+your computer will be communicating directly with the computers on vehicles
+around yours via short-range transmitters that use dedicated bandwidth to send
+and receive information 10 times per second about where the vehicles are and
+what they are doing.
+
+That technology works - there was a test demonstration near National Harbor this
+year - and only needs radio hookups and public policy decisions before it rolls.
+
+Once cars and trucks begin a robust conversation about where they are and what
+they're  planning to do - along with chit-chat that draws in stuff like traffic
+lights, congestion reports and some road conditions - do they really need you to
+boss them around?
+
+Maybe not, but maybe so.
+
+On the plus side, the Eno Center report points out, 40 percent of fatal crashes
+involved alcohol, and an AV can't drive drunk. Overall, more than 32,000 people
+died in collisions in 2011, and AVs would reduce that number by a lot.  A
+computer-linked systems of AVs could also reduce congestion and air pollution.
+
+AVs would increase mobility for the disabled, elderly and young people (soccer
+moms might be replaced by soccer AVs).  After dropping off passengers, cars
+could be sent to park themselves in more remote, less expensive places.
+
+Before you get giddy with excitement, however, consider a minefield of caveats
+extrapolated from the Eno report.
+
+Would you fly in an airplane without a pilot? Why not? The "pilots" of drones
+mounting attacks in Afghanistan, Pakistan and elsewhere are sitting a half world
+away. Commercial planes can be flown the same way. Are you ready to take a
+figurative - and maybe literal - back seat in your own car?
+
+How much are you willing to payfor chauffeur-like luxury? There are all sorts of
+estimates, but it might add $25,000 to $50,000 to the sticker price in the early
+years of production. After a decade, the best guess is that might fall to an
+added $10,000. (There might be savings on insurance and fuel costs to help
+balance that out.)
+
+Are you ready to trust a bunch of computerswith your life? Is that a deer, an
+empty cardboard box, a child, a cyclist or a pedestrian that the sensor is
+warning your computer about? Should the computer decide what to do or should
+you?
+
+Ethicist Patrick Lin says its a variation on a classic case study.
+
+"On a narrow road, your robotic car detects and imminent head-on crash with a
+non-robotic vehicle," Lin wrote.  Is it "a school bus full of kids, or perhaps a
+carload of teenagers bent on playing 'chicken' with you, knowing that your car
+is programmed to avoid crashes?"
+
+The computer decides to swerve to avoid the collision, hits a tree and you die.
+
+"At least with the school bus, this is probably the right thing to do," Lin
+said, "to sacrifice yourself to save 30 or so school children. The automated car
+was stuck in a no-win situation and chose the lesser evil. . . . It's one thing
+when you, the driver, make a choice to sacrifice yourself, but it's quite
+another for a machine to make that decision for you involuntarily."
+
+What will the jury decide? In a lot of situations, drivers are not held at fault
+if they make less than the best decision in a split second under duress. Will
+the legal system be just as forgiving of a computer that's using an array of
+sensors and software to inform its decision?
+
+What happens if this vast computer networkthat controls every vehicle on the
+road gets hacked? The evidence du jour seems to suggest that few computer
+systems in the world are immune from penetration. Could al-Qaeda get into the
+network and instruct all vehicles to accelerate to 70 mph and swerve left?
+
+Will computers in cars put an end to hanky-panky? Will all that data being
+pumped about your whereabouts from your car into somebody's cloud be Nirvana for
+divorce lawyers? And those who follow a more moral path also have a right to
+know where the gathered information of their travels will be stored, who might
+have access to it and how it might be used.
+
+The Eno Center report sums it up: "The proliferation of autonomous vehicles is
+far from guaranteed."
+
+ashley.halsey@washpost.com
+
+LOAD-DATE: November 3, 2013
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Publication
+
+
+Copyright 2013 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

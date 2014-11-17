@@ -1,0 +1,139 @@
+                             2061 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                             March 28, 2014 Friday
+
+Google Flu Trends: The Limits of Big Data
+
+SECTION: TECHNOLOGY
+
+LENGTH: 972 words
+
+
+
+HIGHLIGHT: Two recent research papers, examining Google Flu Trends, offer a
+critique of big-data analysis.
+
+
+Google Flu Trends, once a poster child for the power of big-data analysis, seems
+to be under attack.
+
+This month, in a Science magazine article, four quantitatively adept social
+scientists reported that Google's flu-tracking service not only wildly
+overestimated the number of flu cases in the United States in the 2012-13 flu
+season - a well-known miss - but has also consistently overshot in the last few
+years. Google Flu Trends' estimate for the 2011-12 flu season was more than 50
+percent higher than the cases reported by the Centers for Disease Control and
+Prevention. And, they wrote, for a period of more than two years ending in
+September 2013, the Google estimates were high in 100 out of 108 weeks.
+
+The article, "The Parable of Google Flu: Traps in Big Data Analysis," declared
+that Google was guilty of "big data hubris," which the authors defined as the
+implicit assumption that big data sets trump traditional data collection and
+analysis. And they were skeptical of Google Flu Trends' algorithmic smarts. "The
+comparative value of the algorithm as a stand-alone flu monitor is
+questionable," they wrote.
+
+A follow-up analysis by the four authors tracked Google Flu Trends' performance
+in the just-concluded 2013-14 flu season, after Google updated its algorithm
+last October. There was some improvement, but the service still overshot by
+about 30 percent, the authors wrote, in their paper, posted online.
+
+The authors' analysis found that simply using the recent trend of C.D.C. reports
+from doctors on influenza-like illness, which lag by two weeks, would have been
+a more accurate predictor than Google Flu Trends.
+
+The authors might appear to be unlikely critics of a tool like Google Flu
+Trends. "We're fans of big data and the use of data science," said Alessandro
+Vespignani, a professor at Northeastern University. David Lazer is a professor
+at Northeastern, and Ryan Kennedy, an assistant professor at the University of
+Houston, has a yearlong research fellowship in computational social science at
+Northeastern. They have affiliate links with Harvard University's Institute for
+Quantitative Social Science, whose director, Gary King, is the fourth author.
+
+Their technical criticism of Google Flu Trends is that it is not using a broader
+array of data analysis tools. Indeed, their analysis shows that combining Google
+Flu Trends with C.D.C. data, and applying a few tweaking techniques, works best.
+"The mash-up is the way to go," Mr. Lazer said.
+
+Matt Mohebbi, co-inventor of Google Flu Trends, agrees. Much of the current
+criticism, in his view, misses the point that the service was always intended as
+a "complementary signal" rather than a stand-alone forecasting tool.
+
+"I think we were consistent in the way we communicated that from the outset,"
+Mr. Mohebbi said. He left Google in 2013 and is a co-founder ofIodine, a
+start-up that will use data science for a consumer health service, to provide
+personalized advice on medications.
+
+Yet respected authors and academics often pointed to Google Flu Trends as proof
+of the triumph of the big data approach. Tracking 45 flu-related search terms
+over billions of searches, monitoring trends and making correlations would win
+out. Google could tap the "collective intelligence" of society in real time,
+free of the human bias and hypotheses of traditional methods.
+
+The authors of the recent articles were partly motivated by the desire to
+puncture that notion. "Google Flu Trends became this paradigm that you just look
+at all this data, make correlations, and we don't need anything else," Mr.
+Vespignani said.
+
+Google Flu Trends was introduced in the fall of 2008, having started long before
+as a Google 20 percent project begun by Mr. Mohebbi and Jeremy Ginsberg. In an
+article in Nature in 2009, the two were among the co-authors who explained
+Google Flu Trends. "This system," they wrote, "is not designed to be a
+replacement for traditional surveillance networks or supplant the need for
+laboratory-based diagnoses and surveillance."
+
+What it could do, they wrote, is give an early-warning signal of flu outbreaks
+one to two weeks ahead of the C.D.C. surveillance reports. In the 2009 Nature
+paper, they showed that it had given that advance indication in the 2007-08 flu
+season - and that it would again during the 2009 H1N1 outbreak.
+
+"It gives you that near real-time signal," Mr. Mohebbi said, "and it has proven
+that it does add value."
+
+"We're only at the beginning of what's possible with this big-data-style
+analysis," he added. "And big data and small data are both very important."
+
+In a statement, a representative for Google Flu Trends, which now monitors 29
+countries, said the service was reviewed every year, with improvements in mind.
+"We welcome feedback on how we can refine Flu Trends to help estimate flu levels
+and complement existing surveillance systems."
+
+The two recent papers by the computational social scientists are part analysis
+and part commentary. Mr. King said one of the issues raised is the data reversal
+that has occurred in science. "It used to be that academics has way more data
+than companies," he said. "But that has flipped now."
+
+In the paper, the authors wrote of the need for researchers to be able
+nonetheless to study the "evolution of sociotechnical systems" - and the work of
+data-driven algorithms of private companies with far-reaching influence. That
+includes a field like public health and the proprietary software engine beneath
+Google Flu Trends.
+
+"The algorithms underlying Google, Twitter and Facebook," they wrote, "help
+determine what we find out about our health, politics and friends."
+
+
+     ·    The Tech Bubble's Silver Lining: Cheap Services for Everyone
+     ·    Government Data Requests Fall at Yahoo But Rise at Google
+     ·    Google's Bigger, Cheaper Cloud
+     ·    Now Facebook Has a Drone Plan
+     ·    Google Continues With Its Project Ara Modular Smartphone Effort
+
+
+LOAD-DATE: March 30, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

@@ -1,0 +1,133 @@
+                             1382 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                              July 18, 2014 Friday
+                              Late Edition - Final
+
+Google's Quarterly Results Show Its Continuing Struggle With Mobile Advertising
+
+BYLINE: By MIKE ISAAC
+
+SECTION: Section B; Column 0; Business/Financial Desk; Pg. 3
+
+LENGTH: 860 words
+
+
+In the court of Internet advertising, sometimes it's hard to be the king.
+
+Long the reigning champion of online search advertising, Google faces a
+persistent headache: Consumers are increasingly moving from desktop computers to
+smartphones and tablets, where the desktop advertising formats of old are not as
+alluring because of the screen-size restrictions of mobile. And as mobile ads
+increasingly become a larger part of its business, Google is less able to charge
+the same premiums that it has for its lucrative desktop ad business.
+
+Thursday's earnings release for the second quarter, which ended in June,
+provided more evidence of this problem. The price that advertisers pay each time
+someone clicks on an ad -- or ''cost per click,'' in Google talk -- dropped 6
+percent from the year-ago quarter, largely because of the shift to increased
+mobile advertising. That is in line with Google's two-year trend of declining ad
+prices. Google does not, however, break out mobile ad revenue from desktop ad
+revenue.
+
+''The revenue opportunity is very, very high, but right now mobile does not
+monetize as well as other forms,'' Nikesh Arora, Google's chief business
+officer, said on a conference call with analysts.
+
+It will no longer be the problem, however, of Mr. Arora, who is in charge of the
+company's ad business. The company announced on Thursday that Mr. Arora planned
+to depart his position of the past decade for a new job at SoftBank, the
+Japanese telecommunications giant, as vice chairman.
+
+Omid Kordestani, a longtime Google employee and senior adviser to Larry Page,
+Google's chief executive, will fill Mr. Arora's old position for the time being,
+according to a company statement.
+
+''There is nothing Omid doesn't know about Google, our customers and partners,
+and I know that under his leadership the team will excel,'' Mr. Page said in a
+post on his personal Google Plus page.
+
+Google's revenue for the quarter was $15.96 billion, an increase of 22 percent
+over the year-ago quarter. Net revenue, which excludes payments to the company's
+advertising partners, was $12.71 billion, up from $11.1 billion last year.
+Analysts expected gross revenue of $15.6 billion.
+
+Net income in the second quarter rose nearly 6 percent to $3.42 billion, or
+$4.99 a share. Excluding the cost of stock options and the related tax benefits,
+Google's profit was $6.08 a share. Analysts had expected $6.23 a share,
+according to data compiled by Bloomberg.
+
+Shares of Google's stock rose about 1 percent in after-hours trading to $589.25.
+
+Despite Google's continuing mobile dilemma, its advertising competitors are
+still small in its rearview mirror. Google accounted for nearly 32 percent of
+online global ad spending in 2013, according to estimates from eMarketer.
+Facebook is in second place, accounting for nearly 6 percent of 2013's $120.05
+billion online global advertising market.
+
+Mobile, however, is something that Facebook seems to have cracked. The social
+media giant accounted for almost 16 percent of mobile advertising dollars spent
+around the world last year, eMarketer estimates, up from 9 percent in 2012.
+Google dropped to a 41.5 percent share of the mobile ad market last year, down
+from 49.8 percent in 2012.
+
+Google spent the first half of 2014 making one pie-in-the-sky acquisition after
+another. The company is spending billions to move into new industries that are
+unlikely to yield profits for decades.
+
+In April, for instance, Google purchased Titan Aerospace, a drone-making
+company; two months later, Google snapped up Skybox Imaging, a satellite
+service, for half a billion dollars. In February, Google completed its
+acquisition of Nest Labs for $3.2 billion.
+
+It is a series of long-term bets that are also being made by competitors --
+namely, Facebook -- but they still give shareholders and analysts pause.
+
+''There's a little bit of concern in the markets that there's some drunken
+spending going on,'' said Mark Mahaney, an Internet analyst with RBC Capital
+Markets.
+
+Google does not feel pressured to see immediate returns on some of its
+investments -- especially when the company is sitting on $61.2 billion in cash
+reserves.
+
+''We set up our governance a bit like a V.C. model,'' said Patrick Pichette,
+Google's chief financial officer, in a conference call with analysts on
+Thursday. For projects like Google's self-driving cars, it could take
+''half-decades, or sometimes longer'' until the company expects to see any
+profitable returns on its investment, Mr. Pichette said.
+
+Mr. Pichette also cited other areas in which Google, which reported $2.65
+billion in capital expenditures over the second quarter, has reinvested its cash
+hoard. This included expanding the data centers Google has built, owned and
+operated, as well as buying additional real estate in the Asia-Pacific and
+European markets.
+
+The company also added about 2,200 employees to its ranks, bringing the overall
+number to just above 52,000.
+
+Some long-term investments, however, are starting to yield returns. Over the
+last quarter, Google sold one million of its Chromebook laptops -- the low-cost,
+cloud-based notebooks that run almost entirely on Google's suite of Web
+applications -- to schools.
+
+URL:
+http://www.nytimes.com/2014/07/18/technology/googles-earnings-show-its-struggle-
+with-mobile-ads.html
+
+LOAD-DATE: July 18, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Google's campus in Mountain View, Calif. On Thursday, Google
+reported higher revenue and profit for the second quarter. (PHOTOGRAPH BY MARCIO
+JOSE SANCHEZ/ASSOCIATED PRESS)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

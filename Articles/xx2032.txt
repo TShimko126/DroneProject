@@ -1,0 +1,104 @@
+                             2032 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                           January 22, 2014 Wednesday
+
+Bugs in Chrome Browser Could Give Access to Microphones
+
+SECTION: TECHNOLOGY
+
+LENGTH: 653 words
+
+
+
+HIGHLIGHT: A software developer discovered a way for malicious websites to use
+Chrome to listen to conversations happening near a computer, even after the
+website has been closed.
+
+
+[Video: Tal Ater demonstrated how the Chrome vulnerability works. Watch on
+YouTube.]
+
+Web developers can exploit bugs in Google's Chrome browser to listen through a
+computer's microphone - even if the browser is not open, according to a
+developer who publicly reported the vulnerability Wednesday.
+
+The developer, Tal Ater, works at a tech start-up in Tel Aviv and also created a
+popular library for adding voice recognition to websites. While working on these
+tools, he found several bugs that together could be exploited to listen to
+people's conversations near a computer surreptitiously.
+
+"What you see here essentially turns Google Chrome into an espionage tool that
+compromises your privacy in your office or your home, even when you're not using
+your computer," according to a video demonstrating the technique on Mr. Ater's
+site.
+
+Chrome users can ensure that malicious sites do not have access to their
+microphones by refusing to grant them access, which sites must request. They can
+see which sites they have given permission in a six-step process. (Click the
+Chrome menu; click "settings"; click "show advanced settings"; click "content
+settings" under "privacy"; click "manage exceptions" under "media"; view the
+list and rescind permission if desired.)
+
+In a statement, Google said, "The security of our users is a top priority, and
+this feature was designed with security and privacy in mind."
+
+The company added that a Chrome user must first turn on speech recognition by
+clicking a button, allowing a website to have access to the computer's
+microphone, and that the feature was in compliance with web standards. Also,
+some sites request permission to get access each time the site is opened.
+
+Still, Mr. Ater said, a malicious website could pretend to be innocuous,
+persuade someone to grant access to the microphone and keep it running in the
+background, even after the site is closed.
+
+Mr. Ater said that he had no knowledge of anyone exploiting the bugs, and that
+he went public about the vulnerability only after alerting Google in September.
+He received a response from Google saying the company would make changes to fix
+it, but four months later he found the bugs still existed.
+
+Google ultimately decided not to make all the changes because users must grant
+sites access to the microphone, and also because the voice recognition tool
+complies with web standards, according to a person with knowledge of the
+decision, who would only speak anonymously. Google is working on better visual
+cues to show that access to the microphone has been given, the person said.
+
+The vulnerability highlights a growing privacy concern. Internet and cellphone
+users readily grant permission to apps and sites for access to personal
+information like contacts or location, as well as tools like the microphone. Yet
+they often do not realize that these apps and sites continue to collect
+information in the background, even if it is irrelevant to the service being
+offered, according to recent research from Carnegie Mellon.
+
+The vulnerability also strikes at the heart of voice recognition tools, which
+both Google and Mr. Ater are hoping will transform technology. Google's ultimate
+vision is that people can simply talk to computers built into everyday
+surroundings and hear the information they need. The company is taking steps in
+that direction with tools like Google Glass, the Moto X phone, and Google search
+on phones and on Chrome, all of which respond to voice commands.
+
+"I have a vested interest in speech recognition working," Mr. Ater said in a
+phone interview from Israel. "I really believe speech recognition can push the
+web forward. I've seen it do amazing things, everything from cooking
+applications to voice-controlled drones."
+
+Chrome, which has overtaken Safari, Firefox, Internet Explorer and other
+browsers as the most popular browser in the world, has long emphasized superior
+security as an important selling point.
+
+LOAD-DATE: January 22, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

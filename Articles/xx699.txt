@@ -1,0 +1,139 @@
+                             699 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                              May 19, 2014 Monday
+                              Late Edition - Final
+
+Forecasting the Next Big Moves in Tech
+
+BYLINE: By NICK BILTON.
+
+Email: bilton@nytimes.com
+
+SECTION: Section B; Column 0; Business/Financial Desk; BITS; Pg. 8
+
+LENGTH: 843 words
+
+
+Silicon Valley is starting to feel a little less exuberant these days.
+
+Some big start-ups are having trouble raising money. Others are delaying plans
+to go public. Hot new technologies like Bitcoin have been struggling.With all
+the nervous chatter out there -- Where is this going? What's next? -- I called
+on Marc Andreessen, who has lived through a bubble or two (or three).
+
+Mr. Andreessen, a prominent venture capitalist, has been at the epicenter of the
+technology business here for two decades. In the early 1990s, he was a
+co-founder of one of the first major web browsers, Netscape. He went on to start
+Ning, an early social site. Now, in addition to being voluble on Twitter, he
+sits on the board of Facebook, eBay and Hewlett-Packard.
+
+I got 28 minutes with him. But Mr. Andreessen speaks so quickly, it felt like an
+hour and a half.
+
+Saying ''bubble'' to a venture capitalist around here is like saying
+''homework'' to a teenager. They roll their eyes and try to shoo you away. So
+rather than ask if we are in the middle of another -- ahem -- bubble, I asked
+Mr. Andreessen why some young companies can't seem to raise all the money they
+want.
+
+His answer: conditions ebb and flow. And right now, they are ebbing for some
+companies. But for others, capital is still available.
+
+''We have not seen any pullback so far on private investment,'' Mr. Andreessen
+said. ''Actually, what we're seeing is more of the opposite right now. We're
+seeing a lot more institutional money -- in particular from the hedge fund world
+-- crossing over'' into tech investing.
+
+But what about companies that can't find their way to the stock market, like Box
+and Square?
+
+Mr. Andreessen pointed to 1997 and 1998, when the market for initial public
+stock offerings was briefly derailed by the Asian financial crisis. Before long,
+investor interest revved up again, and the Nasdaq stock market was flying high.
+(A few years later, of course, it came crashing down.)
+
+So if a start-up can't go public just now, it's no big deal. ''The nature of the
+public market is that it is manic depressive,'' Mr. Andreessen said. ''It gets
+excited, it gets depressed.''
+
+Speaking of feeling down, I asked Mr. Andreessen a question I often hear from
+people outside Silicon Valley: Why can't other places build their own
+valley-style tech hubs? People in cities ranging from Dublin to Berlin to New
+York often ask what they are doing wrong.
+
+Mr. Andreessen said new valleys will eventually emerge. But they won't be
+Silicon Valley copycats.
+
+Over the past couple of years, venture firms have invested in start-ups in Los
+Angeles, New York, Chicago and all over China. Los Angeles, for example, is home
+to Snapchat, Tinder, Whisper, Oculus VR and Beats, some of the big tech stories
+of the year. Mr. Andreessen said another hot place is Atlanta, the home of
+Georgia Tech.
+
+But he offers a caveat.
+
+''My personal view is that Silicon Valley will continue to take a
+disproportionate share of the No. 1 positions in great new markets, and I think
+that's just a reflection that the fact that the valley works as well as it
+does,'' Mr. Andreessen said.
+
+There is a caveat to his caveat.
+
+In Mr. Andreessen's view, there shouldn't be 50 Silicon Valleys. Instead, there
+should be 50 different kinds of Silicon Valley. For example, there could be
+Biotech Valley, a Stem Cell Valley, a 3-D Printing Valley or a Drone Valley. As
+he noted, there are huge regulatory hurdles in many of these fields. If a city
+wanted to spur innovation around drones, for instance, it might have to remove
+any local legal barriers to flying unnamed aircraft.
+
+So what kind of valley would Marc Andreessen build? He is a big believer in
+digital currencies like Bitcoin, as well as in virtual reality. He says
+enterprises like Bitcoin will change the world on the scale that web browsers
+did. And before long, virtual reality will be, well, reality.
+
+Don't believe him? Mr. Andreessen recalled similar skepticism in May 1994 when
+he was showing media and telecommunications executives this bizarre development
+called a web browser.
+
+''They pretty much told us we were out of minds and to go away,'' he said. Five
+years later, Netscape was sold to AOL for $4.2 billion.
+
+Finally, I couldn't end my discussion without asking him about Twitter. Over the
+past several months Mr. Andreessen has become a mantle on the social network,
+known for his long stream of tweets that have become known as the ''Marc
+Andreessen Tweetstorm.''
+
+So Mr. Andreessen, why the long tweets?
+
+''My view is that 140 characters doesn't make sense anymore,'' he said. ''If it
+was me, I'd immediately raise the limit to 300 or 400 characters.''
+
+But if that doesn't happen, he's incredibly bullish on the service just the way
+it is. ''The counterargument is that there is magic to the limitation,'' he
+said, laying out a number of virtues around the limited character lengths. ''If
+Twitter doesn't adapt, I would not view them as being stupid. I just hope they
+change it because it would be a lot better for me.''
+
+This is a more complete version of the story than the one that appeared in
+print.
+
+URL:
+http://bits.blogs.nytimes.com/2014/05/18/marc-andreessen-on-the-future-of-silico
+n-valleys-and-the-next-big-technology/
+
+LOAD-DATE: May 19, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Marc Andreessen is a big believer in digital currencies like
+Bitcoin, and in virtual reality. (PHOTOGRAPH BY FRED PROUSER/REUTERS)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

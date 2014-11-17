@@ -1,0 +1,105 @@
+                             2414 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                   September 10, 2014 Wednesday 10:23 AM EST
+
+Ebay's Paypal embraces virtual currency bitcoin. Could help bitcoin get some
+respect.;
+The open-source online "virtual currency" could soon be used to pay for an Uber
+taxi ride or that weekend get away booked through AirBnB.
+
+BYLINE: Caelainn Hogan
+
+LENGTH: 692 words
+
+
+While the deafening buzz around Apple Pay drones on, one of its competitors
+quietly did something important.
+
+Paypal, the eBay-owned mobile payment system and the world's second biggest,
+announced that it would soon let customers pay in bitcoin, the virtual currency.
+The catch, for the moment, is that merchants will have to agree to accept the
+use of bitcoin, which for some could be problematic.
+
+Still, the announcement is a major commercial milestone for bitcoin, which has
+had its ups and downs as backers have fought for acceptance. "Fairly or not,"
+wrote Wired, "bitcoin still has an image problem. For every VC who extols the
+innovative power of the digital currency, pop culture still sees it as a way for
+the paranoid cyber-libertarian to shop for black-tar heroin on the Silk Road.
+All the more reason, then, that bitcoin fans should rejoice" at the Paypal deal.
+
+In a move announced Monday at Techcrunch's Disrupt conference, PayPal is
+supporting the cryptocurrency on its Braintree payments platform. When the
+Internet's most mainstream brand for moving money embraces a technology, it's
+hard to see that system as a fringe operation.
+
+The open-source online "virtual currency" could soon be used to pay for an Uber
+taxi ride or that weekend get away booked through AirBnB.
+
+"We're announcing PayPal's first foray into bitcoin," announced Bill Ready,
+chief of eBay's Braintree unit, during the Techcrunch's Disrupt SF conference on
+Monday, Bloomberg reported. "Over the coming months we'll allow our merchants to
+accept bitcoin. On the consumer side it will be a sleek experience."
+
+A Braintree blog post, the same day of the announcement, said "Goodbye to
+passwords," and hello to bitcoin:
+
+While we're focused on giving people more seamless buying experiences, we're
+also fierce advocates of giving merchants - and in turn their customers -
+flexibility and the freedom of choice. That's why today, we also announced that
+we'll enable our customers to easily accept bitcoin in the coming months via a
+partnership with Coinbase - a trusted, high quality bitcoin payment processor
+with            1.6M consumer wallets and 36,000 merchants globally           .
+As we make bitcoin available, our v.zero SDK will make it seamless for
+developers and merchants to add bitcoin to their existing payment methods and
+provide an elegant, adaptive user interface for consumers to pay in bitcoin with
+their Coinbase wallet (           request access to the upcoming beta
+).
+
+Bitcoin was allegedly invented by a mysterious programmer, or group of
+programmers, known only by the pseudonym Satoshi Nakamoto. It's run into
+problems in the past year because of its appeal to assorted hackers,
+tax-evaders, money-launderers and drug dealers, as well as plain ordinary
+people.
+
+The elusive and famed bitcoin founder is rumored to have an equally notorious
+bitcoin fortune stashed away somewhere - estimated by some to be more than one
+million bitcoins, the equivalent of $460 today, reported Vice.
+
+The "innovative payment network" offers its users a chance to escape the high
+fees and rates imposed  by commercial banks and credit-card processors.
+
+Coinbase - which advertises itself as the most convenient and secure worldwide
+"Bitcoin wallet" - will be partnering with Paypal in the new initiative, and the
+company has high hopes that bitcoin is evolving into a widely used and reliable
+currency for global buying and selling, reported Wired.
+
+Co-founder and chief executive of Coinbase, Brian Armstrong, said the Braintree
+integration is just the latest step towards that goal: "To build a new efficient
+payment network for the whole world."
+
+While the cryptocurrency has been shadowed by its links with online "black
+market" merchants such as Silk Road, bitcoin appears to be rapidly developing
+into a popular and increasingly accepted online-payment system.
+
+Bloomberg conducted a poll of financial professionals in July that indicated
+people were still wary of the digital currency, with 55 percent surveyed
+agreeing that it trades at "unsustainable, bubble-like prices," and reported
+Bitcoin prices have catapulted to as little as $341 this year from highs of
+$900.
+
+LOAD-DATE: September 10, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

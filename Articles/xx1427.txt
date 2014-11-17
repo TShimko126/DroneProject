@@ -1,0 +1,155 @@
+                             1427 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             August 24, 2014 Sunday
+                              Late Edition - Final
+
+Deliverance
+
+BYLINE: By CLAIRE CAIN MILLER.
+
+Claire Cain Miller is a reporter for The Upshot, The Times's new website about
+politics and policy.
+
+SECTION: Section MM; Column 0; Magazine Desk; IT'S THE ECONOMY; Pg. 14
+
+LENGTH: 1249 words
+
+
+Last year, I was excited to hear about a new start-up in San Francisco that
+delivered cheap bottles of wine within an hour. It was called Rewinery, and it
+was fantastic. I ordered a $5 malbec one day and a $10 chardonnay the next,
+delivered by bike courier for a modest fee. Already, San Francisco was crawling
+with bikes, inching up the hills, shuttling sushi and groceries and new clothes,
+all summoned with the tap of a finger. But Rewinery was the first of the
+delivery start-ups that made me feel the way I felt back in 2000, when I could
+order a video and a pint of ice cream to my doorstep from Kozmo.com. Rewinery
+felt too good to be true.
+
+It was. One day, seeking refreshment, I opened the app to find that Rewinery had
+gone out of business.
+
+In the tech crash of the early 2000s, on-demand delivery services like Kozmo and
+Webvan weren't just among the most colossal failures. They also became a sort of
+grim joke, symbolizing the excess that portended the bust. Afterward,
+conventional wisdom hardened: Web-enabled delivery was not a good business
+because it simply cost too much to build warehouses, manage an inventory and pay
+drivers. There was too little opportunity to recoup expenditures in delivery
+fees; people will pay only so much for toilet paper to be delivered before they
+decide to fetch it themselves.
+
+But something is in the air of late, making hindsight blurry. Despite the early
+demise of Rewinery and the shrunken ambitions of others, such as eBay Now,
+similar start-ups with names like Caviar, SpoonRocket and DoorDash have raised
+half a billion dollars in investment in the last year, according to CB Insights,
+which tracks venture capital. Even Louis Borders, the founder of Webvan (as well
+as the Borders bookstore chain, another Internet casualty), is at work on a
+grocery delivery start-up. Uber is using the $1.4 billion it just raised to
+expand beyond delivering people to delivering things. Meanwhile, venture
+capitalists joke that every other entrepreneur they meet pitches an ''Uber for
+X,'' bringing goods and services on demand: laundry (Washio), ice cream (Ice
+Cream Life), marijuana (Eaze) and so on. Investors are stuck wondering whether
+this is 2000 all over again, or whether this new breed of delivery start-ups can
+succeed where the last crop so famously failed.
+
+John A. Deighton, a Harvard Business School professor who wrote a case study on
+Webvan, likes to compare the delivery business to shining shoes. ''You make as
+much profit on one shoe as you do on a thousand shoes,'' he said. ''There's just
+no scale.'' In years past, it was difficult for Deighton to even teach his
+students about Webvan, because its fatal flaws were so obvious. They didn't
+understand how the euphoria of the dot-com boom could have obscured its
+shortcomings. But in the last year, he has been asked to teach it three times.
+''Something has changed,'' he said.
+
+The biggest change is that the companies are trying to improve same-day delivery
+with software -- and, at the same time, are distancing themselves as far as
+possible from the physical supply chain that killed their ancestors. They have
+dispensed with warehouses, trucks and full-time drivers and instead have become
+middlemen, whose sole role is to connect customers with couriers. But the one
+piece of the puzzle they have failed to eliminate is the hardest part of
+logistics, and the one Deighton says makes the entire business model unravel:
+the last few miles of the journey, getting small-ticket orders to far-flung
+houses.
+
+The entrepreneurs and investors behind these companies say software can solve
+that, too, with algorithms that minimize the amount of time it takes couriers to
+pick up orders and maximize the number of deliveries they can make.
+
+''The reason it is such a good idea now is the exact same reason it was so
+horrible before: the network effect,'' said Nabeel Hyatt, a venture partner at
+Spark Capital, which has invested in Postmates, a courier service that delivers
+from any store or restaurant. Not even half of American households had an
+Internet connection in 1999; today 98 percent have access to a connection. And
+it certainly helps that customers and couriers all have smartphones. This means
+a higher density of users and potential users, who can instantly reach couriers
+whenever they are in need, eventually leading to scale.
+
+In the '90s, Webvan built several $35 million, 350,000-square-foot distribution
+centers. By contrast, Instacart, which offers one-hour grocery delivery in 12
+cities, has just 70 employees in a small office in San Francisco, all of them
+engineers and administrators. They never touch the food -- instead they contract
+with ''personal shoppers.'' ''We literally don't have any warehouses, we don't
+have any trucks,'' said Aditya Shah, Instacart's general manager.
+
+Of course, the couriers still need to be paid. ''The complicated part is not
+getting customers, it's getting the product to the customers,'' said Paulo
+Lerner, Rewinery's founder, who fled San Francisco for Brazil. ''If they charge
+a lot, it loses the appeal. If they charge less, it has a lot of appeal, but at
+the same time, they are running on losses.''
+
+Instacart charges as little as $3.99 for grocery shopping and delivery. Yet Shah
+said its shoppers make about $20 an hour, plus tips, which makes profitability
+seem unlikely, even with the smartest algorithms routing shoppers through
+grocery stores and city streets. When I told him that, he sounded a lot like
+Borders back in Webvan's heyday: ''We're really well funded, so that is not
+something we're as worried about,'' Shah said. ''Growth is the most important
+factor.''
+
+That growth-first philosophy is hardly unpopular in Silicon Valley, where a
+focus on expansion at the expense of profit has worked well for web businesses.
+Delivery start-ups are trying to bridge the digital and physical worlds -- and
+that's when things get expensive. ''It's a hard category -- outside the
+Internet, where everything magically happens,'' said Lerner, the Rewinery
+founder. ''This is real work, hard work. ''
+
+Josh Lerner (no relation to Paulo), who runs the entrepreneurial management unit
+at Harvard Business School, is similarly dubious. ''Someone is paying for it,
+but it's definitely something that seems to defy the laws of introductory
+economics,'' he said.
+
+The question comes down to how much people are willing to pay to be lazy. To
+economists, laziness isn't necessarily a bad thing. To the sympathetic onlooker,
+these companies could be a step on the path to the world prophesied by John
+Maynard Keynes (and even ''The Jetsons''), in which technology advances to the
+point that chores are replaced by leisure time. But even this suggests a gloomy
+outcome: On-demand delivery could create a two-tier economy -- the people who
+can afford to hire others to do their errands and the people who do them. That
+is, unless Amazon succeeds in automating grunt work out of existence. (It
+already has robots that pick items off shelves and pack them in boxes; it wants
+to have a fleet of delivery drones.)
+
+Or it might be useful to listen to Fred Wilson, the co-founder of Union Square
+Ventures, who lost a lot of money on Kozmo. ''I wish we knew the answers to
+these questions, but we don't,'' he told me. ''That's what's kept us out of this
+market.'' He still signs up for new delivery start-ups as a customer, though.
+After all, the worst case is that we'll go back to doing the same thing I did
+when Rewinery went under -- running out to the store.
+
+URL:
+http://www.nytimes.com/2014/08/24/magazine/delivery-start-ups-are-back-like-its-
+1999.html
+
+LOAD-DATE: August 24, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: DRAWING (DRAWING BY KELSEY DAKE)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

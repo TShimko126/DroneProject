@@ -1,0 +1,80 @@
+                             2499 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                      October 17, 2014 Friday 5:54 PM EST
+
+Meet '5G,' the next-gen technology that will bring you mobile data on steroids;
+
+Future wireless data and phone calls could be "ricocheted" around obstacles at
+super speeds.
+
+BYLINE: Brian Fung
+
+LENGTH: 462 words
+
+
+Many wireless carriers are still rolling out their 4G LTE networks. But federal
+regulators are already turning their eye toward next-gen technologies that will
+allow incredibly fast mobile data. We're talking rates that are 1,000 times
+faster than what the average American gets at home today from a fixed broadband
+connection.
+
+Welcome to the era of 5G.
+
+At some point, most wireless technologies are thwarted by obstacles or distance.
+That's because wireless spectrum -- the airwaves that carry mobile voice and
+data -- are subject to the same laws of physics that govern everything else. But
+the Federal Communications Commission thinks there might be promise in a
+high-energy spectrum that the industry has taken to calling "millimeter waves,"
+due to their high frequency. And on Friday, the FCC said it would begin asking
+the public just what it can do to promote this technology.
+
+We already know of a few possibilities. Wireless transmissions today generally
+require a line-of-sight connection between the source and the receiver. But with
+advanced spectrum in the 24 gigahertz range - far higher than where most
+wireless devices operate (in the sub-3 GHz range) - engineers believe they can
+"ricochet" signals around obstacles.
+
+"Our next-generation networks are going to have to do some heavy lifting," said
+FCC Commissioner Jessica Rosenworcel. "So how do we meet those demands? We look
+up. Way, way up. To infinity and beyond."
+
+Future mobile technologies could exceed the 24 GHz threshold and take advantage
+of even higher-intensity airwaves in the 60 GHz or even 90 GHz bands. These
+moves could allow for mobile broadband ranging from 1 gigabit per second (which
+is equivalent to the best that today's fiber-optic networks have to offer) to a
+mind-boggling 10 gigabits per second, according to FCC Commissioner Ajit Pai.
+
+It won't be long before Americans start connecting more than just smartphones
+and tablets to the Internet. Soon they'll be linking appliances, cars, drones
+and all manner of other mobile devices, meaning that consumer and business
+demand for these airwaves is going to spike.
+
+And that means telecom companies will need more freedom to deploy cell sites,
+particularly towers that can create smaller cells to help manage congestion.
+Separately Friday, the FCC approved measures that would make it easier for
+wireless companies to build these towers.
+
+While there's no universally agreed-upon definition for 5G, FCC Chairman Tom
+Wheeler said it was imperative to begin deciding now which spectrum bands can be
+used and how they'll be licensed to wireless companies.
+
+"I don't care what they call it - millimeter wave, 5G, kumquats - I don't care,"
+Wheeler said. "What we do when we open the [notice of inquiry] is to help us
+answer those kinds of questions."
+
+LOAD-DATE: October 17, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

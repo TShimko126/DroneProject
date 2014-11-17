@@ -1,0 +1,122 @@
+                             2135 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                           September 6, 2014 Saturday
+
+How Big Companies and Their Tech Suppliers Are Changing Together
+
+BYLINE: QUENTIN HARDY
+
+SECTION: TECHNOLOGY
+
+LENGTH: 769 words
+
+
+
+HIGHLIGHT: Moves this week by companies like Google and Box illustrate how much
+the cloud and mobility are reshaping the workplace, as well as the tech
+companies themselves.
+
+
+Mobile devices and cloud computing are changing the work and the structure of
+corporations. That, in turn, is changing how tech companies behave.
+
+A few examples from the last week, from the cosmetic to the substantial,
+illustrate the shift. On Tuesday, Google renamed its now-substantial business in
+online creation and collaboration software Google for Work. The challenger to
+Microsoft's Office suite of software was previously called Google Enterprise.
+Google apparently wanted to signify something more dynamic and less redolent of
+traditional brick-and-mortar-style business.
+
+On Wednesday, Box, a seven-year-old cloud computing company for business that
+hopes to have an initial public offering of stock soon, effectively remade what
+it is trying to provide to business customers.
+
+Box is generally known as an online storage and file-sharing system. But Aaron
+Levie, co-founder and chief executive, announced a series of new initiatives,
+including ways of annotating online material and reminders about when to
+renegotiate stored contracts.
+
+Box also announced the creation of divisions with features tailored to specific
+industries, like retail, health care and media. Equally important, the company
+talked about employing a lot of machine learning, a fancy name for computer
+analysis of content, in future products, so that people might work better with
+their data and one another.
+
+This might mean automatically associating the location where a construction
+worker takes a smartphone video with a cloud-based file of blueprints and
+contracts. It might mean looking through a lot of design documents to figure out
+which workers are particularly effective.
+
+Box, despite what most people still think, is not really an online file storage
+company but rather a service that helps people interact with the digital
+information they keep online. Box will still make money from selling online
+access on a per-employee basis, but it hopes to be known for something more
+dynamic.
+
+"Nobody cares about files," said Mr. Levie. "They care about what files
+contain." Figuring out how to build software for working with that content, he
+said, "is a road map of years and years of tech development." In one
+demonstration, Box uses a big gesture-based screen to examine things like who at
+different companies in a film production is working on what parts of a script.
+
+Certainly, Mr. Levie has a convenient argument for his onetime storage company
+to make at a time when bigger cloud companies like Google and Amazon Web
+Services are crushing online storage prices. That doesn't mean it's wrong.
+
+Mr. Levie said Box had been moving toward to adding value to stored content for
+the last two years, partly because company leadership figured out that prices
+were collapsing, but more from watching what customers were doing with the
+content they stored.
+
+"You visit a hospital, a construction company, a movie studio, and you see they
+all care about metadata and security," he said. "But one industry is using
+drones. One is thinking about globalization. One has regulations to cope with.
+You have to be relevant in lots of new ways."
+
+Finding new ways to be relevant is true for corporate information technology
+departments as much as tech suppliers. First, the advent of consumer I.T.
+ushered all sorts of phones and tablets into the workplace. Then we got a big
+business in corporate apps.
+
+In the latest development, ZenPayroll, which offers cloud-based payroll
+software, this week announced an alliance with other specialty providers that
+could enable small businesses to mix and match a number of corporate functions,
+like human resources and accounting, with different cloud software systems.
+
+Now, I.T. departments may start looking and acting more like suppliers of
+consumer goods.
+
+Larry Biagini, chief technology officer of General Electric, which has over
+300,000 people worldwide, said, "We are now assuming that 80 to 90 percent of
+our people will be about to do their job off of our corporate network."  One of
+G.E.'s fastest-growing areas is sub-Saharan Africa, he said, where the company
+does not operate a single corporate network.
+
+With so much action coming outside his domain, he said, "we have to move from
+being a controls-based environment to being a risk-based environment, a subtle
+but really important difference."
+
+In a week that also saw the release of many, many nude photos of celebrities,
+and possiblyone more corporate security breach, it's clear that online life of
+all sorts is a long way from perfection.
+
+That doesn't mean we aren't running fast at it and letting it change us in all
+kinds of ways.
+
+LOAD-DATE: September 6, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

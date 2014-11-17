@@ -1,0 +1,146 @@
+                              24 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     September 26, 2014 Friday 1:15 PM EST
+
+Legislators shouldn't rush to enact laws on private drone use;
+Existing laws of general applicability offer protection. While the state laws
+passed so far might be well-intentioned, they are largely misguided. For now,
+Congress and the states should tread lightly so as not to stifle innovation and
+freedoms.
+
+BYLINE: Michael Berry;Nabiha Syed (guest-blogging)
+
+LENGTH: 1158 words
+
+
+In earlier posts, we described philosophical approaches that policymakers might
+pursue in regulating drones and what approaches some state legislatures already
+have enacted to regulate private drone use. Here, we consider whether Congress
+or state legislatures should pass more laws on private drone use. At this point,
+as drone technology is only beginning to develop and its capabilities are only
+beginning to be understood, legislators should tread lightly.
+
+To be clear, the FAA should promulgate reasonable drone regulations - and
+promulgate them soon. Drone operators need rules of the road. For too long,
+there has been none. That should change.
+
+The FAA's foot-dragging has created a regulatory vacuum. State legislatures have
+started to fill that void. To date, however, the laws that states have passed,
+while perhaps well-intentioned, are generally misguided. They either fail to
+meaningfully address any perceived harm or sweep too broadly.
+
+Take the laws Oregon and Tennessee passed to regulate flight over private
+property - Oregon by creating a cause of action for landowners when drones fly
+under 400 feet, and Tennessee by making it a crime to fly over private property
+below navigable airspace. At first blush, these laws might seem quite useful.
+But do they really address whatever harm they seek to prevent? If the concern is
+disrupting people on their property, there does not seem to be a real difference
+between a small drone flying 350 feet above the property and 410 feet. Indeed, a
+small drone likely could fly far less than 100 feet above someone's property
+without interfering with the use or enjoyment of that property.
+
+And, if the concern is the possibility of filming or photographing what is on
+the property, that too can be done whether the drone flies 300 feet or 450 feet
+high. Indeed, drones do not even need to fly over property to snap photos of
+anything or anyone on the property. That can be done from the airspace over an
+adjoining public street.
+
+The laws like those passed by North Carolina, Texas, and Tennessee that restrict
+filming or photographing private property are similarly flawed. There is no
+reason a landowner should have the right to sue someone for snapping a photo of
+what is visible to any person driving by the property or to anyone who looks at
+Google maps.
+
+The laws seeking to protect people's privacy also seem troubling. The Texas,
+Tennessee, and North Carolina laws all bar people from using drones for
+"surveillance." Yet, in those laws, that key term is not defined. This vagueness
+casts a long shadow that threatens to chill newsgathering and other legitimate
+conduct.
+
+The Idaho law - which restricts the ability to use drones "to photograph or
+otherwise record an individual, without such individual's written consent, for
+the purpose of publishing or otherwise publicly disseminating such photograph or
+recording" - is both too broad and too narrow. The law's overbreadth is
+striking. It ignores the basic notion that there is no right to privacy in
+something that is open to public viewing. It runs roughshod over the equally
+well-established legal principle that people are free to take photographs of
+others in places where there is no reasonable expectation of privacy, whether
+their subjects consent or not. In Idaho, that principle apparently no longer
+applies . . . except for when it does. The law bars people from snapping photos
+with drones, but allows people to take the same photos of the same subjects in
+the same places from a blimp, a bridge, or the tenth floor of a building in
+Boise. This distinction makes no sense.
+
+The Idaho law's narrowness is also striking. It bars people from using drones to
+photograph someone for the purpose of publishing the photo. But, a drone can be
+used to snap the same picture, so long as the drone operator does not intend to
+share it. This distinction seems illogical and could lead to absurd results. For
+instance, the law gives no remedy to a person who is surreptitiously
+photographed by a drone in a private place if the photo is for the drone
+operator's personal use. Yet, the statute outlaws the photography if the subject
+is in a public place if the drone operator intends to publish the photo. The
+first scenario seems like an invasion of privacy, but, under the law, it is not
+actionable. Meanwhile, the second does not invade any privacy, but could give
+rise to a claim for statutory damages and attorney's fees.
+
+These critiques identify just some of these laws' shortcomings and dangers. What
+makes these laws even more troublesome, however, is that they seem unnecessary.
+
+As we discussed in one of yesterday's posts [Eugene, please insert link once
+Post 7 is live,], existing laws of general applicability already protect people
+against - and provide remedies for - the harms these states are seeking to
+prevent. Some examples: If a drone operator invades a person's privacy by
+photographing him in a private place, that person could pursue a claim for
+intrusion. If that private photograph were then published, he might be able to
+pursue a claim for publication of private facts (assuming the publication does
+not involve a legitimate matter of public concern). If a person were injured by
+a drone, she could file a claim for battery. And, if a drone interferes with her
+enjoyment of her property, she could file a claim for trespass or nuisance. In
+most places, the common law and criminal codes that have developed over
+generations addressed the harms to privacy, property, and safety that might
+arise from new technology, whether that technology is a camera, car, camcorder,
+or drone.
+
+When it comes to private use of drones, legislators should not rush to enact new
+laws. Drones present myriad potential uses and benefits, and the technology
+needs room to get off the ground (pun intended) before we inadvertently restrict
+its growth. Legislators need to carefully scrutinize how various policy
+proposals might impact the nascent drone industry and whether those proposals
+throw impractical roadblocks in the way of legitimate and beneficial drone
+operations.
+
+Congress and state legislatures would be well-advised to pay close attention to
+how drone technology is used and what rules the FAA ultimately adopts. To that
+end, the lessons learned from the FAA test sites and from foreign advances in
+drone integration will be instructive.
+
+Legislators also should allow existing laws to serve their remedial and
+regulatory functions. Then, they should consider whether the reality of domestic
+drones requires any further supplementation.
+
+At this point, doing anything else threatens to stifle innovation and trample
+long-held freedoms.
+
+* * * * *
+
+We would like to thank Eugene and everyone at Volokh Conspiracy for their
+hospitality this week. We are grateful for the opportunity to share our thoughts
+on the emerging legal landscape governing drones and look forward to continuing
+the discussion as both the law and the technology develop.
+
+LOAD-DATE: September 26, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

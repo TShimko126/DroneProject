@@ -1,0 +1,91 @@
+                             2075 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                            April 17, 2014 Thursday
+
+Google Uses Algorithms to Create SLR-Like Photos
+
+BYLINE: NICK BILTON
+
+SECTION: TECHNOLOGY
+
+LENGTH: 437 words
+
+
+
+HIGHLIGHT: Google is lifting up the hood of its new Lens Blur feature for its
+camera app, showing how the company can make a photo taken on a smartphone look
+like it was shot with an SLR camera.
+
+
+One of the hardest concepts to grasp as a photographer is depth of field.
+
+It's that quirky mix of settings on a traditional Single Lense Reflex (SLR)
+camera that allow you to make your subject look crisp in the foreground, while
+everything in the background is as blurry as frosted glass.
+
+What makes this depth of field so difficult to understand is that it's all
+dependent on the amount of light a lens can let in, coupled with a number of
+confusing camera settings. There are depth of field calculators online to help
+people do the math. But really, who wants to do math to take a picture of a
+cappuccino?
+
+Most people who snap photos and selfies today don't have to worry about this.
+They pull out their phone, press a single button, and voila, the photo is ready
+to share online. But that picture doesn't have that crisp edge and blurry
+background of an SLR.
+
+Google, being Google, seems to have come up with a solution to this problem.
+
+The company has developed an algorithm it is calling "Lens Blur," which is a new
+mode in the Android-based Google Camera app.
+
+The company said that its Lens Blur app simulates a larger camera lens and
+aperture by capturing a series of frames when snapping a picture, then using
+some fancy Google algorithms, creates a 3D model of the objects in the photo,
+which can then be used to create depth within the image.
+
+Other companies and apps have tried to create similar effects in the past, but
+most tend to look too blurry and very digital.
+
+In a blog post on the company's site, Carlos Hernández, a software engineer at
+Google, explained how the Google software is much more than just blurring a few
+areas of a photo. He said there are several different algorithm at play when
+shooting with this app, including calculating the position of the camera, the
+objects in the photo and then triangulating a number of other factors.
+
+The end result, as the company shows, is a picture that looks just like it was
+captured with a big and bulky SLR.
+
+If this sounds familiar, Google seems to be borrowing some techniques used by
+the Lytro camera, which was released in 2012 and allowed people to focus on
+their pictures after the image is taken.
+
+While the camera app will likely enable people to take better photos, it still
+doesn't offer the same quality of higher-end manual cameras, which rely on the
+high-quality glass in the lens to create incredible depth of field.
+
+
+     ·    Crashing DJI's New Drone Into Water and Land
+     ·    Picking a Bag for a Camera
+     ·    Google Plus Aims to Become a Photo Storage and Editing Hub
+     ·    A Lesson Learned About the Intensity of Camera Enthusiasts
+     ·    Wirelessly Expand Your Smartphone or Tablet Memory
+
+
+LOAD-DATE: April 17, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

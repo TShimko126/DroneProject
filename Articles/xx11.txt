@@ -1,0 +1,135 @@
+                              11 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     September 23, 2014 Tuesday 5:37 PM EST
+
+Philosophical approaches to drone regulation
+
+BYLINE: Eugene Volokh
+
+LENGTH: 1139 words
+
+
+Federal, state, and local governments are actively considering how to regulate
+domestic drone use. We will explore the history of this regulation, the current
+regulatory landscape, and some of the existing laws enacted by states in future
+posts. This post describes the philosophical approaches to drone regulation.
+
+As policymakers consider drone regulation - particularly with respect to privacy
+and safety - the possible fields of regulation fall into five principal realms:
+operators, flight, purpose, property and surreptitious use. Some of these
+categories face practical difficulties, while others present constitutional
+issues. Nevertheless, these five fields offer a framework to help make sense of
+the legislation and regulation emerging around the use of drones.
+
+Regulating Who Can Fly
+
+Regulators might permit only certain people or entities to fly drones. As is the
+case with cars, planes, and helicopters, regulations might provide that only
+people with a valid, government-issued license can fly a drone. For example,
+North Carolina recently enacted a law mandating a drone-license, and the FAA
+already has a system for providing certifications and exemptions to authorize
+government agencies and some private actors to fly drones. More broadly,
+policies might permit only certain classes of people or entities to fly drones.
+It is conceivable that some laws might allow private entities to use drones, but
+not law enforcement entities - or vice versa. For example, Virginia has imposed
+a moratorium on law enforcement use of drones.
+
+Regulating The Flight Of Drones
+
+Governments might regulate the flight of drones. As First Amendment lawyers, we
+think of this category as "time, place, and manner" regulations. With respect to
+"time," it is possible that regulations will limit drone-flight to certain times
+of day. For instance the FAA's Roadmap for integrating drones (a report formally
+titled "Integration of Civil Unmanned Aircraft Systems in National Airspace
+System Roadmap") suggests that its initial proposed regulations of small drones
+will permit drones to fly only during daylight.
+
+Regulations also will limit where drones fly. Some of those regulations will
+impose permanent restrictions, while others might be temporary. Like planes and
+helicopters, drones will not be permitted in restricted airspace. (In fact, the
+FAA already is informing drone operators that they cannot operate in certain
+airspace, like this past Saturday's football game at the University of
+Michigan.) Historically, the FAA has asked hobbyists to fly model airplanes away
+from congested areas. Some have suggested that guidance should become the law
+for drones generally. Some laws already restrict drones from flying over certain
+kinds of property. For example, an ordinance in Conoy Township, Pa., provides
+that flying a drone over someone else's property is a summary offense. Other
+laws impose restrictions based on how high a drone flies. The FAA asks hobbyists
+to fly their model airplanes under 400 feet, while Oregon has enacted
+legislation giving landowners a possible cause of action if someone flies a
+drone over their property below 400 feet.
+
+The law also might regulate the manner in which drones are flown. Regulators
+might require small drones to be flown within visual line-of-sight, meaning an
+operator must be able to physically see her drone as it flies - a position the
+FAA already has suggested it will implement. And, laws will almost certainly
+forbid drones from being flown recklessly. Indeed, the FAA has taken the
+position that it already has the authority to punish reckless drone flight.
+
+Regulating Based On Purpose Of The Flight
+
+Some policies have sought to place limits on drones based on their intended use.
+For instance, the FAA has long taken the position that drones cannot be used for
+commercial purposes without specific authorization, but hobbyists are free to
+use them. State legislatures have debated when government entities can use
+drones, with some states imposing limits on government agencies' and law
+enforcement authorities' ability to use them. Other states have sought to
+curtail private use of drones by permitting them to be used only for certain
+purposes, like selling houses or monitoring utilities. Still others are
+considering legislation that would prevent drones from being used by hunters or,
+alternatively by people to interfere with hunting.
+
+Regulating Recording Based On The Property Involved
+
+In considering regulations on drone filming or photography, one approach might
+be to regulate drones' ability to record images based on the property involved,
+treating different kinds of property differently. One possibility - drawing on a
+well-established body of tort and criminal law - is to restrict drones from
+recording people in places where they have a reasonable expectation of privacy.
+Alternatively, they might allow recording in certain areas or certain kinds of
+property, but not others. Some states have sought to distinguish between
+recording over public and private property. Or, regulators might protect certain
+kinds of property. For example, Louisiana restricts the ability to record or
+photograph "targeted facilities," such as nuclear power plants and gas
+refineries. Texas, meanwhile, has adopted a number of limits on where drones can
+record, but allows them to record anywhere within 25 miles of the Mexican
+border.
+
+Regulating Surreptitious Use
+
+Policymakers might seek to restrict the surreptitious use of drones. They might
+try to accomplish this objective by requiring drone operators to obtain consent
+before flying over private property or filming someone. Alternatively, drone
+operators might be required to provide advance notice of where they are flying
+or filming. Or, governments might require drones to be made more visible by
+requiring them to be certain colors or sizes. In addition, there have been calls
+for regulation that requires technology or some other system that identifies who
+owns and is operating a drone.
+
+* * * * *
+
+Which of these areas policymakers choose to regulate and how they choose to
+regulate within those areas will have significant ramifications for drone
+operations and the future of the drone industry. The policy questions are
+complex. For legislators and regulators, the answers have not come easily.
+Tomorrow, we will survey the history of the FAA's piecemeal policy-making on
+drones, a history that has left many issues unresolved for far too long. We also
+will explain some of the recent regulatory developments at the FAA and the
+resulting lawsuits.
+
+LOAD-DATE: September 23, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

@@ -1,0 +1,72 @@
+                             2329 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                      August 7, 2014 Thursday 7:21 PM EST
+
+DARPA-funded IBM chip inspired by synapses in the human brain;
+The project was funded by $53 million from DARPA - chips could soon be used in
+unmanned aerial vehicles.
+
+BYLINE: Mohana Ravindranath
+
+LENGTH: 374 words
+
+
+IBM on Thursday unveiled a new computer chip designed to emulate the computing
+process and energy efficiency of the human brain.
+
+The size of a postage stamp, the chip uses the energy equivalent of a
+hearing-aid battery, according to IBM. IBM says its "neurosynaptic chips" can be
+tiled together to make a larger computing system.
+
+The project - called Systems of Neuromorphic Adaptive Plastic Scalable
+Electronics (SyNAPSE) - is fueled by about $53 million from the Defense Advanced
+Research Project Agency. (DARPA works closely with IBM on other projects; in
+February, for instance, the agency selected IBM for a $3.4 million contract to
+design chips for electronics that can self-destruct when triggered.)
+
+Eventually, the chips could be used in robots that roam around disaster regions
+and communicate with people, or in eyeglasses that process video and auditory
+input to help the wearer navigate a busy road, among other conceptual ideas,
+according to IBM.
+
+The computing system could be used for unmanned aerial vehicles, or drones, said
+Gill Pratt, a program manager in DARPA's defense sciences office.
+
+Robot systems that analyze input in real-time - comparing images from a camera
+to images stored in a database, for instance - typically use large amounts of
+power, Pratt said in an interview, noting that "warfighters and UAVs all have
+very limited amounts of power they can use . . . we are trying to improve the
+power efficiency of the computation as much as possible".
+
+The neurosynaptic chips are mean to complement IBM's other so-called cognitive
+computing technologies such as Watson, the system that won "Jeopardy!" in 2011.
+Watson uses natural language processing skills to interpret human speech
+queries, and mines large volumes of data to find the answer. Where as Watson
+represents humans' "left-brain" - associated with analytical thinking - the
+neurosynaptic chips are meant to simulate pattern recognition and process
+sensory input, according to IBM.
+
+IBM is still working out how to commercialize the chips, lead research scientist
+Dharmendra Modha said in an interview.
+
+"This is really a research project. My job was to make impossible possible. .
+.now the possible has to become real," he said.
+
+mohana.ravindranath@washpost.com
+
+LOAD-DATE: August 7, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

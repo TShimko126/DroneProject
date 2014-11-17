@@ -1,0 +1,170 @@
+                             208 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                           November 12, 2013 Tuesday
+                              Late Edition - Final
+
+Drones Plumb New Depths
+
+BYLINE: By WILLIAM HERKEWITZ
+
+SECTION: Section D; Column 0; Science Desk; Pg. 1
+
+LENGTH: 1201 words
+
+
+ATLANTIC CITY -- Five miles offshore from the Golden Nugget casino, Michael F.
+Crowley, a marine scientist at Rutgers University, heaves three lifeboat-yellow
+drones off the back of his research vessel.
+
+The gliders, as he calls them, are winged and propellerless, like miniature
+Tomahawk missiles. Two are on loan from the Navy, and one, Rutgers's own, is
+pockmarked from a past shark attack. As they slink into the Atlantic to begin a
+monthlong mission, they join a fleet of 12 others across the Eastern Seaboard,
+from Nova Scotia to Georgia.
+
+These drones are the centerpiece of ''Gliderpalooza,'' a collaborative
+ocean-survey experiment coordinated by 16 American and Canadian government
+agencies and research teams. By pooling their resources, including satellites,
+radar stations, research buoys and the gliders, the teams hope to capture the
+most complete picture yet of the Atlantic's many mysterious underwater movements
+-- from deepwater currents to migrating fish.
+
+Ocean researchers are also planning to deploy gliders in the Western Pacific to
+help forecast storms like Typhoon Haiyan. While a typhoon's path is largely
+influenced by atmospheric changes, gliders can help predict a storm's intensity,
+which is affected by ocean temperatures.
+
+''If we can better predict the intensity, we can better predict the human
+impact,'' said Scott M. Glenn, an oceanographer at Rutgers, ''and that's
+critical, especially in Asia, where so many people die when these typhoons make
+landfall.''
+
+The mid-Atlantic experiment heralds a new direction in ocean research. Despite a
+network of ocean-observing satellites and several projects that have seeded the
+seas with data-logging buoys, the sheer size and complexity of the oceans still
+mask much of what goes on underwater. At a time when forecasts of storms,
+currents and the effects of climate change have never been needed more, the
+researchers hope their flotilla of gliders will provide a new perspective.
+
+''We have satellites that give us wonderful maps of the ocean at the surface,''
+said Dr. Glenn, the leader of the Mid-Atlantic Regional Association for Coastal
+Ocean Observing Systems, one of the 16 research groups involved in the project.
+(It goes by the acronym Maracoos.) ''But the ocean is 3D, and we want to explore
+what's going on beneath the waves.''
+
+The battery-powered gliders continually dive in long swooping curves, taking
+snapshots of the ocean's temperature, currents and other features at a range of
+depths. They reach a maximum depth of roughly 650 feet, though they can be
+configured to go deeper; that is relatively shallow for most of the ocean, but
+more than deep enough for continental shelves, which are on average 460 feet
+below sea level and can extend from a few thousand feet to hundreds of miles
+offshore.
+
+Each glider costs $125,000 to $150,000, depending on instrumentation, a bargain
+compared with traditional methods. ''A research vessel can cost anywhere from
+$35,000 to almost $100,000 per day,'' said Oscar M. Schofield, an ocean
+scientist at Rutgers who is leading the experiment. ''If you were to try to do
+this same experiment with ships, it would cost on the order of millions to tens
+of millions of dollars.''
+
+While each of the 15 gliders has its own mission, the data they collect is being
+combined at Rutgers to investigate much larger questions. ''We know that our
+ocean has changed quite a bit over the last 20 years,'' Dr. Schofield said,
+''but we have so little data, it's hard to even start unraveling what the
+drivers of that change are.''
+
+Perhaps the most pressing question is the shape and movement of the seasonal
+''cold pool,'' a poorly understood body of water that rests at the bottom of the
+Northeast Continental Shelf.
+
+Researchers and fishermen have known for almost a century that while the coastal
+Atlantic warms in spring and summer, an enormous stretch of water stays
+abnormally frigid, trapped at the bottom. This cold pool stretches almost the
+length of the continental shelf, in a shifting band from Cape Cod to Cape
+Hatteras.
+
+As fall returns and the surface of the Atlantic starts to chill, the cold pool
+will either slowly homogenize with the cooling surface waters or mix together
+rapidly as storms move over the ocean. But much is still largely unknown.
+
+''The cold pool affects lots of migratory fish,'' which follow the cooler
+waters, Dr. Schofield said. ''But it's also important for informing storm
+forecasting, because the ocean's temperature is essentially the fuel tank for
+storms.''
+
+In August 2011, when Hurricane Irene moved over the cold pool, ''the hurricane
+mixed the warm water at the top of the ocean and the cold pool at the bottom,
+which extinguished the intensity of that storm,'' Dr. Glenn said. He added that
+one reason Hurricane Sandy struck so fiercely in 2012 may have been that the
+storm traversed the sea after the cold pool had already equalized with the
+ocean's surface temperature, ''and so that mixing, that fire extinguisher,
+wasn't there.''
+
+Ocean drones have been used around the world for a decade, often to survey
+conditions too dangerous for humans.
+
+''But this represents an important step in the maturation of the technology,''
+said Timothy J. Cowles, a researcher with the Ocean Observatories Initiative,
+who is not involved with Gliderpalooza. ''It's one thing to have a single glider
+making its own measurements, but it's quite another thing to have an entire
+fleet of gliders coordinated between various research groups.''
+
+Though the gliders swim at a snail's pace, a little over one mile an hour, their
+mobility grants the researchers an unprecedented capacity to adapt their
+experiments, said Joshua T. Kohut, a Rutgers oceanographer with the Maracoos
+research team.
+
+''Every two to three hours they come to the surface, which gives us an
+opportunity to provide new instructions,'' he said. ''If we see the cold pool
+has shifted or something has moved, we can respond to that.''
+
+There are several models of submersible research drones on the market, but the
+Gliderpalooza fleet consists of propellerless Slocum Gliders, designed by the
+Teledyne Webb Research Corporation. They move by adjusting their buoyancy --
+taking on and expelling small amounts of water to rise and fall in the ocean.
+Two wings transform this up-and-down movement into forward momentum, propelling
+the robot in a continuous chain of swoops.
+
+The Navy, the largest user of underwater drones, has 65 gliders helping forecast
+ocean weather worldwide through the Naval Oceanographic Office, including the
+two on loan for Gliderpalooza.
+
+''Participating in this experiment gives us the opportunity to evaluate the
+quality of our own ocean models and to share the lessons we've learned,'' said
+Kenneth P. Grembowicz, the oceanographic director at the office.
+
+Many of the research teams are already planning new, collective experiments for
+their gliders. Of the two glider missions on track for next year, one will study
+and forecast storms on the East Coast, while another will take Gliderpalooza's
+multi-institution approach and apply it on a global scale. ''These are an
+infinite number of ways we can explore the ocean that we couldn't before,'' Dr.
+Glenn said. ''This is opening up whole new horizons.''
+
+URL: http://www.nytimes.com/2013/11/12/science/earth/ocean-drones
+-plumb-new-depths.html
+
+LOAD-DATE: November 12, 2013
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: Michael F. Crowley, a marine scientist at Rutgers, with a
+glider on loan from the Navy being used in a large-scale ocean-survey experiment
+in the Atlantic. (D1)
+Researchers, who have relied on satellites, hope to get a different perspective
+from the gliders.
+ Nilsen Strandskov, a Rutgers glider technician, monitored the craft from
+onboard a ship. (PHOTOGRAPHS BY MICHAEL KIRBY SMITH FOR THE NEW YORK TIMES) (D4)
+MAP: Underwater drones operated by marine  scientists from Rutgers University
+have  traveled more than 93,000 miles. An  ocean survey focused on the Eastern
+Seaboard will involve a fleet of drones  from 16 agencies and research groups.
+(Source: Rutgers Institute of Marine and Global Studies)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2013 The New York Times Company
+
+

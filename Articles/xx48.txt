@@ -1,0 +1,179 @@
+                              48 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     October 8, 2014 Wednesday 11:02 AM EST
+
+America can't lead the world in innovation if the FAA keeps dragging its feet on
+drone rules;
+America won't continue to lead global innovation if it's illegal to use the
+latest technologies.
+
+BYLINE: Larry Downes
+
+LENGTH: 1342 words
+
+
+As the latest revolutionary digital technology takes off, entrepreneurs are
+finding themselves battling federal regulators for permission just to experiment
+with new applications.
+
+This time, it's not the FCC (smartphone apps), the FTC (the Internet of Things),
+the FDA (genetic testing), the Department of Transportation (driverless cars),
+the Federal Reserve (bitcoin), state and local utility commissions (the sharing
+economy) or the SEC (crowdfunding).
+
+This time it's the Federal Aviation Administration, which has been struggling
+since 2012 to develop rules for safely integrating unmanned aerial vehicles
+(UAV), aka drones, into U.S. airspace.
+
+To be clear, we're not talking here about the lethal, multi-million dollar
+military aircraft that are changing the nature of warfare. We're talking about
+small, consumer-friendly devices that sell today to hobbyists and others for
+less than $300.
+
+That's about the same as the price of a smartphone, and the similarity is no
+coincidence.  Most of the parts used in today's fast-growing drone market come
+from smartphone component suppliers. The CPUs, GPS hardware, sensors, cameras,
+accelerometers, gyroscopes and even software are the same. And drones often use
+phones and tablets as their remote control.  UAVs are basically flying
+smartphones.
+
+So as the production of over a billion smartphones relentlessly drives down the
+price of these components through economies of scale, drones are set to benefit
+from a similar pattern of price/performance improvement, following the same
+faster-cheaper-smaller principle that drives all digital products and services.
+
+ Once large-scale adoption begins, the sky's the limit.
+
+What will we do with our drones?  UAVs have already proven themselves ready to
+disrupt everything from agriculture and natural resource management to law
+enforcement, delivery services, photography and mapping. Amazon, for one, has
+already demonstrated the feasibility of local delivery by drone. Widespread use
+could revolutionize retail and take-out food distribution, reducing traffic,
+pollution and fossil fuel consumption.
+
+The FAA conservatively estimates that, within a decade, private drones will
+constitute a $90 billion industry.  Already, according to the Consumer
+Electronic Association, 2014 sales of UAVs are forecast at $84 million and
+250,000 units. By 2018, CEA predicts consumer drone sales will approach $300
+million and about a million units.
+
+Pretty impressive, especially for a technology that is technically illegal.
+
+That's right:  for now, consumers may only operate UAVs below 400 feet, and only
+for noncommercial uses.  All other uses are prohibited. (After a small drone
+crashed in New York, the FAA has argued inconsistently that drones may not be
+operated anywhere near major airports.)
+
+That leaves drone enthusiasts operating in something close to the opposite of
+the largely "permissionless" ecosystem that has spawned much of the digital
+revolution elsewhere.  Even testing new UAV applications requires a special
+exemption from the FAA-hardly the best environment for developing new products
+and services.
+
+And the FAA hasn't been shy about enforcing its prohibition. It regularly sends
+cease-and-desist letters for uses it deems commercial or dangerous.  A Dutch
+tourist was recently fined over $3,000 for crashing a drone at Yellowstone
+National Park.
+
+That could soon change.  In 2012, Congress ordered the FAA to develop rules that
+would allow commercial UAVs to operate safely in U.S. airspace by 2015. (Safety,
+obviously, is key.)
+
+But we're still waiting for the rules. The agency has already missed several
+self-imposed deadlines, and in June a government audit concluded the agency will
+miss Congress's deadline.  Rules for small drones were promised three years ago,
+with the FAA now saying they will come later this year.
+
+That delay could prove disastrous. Typically, the United States is first to
+explore the potential for new digital inventions. But with drone-based
+agricultural and delivery services already taking off in Europe and elsewhere,
+the United States could lose its edge in developing new markets for drones and
+their still largely unknown uses.
+
+Though the FAA has yet to set a date for its new rules, there are small signs of
+progress.  Late last month, for example, the agency granted the application of
+some filmmakers for an exemption to use UAV-mounted cameras on set.
+
+That may be the first step toward freeing up drones for news gathering and
+commercial services including delivery.  With the filmmaking exemption granted,
+applications for other commercial use exemptions are now increasing.
+
+But even with eventual federal safety rules in place, the drone market will
+still face regulatory obstacles.  In the absence of FAA guidelines, state and
+even local governments have leapt into the breach, passing confusing and
+incompatible regulations - and often prohibitions - on drone use.
+
+Some communities have been motivated by obvious safety concerns, but more often
+the proscriptions are motivated by unease about privacy.
+
+So far, the privacy concerns have mostly been speculative. UAVs, like nearly
+every other mobile device, have high-definition cameras that continue to improve
+exponentially in both quality and capacity.  So, like Google Glass and other new
+video technologies, UAVs tend to invoke a visceral "creepy" response in
+consumers, who imagine the worst possible uses such technologies might be put to
+against unsuspecting victims.  They imagine drones hovering at their windows,
+back yards, or public protests.
+
+To be sure, large-scale deployment of increasingly low-visibility drone
+technologies will bump up against cultural and even legal restrictions on the
+collection and distribution of information.  At the same time, at least in the
+United States, some of those concerns will be offset by strong First Amendment
+protections for journalists and others.
+
+It may be that existing privacy protections and "Peeping Tom" laws are already
+sufficient to bar the most offensive uses of drones.  For law enforcement
+applications, likewise, the Fourth Amendment has been interpreted by courts to
+adapt to new technologies that challenge personal privacy, and may curb police
+practices that most Americans would find unreasonable.
+
+But until the technology matures and the truly disruptive applications emerge,
+pre-emptive prohibitions - especially at the local level - could unnecessarily
+stunt the development of valuable technology before it has a chance to prove its
+worth to society.
+
+That's not a problem unique to drones.  Maintaining the delicate balance between
+protecting consumer values and allowing new technologies to develop is a growing
+problem for lawmakers.  As the Internet revolution continues its "Big Bang"
+expansion to businesses that have long been immune from disruptive innovation,
+new products and services increasingly challenge old assumptions about how
+industries are best organized and operated.
+
+And that in turn triggers the need to rethink rules that protect consumers from
+harmful behaviors, as well as the kind of regulators best-suited to define and
+enforce those protections.
+
+With the launch of the drone economy, the FAA has now joined the list of
+federal, state, and local agencies whose core markets are or are likely to be
+transformed by better and cheaper technologies.
+
+But so far, the agency hasn't displayed much urgency in responding to the
+challenge and opportunity.
+
+The fate of a multi-billion dollar industry is hanging in the balance. And as
+history has amply demonstrated, regulators who move too slowly often wind up
+sidelined or obsolete.
+
+Which would prove especially dangerous here.  There is, after all, quite a
+difference between the crash of a smartphone app and a drone.
+
+Larry Downes is co-author with Paul Nunes of "                  Big Bang
+Disruption:  Strategy in the Age of Devastating Innovation                  "
+(Portfolio 2014).                  He is a Project Director at the Georgetown
+Center for Business and Public Policy.
+
+LOAD-DATE: October 8, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

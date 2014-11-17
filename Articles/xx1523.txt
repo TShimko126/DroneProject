@@ -1,0 +1,176 @@
+                             1523 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                           October 22, 2014 Wednesday
+                              Late Edition - Final
+
+Google Invests Heavily in Effort to Blend Illusion and Reality
+
+BYLINE: By DAVID GELLES and MICHAEL J. DE LA MERCED; Conor Dougherty contributed
+reporting.
+
+SECTION: Section B; Column 0; Business/Financial Desk; DEALBOOK; Pg. 7
+
+LENGTH: 1206 words
+
+
+If Google has its way, hammerhead sharks will swim through your office,
+elephants will fit in the palm of your hand and dragons will fly among the
+birds.
+
+These fanciful visions are being dreamed up by Magic Leap, a start-up making
+augmented-reality technology. On Tuesday, it landed Google as its biggest
+investor.
+
+Valuing Magic Leap at about $2 billion, the $542 million cash infusion from
+Google and other investors immediately vaulted the shadowy start-up into the
+upper echelons of young technology companies.
+
+But as is so often the case with tech start-ups, Magic Leap's soaring valuation
+is based on little more than an ambitious vision and some nascent code. Magic
+Leap, which is based far from Silicon Valley in the suburbs of Miami, has no
+revenue -- and no products currently on the market.
+
+''Until we see the device, you have to be a little skeptical,'' said Brian Blau,
+an analyst at Gartner who has worked with virtual reality for two decades.
+
+Details about Magic Leap's plans remain sketchy. The company declined requests
+for an interview on Tuesday. On its website, the company has a few videos and
+images that depict rich animations displayed over what people see with the naked
+eye. Seahorses float above children in a schoolroom. A yellow submarine hovers
+near an outdoor promenade. An astronaut walks through a train station.
+
+So-called augmented reality technology already exists, but remains primitive.
+Google itself has gone further than any other company to bring this concept to
+market with Google Glass, its interactive spectacles.
+
+But Magic Leap appears to have significantly broader aims, describing an
+ambitious vision for displaying rich interactive graphics alongside what people
+see naturally, using what it calls a dynamic digitized lightfield signal.
+
+''Current technologies we use to access the digital world limit, or even take us
+away, from the real world,'' Magic Leap's website reads.
+
+Google's role as the lead investor is significant as it jockeys for position in
+a rapidly shifting technology industry.
+
+Just seven months ago, Facebook stunned Silicon Valley with the $2 billion
+acquisition of Oculus, a virtual reality company. Though the social network's
+interest in the maker of a virtual reality headset was a surprise to many,
+Facebook believes Oculus can be a new sort of operating system as people
+continue to find new ways to interact with computers.
+
+Google views Magic Leap in much the same way, according to people briefed on the
+company's thinking. As people become more comfortable with wearable technology,
+technologies like Magic Leap are likely to become more commonplace.
+
+''Magic Leap is going beyond the current perception of mobile computing,
+augmented reality and virtual reality,'' Magic Leap's founder and chief
+executive, Rony Abovitz, said in a statement. ''We are transcending all three,
+and will revolutionize the way people communicate, purchase, learn, share and
+play.''
+
+Bing Gordon, a partner at Kleiner Perkins Caufield & Byers, another investor in
+Magic Leap, said that augmented reality could become a new platform -- one that
+he argued could outstrip mobile devices in popularity. He compared the potential
+advancements to the rise of cinema: a new way of seeing the world. In this case,
+the start-up's technology allows highly realistic graphics to appear alongside
+real-life objects.
+
+The difference, according to Mr. Gordon, is that Magic Leap is better
+coordinated with how the human eye and brain process images, making the computer
+graphics feel, and move, more naturally.
+
+Augmented reality could obviously be used to enhance video games, something that
+Mr. Gordon, as a former executive of the game company Electronic Arts, is
+familiar with. But he argued that the technology could be applied to an array of
+other applications, creating a real-life equivalent to the magical newspaper
+from the ''Harry Potter'' books.
+
+''For a while, we thought it was technically impossible, and then financially
+impossible,'' he said. ''Now it's technically and financially possible.''
+
+With more than $60 billion in the bank, Google cannot seem to find enough ways
+to invest its money. Google Ventures, the company's venture capital arm, has
+invested in diverse companies including Blue Bottle Coffee and Uber, the
+on-demand taxi service.
+
+Google X, the company's research division, is the hatchery for all kinds of
+''moonshots'' including self-driving cars, a drone-based delivery service called
+Project Wing and, perhaps most notably, Google Glass.
+
+The tech giant has spent much of the last two years trying to gain entry to
+essentially everything with an Internet connection, through projects including
+the Open Automotive Alliance, intended to bring its Android operating system to
+cars, and its acquisition of Nest, a maker of Internet-connected thermostats and
+smoke alarms.
+
+But the investment in Magic Leap comes from Google Inc., not one of its
+investment arms. This suggests that it is less concerned with the near-term
+business prospects of augmented reality than in forging a long-term strategic
+relationship with Magic Leap. Sundar Pichai, Google's senior vice president for
+Android, Chrome and apps, will join the Magic Leap board.
+
+The investment represents a huge bet by Google and its consortium of investors.
+But such wagers are quickly becoming the norm for the likes of Google and
+Facebook, two companies not content to rest on their already hugely profitable
+existing business models.
+
+''They're willing to take risks on the belief that their business will not be
+around forever,'' Mr. Gordon said. ''The great tech C.E.O.s are all
+simultaneously maxing out their current model while also looking around at
+future models and placing big bets.''
+
+Other investors in Series B, or the second major financing round, include
+Qualcomm Ventures, Legendary Entertainment, the private equity firm KKR, Vulcan
+Capital, Kleiner Perkins, Andreessen Horowitz and Obvious Ventures.
+
+The group, a consortium of some of the biggest names in venture capital and
+private equity, are all betting big money on ''an eclectic group of visionaries,
+rocket scientists, wizards and gurus from the fields of film, robotics,
+visualization, software, computing and user experience,'' as Magic Leap
+describes itself on its website.
+
+So far, however, augmented reality and virtual reality have remained more the
+stuff of science fiction than of the everyday Internet.
+
+Google's Glass, which essentially places a tiny computer screen on an eyeglass
+lens, is available for $1,500 in ''open beta,'' a public test of the device.
+Oculus does not have a product ready for buyers yet.
+
+And even if Magic Leap or Oculus does create a compelling new computing
+platform, the next challenge will be convincing media and tech companies to
+create lots of content to keep users entertained.
+
+''Virtual reality has been around for 20 years, and the one thing that has been
+consistent throughout this is that the technology is not mature enough,'' Mr.
+Blau said. ''Today there's the possibility for that to change, but it's going to
+take a while for these app developers to get it right.''
+
+Conor Dougherty contributed reporting.
+
+Real-Life Illness in a Virtual World
+
+This is a more complete version of the story than the one that appeared in
+print.
+
+URL:
+http://dealbook.nytimes.com/2014/10/21/google-invests-in-magic-leap-an-augmented
+-reality-firm/
+
+LOAD-DATE: October 22, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: Magic Leap, in which Google invested $542 million on Wednesday,
+intends to make a device that overlays digital animation on a user's field of
+vision. (PHOTOGRAPH BY MAGIC LEAP)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

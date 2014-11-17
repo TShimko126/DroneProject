@@ -1,0 +1,157 @@
+                             1564 of 2956 DOCUMENTS
+
+
+
+                              The Washington Post
+
+                            January 17, 2014 Friday
+                                 Met 2 Edition
+
+N.Va. police not purging license plate databases
+
+BYLINE: Tom Jackman
+
+SECTION: A-SECTION; Pg. A01
+
+LENGTH: 1181 words
+
+
+Every day, police officers across Virginia scan the license plates of tens of
+thousands of vehicles and enter that information into their departments'
+databases, hoping that it might help solve a crime.
+
+But last year, then-Attorney General Ken Cuccinelli II issued a clear opinion
+about the use of license plate readers, which have become common across the
+country: If the information isn't directly related to a criminal case, it "may
+not lawfully be collected."
+
+Virginia State Police quickly adopted a policy to purge the data within 24
+hours, unless a crime was involved. But in Northern Virginia, police departments
+have decided to ignore Cuccinelli's opinion. They maintain databases of the
+information - photos with the vehicle's location at the time - and share them
+with other police departments in the Washington region.
+
+Cuccinelli's opinion was not legally binding, police officials in each
+jurisdiction say, adding that they consulted their city or county attorneys and
+their prosecutors before continuing to collect the data.
+
+Police in Alexandria retain license plate data for two years, officials said.
+Fairfax and Loudoun counties keep the information for one year; for Arlington
+and Prince William counties, it's six months. In Montgomery and Prince George's
+counties, police keep their license plate data for a year. Statewide, some
+agencies are removing the data immediately, but for others, the length of time
+is 30 to 60 days or longer, according to Dana Schrad, executive director of the
+Virginia Association of Chiefs of Police. (District police did not respond to a
+request for information.)
+
+The practice has been questioned by some local activists and advocacy
+organizations, most notably the American Civil Liberties Union, which argues
+that gathering the information intrudes on the privacy of innocent drivers.
+Police officials said they recognized the concerns and tried to find a balance
+between their need to investigate crimes and the privacy of citizens.
+
+Prince William Police Chief Stephan Hudson said that detectives need the data to
+solve serious crimes or see crime patterns which may not be immediately reported
+and that they might benefit from a look at which vehicles were at a crime scene
+at the time of the offense.
+
+"It's impossible for us to say within a set period of time," Hudson said,
+"whether the [license plate] data would be relevant to a criminal
+investigation."
+
+Civil rights advocates are unmoved. "They can argue that going door-to-door
+searching houses without a warrant would help law enforcement solve crimes,"
+said Claire Gastaaga, executive director of the ACLU in Virginia, "as would
+listening in on all phone calls. . . . Bottom line: We believe the warrant
+requirement protects liberty while allowing appropriate law enforcement action."
+
+The issue is attracting attention in the Virginia General Assembly. Del. Richard
+L. Anderson (R-Prince William) said he was "considering legislation to codify
+last year's attorney general opinion." He said he had been discussing license
+plate readers and privacy with his constituents and that "significant citizen
+concern exists over increasingly pervasive intrusion by government into private
+and personal matters," such as NSA data collection and the use of drones.
+
+"Over time," Anderson said, "government agencies have demonstrated an inability
+to protect private data from public disclosure, which adversely impacts public
+confidence in government."
+
+Cuccinelli said he was "sorely disappointed" that Virginia police departments
+were ignoring his opinion. "When the people charged with enforcing the law think
+that breaking it is okay, I'm appalled."
+
+He argued that "information they gather that way is subject to exclusion [from
+court proceedings] because it's illegal." He said he was considering litigation
+against the NSA, but added, "Maybe I should look at suing in my own back yard."
+
+Police cars equipped with cameras can photograph hundreds of license plates a
+minute, even while moving at high speeds, and they cruise the Washington area
+daily, compiling searchable databases that privacy advocates say can be used to
+track an individual's movements or launch improper investigations. A 2012 study
+by the Police Executive Research Forum found that almost three-quarters of
+police agencies nationwide use the readers and that 85 percent plan to use them
+in the next five years.
+
+Virginia's law defining government data collection, often called "the Data Act,"
+begins with a section warning of the dangers of misusing personal information in
+the data age, so Cuccinelli's interpretation of the law did not make any large
+philosophical leaps.
+
+"An individual's privacy is directly affected by the extensive collection,
+maintenance, use and dissemination of personal information," the law starts. "In
+order to preserve the rights guaranteed a citizen in a free society, legislation
+is necessary to establish procedures to govern information systems containing
+records on individuals."
+
+The key section soon follows: "Information shall not be collected unless the
+need for it has been clearly established in advance."
+
+The plate readers are connected to in-car computers that check each license
+plate against national and regional "hot lists" of stolen cars and missing and
+wanted people and then sound an alert when one is found. Police in the
+Washington area began using them in 2004, mainly with federal grant money,
+because each one costs about $20,000.
+
+Law enforcement officials say that the practice has become an essential tool in
+developing leads in terrorism investigations and criminal cases and that
+Cuccinelli's opinion ties their hands.
+
+"If we were limited by the attorney general's opinion in the future, the
+cost-benefit analysis wouldn't be worth the investment," said Arlington Police
+Chief Douglas Scott. "To simply use it only for a stolen-auto hit . . . kind of
+defeats the investigative purpose and opportunity to have something like that."
+
+Fairfax and other agencies noted that only law enforcement personnel can access
+the database, but each agency has a different policy on exactly who within their
+agency can do so. Fairfax said only a small number of employees can access the
+license data, and only if the requests from detectives are approved by the chain
+of command, Chief Edwin Roessler said. In Loudoun, detectives and a handful of
+officers in specialty units are authorized to access the database, Sheriff
+Michael Chapman said, and their access is monitored by systems administrators.
+
+In Alexandria, only members of the computer unit can access the database,
+spokeswoman Crystal Nosal said. In Prince William, "just a couple dozen" people
+are authorized to check license plate data, Hudson said. In Arlington, Scott
+said, about 50 officers and detectives are authorized to access the database.
+
+In 2012, many police departments in the Washington area signed a memorandum of
+understanding to share their databases with each other. It does not create a
+central database, and the information is available only as long as they are kept
+by the individual agencies.
+
+tom.jackman@washpost.com
+
+LOAD-DATE: January 17, 2014
+
+LANGUAGE: ENGLISH
+
+DISTRIBUTION: Every Zone
+
+PUBLICATION-TYPE: Newspaper
+
+
+     Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a
+                            Washington Post Digital
+                              All Rights Reserved
+
+

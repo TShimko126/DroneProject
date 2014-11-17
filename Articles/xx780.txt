@@ -1,0 +1,121 @@
+                             780 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                            June 18, 2014 Wednesday
+
+Facebook Makes Its Own Computer Networking Switch
+
+BYLINE: QUENTIN HARDY
+
+SECTION: TECHNOLOGY
+
+LENGTH: 768 words
+
+
+
+HIGHLIGHT: The social media giant has a hobby of lowering the costs in data
+center, where proprietary technologies still do most of the work.
+Facebook&#8217;s open-source networking switch is designed to challenge that.
+
+
+In pretty short order, Facebook is out to shake up big parts of what makes the
+Internet go.
+
+On Wednesday, the social media giant announced that it had created a new kind of
+computer networking switch, potentially capable of shifting data rapidly through
+the largest data centers.
+
+The machine also blends functions of a computer server within a network device,
+which could make it a much easier product for lots of engineers to work with.
+
+It could be a big deal, since a successful product like this could threaten the
+market control, and profit margins, of companies like Cisco, Hewlett-Packard and
+Arista Networks. Facebook built the product in modules and plans to make it
+available through open source by the end of this year. It could make networking,
+one of the last great arcane computer engineering disciplines,  go mainstream.
+
+"The bigger strategy here is to get computer networking out of the black box,
+black operations part of the world," said Najam Ahmad, vice president of network
+engineering at Facebook. "We have tons of software engineers at Facebook, they
+can all work on network stuff now."
+
+The switch,called "Wedge," is designed to work with other commercial and
+open-source networking products. It is initially designed to work at speeds of
+up to 40 gigabits per second, the upper end of what most network switches now
+carry, but will move to 100 gigabits in the near future. Mr. Ahmad said Facebook
+had already seen interest from Microsoft, Goldman Sachs and Bloomberg, among
+others, in working with the product.
+
+Traditional networking companies, he added, will likely be forced to shift their
+strategies, since in time even ordinary business customers may be drawn to the
+cheaper mass networking boxes.
+
+"The industry is thinking about how they will play in this market," he said,
+noting that Dell is working with an open-source networking system called
+Cumulus, which like Wedge works with  semiconductors available  commercially.
+Cumulus can also work with parts of Wedge.
+
+"Cisco is looking at this, Arista is looking at this," he said. "It presents
+challenges to an appliance-based model of selling networking. If you are
+committed to that over time, you'll be limited to severing smaller businesses."
+Quanta, a Taiwanese maker of computer equipment, is one of several manufacturers
+looking at Wedge, Mr. Ahmad said.
+
+Facebook has been making hardware available as open  source for several years,
+under a project called Open Compute that has attracted many companies in and out
+of the tech sector. The idea is to lower  the costs of computing hardware the
+way the Linux open source project lowered the costs of operating system
+software: by sharing ideas and allowing the maximum number of people to work on
+new designs.
+
+Initially, the work was limited to standardizing the sizes of racks that held
+computer servers, or the wiring between boxes. Facebook's work, however, is
+increasingly more sophisticated.
+
+Facebook's founder and chief executive officer, Mark Zuckerberg, has been clear
+that his intentions are not exclusively altruistic: Facebook trailed Amazon and
+Google in the race to build giant data centers, and could not afford the
+proprietary approach taken by those two companies.
+
+No doubt, Wedge is still in the earliest testing phases. Facebook likes to run
+products on a large scale before it makes them available through open source,
+and things could still go wrong with this switch.
+
+There is no mistaking the company's intentions, however. Speaking at an industry
+event Wednesday, Jay Parikh, Facebook's vice president of engineering, talked
+about recent acquisitions and their role in Facebook's future.
+
+Companies like Oculus VR, makers of virtual reality goggles, and Ascenta, a
+drone company that Facebook hopes will deliver Internet connectivity to remote
+locations via laser, are part of an even larger strategy, he said.
+
+"The last three or four years we focused on scaling up the main Facebook
+application," he said. "In the last year or so we've been investing in longer
+term tech bets - things three, five, 10 years out." The Oculus virtual reality
+chip would be used for augmented reality, a way of tagging the physical world
+with Internet information, he said, while the drones would connect 20 percent of
+the world's population.
+
+Facebook is also increasingly interested in so-called "deep learning," an
+advanced form of big data analysis that is growing popular in the biggest tech
+companies.
+
+In making all this a reality, Mr. Parikh said, "one building block, the network,
+was slowing us down." Facebook's answer was to take away proprietary control.
+
+LOAD-DATE: June 18, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

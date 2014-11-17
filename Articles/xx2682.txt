@@ -1,0 +1,158 @@
+                             2682 of 2956 DOCUMENTS
+
+
+
+                               Washingtonpost.com
+
+                      April 30, 2014 Wednesday 2:31 AM EST
+
+Free WiFi is a selling point in NoMa, but why isn't the Internet free wherever
+we'd want it?
+
+BYLINE: Dan Zak
+
+SECTION: Style; Pg. C01
+
+LENGTH: 1131 words
+
+
+Utopia announces itself in magenta and margarita green.
+
+"Free Outdoor WiFi," say the placards shellacked to the sidewalks of First
+Street NE. Their cheery color scheme and matter-of-fact wording make WiFi seem
+like both an amenity anda necessity, at least when pondered to the sound of
+water cascading over the stone facade of a nearby palace of swank apartments
+(sorry, residences). NoMa claimed this month that it's the first D.C.
+neighborhood to connect the air we breathe to free Internet, and maybe it is, if
+you're particular about the definitions of "first" and "neighborhood" and
+"Internet."
+
+But the livelier, whinier point of contention is this: Why, more than a decade
+into the proliferation of WiFi networks, is free wireless Internet not available
+everywhere all the time, especially in the capital of the free world? Why must
+we purchase and set up our own individual hotspots, or linger in coffee shops,
+or siphon connectivity from unsecured networks, or make do with our phones?
+
+Why in 2014 is a neighborhood stoked to offer a service that for some has become
+as elemental as clean air, as sacrosanct as a universal human right?
+
+"The technology really wasn't ready until now," says Harold Feld, senior vice
+president of Public Knowledge, a D.C.-based consumer advocacy group dedicated to
+an open and accessible Internet. "It took a while for the technology to get up
+to speed and work and for people to understand the value. And now people are
+ready for it, you've got an infrastructure that can support it, you've got
+institutions like libraries that are embedded in the community - now we need to
+put all the pieces together."
+
+One problem: The market relies on consumers to purchase connectivity
+individually. In other words, blame AT&T or Verizon, if you're willing to also
+blame capitalism as a whole.
+
+You could also blame government inertia and - brace yourself for jargon - the
+limited availability of unlicensed radio spectrum frequencies, the bands of
+airwaves that are open for use by anybody. At its May 15 meeting, the Federal
+Communications Commission will prepare the rules for the 2015 auction of the
+broadcast-TV range of the radio spectrum. Some of these bands will be set aside
+for unlicensed use - which could be a boost to WiFi, local broadband
+connectivity and technological innovation in general - and some will be
+auctioned to the highest licensed bidder, i.e. corporations that are already in
+the game.
+
+"Whenever I think about putting in a new WiFi hotspot, I want to look at the
+level of service and whether industry can do it," says D.C.'s chief technology
+officer, Rob Mancini, whose office has rolled out more than 600 public WiFi
+hotspots in the city over the years. "When government and industry can combine
+forces in a way that's productive, this is where the American example shines."
+
+This reliance on industry sometimes can result in "a learned helplessness" in
+city governments, says Greta Byrum, an urban planner and senior field analyst
+for the Open Technology Institute.
+
+"With the consolidation that you see - the Time Warner and Comcast merger -
+there's definitely interests that don't want to see any kind of diversification
+of the market or new models at play," Byrum says. "Local communities have the
+power to create their own infrastructure, but a lot of people think they don't
+know how or that it might be illegal. It's difficult to do an infrastructure DIY
+project. You have to have a lot of passion."
+
+Consider the effort to wire NoMa, a project that took more than a year of
+planning and designing. The neighborhood's Internet couldn't happen without
+access points - 17 gray, foot-wide boxes that are perched on streetlights or on
+top of buildings - and the gathering of permits, the routing of electricity, and
+so on.
+
+"If you get on anybody's roof, that's a process, and some required license
+agreements," says Robin-Eve Jasper, president of the NoMa Business Improvement
+District. "And to be able to put devices on lampposts took a good bit of
+conversation about attaching them and how they look and whether they affected
+the performance of the lamppost."
+
+Thus, a human right may hinge on whether it eclipses the radiance of a
+streetlight.
+
+Granted, the patchwork of free and public WiFi in wealthy parts of the District
+is worlds away from the 20 percent of Americans who don't have household
+broadband or a smartphone, from the two-thirds of the global population that
+doesn't have anyreliable access to the Web, and from nations that restrict or
+disconnect their population from the Internet (see Russia, Syria). Three years
+ago, the United Nations declared that depriving a citizen of access to the
+Internet is a violation of the human right "to seek, receive and impart
+information and ideas of all kinds, regardless of frontiers," as it's phrased in
+Article 19 of the Universal Declaration of Human Rights.
+
+Speaking of frontiers: space!
+
+If you're not in range of those rooftop transmitters in NoMa, do not despair.
+Internet connectivity will soon come from orbit, beyond the reach of municipal
+governments, industry incumbents and authoritarian countries.
+
+Last month, Mark Zuckerberg announced Facebook's plan to beam the Internet
+through lasers, satellites and drones to swaths of the planet that are not
+already covered by 2G or 3G networks. Google's Project Loon will do the same
+thing but with high-altitude balloons, perhaps by 2020.
+
+Then there's Outernet, which would use satellites to broadcast a library of
+content to the entire planet for free via the unlicensed spectrum of radio
+waves, starting as early as June 2015.
+
+It wouldn't replicate the limitless browsing experience of the Internet, but it
+could be the next big step toward unified planetary connectivity.
+
+As with most plans involving global domination, the ambitions are grand and as
+yet unrealized.
+
+A dozen transponders (already in orbit) could link humanity to 500 gigabytes of
+new data per day, says Outernet founder Syed Karim, director of innovation at
+the nonprofit Media Investment Development Fund, which is backing the project
+and has already invested $128 million in media businesses across 31 countries.
+Open-source material, Creative Commons content, the literature and courseware in
+the public domain - it would all be broadcast to Earth via satellites and
+intermediary hotspots that store content locally and allow any WiFi device to
+connect.
+
+"We're building a library for everyone, and removing the physical nature of what
+a library has to do, for about $15 million a year," Karim says, adding via
+e-mail, "If information is the currency of the modern global economy, Outernet
+is a free ATM."
+
+The step after Outernet?
+
+A "space-based, jurisdiction-free, regulation-proof laser Internet system," he
+says.
+
+Shellac that in magenta on the moon.
+
+dan.zak@washpost.com
+
+LOAD-DATE: April 30, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Publication
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

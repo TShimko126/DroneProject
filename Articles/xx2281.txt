@@ -1,0 +1,133 @@
+                             2281 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                       July 18, 2014 Friday 11:45 PM EST
+
+Should passenger jets have missile defense systems?
+
+BYLINE: Nancy Scola
+
+LENGTH: 1008 words
+
+
+When a plane like Malaysia Airline Flight 17 is suddenly dropped from the sky by
+a missile attack launched from a vehicle no larger than a tank, the temptation
+is to look for the technology that will protect airline passengers from such
+threats. So should we be equipping commercial passenger planes with missile
+defense systems?
+
+For about a decade, Israel has been trying to do just this. And the country's
+experience serves as an interesting test case.
+
+In 2002, an Israeli charter flight flying at a height of 500 feet was attacked
+above Mombasa, Kenya, by a shoulder-launched missile. No one was hurt, but it
+prompted the Israeli government to begin searching for ways to protect its
+country's passenger planes and helicopters from the threat of so-called MANPADS,
+or Man Portable Air Defense Systems.
+
+That produced a government project called SkyShield, powered by a program called
+C-MUSIC, for Commercial Multi-Spectral Infrared Countermeasures.  The program
+uses lasers and radar jamming, explains Adi Dar, the general manager for Elbit
+Systems, the Haifa-based lead contractor on the project that has worked for
+nearly a decade developing anti-missile technologies for passenger planes.
+
+With MANPADS long believed to be the greater threat, commercial aviation missile
+defense systems have not been engineered to protect against longer-range
+surface-to-air missiles (SAM) like the Buk SAM believed to have been involved in
+the Ukraine attack.
+
+But at any height targeting the head of a missile from a moving passenger plane
+is technologically complex, says Dar, a former Israel Defense Forces official.
+"It's like hitting a tennis ball with a laser from an aircraft that is moving
+800, 900 kilometers per hour."
+
+Israel has focused on fully-automated systems like lasers and radar jamming out
+of a belief that other, more manual techniques used in military settings, like
+the distribution of chaff -- small pieces of glass, metal, or plastic used to
+confuse tracking systems -- place too much of a burden on commercial air pilots.
+
+There are other challenges, says Dar. Fuel consumption is a concern, as the
+anti-missile technology can create drag since it is attached to the aircraft's
+underbelly.
+
+Elbit Systems, says Dar, has been deploying its countermeasure technologies
+among militaries in Germany, Italy, and elsewhere in Europe. And, he says,
+they've been working to protect heads of state and other "VIPs" around the
+world. But Elbit has not contracted with commercial airlines outside Israel.
+
+But some experts doubt Israel's approach. Professor Theodore Postal, a professor
+of science, technology, and international security at MIT, thinks missile
+defense systems are largely futile. Especially given the increased
+sophistication of missiles designed to evade detection and destruction, argues
+Postal, protecting passenger planes from attack is "extremely difficult to do."
+
+After all, "combat aircraft have pretty sophisticated electronic
+countermeasures," says Postal, "and they get shot down all the time."
+
+Regardless, some U.S. lawmakers have pressed for this country to follow Israel's
+lead.
+
+In the United States, both the 2002 Mombasa attack and the attacks of September
+11th, 2001, increased interest in the protection of passenger planes. In May
+2002, the FBI warned that "given al Qaeda's demonstrated objective to target the
+U.S. airline industry," the country should consider the possibility that
+shoulder-fired missiles could be used against U.S commercial aircraft.
+
+Partly in response, in 2003, Senator Barbara Boxer (D-Calif.) and Congressman
+Steve Israel (D-New York) introduced the Commercial Airline Missile Defense Act.
+The bill would have required the Department of Defense to pay an estimated $1
+million a piece to equip U.S. commercial passenger planes with anti-missile
+technologies. With 6,800 planes, the price tag would have been nearly $7
+billion--a number that, no surprise, caused many to balk. The Defense Department
+took instead to nudging aircraft providers to explore adapting military
+anti-missile techniques for commercial use, which led to, among other things,
+Northrop Grumman's Guardian Anti-Missile program.
+
+In Israel, the government picks up the cost of the SkyShield project, estimated
+by Dar to be at least a few hundreds of millions of dollars on research and
+implementation thus far. Elbit won't disclose what it costs to attach its
+anti-missile systems to aircraft, but Dar allows that it is in the neighborhood
+of "several million dollars" per plane. Israel, reports Elbit, has conducted
+successful tests of its anti-missile systems on Boeing 737s and Boeing 80os,
+including recent tests in southern Israel.
+
+The cost is lower for Israel than it would be for the United States largely
+because of the size of its fleet. The three major airlines participating in
+SkyShield together own and operate about 40 planes. "We're not talking about
+Lufthansa," admits Elbit's Adi Dar, of the German airline that alone has nearly
+300 planes. "We're a small country."
+
+Faced with the potential costs of such a program, the trend in recent years in
+the United States has been a move away from anti-missile systems that place the
+responsibility for protection on airlines and pilots. The Department of Homeland
+Security's Project Chloe, named for a character on the television program "24,"
+has begun exploring the use of missile-detecting and missile-defeating drones
+that would hover over U.S. airports.
+
+And so, for now at least, wide-scale use of anti-missile technologies on
+commercial passenger planes remains largely limited to Israel.
+
+"In Israel, " Dar goes on, "most of the government decided that the threat is
+real. And they decided to invest the money required. Other countries, other
+airlines have to be cost-effective in deciding what they want."
+
+Update: This piece originally grouped Man Portable Air Defense Systems, or
+MANPADS, with the type of surface-to-air missile that is believed to be involved
+in the Ukraine attack. That has been corrected and a clarifying paragraph has
+been added.
+
+LOAD-DATE: July 18, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

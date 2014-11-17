@@ -1,0 +1,150 @@
+                             570 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                              May 19, 2014 Monday
+
+Questions Remain After Chinese Hacking Indictments
+
+BYLINE: NICOLE PERLROTH
+
+SECTION: TECHNOLOGY
+
+LENGTH: 1087 words
+
+
+
+HIGHLIGHT: After the indictment of five members of a Chinese military hacking
+unit Monday, a nagging question remained: What about the other 20 hacking groups
+intelligence officials are tracking in China?
+
+
+The indictments of five Chinese military hackers by the Justice Department on
+Monday has raised questions of what actions, if any, American officials plan to
+take against members of the more than 20 other hacking units that American
+officials and their partners are currently tracking inside China.
+
+"If you look at all the groups that we track in China, this is just the very tip
+of the iceberg," said George Kurtz, a co-founder of Crowdstrike, a private
+security firm that has been tracking the People's Liberation Army Unit 61398 and
+other hacking groups in China. "The indictments are just one piece of a broader
+puzzle."
+
+Beyond Unit 61398, the National Security Agency and its intelligence partners
+are currently tracking more than 20 Chinese hacking groups - over half of them
+Chinese military and naval units - as they break into an array of American
+government agencies and companies, ranging from drone and nuclear weapon parts
+makers to technology, retail and energy firms and nonprofit research
+organizations, according to a half-dozen United States officials who declined to
+be named because of the classified and ongoing nature of the investigations.
+
+Security officials said that the indictments were intended to push China to get
+serious about reining in various P.L.A. hacking units and that they have been in
+the works for two years. One of the major challenges, officials said, was
+persuading the victim corporations - which feared a loss of sales in China or
+state retaliation - to come forward.
+
+"They had to gather really strong evidence that these companies had been hacked,
+and then had to convince the companies to go public, despite fear of
+retaliation," said James A. Lewis, a cybersecurity expert at the Center for
+Strategic Studies in Washington, who has participated in several official
+Sino-American discussions on cyberespionage.
+
+The indictments, Mr. Lewis said, are not about what the United States will do
+with these hackers, but what the Chinese government will do with them. "The
+indictment is meant to send a clear public message to China that they need to
+take action," he said. "They need to get these P.L.A. entities under control."
+
+While the majority of the groups the N.S.A. has been tracking, including Unit
+61398, are P.L.A. units, officials say many of them are murky collectives of
+hackers from privately owed Chinese companies and state-funded universities that
+officials believe have been contracted by the Ministry of State Security,
+China's civilian spy agency, to hack victims - such as clean energy firms - that
+help China meet its economic objectives.
+
+Officials say it is unclear how the Chinese government tasks such missions, a
+quandary that has taken on more urgency after analysts were able to trace
+sophisticated cyberattacks against a disconcerting list of victims - drone and
+missile makers and nuclear technology developers among them - to three privately
+contracted groups of Chinese hackers.
+
+Officials say one of these privately contracted groups, based in Guangzhou,
+China, has been tied to attacks against defense contractors - including missile,
+satellite and space technologies and nuclear propulsion technology developers -
+in the United States, Britain and Russia. More recently, two officials said that
+the group has expanded its targets to include law firms, which hold valuable
+intellectual property for their clients but often lack the security defenses of
+a larger corporation.
+
+Separately, officials say, the N.S.A. and its partners have been tracking a
+group of privately employed technology workers based in the industrial city of
+Tianjin. Since 2005, officials say, they have tied attacks on defense
+contractors and technology and energy firms, as well as Chinese separatists, to
+the group.
+
+One of these groups of privately employed Chinese hackers that have officials
+most concerned is also one of the least prolific.<<< Since 2008, officials say
+members of this group have surgically struck a number of companies that develop
+drones and satellite technology.
+
+Officials say that they believe these groups work at the behest of the Ministry
+of State Security and that the fact that they are contracted but not directly
+employed by the state gives Beijing a degree of deniability.
+
+But the vast majority of groups the N.S.A. and its partners are tracking are
+units of the People's Liberation Army's Second and Third Departments, which
+maintain eavesdropping posts across China. They say Unit 61398 - formally the
+Second Bureau of the People's Liberation Army's Third Department - accounts for
+only a slice of the attacks orchestrated by the P.L.A.'s Third Department.
+
+According to interviews with three former government officials, the N.S.A. began
+tracking the PLA's Third Department in 2004 after its First Bureau hacked into
+the Pentagon's networks, two former government officials said. Since then, the
+unit has been tied to numerous cyberattacks on foreign telecom and technology
+companies that specialize in networking and encryption equipment, like the types
+manufactured by American companies including Cisco, Juniper and Broadcom.
+
+Judging by their victims, officials say other P.L.A. bureaus are assigned to
+targets - including politicians and diplomats at government agencies - in
+specific geographies. For example, one P.L.A. bureau has been tied to several
+attacks against diplomats and politicians in South Asia, while another has been
+linked to attacks on targets in Central Asia, including the foreign ministries
+of Afghanistan, India and Pakistan.
+
+Officials also say that thousands of attacks against the military networks of
+the United States and a number of Asian countries, including South Korea and
+Japan, have been  attributed to the Chinese Navy's First and Second Technical
+Reconnaissance Bureaus.
+
+After Monday's indictments, American officials say that they will be looking to
+see what, if any, steps Beijing takes to curb cyberespionage.
+
+"A lot of this will depend on how the Chinese react to this in private," said
+Mr. Lewis, the cybersecurity expert. "If they blow this off, you could imagine
+actions by the Treasury, visa restrictions on travel or restrictions on study."
+
+He added: "The Chinese have more to lose in this than we do."
+
+
+     ·    Daily Report: U.S. Eases Some Rules on Data Disclosure
+     ·    Daily Report: Snowden Trained as Hacker While With N.S.A., Résumé Says
+     ·    Daily Report: White House Calls for More Privacy Protections
+     ·    Heartbleed Internet Security Flaw Used in Attack
+     ·    2 Regulators Issue Guidelines on Sharing Cyber Security Information
+
+
+LOAD-DATE: May 19, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

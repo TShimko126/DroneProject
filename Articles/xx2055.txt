@@ -1,0 +1,104 @@
+                             2055 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                            March 20, 2014 Thursday
+
+Facebook's Hack, a Language of Tech Competition
+
+SECTION: TECHNOLOGY
+
+LENGTH: 564 words
+
+
+
+HIGHLIGHT: The world&#8217;s biggest social network introduced on Thursday a new
+open-source software language that is focused on helping to build interactive
+web pages. Besides winning geek credibility, it&#8217;s the latest version of a
+decades-old effort in tech to win over as many developers as possible.
+
+
+Over decades of advanced technology, there has been one constant: It's always
+about the developers. Facebook showed it again on Thursday, with the
+announcement that it has created a new software language, called Hack.
+
+Hack is designed to enable software developers to program interactive web pages
+faster and more effectively by avoiding system-crashing errors. Facebook is
+releasing it as an open-source language, not just to encourage widespread use
+but to quickly spot errors in Hack itself, and to build upon the language to
+give it more strength and features.
+
+With the new language, Facebook gets points in that precious tech commodity,
+"thought leadership."
+
+In addition to making the world a better place with another software language,
+Facebook has a corporate interest in releasing Hack. Developers who work in one
+company's framework tend to go along with the other goals of that company, even
+if its framework is open source. Many interactive websites already link to
+Facebook for things like customer sign-ups. With Hack, it seems likely that even
+more of them will.
+
+It's a move straight out of the Microsoft tech leadership playbook.
+
+Microsoft became the dominant software company for several decades in part by
+building a widely adopted operating system and software applications like
+Office. Just as important, however, was winning over the independent developers
+who built products for the Windows world.
+
+When many more products run on Windows than any other operating system, Windows
+is more attractive. It became something of a mantra to Steve Ballmer, the
+company's former chief executive, leading to more than a couple of great
+parodies.
+
+Google did much the same thing, in a different context. Google saw opportunities
+in the web to encourage developers, since building out the web made its core
+search product more effective, and it could offer products for the web that
+reinforced the use of Google.
+
+In that sense, writing blog posts on Blogger (purchased by Google in 2003) was a
+form of development for Google. So was annotating Google Maps, or building
+software that used the maps. Even using AdSense, the ad-generating system for
+web pages outside Google, was in a sense like using a development tool.
+
+Facebook's outreach to developers, initially in things like games connected to
+the social network, is increasingly open source, in areas like Hack and the Open
+Compute Project, an effort to make computer data center equipment through
+collective work.
+
+Mark Zuckerberg, Facebook's chief executive, has been clear about the reasons
+for this: He's come to the business later than Google or Microsoft, so opening
+projects to many developers is a strategic effort to catch up.
+
+None of this is meant to knock Hack, or Facebook. There are already hundreds of
+programming languages, so one more certainly can't hurt. It's just useful to
+remember that the "disruptive" giants of tech also have unbreakable business
+traditions.
+
+This particular tradition is actually somewhat nice: It has made a lot of small
+businesses rich, and has provided lots of employment for developers inside
+corporations.
+
+
+     ·    Now Facebook Has a Drone Plan
+     ·    As Facebook Turns 10, Zuckerberg Wants to Change How Tech Industry
+          Works
+     ·    Mark Zuckerberg Starts Spending His Billion-Dollar Charitable Fund
+     ·    Daily Report: Facebook Leads Effort to Widen the Net
+     ·    Facebook's Zuckerberg Complains to Obama Over Government Spying
+
+
+LOAD-DATE: March 20, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

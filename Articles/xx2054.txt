@@ -1,0 +1,117 @@
+                             2054 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                             March 17, 2014 Monday
+
+Privacy in the War Without End
+
+SECTION: TECHNOLOGY
+
+LENGTH: 740 words
+
+
+
+HIGHLIGHT: When the United States ends its wartime military presence in
+Afghanistan at the end of 2014, President Obama will most likely recast the
+terms under which the government uses technology to fight terror and spy on
+people, says a former diplomat. That could matter for privacy laws.
+
+
+How should we think about balancing civil liberties and national security? It
+may depend on what a speech later this year tells us about how a modern war
+really ends.
+
+At the end of 2014, most of the United States military forces should be out of
+Afghanistan (some may remain, depending on a number of Afghan and American
+factors). When they do, according to a former American diplomat, President Obama
+is likely to make a speech that marks the closing of a military conflict that
+began soon after the Sept. 11 attacks in 2001. What he says may set a future
+context for what propelled both the Afghanistan conflict and the legal
+justifications for widespread data-gathering.
+
+"In the legislative framework, are we still a nation at war? Is that conflict
+temporary or permanent? What tools do we want the government to have?" said
+Philip J. Crowley, the former United States assistant secretary of state for
+public affairs, and currently a professor at George Washington University. "If
+the Authorization to Use Military Force does still hold, you're in permanent
+conflict. If it doesn't, you go to an old or a new 'normal.'"
+
+Mr. Crowley, who was speaking at a meeting of the World Affairs Council on
+Saturday in San Francisco, said the question might matter more for the uses of
+technology in national security than for any combat troops. "Our army will not
+be at war, but our technology will be, in the form of drones and online"
+security enforcement, he said.
+
+Part of the difficulty is the unconventional nature of threats from terrorism
+and disruptions of vital economic and infrastructure networks. They are often
+from sources that don't wish to be seen. "The challenge is that war is moving
+from mostly overt with some covert, to being entirely covert," Mr. Crowley said.
+"In order to maintain the support of the American people, they are going to have
+to be more transparent about what they are doing."
+
+Steven Shapiro, national legal director of the American Civil Liberties Union,
+who was speaking on the same panel as Mr. Crowley, agreed that leaving
+Afghanistan would be a "central moment," but added "in a larger sense, it
+doesn't matter: Technology will go on. The threat of terrorism will go on.
+Therefore the argument in favor of ever more robust information gathering isn't
+going to go away."
+
+The central issue to Mr. Shapiro seemed to be the likelihood that the United
+States will continue to define its anti-terror conflict on a permanent basis,
+without stating what might qualify as the end of the "war." It's a tough
+problem: If we are at war with "terror," victory means no longer being scared of
+threats.
+
+"There is always a rejigging of security and privacy in wars," he said, dating
+at least to the revocation of habeas corpus in the Civil War, and continuing
+through the imprisonment of antiwar dissidents in World War I, and the
+incarceration of Japanese-Americans in World War II. "The implicit understanding
+is that when the war is over we'll go back to normal. Now we have to think of
+them as permanent and not temporary."
+
+The surveillance elements of the war on terror that seem to have raised the
+greatest ire among Americans, the two men agreed, was the briefly floated idea
+of "total information awareness" and the disclosures by Edward J. Snowden of
+immense data intercepts by the National Security Agency. "It's bulk versus
+precise collection" that upsets people, Mr. Crowley said.
+
+"There is a deference to the executive branch and the military at times of war,"
+he said. Now, however, "there is a move to contest a variety of tools and
+practices."
+
+Mr. Shapiro was somewhat darker. "The answer you get from people that they
+aren't really willing to admit is, 'I'm willing to sacrifice his privacy, but
+not my privacy,'" he said.
+
+Moreover, privacy has moved from a concept about behavior largely within a
+citizen's home, to data about themselves.
+
+"We're only starting to grapple with what it means as we put online data about
+our lives, and aspects of ourselves that can be discerned," Mr. Shapiro said.
+"The line between our public and our private lives is less discernible. The
+statutes we have appear old and outdated."
+
+
+     ·    Facebook's Zuckerberg Complains to Obama Over Government Spying
+     ·    Daily Report: Obama and Tech Leaders Confer on Public's Lack of Trust
+     ·    Daily Report: Europe Moves to Reform Rules Protecting Privacy
+     ·    A Call for a Highly Encrypted Future
+     ·    Snowden Tries to Rally Tech Conference to Buttress Privacy Shields
+
+
+LOAD-DATE: March 17, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

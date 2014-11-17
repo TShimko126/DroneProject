@@ -1,0 +1,175 @@
+                             1289 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             May 22, 2014 Thursday
+                              Late Edition - Final
+
+Grocery Deliveries in Sharing Economy
+
+BYLINE: By FARHAD MANJOO.
+
+Email: farhad.manjoo@nytimes.com; Twitter: @fmanjoo
+
+SECTION: Section B; Column 0; Business/Financial Desk; STATE OF THE ART; Pg. 1
+
+LENGTH: 1343 words
+
+
+''I hope you realize that you are about to witness a remarkable display in
+ineptitude,'' the technology investor Michael J. Moritz said as he entered a
+Whole Foods store in San Francisco one recent afternoon.
+
+Mr. Moritz, the chairman of the venture capital firm Sequoia Capital and a
+recipient of a British knighthood last year, was wearing a bright green T-shirt
+bearing a logo for Instacart, a two-year-old grocery delivery start-up that
+Sequoia has invested in. He was here to show me what it's like to work for the
+start-up -- in particular, how unexpectedly difficult it is to quickly and
+accurately buy and deliver an assortment of groceries for a stranger.
+
+Instacart might not sound like a novel service. It is one of several companies
+that is trying to revive a dream first floated, and then shelved, during the
+last dot-com boom -- the dream of ordering your staples online and having them
+show up at your door a short while later. At least a half-dozen firms offer
+grocery delivery across the country, including Amazon.com's AmazonFresh,
+FreshDirect, Peapod and services run by big grocery chains.
+
+But behind the scenes, Instacart is unusual and intriguing. It operates
+according to a decentralized business model that borrows from services like
+Uber, Airbnb and other firms in the so-called sharing economy. And it is not
+only potentially lucrative, but also could redefine how we think about the
+future of labor.
+
+When you buy groceries from Instacart, the company summons a green-shirted
+''personal shopper'' through the firm's smartphone app. The shopper receives
+your list, scurries through a grocery store to pick up your items and then heads
+across town in his own car to deliver your stuff.
+
+Instacart's shoppers earn from $15 to $30 an hour, depending on how quickly they
+deliver people's food. That's quite a high wage considering the job does not
+require a college degree, is part time and can be done during flexible hours.
+It's substantially more than the typical supermarket worker salary of about $9
+to $11 per hour -- though of course without any benefits like health insurance.
+The workers are independent contractors, responsible for paying for expenses
+like their own Social Security taxes.
+
+Still, Instacart's success suggests that rather than simply automate workers out
+of their jobs, technology might create new labor opportunities for people who
+haven't acquired formal credentials or skills in an economy where low- and
+medium-skilled workers face a bleak outlook. Like the ride-sharing service Uber,
+Instacart creates work by connecting affluent customers who have more money than
+time with part-time workers who have the opposite problem -- lots of time, not
+enough money.
+
+But unlike ride-sharing or apartment rental services, Instacart isn't intruding
+upon a regulated industry, and its service poses little risk to its customers'
+health or property, so it faces few of the complications that have dogged other
+sharing companies. Because it expands the customer base for physical stores, it
+has also been welcomed by some grocery chains as a potential bulwark against the
+wider rollout of Amazon's delivery service.
+
+''When you ask what kind of niches we'll see for people who used to be in
+traditional middle-class jobs, this is the kind of labor that could fit into
+that,'' said Tyler Cowen, an economist at George Mason University whose book
+''Average Is Over'' contemplates how technology is altering labor markets. ''I
+wouldn't want to suggest people will become grocery-delivery millionaires,'' he
+said, ''but if you don't have a college education but you're smart and
+responsible, could you make a living doing this and maybe piecing it together
+with some of these other kinds of jobs? Absolutely.''
+
+Instacart was founded in 2012 by Apoorva Mehta, now 27, an engineer who spent
+two years working at Amazon.com. ''I had this problem of never having groceries
+in my fridge and never having the motivation and energy to go to the store,''
+Mr. Mehta said. But he found most grocery services, including AmazonFresh, too
+cumbersome. They required him to submit his order many hours in advance of
+delivery, and they sometimes didn't offer the merchandise he was used to getting
+at his local store.
+
+What's more, traditional grocery delivery services are costly to set up,
+requiring warehouses to store perishable food, a fleet of custom-painted trucks
+for delivery and a staff of full- or part-time workers to package and deliver
+the orders. ''We were the clowns who invested in WebVan, and we are only just
+getting out of therapy from that,'' Mr. Moritz said, referring to the first
+boom's spectacular grocery flameout.
+
+Instacart does not maintain warehouses or trucks. Instead, the service is
+assembled out of found parts -- existing supermarkets, willing part-time workers
+and their cars. The model has many advantages. It creates vast selection for
+customers by allowing them to shop at many different stores, from large chains
+to specialty shops like San Francisco's worker-owned, vegan-friendly Rainbow
+Co-Op. It allows for extremely quick delivery too, including an option that will
+deliver your groceries in under an hour.
+
+Though he declined to provide specifics, Mr. Mehta also said the firm had turned
+a profit in certain markets. Instacart now operates in ten cities, including New
+York, San Francisco, Chicago, Boston, Austin, Seattle and Los Angeles, and plans
+to be in 17 by the end of the year. It has 50 full-time employees and more than
+1,000 independent shoppers under contract, many of whom fall into two
+demographic groups: college students and middle-aged mothers looking for
+flexible work.
+
+Despite its low-cost business model, Instacart isn't cheap. The service charges
+a delivery fee of $3.99 for most orders, and it also makes money by marking up
+store prices. The amounts vary depending on the item, but I noticed Instacart's
+prices coming in at about 20 percent more than I could find at my local store.
+
+The markup explains in part how Instacart can afford to pay shoppers such high
+wages. But as I discovered as I shopped with Mr. Moritz, there's another factor
+behind high pay: Shopping is a skill, and Instacart pays handsomely to get
+people who are very good at it.
+
+Though he could talk at length about the virtues of Instacart's business, Mr.
+Moritz is a billionaire investor, but he turned out to be a poor shopper. As we
+walked through Whole Foods, he often needed my help to locate a customer's
+items. I had to show him where to find grapes, bananas and Perrier; neither of
+us had any luck finding Babybel cheese.
+
+A few days later, I went on another delivery with Sharon Schedler, a 43-year-old
+mother who has been working for Instacart for about a year. She was a pro.
+Despite my peppering her with questions, she completed an 11-item order in under
+10 minutes, including giving the customer a call to suggest substituting chicken
+breasts for chicken tenders, which were out of stock. Ms. Schedler was also
+meticulous about picking produce. ''I try to be pickier than I would be for
+myself,'' she said as she studied zucchinis for nicks.
+
+Lawrence F. Katz, an economist at Harvard who studies technology and labor,
+offered a few reasons to stifle excessive optimism about Instacart's model.
+First, technology may yet one day render Instacart's shoppers obsolete. Drones
+could pick our groceries, after all.
+
+Another possibility, he said, is that wages will be bid down as more people
+compete to become Instacart shoppers. Or, as the company's software becomes more
+sophisticated, it could squeeze more efficiency out of workers; they may end up
+doing more work and not earn any more money for it.
+
+A third problem is the lack of job security and benefits, which were once
+considered standard features of middle-class jobs. But Mr. Mehta says he doesn't
+see that shifting. ''The advantage to this model is that you choose your own
+hours,'' he said. More corporate control over work habits ''is something that
+would drive a lot of people away. The independent contractor model -- I'm not
+sure that's going to change.''
+
+URL:
+http://www.nytimes.com/2014/05/22/technology/personaltech/online-grocery-start-u
+p-takes-page-from-sharing-services.html
+
+LOAD-DATE: May 22, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: Apoorva Mehta founded Instacart in 2012. ''I had this problem
+of never having groceries in my fridge and never having the motivation and
+energy to go to the store,'' he said. But he found most grocery services
+lacking.
+ Dave Banse, a personal shopper for Instacart, at a San Francisco grocery
+store. He uses his smartphone to check his shopping list, above right.
+(PHOTOGRAPHS BY PETER DASILVA FOR THE NEW YORK TIMES) (B6)  DRAWING (DRAWING BY
+STUART GOLDENBERG)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

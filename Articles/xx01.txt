@@ -1,0 +1,463 @@
+                              1 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                       October 6, 2014 Monday 7:56 PM EST
+
+Ethical and methodological issues in assessing drones' civilian impacts in
+Pakistan;
+Poor samples and the use of child witnesses are just some of the problems with
+advocacy driven reports on drones' civilian consequences.
+
+BYLINE: C. Christine Fair
+
+LENGTH: 4765 words
+
+
+Since 2004, the U.S. Central Intelligence Agency has conducted 379 armed drone
+strikes against presumed terrorists living in Pakistan's Federally Administered
+Tribal Areas (FATA), which is comprised of several so-called tribal agencies and
+governed by a colonial-era legal dispensation that effectively renders the
+citizens of the FATA second-class citizens. While drone strikes have occurred in
+all agencies, the vast majority of them have taken place in the two agencies of
+FATA known as North and South Waziristan. Because international media cannot
+travel to FATA legally and because the U.S. government refuses to speak about
+the covert program, most reports rely upon the often conflicting claims made by
+militant groups or parts of the Pakistani government. What is known is that
+American drone strikes have killed innocent persons in Pakistan (and elsewhere
+where drones are used). What remains unknown - and perhaps unknowable - is how
+many of the persons killed in U.S. drone strikes are in fact innocent civilians.
+
+Numerous organizations, such as the New America Foundation, the Long War Journal
+of the Foundation for the Defense of Democracies, the Bureau of Investigative
+Journalism, and Columbia Law School among others, have all sought to track drone
+strikes and their outcomes. As well-intended as these efforts may be, the data
+are most certainly flawed. When one compares accounts of the same drone strike
+in the various databases, there is important disagreement about who was targeted
+and with what outcomes. Sometimes there is even disagreement about where the
+drone strike took place. Such divergence occurs because news accounts, upon
+which these databases rely, sometimes disagree about these details and, as
+described above, it is impossible to independently verify which - if any -
+account is accurate.
+
+Even though there is considerable uncertainty about how many innocent persons
+U.S. drone strikes have killed, even those who have long opposed the use of
+armed drones now concede that civilian casualties in Pakistan may not be the
+single most salient objection to the drone program. As David E. Sanger writes in
+"Confront and Conceal," "it seems clear the civilian casualties have now dropped
+dramatically, thanks to more precision weaponry and greater care-and the
+casualties are far lower than if conventional bombs were dropped."
+
+Yet the specter of civilian casualties has motivated three major studies of the
+"civilian impacts" of drone strikes in Pakistan, which I term "advocacy-driven."
+I do not use this term normatively; rather I employ it because the organizations
+that have undertaken these studies have an explicit agenda that advocates
+against the use of armed drones. Unfortunately, while these works are widely
+cited and their authors are frequent commentators on this contentious issue,
+much of this research is not empirically robust.
+
+Here I focus upon the three most significant of such studies: Living Under the
+Drones (a joint project of the legal clinics at Stanford and NYU Law School),
+"Will I Be Next?": U.S. Drone Strikes in Pakistan (by Amnesty International),
+and The Civilian Impact of Drone Strikes: Unexamined Costs, Unanswered Questions
+(Columbia University Law School). (While I do not formally discuss Human Right
+Watch's A Wedding That Became a Funeral, many of the ensuing critiques apply
+equally to that report on drone strikes in Yemen.)  My aim is to dilate upon
+some of the critical methodological, analytical and empirical shortcomings of
+these three reports, which include: conflicts of interest; problematic sampling;
+excluding the views of pro-drone Pakistanis, failure to consult with avionics,
+forensics and munitions specialists; inadequate effort to independently verify
+interlocutors' reports; over-attribution of adverse outcomes exclusively to
+drones and, reliance upon the accounts of children. I conclude with a brief
+discussion of how interested parties, including advocacy organizations, can
+improve upon their methodologies and thus the conclusions they proffer.
+
+Conflicts of Interest
+
+One of the most problematic reports is Living Under the Drones, published
+jointly by the law school clinics of Stanford University and New York
+University.  The report's authors attempt to uncover and document the civilian
+cost of the U.S. drone program in Pakistan's tribal agency of Waziristan. First
+and foremost, this report was funded and aided by an explicitly anti-drone
+organization.  In the authors' own words, "In December 2011, Reprieve, a charity
+based in Britain, contacted the Stanford Clinic to ask whether it would be
+interested in conducting independent investigations into whether, and to what
+extent drone strikes in Pakistan confirmed to international law and caused harm
+and/or injury to civilians" (p. i.).  It is important to note that Reprieve, and
+its Pakistani partner organization The Foundation for Fundamental Rights (FFR),
+have been vigorous foes of the drone program and have argued forcefully for its
+termination. While the report acknowledges the role of these organizations in
+the study, it does not explain their official position on drones and their
+vigorous activities against the drone program.  At inception, the law schools
+were requested to conduct research on behalf of an organization that is
+fundamentally opposed to drones.  This represents a disturbing conflict of
+interest, which the authors do not acknowledge.
+
+With even a modest commitment to proper social science methods, the impact of
+this could have been mitigated in some measure. However, the researchers only
+compounded this ethical conundrum by allowing Reprieve and FFR to provide the
+research team with logistical support in Pakistan. Worse yet, the FFR "assisted
+in contacting many of the potential interviewees, particularly those who reside
+in North Waziristan, and in the difficult work of arranging interviews" (p.i).
+
+Sampling Matters
+
+The authors of Living Under the Drones and"Will I Be Next?" U.S. Drone Strikes
+in Pakistan, make no attempt to describe the outcome of a "typical" drone
+encounter; rather, they seek out the most atypical drone attacks in which
+unusually large numbers of civilians are presumably killed.  Consistent with
+this selection of events to study, these reports use small samples. For example,
+the authors of Living Under the Drones sought out persons who self-nominate as
+some form of drone victim.  The authors note that their analysis is based upon a
+meager 130 "interviews with victims and witnesses of drone activity, their
+family members, current and former Pakistani government officials,
+representatives from five major Pakistani political parties, subject matter
+experts, lawyers, medical professionals, development and humanitarian workers,
+members of civil society, academic, and journalists" (p. 2). This sample is
+still relatively large compared to that employed in Will I Be Next?. According
+to the methodology section of that report, Amnesty International conducted some
+60 interviews with "survivors or drone strikes, relatives of victims,
+eyewitnesses, residents of affected areas, members of armed groups and Pakistani
+officials" between late 2012 and September 2013.
+
+The authors of Living Under Drones concede that they did no interviews in North
+Waziristan or any of the other agencies comprising the FATA. Rather, they
+conducted their interviews during two separate trips to Pakistan in March and
+May 2012. All of the interviews were conducted in the twin cities of Islamabad
+and Rawalpindi, Peshawar, and Lahore.  The authors claim that they conducted
+interviews with 69 "experiential victims." These experiential victims claimed to
+be "witnesses to drone strikes or surveillance, victims of strikes, or family
+members of victims from North Waziristan" (p.2). The authors of the report
+readily concede that the "majority of the experiential victims interviewed were
+arranged with the assistance of the Foundation for Fundamental Rights, a legal
+nonprofit based in Islamabad that has become the most prominent legal advocate
+for drone victims in Pakistan....Some interviews also included a researcher from
+either Reprieve or the Foundation for Fundamental Rights" (p.3).
+
+The role of this organization in selecting and interviewing respondents raises
+numerous ethical and empirical concerns, not the least of which is social
+desirability bias.  Even though the interviewees were not compensated, they were
+provided with travel arrangements by FFR. This also provides opportunities for
+respondent coercion. The respondents may fear that should they offer accounts
+that differ from FFR/Reprieve's preferred anti-drone position, they may be
+unable to return home or not be selected for future interviews, which may
+provide the opportunity for future travel for such purposes. This is a not a
+trivial benefit. One of the families at the center of Amnesty International's
+Will I Be Next? were brought to the United States where they testified before
+the U.S. Congress in October 2013.
+
+Silencing Inconvenient Voices?
+
+These three reports on drones create the impression that there is universal and
+unquestionable opposition to drones in Pakistan.  There is a serious problem
+with this position: it's simply not true. Polling data suggest sizeable
+minorities do support drone strikes, if for no other reason than doing nothing
+is not an option for those who live under the tyranny of the militants in FATA
+and because other options (e.g. Pakistani military operations) are worse. In
+addition, Pakistani newspapers do publish editorials by pro-drone Pakistanis.
+Researchers who have actually interacted with residents of Waziristan, some of
+whom are from the tribal areas themselves, have found that many residents in
+FATA vigorously support the U.S. armed drone program and even compare them to
+ababil, the holy swallows, mentioned in the Koran (Surat-al-Fil (Verse of the
+Elephant)). In that incident, Allah dispatched the ababil to repel a Yemeni
+warlord (Abraha) and his army of elephants that invaded Mecca by dropping black
+stones upon the invaders.
+
+For many persons in FATA, there are few better means to target those militants
+who are terrorizing parts of the tribal areas and the rest of Pakistan. There
+are no police or other law enforcement entities in the tribal areas. The
+Pakistani security forces conduct ground offensives, artillery bombardment and
+air strikes that kill many innocents and displace millions. If the works cited
+here are culpable of ignoring pro-drone sentiments, Pakistani drone advocates
+may well be guilty of over-stating the numbers of persons in FATA who support
+drones. What I conclude from these Pakistani accounts is that it remains an
+important empirical question as to who supports drones and why, and similarly,
+who opposes them and why. Excluding the voices of pro-drone Pakistanis from the
+debate is very troubling since many of them live in FATA and, thus, their lives
+are most directly affected by the drone program as well as Pakistani military
+and intelligence operations and the diverse menagerie of militants living among
+them.
+
+Difficult vs. Impossible?
+
+While it is difficult to independently confirm media reports of drone strikes in
+FATA, it is not impossible as some claim (e.g. Stanford-NYU Law School Clinics).
+
+  After all, Sebastian Abbot of the Associated Press did just that. Abbot
+dispatched a series of Waziristan-based stringers to independently investigate
+10 of the reportedly deadliest drone strikes from the previous year and a half.
+His team interviewed some 80 villagers at the sites. They found that a
+"significant majority [seventy percent] of the dead were combatants." When they
+exclude one specifically deadly attack on March 17, 2011 from their tabulations,
+they found that nearly 90 percent of the people killed were militants. Notably
+Amnesty International also fielded Pakistani researchers to FATA, which further
+demonstrates that it is possible.
+
+Abbott's work stands in stark contrast to the efforts of the Stanford-NYU
+authors, who acknowledge that fear of retribution "from all sides-Pakistani
+military, intelligence services, non-state armed groups-for speaking with
+outsiders about the issues raised in this report" (p. 4). Nonetheless, the
+authors were surprisingly willing to accept the claims of their interviewees who
+traveled far from home to meet them in major Pakistani cities, under the
+chaperone of FFR. Nor did the report's authors seem aware that the involvement
+of FFR in the selection, transport and ultimate interviewing of subjects could
+corrupt their data. Even though the authors claimed to have "made extensive
+efforts to check information provided by interviewees" against other sources,
+and collected "photographs of victims and strike sites" and "medical records
+documenting their injuries" as well as "reviewed pieces of missile shrapnel"
+(p.5), their assurances fall short.
+
+Because the research team neither included nor consulted avionics, forensic or
+munitions experts, the authors are not in a position to state, with any degree
+of confidence, that the observed fragments are responsible for damage to human
+life or property, as claimed, nor are they in a position to assert that the
+missile was fired from a drone. There is no chain of custody associated with
+these artifacts proving that they came from a drone or that the fragment-or its
+parent missile-is responsible for any of the events in question. Even though
+these teams are comprised of lawyers (among others) and thus presumably
+understand this crippling caveat to their claims, they never acknowledge this.
+This reliance upon artifacts or photographs thereof brought with interlocutors
+is all the more troubling when the team never once traveled to FATA.
+
+It is reasonable to demand that these teams provide evidence that the persons
+they claim were killed in drone strikes actually existed in the first instance.
+And it is reasonable to demand that they provide evidence that injury, death or
+property damage is due to drones. Pakistani media has reported that individuals
+and groups have circulated fraudulent photos of persons whom they alleged were
+injured by drones but were not. It is also relatively easy to obtain falsified
+medical documents as well as fake birth and death certificates in Pakistan
+through bribery.
+
+While the authors of the three reports discussed here contend that photos of
+fragments and craters are ample evidence of drone culpability, they are not for
+the simple reason that drones are merely a platform for delivering munitions.
+Not everything that falls from the sky and explodes in FATA came from a drone.
+Far from it.
+
+Pakistan has launched such missiles from several platforms including F-16s,
+AC-130s and AH-1 Cobra attack helicopters. Pakistan's Air Force has been very
+active in the tribal areas. In November 2011, Pakistan's then Air Chief
+Marshall, Rao Qamar Suleman, addressed an Air Chiefs Conference in Dubai. On
+that occasion he discussed Pakistan's use of Lockheed Martin's F-16s and
+specially-equipped Lockheed C-130s. He further claimed that "in the first two
+years of counter-insurgency operations, the air force conducted more than 5,500
+strike sorties, dropped 10,600 bombs and hit 4,600 targets." Pakistan has
+conducted several other operations since then 2011. Thus this is likely an
+underestimate of Pakistani sorties. By way of comparison, as of Sept. 28, 2014,
+there have been 379 drone strikes, according to data collected by the New
+America Foundation. Despite the fact that drone strikes are outnumbered by
+conventional Pakistan military strikes by at least an order of magnitude, none
+of these reports even considered the possibility that the much-photographed
+fragments are due to anything but a U.S. drone.
+
+This failure to account for the possibility that other explanations may better
+account for the events observed by the Stanford-NYU or Amnesty International
+teams is even more egregious if you have even a cursory familiarity with how
+armed drones work. For example, in "Will I Be Next?", Amnesty International
+focuses upon the death of a 68-year-old woman referred to as "Mamana Bibi."  The
+report relies heavily upon the testimony of Zubair Rehman, one of her teenaged
+grandsons. The reliance upon Zubair's testimony is very problematic because he
+reports seeing things that suggest that the aircraft that killed his grandmother
+could not have been a drone.  Zubair claims that "The drone planes were flying
+over our village all day and night, flying in pairs sometimes three together. We
+had grown used to them flying over our village all the time" (p. 19).
+
+There are at least two problems associated with this testimony, if it is
+accurate. First, drones cannot fly in formation as he suggests. Predators and
+Reapers, the two armed system that the United States uses in Pakistan, cannot
+fly in pairs much less triplets because their pilots, who are seated in
+cubicle-like pods thousands of miles away from the theater, do not have the
+visibility that permits them to fly in close formation with other drones, or any
+other kind of aircraft for that matter. While the Air Force is seeking to
+develop "sense and avoid" technology that would permit drones to fly as
+described, that technology is still in the experimental phase.
+
+Equally disconcerting is Amnesty International's claim, without reference to any
+particular witness, that "Mamana Bibi was blown into pieces by at least two
+Hellfire missiles fired concurrently from a US drone aircraft"(p.19).  To
+support their varied claims, Amnesty International published a photo of items
+provided to the organization by relatives of Mamana Bibi and asserted that the
+photo depicts "debris from the missiles fired from a US drone aircraft that
+killed Mamana Bibi" (p.22).  There is nothing in the photo that demonstrates
+that the debris is from a Hellfire much less a Hellfire shot from a drone. As
+David Axe notes, the "mangled metal pieces could just as easily have come from a
+TOW missile or another munition launched by a Pakistani military plane or
+helicopter."
+
+If Zubair's testimony is accurate, his account actually suggests that his
+grandmother was not killed by a drone; rather by a Pakistani fighter aircraft
+(e.g. F-16s of AH-1 Cobra attack helicopters), which do fly together in
+formation and which can launch munitions simultaneously as he suggests. This
+possibility must be considered given the frequency with which Pakistan's
+military has conducted sorties in Waziristan and elsewhere.
+
+Disambiguation
+
+The authors of Living under the Drones, "Will I Be Next?" and Columbia
+University Law School's The Civilian Impacts of Drone Strikes all assert that
+the drones have traumatized the residents of FATA not only due to the various
+damage they inflict but also because their incessant buzzing deeply disturbs the
+residents who fear that, at any time, they may be targeted in a drone strike.
+These reports also attribute psychological harm to the residents' changed
+behavior patterns, which include no longer holding tribal jirgas (assemblies of
+elders), appearing in groups, or even going into sites of drone attacks fearing
+that "first responders" will be killed in a "double tap." These concerns are
+important. But they are also problematic. Why?
+
+First, it should be understood that North Waziristan, and the rest of FATA, is
+not only afflicted by drones. Since the flight of the Afghan Taliban and their
+al Qaeda associates to Waziristan in late 2001, the residents of this tribal
+agency and others have been terrorized by these militants and their Pakistani
+allies who have sought to establish micro-emirates of Sharia throughout the FATA
+and nearby areas. Suicide and other attacks at markets, sporting facilities,
+schools, military and paramilitary outposts have become common place. Pakistani
+Taliban have killed reporters, politicians, government officials, barbers,
+purveyors of CDs as well as anyone that they believe are working with the state
+or the Americans to hinder their reign of impunity. In addition, Pakistan
+military and paramilitary organizations have also operated in the FATA, as
+noted.  Despite the presence of several sources of physical and emotional
+distress, the authors of these reports assume that their interlocutors
+experience post-traumatic stress disorder and other disruptions to ordinary life
+solely due to the omnipresent drones that buzz above at all times, even when
+they are not firing munitions haphazardly at civilians suffering below.
+
+A staple of nearly every advocacy-driven report on drones, including the reports
+by Amnesty International and the Stanford-NYU Law school clinics, opine that
+residents of the tribal areas are traumatized by the incessant sound of drones
+buzzing overhead. Amnesty International quotes an interviewee who says "When the
+drone plane comes and we hear the sound of 'ghommm' people feel very scared. The
+drone plane can launch missiles at any time" (p.29). Another interlocutor
+explains that "Everyone is scared and they can't get out of their house without
+any tension and from the fear of drone attacks. People are mentally disturbed as
+a result of the drone flights....We can't sleep because of the planes' loud
+sound. Even if they don't attack we still have the fear of attack in our mind"
+(p. 31). This theme figures prominently in the report of the Stanford-NYU Law
+School Clinics. That report claims that "Community members, mental health
+professionals, and journalists interviewed for this report described how the
+constant presence of US drones overhead leads to substantial levels of fear and
+stress in the civilian communities below" (pp. 79-80). The report continues:
+
+One man described the reaction to the sound of the drones as 'a wave of terror'
+coming over the community.  'Children, grown-up people, women, they are
+terrified. . . . They scream in terror.' Interviewees described the experience
+of living under constant surveillance as harrowing. In the words of one
+interviewee: 'God knows whether they'll strike us again or not. But they're
+always surveying us, they're always over us, and you never know when they're
+going to strike and attack.' Another interviewee who lost both his legs in a
+drone attack said that '[e]veryone is scared all the time. When we're sitting
+together to have a meeting, we're scared there might be a strike. When you can
+hear the drone circling in the sky, you think it might strike you. We're always
+scared. We always have this fear in our head (p. 80).
+
+Surprisingly these claims receive virtually no criticism even though they are
+exceedingly untenable. First, most of the drones employed in the tribal areas
+are for surveillance purposes.  If the drones were as omnipresent and loud as
+these interviewees suggest and as these reports claim, they would make for
+pretty inutile observation and reconnaissance platforms. Second, and related to
+the first, Reapers and Predators are mostly flying at altitudes that tend to be
+inaudible. This is, after all, why the platforms are so effective: they can
+orbit about persons, groups and facilities of interest for hours and even days
+without detection. In contrast, the AC-130 (which Pakistan does use) is known
+for its distinctive buzz. Other aircraft such as F-16s and attack helicopters
+are also very audible.
+
+Children Witnesses
+
+Another vexing characteristic of these advocacy-motivated reports is their
+reliance upon children as witnesses. Again, many of the authors are lawyers and
+they should well understand that the testimony of children is extremely
+unreliable. "Will I Be Next?", by Amnesty International, depends in large
+measure upon the eyewitness accounts of children as young as 15, eight, seven
+and even five years of age.  Many of the details of the death of the afore-noted
+"Mamana Bibi" derive from the testimony of Zubair Rehman, one of her teenaged
+grandsons. While the report details the ages of her other grandchildren cited in
+the report, nowhere does it state Zubair's age. (He is depicted in a photo with
+his father in which it appears to be a teenager.) Subsequent news coverage
+revealed that in October 2013, Zubair was 13.  This means that when the drone
+strike occurred in October 2012, he was 12 years old. Despite his youth, the
+report relies very heavily upon things that he claims to have seen. The reliance
+upon Zubair's testimony is very problematic not because of his young age but
+also because he reports seeing things that suggest that the aircraft that killed
+his grandmother could not have been a drone. Unfortunately Amnesty
+International's team was inadequately familiar with drones and failed to consult
+experts to understand the possible explanations for what this 12 year old claims
+to have observed.
+
+The dependence upon young children as witnesses, coupled with the inadequate
+efforts to independently confirm their accounts, is troubling. There is a solid
+literature that demonstrates that children are deeply vulnerable to
+manipulation, suggestability, and, depending upon the way in which they are
+questioned, children will confabulate details. Research has also shown that it
+is very difficult to reverse the damage once children are subjected to
+suggestions. Concerns about the suitability of children witnesses in these
+studies are further exacerbated when groups such as Repreive/FFR are involved in
+selecting interlocutors and overseeing their interviews. These practices verge
+on being unethical.
+
+Can We Do Better?
+
+To the credit of the organizations discussed here, they have spent time and
+resources trying to understand a complex issue when the primary actors involved
+in the program (the Pakistani and American governments) refuse to be
+transparent. It is highly unlikely either government will be more forthcoming,
+and it is unlikely that FATA will become an easier place to conduct research.
+It is also unlikely that interest in this program will disappear.  Despite the
+challenges, persons and organizations who wish to understand the use of drones
+in Pakistan - or elsewhere for that matter - need to be as rigorous as possible.
+
+  Below I suggest a number of important improvements that organizations can and
+should implement.
+
+First, it is possible to interview persons in the vicinity of drone blasts.
+Admittedly, making such efforts adds costs but it also adds accuracy.
+
+Second, authors should be aware of the problematic ways in which they draw their
+samples. Advocacy organizations want to focus upon the most salacious and
+outrageous of outcomes rather than typical outcomes.  This is irresponsible.
+Consumers of their reports are entitled to know how typical or atypical a
+particular event is.
+
+Third, these reports should not rely upon the testimony of children.
+
+Fourth, researchers need to treat all interlocutors' accounts with skepticism
+for the various reasons discussed here.
+
+Fifth, simple photographs of injuries and scrap metal are not evidence, and they
+should be not treated as such.
+
+Sixth, analysts need to be more conversant with the legal, social and political
+dynamics of the countries they wish to understand.  In the case of Pakistan,
+they must understand the special legal status of FATA and how it influences what
+analysts can observe and, just as important, cannot observe.
+
+Seventh, they must engage with the enormous body of avionics, munitions,
+forensics, and even satellite imagery experts interrogate or substantiate
+witness accounts.  Similarly, they should work collaboratively with social
+scientists to improve their study methods. Current approaches are extremely
+misleading and raise serious ethical questions about the intent of the studies
+in the first place.
+
+In short, if analysts and scholars do not want to adhere to the best standards
+of social science research possible, they should simply concede that they are
+trafficking in public outrage and stop referring to their efforts as research
+and analysis. The public should treat these efforts accordingly.
+
+C. Christine Fair is an assistant professor at Georgetown University's Security
+Studies Program in the Edmund A. Walsh school of Foreign Service. Her most
+recent book is titled "Fighting to the End: The Pakistan Army's Way of War" (New
+York, NY: Oxford University Press, 2014).
+
+LOAD-DATE: October 6, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

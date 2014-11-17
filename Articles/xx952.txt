@@ -1,0 +1,317 @@
+                             952 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                   (DealBook)
+
+                            March 5, 2014 Wednesday
+
+A Legal Standoff in the Madoff Case
+
+SECTION: BUSINESS
+
+LENGTH: 2572 words
+
+
+
+HIGHLIGHT: A document sheds light on how a legal standoff has kept Bernard L.
+Madoff&#8217;s ties to JPMorgan&#8217;s shrouded in mystery. | Moelis &#038;
+Company files for an I.P.O. | Wall Street&#8217;s latest hot thing could be
+appraisal rights. | The Supreme Court to hear arguments that could reshape
+securities fraud cases. | The website Silk Road had a digital outpost in
+Pennsylvania.
+
+
+Even after five years, it is still unclear what exactly JPMorgan Chase bankers
+knew about Bernard L. Madoff's huge Ponzi scheme. A newly obtained government
+document does not provide the answer, but does shed some light on why the
+mystery remains, Ben Protess and Jessica Silver-Greenberg write in DealBook. The
+document reveals that JPMorgan and federal regulators fought over access to bank
+employee interviews, eventually pitting the Justice Department against the
+Office of the Comptroller of the Currency.
+
+The document shows that, around the time of Mr. Madoff's arrest in December
+2008, JPMorgan's lawyers interviewed dozens of bank employees who might have
+crossed paths with Mr. Madoff's company. Federal regulators at the comptroller's
+office sought copies of the lawyers' interview notes in the hopes that they
+would provide a glimpse into the bank's actions, but JPMorgan refused to hand
+over the notes, citing confidentiality requirements like the attorney-client
+privilege.
+
+The Treasury Department's inspector general sided with the regulators, invoking
+a rare exception to attorney-client privilege and arguing that the lawyers'
+interviews were essentially "made for the purpose of getting advice for the
+commission of a fraud or crime." A debate ensued over how hard to press JPMorgan
+to hand over the interview notes, given that the bank was sure to fight and a
+judge would be free to set a harmful precedent for future cases. The Justice
+Department rejected the calls for JPMorgan to turn over the interview notes,
+saying there was no basis to suggest that the interview notes had been made for
+the purpose of facilitating crime or fraud.
+
+Mr. Protess and Ms. Silver-Greenberg write: "While the ruling applied to the
+Madoff case alone, it could have broader implications as regulators weigh the
+costs of future fights and the likelihood of passing muster with the Justice
+Department. And despite being an exceptional case - banks and their regulators
+typically settle disputes over attorney-client privilege without the Justice
+Department getting involved - the ruling illustrated a persistent tension over
+the privilege that continues to shape the government's pursuit of financial
+fraud."
+
+MOELIS & COMPANY FILES FOR AN I.P.O.  |  Moelis & Company filed on Tuesday for
+an initial public offering, highlighting the rise of so-called independent or
+boutique investment banks. The move would make it one of a handful of such banks
+to trade on the public markets, Michael J. de la Merced writes in DealBook.
+
+These specialty banks have long extolled their business plans, which focus on
+advising clients, saying the plans give them an advantage over giants like
+Goldman Sachs and JPMorgan Chase. And lately, investors have appeared to agree,
+pushing the shares of other public boutique banks like Lazard and Evercore up by
+double digits in the last year. By going public, Moelis hopes to tap into this
+investor interest.
+
+Still, much remains unknown about the offering. The firm provided a fund-raising
+target of $100 million, but the number was meant only to calculate registration
+fees, and Moelis could seek significantly more. It did not disclose how many
+shares it planned to sell.
+
+A NEW FORM OF SHAREHOLDER ACTIVISM  |  The latest thing on Wall Street may be
+appraisal rights, which were in play in the management buyout of Dell as well as
+that of Dole Foods. So what exactly are appraisal rights? In a way, they are a
+kind of protection for shareholders: If the company they own stock in is
+acquired, and they think the price was too low, they can seek a better price in
+court, Steven M. Davidoff writes in the Deal Professor column.
+
+Appraisal rights are risky and expensive - shareholders have to pay their own
+legal fees - but they also have benefits for a hedge fund with a lot of money.
+For one, shareholders are entitled to statutory interest, which can result in a
+good return, especially given today's market.
+
+Mr. Davidoff writes: "Not all shareholders are going to exercise their appraisal
+rights, but this is the way to make sure that the future management buyouts are
+not the Doles of the world, paying an underwhelming price. In other words, this
+may be the way that shareholders finally assert their power. You can thank the
+hedge funds for that."
+
+ON THE AGENDA  |  The Mortgage Bankers' Association purchase applications index
+is out at 7 a.m. February's ADP private payroll report is out at 8:15 a.m. The
+purchasing managers' index is out at 8:58 a.m. The ISM nonmanufacturing index
+for February is out at 10 a.m. The Fed's regular report on economic activity
+across the country, a report known as the beige book, is out at 2 p.m. The House
+Financial Institutions and Consumer Credit Committee holds a hearing on data
+security at 10 a.m. The House Oversight and Investigations Committee holds
+hearing on the effect of financial regulation on international competitiveness
+at 2 p.m. Carl C. Icahn is on CNBC at 6 a.m. Peter R. Orszag, the vice chairman
+of Citigroup, is on CNBC at 6:40 a.m. Prime Minister Benjamin Netanyahu of
+Israel is on Fox Business Network at 5:45 p.m.
+
+THE END MAY BE NEAR FOR SECURITIES FRAUD CASES  |  The Supreme Court will hear
+arguments on Wednesday that could drive a stake through the heart of securities
+fraud cases, Steven M. Davidoff writes in a Deal Professor column. In
+Halliburton v. Erica P. John Fund, a group of shareholders contends that
+Halliburton (yes, that Halliburton) falsified results and lied to the public
+about its asbestos liabilities, which ultimately caused share values to plunge.
+In its argument, Halliburton is asking the Supreme Court to strike down a
+fundamental tenet in securities fraud litigation, known as "fraud on the
+market," arguing that its standard should never have been adopted.
+
+The "fraud on the market" doctrine has its origins in the 1986 Supreme Court
+case Basic v. Levinson, in which the Supreme Court reasoned, based on the
+efficient market hypothesis, that all publicly available information about a
+company was incorporated into its stock price.
+
+FOLLOWING THE WINDING SILK ROAD  |  The last few months have not been easy for
+Bitcoin. One Bitcoin exchange filed for bankruptcy on Friday after it lost more
+than $450 million in a theft. And before that, a prominent Bitcoin proponent,
+Charlie Shrem, was arrested on money-laundering charges. Now, Bitcoin's
+continuing tale seems to have come full circle, with the latest development
+involving the website Silk Road, whose shutdown last fall was one of the first
+indications that everything was not rosy in Bitcoin land.
+
+In a somewhat bizarre twist, a staff member in the electrical engineering
+department at Lafayette College in eastern Pennsylvania appears to have played a
+small role in the investigation that resulted in the shutdown of Silk Road, an
+online marketplace where drugs and weapons could be bought with Bitcoin, Matthew
+Goldstein writes in DealBook. The staff member owned a company, JTAN.com, that
+provided Silk Road with a backup server for its website. A search warrant
+reveals that JTAN potentially provided the authorities with a wealth of
+information about Silk Road and Ross William Ulbricht, the man authorities say
+founded the site.
+
+ |  Contact: @melbournecoal | E-mail
+
+Sign up for the DealBook Newsletter, delivered every morning and afternoon.
+
+Mergers & Acquisitions »
+
+Facebook in Talks to Buy Drone Maker for $60 Million  |  Facebook is in
+discussions to acquire a manufacturer of high-altitude drones for about $60
+million. The purchase would allow Facebook to advance its ambitions of
+connecting everyone in the world to the Internet, the Bits blog reports. NEW
+YORK TIMES BITS
+
+Inside Facebook's Megadeal for WhatsApp  |  Forbes provides an inside look at
+the courtship, secret meetings and other events that led to Facebook's deal for
+WhatsApp, which could be worth as much as $19 billion. FORBES
+
+Imerys Revises Offer for Amcol International, Again  |  The French group Imerys
+said it would now pay $45.25 a share in cash for Amcol International, valuing
+the Illinois company at $1.7 billion, including the assumption of debt. DealBook
+»
+
+Morgan Stanley Considering Sale of Swiss Private Bank  |  Morgan Stanley is
+exploring a sale of its private bank in Switzerland, which has about $11 billion
+in assets under management, Reuters reports, citing an unidentified person
+familiar with the situation. REUTERS
+
+Comcast Extols Its Low-Cost Web Program  |  Comcast said on Tuesday that it
+would extend indefinitely its Internet Essentials program, which allows
+low-income families to gain access to the Internet, Bloomberg News writes. The
+announcement came on the same day as top executives began meeting with United
+States regulators who will review the company's $45.2 billion bid for Time
+Warner Cable. BLOOMBERG NEWS
+
+Blockchain to Expand Bitcoin App ZeroBlock  |  In a move to build a
+comprehensive Bitcoin trading platform, Blockchain.info has acquired the trading
+platform website RTBTC.com, which it plans to combine with its Bitcoin mobile
+application ZeroBlock, The Wall Street Journal writes. The purchase price was
+not disclosed. WALL STREET JOURNAL
+
+INVESTMENT BANKING »
+
+Apple's Departing Finance Chief Is Goldman's Newest Director  |  With his newly
+announced role at Goldman Sachs, Peter Oppenheimer, who plans to retire as
+Apple's finance chief in September, deepens the longstanding ties between the
+investment bank and the technology giant. DealBook »
+
+The Writer Behind @GSElevator Speaks Out  |  Remaining anonymous as he posted on
+Twitter under the handle @GSElevator was simply a "device" that allowed him to
+paint a broader picture of life on Wall Street, John LeFevre said on Tuesday.
+DealBook »
+
+Guggenheim Lures a Tech Banker From Evercore  |  Eric Mandl, who specialized in
+cloud computing and big data deals at Evercore, jumped to Guggenheim Securities
+on Tuesday. DealBook »
+
+JPMorgan Takes Top Spot on List of the Best-Paid Investment Banks  |  JPMorgan
+Chase, Goldman Sachs and Morgan Stanley generated an estimated $3.77 billion in
+total fees last year, Bloomberg Markets magazine writes. The three banks ranked
+the highest on a list of the best-paid investment banks. BLOOMBERG MARKETS
+
+Final Rules, and a Warning, on Banker Bonuses in Europe  |  The European
+Commission has adopted final rules for limits on banker bonuses, and a top
+official warned banks against pushing too far in trying to "circumvent
+remuneration rules." DealBook »
+
+PRIVATE EQUITY »
+
+Market and Rates Helped Private Equity Chiefs Thrive Last Year  |  Lucrative
+payouts were helped greatly by the combination of low interest rates and high
+stock prices, which was ideal for selling investments. DealBook »
+
+Football Star's Private Equity Firm Raising $1 Billion  |  The private equity
+firm HGGC, which was co-founded by Steve Young, the hall-of-fame National
+Football League quarterback who won three Super Bowls with the San Francisco
+49ers, is raising $1 billion for its second fund, Fortune reports. FORTUNE
+
+Private Equity Recruiting Begins Earlier  |  Private equity firms and hedge
+funds have begun this year's hiring of Wall Street's most junior bankers,
+beginning the process earlier than usual, Bloomberg Businessweek writes.
+BLOOMBERG BUSINESSWEEK
+
+HEDGE FUNDS »
+
+Cevian Capital Increases Its Stake in ThyssenKrupp  |  The activist investment
+firm Cevian Capital has been gradually increasing its position in the troubled
+German conglomerate ThyssenKrupp. DealBook »
+
+Church of England Increases Exposure to Alternative Assets  |  The Church of
+England is ramping up the exposure of its 6 billion pound endowment to
+alternative investments like hedge funds and private equity, The Financial Times
+writes. The move will solidify the church's position as one of Britain's largest
+single investors in these types of assets. FINANCIAL TIMES
+
+Sherborne Raises Stake in Electra Private Equity  |  The hedge fund Sherborne of
+New York has increased its stake in Electra Private Equity to 13.7 percent of
+the trust's voting rights, The Financial Times reports. FINANCIAL TIMES
+
+I.P.O./OFFERINGS »
+
+Brit Insurance Joins I.P.O. Flurry Among Private Equity Holdings  |  Brit
+Insurance is the latest company owned by private equity to announce an initial
+public offering in London. The insurer was taken private by Apollo Global
+Management and CVC Capital Partners in 2010. DealBook »
+
+ONO Looks to I.P.O. After Takeover Approach Stalls  |  An initial public
+offering of the Spanish cable operator ONO seems increasingly likely after the
+Vodafone Group's attempts to buy ONO appear to have been rebuffed, The Wall
+Street Journal writes, citing unidentified people familiar with the situation.
+WALL STREET JOURNAL
+
+VENTURE CAPITAL »
+
+Bitcoin Bank Flexcoin Shuts Down After Theft  |  Flexcoin, a Bitcoin wallet and
+banking service, announced it was shutting down, saying it had lost 896
+Bitcoins, worth about $600,000, in a theft, The Verge writes. THE VERGE
+
+Overstock Passes $1 Million in Sales Made in Bitcoin  |  The online retailer
+Overstock, which started accepting Bitcoin as payment in January, said on
+Tuesday that purchases made with the virtual currency have topped $1 million,
+ReCode reports. RECODE
+
+DocuSign Collects $85 Million  |  DocuSign, a digital signature software
+company, has raised $85 million in new funding from institutional investors,
+valuing the company at $1.6 billion, The Wall Street Journal reports, citing
+unidentified people familiar with the situation. WALL STREET JOURNAL
+
+ServiceMax Secures $71 Million in Funding Round  |  ServiceMax, which has a
+cloud-based application that helps companies manage industrial services,
+announced on Tuesday that it had raised $71 million in a Series E funding round,
+ReCode writes. The new funding brings ServiceMax's total capital raised to $120
+million. RECODE
+
+LEGAL/REGULATORY »
+
+Bank of England Suspends Employee Amid Currency Manipulation Inquiry  |  The
+central bank said an "extensive review" had found no evidence that staff members
+colluded to manipulate currency markets, but it suspended an employee as it
+continued to investigate whether its internal control processes were followed.
+DealBook »
+
+Japan Said to Be Ready to Impose Bitcoin Rules  |  The new guidelines, which ban
+banks and securities firms from handling Bitcoins, will reportedly treat Bitcoin
+as a commodity rather than a currency. DealBook »
+
+Bond Market in China May See First Local Default  |  A small solar company in
+Shanghai has said it is unlikely to meet a Friday deadline for an annual
+interest payment owed to investors. DealBook »
+
+Budget for Trading Commission Called 'Woefully Insufficient'  |  Bart Chilton, a
+commissioner on the Commodity Futures Trading Commission, said President Obama's
+$280 million request for the agency in the next fiscal year was inadequate for
+the agency's expanded mission. DealBook »
+
+In Change, Tourre Won't Be Teaching University of Chicago Course  |  The former
+Goldman Sachs trader Fabrice Tourre had been scheduled to teach an undergraduate
+course on economic analysis beginning March 31. But a University of Chicago
+spokesman said on Tuesday that he would no longer be an instructor. DealBook »
+
+Where There's Smoke, There's Scrutiny  |  While a combination of Reynolds
+American and Lorillard may make strategic and financial sense, antitrust and
+other watchdogs could still act as spoilers, Kevin Allison writes for Reuters
+Breakingviews. DealBook »
+
+Sign up for the DealBook Newsletter, delivered every morning and afternoon.
+
+LOAD-DATE: March 19, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

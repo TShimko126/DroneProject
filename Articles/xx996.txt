@@ -1,0 +1,282 @@
+                             996 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     October 15, 2014 Wednesday 7:43 AM EST
+
+Alaska's outdated maps make flying a peril, but a high-tech fix is slowly
+gaining ground;
+A high-tech charting effort is slowly gaining ground as part of an effort to
+improve aviation safety in the state.
+
+BYLINE: Lori Montgomery
+
+LENGTH: 2223 words
+
+
+MYSTIC PASS, Alaska - In the age of Google Earth, it's tempting to think human
+knowledge of the world is complete, with no frontiers to be charted. Which is
+why Alex Stack thought modern technology could get him through the mighty Alaska
+Range after a successful 2006 moose hunt.
+
+Stack and his buddies Aric Beane and James Eule hit bad weather as they flew
+home through Mystic Pass, a narrow valley winding through 8,000-foot peaks
+southwest of Mount McKinley. One minute, the weather was fine; the next, clouds
+were rolling down the snow-streaked ridges.
+
+"Have you ever been in 100 percent fog? That's exactly what it's like," recalled
+Eule, an Anchorage surgeon. "You're flying blind, knowing there's mountains all
+around you."
+
+Alone in a nimble Cessna, Eule was able to turn around. Stack and Beane, in a
+larger plane carrying most of the 1,000-pound moose, were forced to press on,
+eyes glued to a handheld GPS screen, praying its fusion of satellite signals and
+government terrain maps would guide them to safety.
+
+Unfortunately, the maps were wrong.
+
+Alaska, it turns out, has never been mapped to modern standards. While the U.S.
+Geological Survey (USGS) is constantly refining its work in the lower 48 states,
+the terrain data in Alaska is more than 50 years old, much of it hand-sketched
+from black-and-white stereo photos shot from World War II reconnaissance craft
+and U-2 spy planes.
+
+Errors abound. Locals tell of mountains as much as a mile out of place. Streams
+flow uphill, and ridges are missing because a cloud happened by when the photo
+was taken.
+
+"Mars is better mapped than the state of Alaska," said Steve Colligan, president
+of E-Terra, an Anchorage mapping firm that specializes in aviation safety.
+Thanks to the Pentagon, the wilds of Asia and the Middle East are better mapped,
+too.
+
+"We have this amazing map of Afghanistan. It's the most modern geological map
+ever made," said Kevin Gallagher, associate director for USGS Core Science
+Systems. "I would love to invest in America like this."
+
+Now, Gallagher is getting the chance. The USGS, along with numerous state and
+federal partners, has launched the 3D Elevation Program, an effort to chart all
+50 states with airborne lasers (lidar) or radar (ifsar). The new technology
+permits astonishingly precise measurements of terrain, buildings and roads,
+waterways, coastline, even vegetation, right down to individual plants.
+
+"It's not an image; it's data. That's what makes it so powerful," Gallagher
+said. "Lidar is like looking at the world through a new set of glasses."
+
+The technology is transforming archaeology and geology, revealing lost cities in
+the jungles of Cambodia and Belize and new fault lines under the streets of
+Seattle. It has guided rescuers after the Oso, Wash., landslide; gauged flood
+risk in North Carolina; and helped residents decide whether to install solar
+panels on Manhattan rooftops.
+
+Lidar also has countless commercial applications. A 2012 report on the benefits
+of better elevation data drew support from Idaho's J.R. Simplot Co. (precision
+agriculture), the Mendocino Redwood Co. (timber inventory and landslide
+avoidance), TomTom (vehicle guidance) and an array of energy firms (windmills,
+solar farms and oil-well siting).
+
+Gallagher predicts the 3-D program will be as "transformational" to the U.S.
+economy as the original Army Corps surveys that fueled the Westward expansion in
+the 1800s. For about $150 million a year, the USGS estimates the new maps could
+boost government savings and private investment by as much as $13 billion
+annually.
+
+Because Alaska is so badly mapped, the project kicked off there in the summer of
+2010 using ifsar, which is slightly less accurate than lidar but cheaper and
+able to penetrate clouds. Within months, however, Republicans had won the U.S.
+House and begun squabbling with President Obama over government spending. The
+3-D program has since struggled to gain a toehold in the federal budget as
+gridlocked policymakers have repeatedly rubber-stamped old spending priorities
+in quickie budget bills, known as continuing resolutions, or CRs.
+
+The USGS has persevered, cobbling together existing federal funds and money
+appropriated by desperate Alaska officials. Still, four years later, just half
+of the state has been mapped and impatient contractors have been flying extra
+territory on spec in hopes that Congress will finally boost the program's
+budget.
+
+"We lobby. I'm sure Fugro lobbies. But as soon as they go to a CR, you're
+screwed," said Ian Wosiski, sales director at Intermap Technologies, which,
+along with Fugro EarthData, is flying the planes that collect the ifsar data.
+
+"We're talking about $30 million to finish the state. Thirty million dollars,"
+Wosiski said. "When you consider all the benefits of the program, it seems like
+a no-brainer."
+
+Some argue the project has already paid for itself. A few months after the
+project's "skybreaking" at an Anchorage airport, an F-22 Raptor crashed while
+training in remote territory near Denali National Park. The pilot died on
+impact, and the plane - by then a $150 million hunk of hazardous material - was
+submerged in a 20-foot crater in a streambed between two ridges.
+
+It was just before Thanksgiving. The mountains were covered with snow, and the
+days were short, with six hours of sunlight. As the military readied a 33-person
+recovery team, Army contractor Mike Davis remembered the skybreaking and called
+to see whether ifsar had been collected over the crash site.
+
+It had. Fugro rushed the raw data to Anchorage, where Davis used it to plot a
+course for  helicopters to land safely without touching off an avalanche.
+
+A mapping specialist from Colorado State University, Davis had been campaigning
+for better elevation data for at least four years, since the Army began moving
+Kiowa helicopters to Fort ­Wainwright outside Fairbanks. Though the Pentagon had
+aerial images of its vast Alaska training fields, Davis said, they were useless
+to the Kiowas without accurate information about the lay of the land.
+
+"We realized we had elevation errors in the hundreds of feet in our maps," Davis
+said. "And now we've got all these guys coming in, expecting to train at night
+and fly map-of-the-earth-type stuff. And the answer was just no."
+
+He put together some PowerPoint slides and began lobbying military commanders.
+"I said: 'Here's the level of data they have for terrain in Afghanistan. And
+here's the crap we have here,' " Davis recalled. "They got the message pretty
+quickly."
+
+Davis may have helped prod the Defense Department's National
+Geospatial-Intelligence Agency to put $2.3 million toward the first ifsar
+flights. Steve Wallach, an NGA executive at the time, did not recall mention of
+the Kiowas. But funding ifsar "probably served multiple training purposes," he
+said, adding, "The quality of the existing elevation data was very poor."
+
+These days, Davis works for HDR, an engineering firm. As the ifsar data has
+become available, he has been loading it onto iPads for his associates,
+including a four-person crew assigned this summer to scour a proposed natural
+gas pipeline corridor for signs of ancient settlements.
+
+Davis has also scouted Devil's Canyon on the Susitna River, site of a proposed
+hydroelectric dam. There, the ifsar data will be used to model water flow in a
+watershed the size of West Virginia. Davis also dreams of using it to fly drones
+up the canyon so pilots don't have to risk their lives photographing the area.
+
+Drones "need crazy elevation data," he said.
+
+Scientsts, meanwhile, are using the data to model tsunami evacuation routes and
+waiting eagerly for future flights over the state's active volcanoes. Earlier
+this month, new data arrived from the Columbia Glacier, causing a stir in the
+glacier office at the USGS Alaska Science Center in the hills of east Anchorage.
+
+USGS scientist Louis Sass said the new data will permit better measurements of
+thinning and shrinkage since Alaska glaciers were last mapped in the 1950s,
+increasing understanding of global warming.
+
+"It's beautiful data," Sass said. "You can actually see details in the ice, like
+where the glacier is calving." He pointed to several small lumps on the map on
+his computer screen.
+
+"Those are icebergs," he said. "You can actually see little icebergs in the
+ocean."
+
+Alaskans, of course, have more prosaic problems than melting glaciers and
+crashing fighter jets. Take, for instance, land rights. How do you lay claim to
+land that has never been mapped?
+
+"Stuff that is unthinkable in the contiguous U.S. is perfectly normal here,"
+said Lars Gleitsmann, a geologist and entrepreneur who has testified in mining
+disputes. "A surveyer draws on a map, then he goes out into Mother Nature using
+the GPS to locate his place. Nothing matches, nothing fits. Soon, everybody is
+at each other's throats."
+
+Gleitsmann, an expert bush pilot, is also deeply involved in the state's most
+urgent ifsar-related project: improving aviation safety.
+
+Alaska pilots are 36 times as likely to die as the average U.S. worker,
+according to the  Centers for Disease Control and Prevention. The state has few
+roads, so everything and everybody has to travel in small planes capable of
+landing on remote runways. Alaska has roughly six times as many pilots per
+capita as the rest of the nation.
+
+And they are usually flying in conditions that are inherently dangerous. The
+weather is brutal and hard to predict. The rugged and badly mapped terrain leads
+to a particularly deadly kind of crash called "controlled flight into terrain,"
+which in Alaska means the pilot has flown a perfectly good plane at full speed
+into the side of a mountain.
+
+Since 2008, 15 such crashes have killed 16 people and left seven seriously
+injured in Alaska, according to the National Transportation Safety Board. Among
+them was the crash that killed former senator Ted Stevens (R-Alaska) in 2010.
+
+Lt. Gov. Mead Treadwell (R), a longtime champion of better mapping, said he has
+lost 25 friends in plane crashes - and he feared for his own life during a 2012
+flight through the Alaska Range via Rainy Pass, one of the state's deadly
+mountain passes.
+
+"There was a crucial four or five minutes where we didn't know where we were,"
+Treadwell said. "Then we landed at the Rainy Pass Lodge, somebody handed me a
+cold beer and made me a hamburger, and it was wonderful."
+
+The Federal Aviation Administration has worked since 2000 to improve flight
+safety with training programs and new technology. But Colligan, of E-Terra, said
+he had to warn the FAA against trying to produce an in-cockpit map system using
+the old terrain maps.
+
+"I told them, this is not the same as the lower 48. You'll kill people here," he
+said.
+
+With ifsar, such a map is finally possible. NASA recently released to Alaska
+officials a prototype of a navigation app that will deliver 3-D terrain maps -
+as well as real-time weather forecasts - into the cockpit for testing as soon as
+next year. E-Terra, meanwhile, is developing a hyper-realistic 3-D map that
+would let socked-in pilots virtually brush the clouds away.
+
+Both projects need more terrain data, however. "GPS is no good if it only covers
+four blocks downtown," Colligan said.
+
+So Gleitsmann has been flying the mountains with a camera, documenting the power
+of ifsar in hopes of helping the state shake loose more federal cash. Among his
+targets: Mystic Pass, where Nick Mastrodicasa, the state's project manager for
+the digital mapping initiative, remembered two hunters finding themselves in bad
+weather in a plane full of moose meat in 2006.
+
+"That is probably the worst thing that can happen to any pilot, that situation,"
+Gleitsmann said. "What they were facing was really, really bad."
+
+An experienced pilot, Stack had purchased a brand new GPS device just before the
+hunting trip. Studying his position on its moving map, he steered the plane
+through the clouds nearly the full length of Mystic Pass. He had one last ridge
+to clear before the land opens up into a wide, friendly river valley.
+
+Ifsar later measured the final ridge 263 feet higher than Stack's GPS would have
+shown that day. The plane slammed into rock about 300 feet below the ridgeline,
+rescuers said - close enough to suggest the bad map may have made a difference.
+
+Stack, 38, and Beane, 33, died on impact, leaving behind three small children.
+
+Eule, meanwhile, was flying west, looking for a safe path through the mountains.
+Low on fuel, he landed at a remote hunting lodge where the wary female caretaker
+wanted "to make me sleep in the plane."
+
+He used a satellite phone to call his wife, who checked Stack's parking spot on
+the Web cam at the Anchorage airport. She reported his plane missing around 4
+a.m. Two days later, the Alaska Air National Guard found the wreckage. The
+fuselage was incinerated, and rescuers found no trace of the GPS on which Stack
+had pinned his hopes.
+
+"He was probably doing a really good job, because he navigated quite a ways in
+the clouds," Eule said. "If he had better tools, maybe he would still be
+around."
+
+Since the crash, Eule, 45, said his wife has pressed him to stop flying. In
+September, he went hunting on horseback, instead of by bush plane - along with
+his wife, who bagged the family moose.
+
+But Eule said he will not give up flying completely.
+
+"It's the only way to get out," he said, "and do the things you moved to Alaska
+for."
+
+lori.montgomery@washpost.com
+
+LOAD-DATE: October 15, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

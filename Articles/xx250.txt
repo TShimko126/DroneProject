@@ -1,0 +1,79 @@
+                             250 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                     (Bits)
+
+                             April 14, 2014 Monday
+
+Google Buys High-Altitude Drone Maker
+
+BYLINE: NICK BILTON
+
+SECTION: TECHNOLOGY
+
+LENGTH: 322 words
+
+
+
+HIGHLIGHT: Following in Facebook&#8217;s footsteps, Google said Monday that it
+had purchased Titan Aerospace, the maker of high-altitude drone satellites,
+which will be used to take photos of the earth and to connect people to the
+Internet.
+
+
+Google is reaching for the clouds, and not the virtual ones.
+
+On Monday, the company said that it had purchased Titan Aerospace, the maker of
+high-altitude drone satellites, which will be used to take photos of the earth
+and to connect people to the Internet.
+
+"Titan Aerospace and Google share a profound optimism about the potential for
+technology to improve the world," a Google spokesman said in a statement. "It's
+still early days, but atmospheric satellites could help bring internet access to
+millions of people, and help solve other problems, including disaster relief and
+environmental damage like deforestation."
+
+The news was first reported by The Wall Street Journal. Terms of the deal were
+not disclosed.
+
+While it may sound like a lofty goal, it's one that Google shares with a
+competitor. Facebook, recently acquired Ascenta, based in Britain, that makes a
+similar type of drone. Earlier reports had said that Facebook was in talks to by
+Titan Aerospace.
+
+The Titan Aerospace drones are unique because they are solar-powered and can fly
+for several years, according to the company's website.
+
+Drones that can fly for long periods of time without having to land could be
+used to offer constant updates of images of the earth, allowing a company like
+Google to update the photos in its maps platform.
+
+Both Google and Facebook are also competing to try and connect more people to
+the Internet that live in places that are too difficult to reach with
+traditional wires and traditional Internet solutions. While satellites can
+deliver the Internet to sparsely populated areas, the cost can be very high to
+use data connections. Drones, in comparison, will be able to do it at a much
+lower cost.
+
+
+     ·    Now Facebook Has a Drone Plan
+     ·    The Tech Bubble's Silver Lining: Cheap Services for Everyone
+     ·    Tech Companies Offer Update on Government Data Requests
+     ·    Google Buys A.I. Company for Search, Not Robots
+     ·    Daily Report: U.S. Eases Some Rules on Data Disclosure
+
+
+LOAD-DATE: April 14, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

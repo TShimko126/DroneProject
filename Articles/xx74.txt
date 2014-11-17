@@ -1,0 +1,87 @@
+                              74 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             January 5, 2014 Sunday
+                              Late Edition - Final
+
+Putting Drones to the Test
+
+BYLINE: By THE EDITORIAL BOARD
+
+SECTION: Section SR; Column 0; Editorial Desk; EDITORIAL; Pg. 10
+
+LENGTH: 527 words
+
+
+Drones will soon take to the skies across the United States in federally
+approved tests that are meant to clear the way for the commercial use of
+unmanned aircraft. But before that happens, lawmakers and regulators need to
+deal with a host of unresolved privacy and safety concerns.
+
+The Federal Aviation Administration last week selected six universities and
+government agencies to test civilian versions of drone aircraft, which are best
+known for their use by the military and the Central Intelligence Agency to kill
+suspected terrorists in places like Pakistan and Yemen.
+
+The tests are meant to help the F.A.A. integrate unmanned aerial vehicles, as
+drones are formally known, into the national airspace by 2015 under a law passed
+by Congress in 2012.
+
+Like many new technologies, drones pose both opportunities and challenges. The
+aircraft, which can range widely in size from less than a pound to more than
+30,000 pounds, can be incredibly useful but also very dangerous.
+
+For example, when outfitted with high-resolution cameras they can help
+businesses monitor remote infrastructure like pipelines and power lines more
+cheaply and easily than when conventional means like helicopters are used. But
+drones can just as easily be used by law-enforcement agencies and big
+corporations to conduct unconstitutional monitoring of individuals or groups of
+people.
+
+Given the National Security Agency's widespread spying and efforts by
+advertisers and Internet companies to track consumers online, another technology
+capable of conducting mass surveillance could become a serious threat to
+privacy. There are also safety issues. Drones operated by inexperienced or
+unlicensed pilots pose a hazard to people and property in populated areas.
+
+While the F.A.A. has wisely added privacy requirements to its test program, the
+agency is primarily a safety regulator. It is best suited for developing the
+kinds of regulations that require the makers of drones to endow their machines
+with the ability to sense potential collisions and to avoid them.
+
+The F.A.A. is also well placed to determine which kinds of drones are best for
+specific locations. For example, the agency should make clear that most drones
+will not be allowed to fly at low altitudes through residential neighborhoods,
+where they would pose a much greater danger than they would in rural areas.
+(Current F.A.A. regulations require police departments and other domestic
+agencies to fly drones at altitudes below 400 feet to keep them away from
+commercial planes, and only during daylight hours.)
+
+As drone technology improves and becomes more affordable -- some drones
+outfitted with cameras for shooting high-definition video and still photographs
+are already selling for as little as $300 -- unmanned aircraft will undoubtedly
+become more common.
+
+Some state legislatures have passed laws restricting drone surveillance,
+including requiring a probable cause warrant for law enforcement to use drones
+to gather evidence. Congress should enact similar safeguards. Lawmakers should
+also outline how long data collected by drones operated by law enforcement and
+private businesses can be stored and what it can be used for.
+
+URL: http://www.nytimes.com/2014/01/05/opinion/sunday/putting-drones
+-to-the-test.html
+
+LOAD-DATE: January 5, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: Editorial
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

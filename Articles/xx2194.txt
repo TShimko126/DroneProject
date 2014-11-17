@@ -1,0 +1,93 @@
+                             2194 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     December 28, 2013 Saturday 3:02 PM EST
+
+2013 is the year that proved your 'paranoid' friend right;
+You owe your "paranoid" friend a beer.
+
+BYLINE: Andrea Peterson
+
+LENGTH: 667 words
+
+
+Most people involved in the tech scene have at least one friend who has been
+warning everyone they know about protecting their digital trail for years - and
+have watched that friend get accused of being being a tinfoil-hat-wearing
+conspiracy theorist. But 2013 is the year that proved your "paranoid" friend
+right.
+
+It's now a matter of public record that the NSA collects and stores the calling
+records of domestic phone calls, tracks the location of millions of mobile
+devices worldwide, infiltrates the data links between the data centers of tech
+companies used by millions of Americans, piggybacks onto commercial tracking
+mechanisms, collected potentially sensitive online metadata for years and
+actively worked to undermine the privacy and security measures that underpin the
+Internet. And considering the purported size of the Snowden cache, that could be
+the tip of the metaphorical iceberg.
+
+And while the NSA story alone undoubtedly gives the "paranoid" plenty of reasons
+to say "I told you so," a slew of other reports from this year gave them even
+more reasons to retreat into the wilderness and start subsistence farming.
+
+For instance, the ACLU released a cache of documents showing that police around
+the country are collecting license plate scanner information that could be used
+to track physical locations of many Americans without consistent retention
+policies. "Because of the way the technology works   these devices snap photos
+of every passing car, not just those registered to people suspected of crimes
+virtually all of the data license plate readers gather is about people who are
+completely innocent," explained the ACLU, noting that the hit rates for the data
+collected by these types of programs was often far below 1 percent. And while
+one snapshot might seem innocuous, when you pool together huge databases of this
+type of location information, it can create incredibly intimate portraits of the
+how an individual lives their life   including where they work, which friends
+the visit and what doctors they see. The associated report was aptly titled "You
+Are Being Tracked."
+
+Speaking of being tracked, an enterprising hacker discovered that the E-Z Pass
+he used to make paying tolls simpler was being read all around New York City.
+Turns out, the city had been tracking E-Z Passes for years as a way to measure
+traffic patterns. The city wasn't very willing to reveal how long that data is
+being retained or just how much information was being collected by these
+clandestine readers. But the company that provides the RFID readers for the city
+said it scrambles the tag IDs to make them anonymous and only held it for a few
+minutes to compare against other traffic. Still, even if there are significant
+safeguards in place, it's ample evidence that the technology you let into your
+life that's capable of tracking you might not always be used in the ways you
+expect.
+
+Speaking of technology with obviously exploitable surveillance capabilities:
+Someone might be watching you through your laptop's webcam  without even
+activating the warning light. Reports say the FBI has had this capability for
+several years, and researchers at John's Hopkins were able to demonstrate how to
+covertly spy via webcams in MacBooks. Good thing you can cover up your webcam.
+Too bad there's not a similarly easy solution for stopping hackers from
+listening in on your laptop's built-in microphone.
+
+Oh, and to top it all off: There was suspicious aerial activity going on at Area
+51. Although no admissions of alien activity have emerged, much to John
+Podesta's dismay, recently released documents reveal that the CIA tested its
+first drones at the Nevada military base.
+
+None of this means that we should all give up on modern technology or that we
+now live in a surveillance-state dystopia. But it just might mean that we live
+in a world where things that were once considered far-fetched science fiction
+fantasy are increasingly being revealed as reality.
+
+And that you owe your paranoid friend a beer.
+
+LOAD-DATE: June 7, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2013 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

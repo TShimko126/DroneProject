@@ -1,0 +1,186 @@
+                             1275 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                              May 13, 2014 Tuesday
+                              Late Edition - Final
+
+Snowden's Story, Behind the Scenes
+
+BYLINE: By MICHIKO KAKUTANI
+
+SECTION: Section C; Column 0; The Arts/Cultural Desk; BOOKS OF THE TIMES; Pg. 1
+
+LENGTH: 1607 words
+
+
+NO PLACE TO HIDEEdward Snowden, the NSA, and the U.S. Surveillance State
+
+By Glenn Greenwald Illustrated. 259 pages. Metropolitan Books. $27.
+
+The title of the journalist Glenn Greenwald's impassioned new book, ''No Place
+to Hide,'' comes from a chilling observation made in 1975 by Senator Frank
+Church, then chairman of a select committee on intelligence. The United States
+government, he said, had perfected ''a technological capability that enables us
+to monitor the messages that go through the air.'' That capability, he added,
+could at any time ''be turned around on the American people, and no American
+would have any privacy left, such is the capability to monitor everything:
+telephone conversations, telegrams, it doesn't matter. There would be no place
+to hide.''
+
+That was nearly 40 years ago, and as the documents leaked last year by the
+former National Security Agency contractor Edward Snowden revealed, the N.S.A.'s
+ability to spy on our daily lives has grown exponentially to Orwellian
+proportions. The documents provided by Mr. Snowden revealed that the agency has
+an ability to monitor or collect information from hundreds of millions of people
+around the globe, that it has broken into the communications links of major data
+centers across the world, that it has circumvented or cracked much of the
+encryption that protects sensitive data on the Internet, and that, according to
+its own records, it has broken privacy laws or exceeded its authority thousands
+of times a year. The first journalist Mr. Snowden approached by email was Glenn
+Greenwald, a columnist for The Guardian and former constitutional lawyer who had
+frequently written about civil liberties, the dangers of enhanced executive
+power, and surveillance abuses in post-Sept. 11 America. (Mr. Greenwald has
+since left The Guardian to work with Pierre Omidyar, the founder of eBay, on
+building a new media venture, which includes the news site The Intercept, of
+which Mr. Greenwald, Laura Poitras and Jeremy Scahill are founding editors.)
+
+In ''No Place to Hide,'' Mr. Greenwald recounts the story of how he and Ms.
+Poitras, a documentary filmmaker, traveled to Hong Kong to meet with Mr. Snowden
+and the race to publish articles based on the documents he provided, all the
+while fearful of authorities' closing in. The outlines of this story will be
+familiar to readers who followed it in real time last year, and to readers of
+the recent book ''The Snowden Files'' (by the Guardian reporter Luke Harding),
+just as much of the material here about the N.S.A. will be familiar to readers
+of articles that have appeared in The Guardian (many with Mr. Greenwald's
+byline), The Washington Post and The New York Times.
+
+''No Place to Hide'' is enlivened by reproductions of dozens of fascinating
+documents from the Snowden archive that help illustrate the N.S.A.'s methodology
+and that showcase its strange corporatelike boosterism (complete with sometimes
+corny graphics). And Mr. Greenwald fleshes out his portrait of Mr. Snowden with
+fresh observations from their exchanges. He amplifies our understanding of the
+N.S.A.'s sweeping ambitions, methods and global reach, and provides detailed
+insights into what he calls the agency's ''corporate partnerships,'' which
+''extend beyond intelligence and defense contractors to include the world's
+largest and most important Internet corporations and telecoms.''
+
+For instance, the agency's Stormbrew program, Mr. Greenwald writes, ''gives the
+N.S.A. access to Internet and telephone traffic that enters the United States at
+various 'choke points' on U.S. soil. It exploits the fact that the vast majority
+of the world's Internet traffic at some point flows through the U.S.
+communications infrastructure -- a residual by-product of the central role that
+the United States had played in developing the network.'' According to the
+N.S.A., he says, Stormbrew ''is currently comprised of very sensitive
+relationships with two U.S. telecom providers (cover terms ARTIFICE and
+WOLFPOINT)''; the identity of such corporate partners, he adds, ''is one of the
+most closely guarded secrets in the N.S.A.''
+
+Mr. Greenwald portrays Mr. Snowden -- regarded by some as a heroic
+whistle-blower, by others as a traitor -- as a courageous idealist who felt he
+needed to act on his beliefs. That outlook, Mr. Greenwald suggests, was partly
+shaped by books Mr. Snowden read growing up -- Greek mythology and ''The Hero
+With a Thousand Faces'' by Joseph Campbell, which convinced Mr. Snowden that, in
+his own words, ''it is we who infuse life with meaning through our actions and
+the stories we create with them.''
+
+Mr. Snowden also confided ''with a hint of embarrassment,'' Mr. Greenwald
+writes, that video games had taught him certain lessons. As Mr. Snowden put it:
+''The protagonist is often an ordinary person, who finds himself faced with
+grave injustices from powerful forces and has the choice to flee in fear or to
+fight for his beliefs. And history also shows that seemingly ordinary people who
+are sufficiently resolute about justice can triumph over the most formidable
+adversaries.''
+
+In the course of this book, Mr. Greenwald describes how he received his first
+communication from Mr. Snowden on Dec. 1, 2012, though he had no idea who it was
+from. The email came from someone calling himself Cincinnatus and urged Mr.
+Greenwald to begin using PGP encryption so that Cincinnatus could communicate
+with him securely. Busy with other projects, Mr. Greenwald procrastinated about
+installing the encryption program, and Mr. Snowden was only able to make contact
+with him months later, through Ms. Poitras.
+
+According to Mr. Greenwald, Mr. Snowden would later describe his frustration:
+''Here am I ready to risk my liberty, perhaps even my life, to hand this guy
+thousands of Top Secret documents from the nation's most secretive agency -- a
+leak that will produce dozens if not hundreds of huge journalistic scoops. And
+he can't even be bothered to install an encryption program.''
+
+The most gripping sections of ''No Place to Hide'' recount Mr. Greenwald and Ms.
+Poitras's 10-day trip to Hong Kong, where they and The Guardian's veteran
+correspondent Ewen MacAskill met with Mr. Snowden in his hotel room. Mr.
+Greenwald describes the tradecraft they employed (removing batteries from their
+cellphones, or placing the phones in the minibar refrigerator) to avoid
+detection; his initial five-hour, litigatorlike grilling of Mr. Snowden; and the
+''giddy gallows humor'' that later crept into their conversations (''I call the
+bottom bunk at Gitmo,'' Mr. Snowden reportedly joked).
+
+Mr. Greenwald writes that Mr. Snowden said one turning point in his decision to
+become a leaker came in 2010, when he was working as an N.S.A. contractor in
+Japan. ''The stuff I saw really began to disturb me,'' Mr. Snowden recalled. ''I
+could watch drones in real time as they surveilled the people they might kill.''
+He added: ''I watched N.S.A. tracking people's Internet activities as they
+typed. I became aware of just how invasive U.S. surveillance capabilities had
+become. I realized the true breadth of this system. And almost nobody knew it
+was happening''
+
+Substantial sections of this book deal not with Mr. Greenwald's relationship
+with Mr. Snowden and the N.S.A., but with his combative view of ''the
+establishment media,'' which he has denounced for ''glaring subservience to
+political power'' and to which he condescends as inferior to his more activist
+kind of journalism.
+
+In ''No Place to Hide,'' Mr. Greenwald is critical of the process by which
+publications like The Washington Post, The New York Times and The Guardian speak
+with government officials before publishing sensitive articles dealing with
+national security issues; he contends that this process allows the ''government
+to control disclosures and minimize, even neuter, their impact.'' He also makes
+self-dramatizing boasts about his own mission: ''Only audacious journalism could
+give the story the power it needed to overcome the climate of fear the
+government had imposed on journalists and their sources.''
+
+In one passage, Mr. Greenwald makes the demonstrably false assertion that one
+''unwritten rule designed to protect the government is that media outlets
+publish only a few such secret documents, and then stop,'' that ''they would
+report on an archive like Snowden's so as to limit its impact -- publish a
+handful of stories, revel in the accolades of a 'big scoop,' collect prizes, and
+then walk away, ensuring that nothing had really changed.'' Many establishment
+media outlets obviously continue to pursue the Snowden story. Further, many of
+Mr. Greenwald's gross generalizations about the establishment media do a
+terrible disservice to the many tenacious investigative reporters who have
+broken important stories on some of the very subjects like the war on terror and
+executive power that Mr. Greenwald feels so strongly about.
+
+When Mr. Greenwald turns his fervor to the issue of surveillance and its
+implications for ordinary citizens' civil liberties, he is far more credible.
+Sometimes eloquent. He places the N.S.A.'s current activities in historical
+perspective with the F.B.I.'s Cointelpro program to target political groups and
+individuals, begun in 1956 and ended in 1971. And he delivers a fierce argument
+in defense of the right of privacy, quoting the Supreme Court Justice Louis
+Brandeis's famous dissent in the 1928 case Olmstead v. United States, of the
+founding fathers' efforts ''to protect Americans in their beliefs, their
+thoughts, their emotions and their sensations.''
+
+The makers of our Constitution, Brandeis argued, conferred ''the right to be let
+alone.''
+
+URL:
+http://www.nytimes.com/2014/05/13/books/no-place-to-hide-by-glenn-greenwald.html
+
+LOAD-DATE: May 13, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: PHOTO (C1)
+ The journalist Glenn Greenwald  in New York last month. (PHOTOGRAPH BY EDUARDO
+MUÑOZ/REUTERS) (C4)
+
+DOCUMENT-TYPE: Review
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

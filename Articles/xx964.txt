@@ -1,0 +1,241 @@
+                             964 of 2956 DOCUMENTS
+
+
+                            The New York Times Blogs
+                                (After Deadline)
+
+                             June 24, 2014 Tuesday
+
+Tangled Passages
+
+BYLINE: PHILIP B. CORBETT
+
+SECTION: TIMESTOPICS
+
+LENGTH: 1530 words
+
+
+
+HIGHLIGHT: Long, convoluted sentences are a disservice to harried readers. We
+don&#8217;t have to use See-Spot-run syntax, but we should do the hard work of
+ironing out our sentences so readers don&#8217;t have to.
+
+
+As we've often noted, long, convoluted sentences are a disservice to harried
+readers, who may be scanning the paper on the subway or checking their phone in
+the checkout line. We don't have to use See-Spot-run syntax, but we should do
+the hard work of ironing out our sentences so readers don't have to.
+
+It's particularly daunting to encounter a complex sentence that includes several
+different time elements. Readers are forced to slow down or double back to sort
+out the events - or, worse, they simply give up and stop reading.
+
+Here are three such cases from one recent day. Pare them down, straighten them
+out or break them up.
+
+This week, two officials who last year met secretly with the Iranians to get
+negotiations underway - William J. Burns, the deputy secretary of state, and
+Jake Sullivan, Vice President Joseph R. Biden Jr.'s national security adviser -
+met again with their Iranian counterparts, trying to get the negotiations back
+on track before a July 20 deadline for a final agreement.
+
+A single 62-word sentence crams together the news from this week, the background
+from last year and the deadline coming next month. Along with the long
+parenthetical identifications, it makes for tough slogging. Untangle the
+elements into a couple of sentences.
+
+The American drone strikes, after an almost six-month lull in the operations
+while Pakistani officials tried and failed to negotiate a peace deal with the
+Taliban, come as Pakistan is mulling a new offensive of its own against
+militants in the northwestern tribal belt.
+
+Another long sentence that includes what's going on now (the drone strikes);
+what happened before (the lull and negotiations); and what's coming up (a
+possible new offensive). A lot to digest without a breath.
+
+The mounting pile of judgments has now become a serious obstacle to the
+austerity drive of Prime Minister Antonis Samaras, with the International
+Monetary Fund warning this week that the "adverse court rulings" threaten to
+undo the country's reforms, which its creditors are scheduled to begin reviewing
+in July.
+
+And again - a 49-word journey with shifting time frames, many players and
+multiple clauses. Especially given the dense topic, we should work harder to
+help readers navigate.
+
+ Still More Tangles
+
+We often tangle up sentences with too much secondary information, holding the
+threads together with commas and a prayer. There's nothing wrong with a
+well-placed period and a fresh start.
+
+The Sunni militants, who include many aligned with the jihadist Islamic State of
+Iraq and Syria as well as loyalists to the old Saddam Hussein government swept
+from power by the American-led invasion a decade ago, have confronted the
+government of Prime Minister Nuri Kamal al-Maliki with its worst crisis and
+threatened to plunge Iraq into a sectarian war.
+
+A 33-word relative clause wedged between the subject and verb makes this
+sentence very hard to read.
+
+WORCESTER, Mass. - Massachusetts Democrats on Saturday endorsed for governor
+Steve Grossman, the state treasurer, passing over Martha Coakley, the attorney
+general, and setting up an intense fight for the party nomination in the
+September primary.
+
+The outcome at the Massachusetts Democratic Convention was a defeat for Ms.
+Coakley, not so much because Mr. Grossman, a former party chairman, beat her, as
+expected, but because a third candidate who had never run for office before won
+almost as many votes as she did.
+
+Sprinkling nine commas into just two sentences makes for choppy reading and
+suggests that we could have done more streamlining. For a start, we could have
+used titles instead of the appositive constructions in the first sentence:
+"Massachusetts Democrats on Saturday endorsed State Treasurer Steve Grossman for
+governor, passing over Attorney General Martha Coakley ..."
+
+ In a Word
+
+This week's grab bag of grammar, style and other missteps, compiled with help
+from colleagues and readers.
+
+Earlier, Mr. Kerry said in an interview with Yahoo! News that the United States
+was "open to discussions if there's something constructive that can be
+contributed by Iran."
+
+Skip the exclamation point. From the stylebook:
+
+company and corporation names. Generally render a name as the company does;
+consult the company website. But avoid fanciful use of punctuation or other
+nonalphabetic characters, which seem more like marketing logos than ordinary
+names: Yahoo, not Yahoo!.
+
+Neither its plot nor its provenance do much to recommend Terry Hayes's "I Am
+Pilgrim."
+
+The "neither ... nor" construction yields a singular subject; we wanted the
+singular "does."
+
+[Picture caption] The Mafia in Italy is a modern phenomena, John Dickie writes.
+
+The singular is "phenomenon."
+
+[Web summary] The resignation this week of a Democratic senator turned the tide
+against Gov. Terry McAuliffe and expanded health coverage for the poor into a
+flood.
+
+Confusing. A reader may at first read "expanded" as a verb parallel with
+"turned," rather than as a modifier with "health coverage." What's more, "turn
+the tide" is an expression in itself, so adding "into a flood" yields more
+confusion. Recast.
+
+Though formally part of Norway, television channels here broadcast only Russian
+programming.
+
+Dangler. The place, Barentsburg, is formally part of Norway; the television
+channels are not.
+
+"In both instances, voters decided they wanted something different from business
+as usual in Washington," Mr. Cruz, who is a vice-chairman of the Senate
+Republican campaign arm supporting Mr. Cochran, told reporters.
+
+No hyphen necessary in this title - same as "vice president."
+
+Mr. Brat may have remained largely unknown were it not for Mr. Cantor himself,
+who attacked him early in the race as a "liberal professor."
+
+In this contrary-to-fact construction, we needed "might," not "may."
+
+But are [#x200b][#x200b]father's[#x200b] rights[#x200b] a legitimate claim for
+equality, or a conflict with women's interests?
+
+Plural possessive: "fathers' rights," parallel to "women's interests."
+
+If you're in your 20s now and your employer matches savings in a workplace
+retirement account, do not miss out on that if you possibly can.
+
+If you possibly can miss out? The expression ran off track.
+
+His megaphone was conservative radio show host Laura Ingraham, who criticized
+Mr. Cantor's positions on immigration.
+
+Don't use a description as if it were a formal title. (Also, "show" is
+redundant.) Make it "His megaphone was Laura Ingraham, the conservative radio
+host, who criticized ..."
+
+Mr. Mickelson, Mr. Icahn and Mr. Walters have issued statements denying any
+wrongdoing. Mr. Mickelson, who said he has "done absolutely nothing wrong,"
+added "I'll cooperate as much as I can with the F.B.I."
+
+Sequence-of-tense rules call for "had" after the past-tense "said."
+
+The red wine was among the first bottles made at Taybeh, the West Bank's only
+brewery (Mr. Ratney had to fill out a special form to serve non-American wine).
+
+Breweries produce beer; wine comes from wineries.
+
+FreedomWorks and other leading Tea Party organizations did not put money and
+resources behind Mr. Brat, a college professor, like they have in the case of
+Chris McDaniel, who is opposing Mr. Cochran in Mississippi.
+
+Avoid "like" as a conjunction introducing a full clause like this; make it "as."
+
+The 12th-tallest building in the world, the tower was constructed of 30 miles'
+worth of glass that rockets into the sky, surrounded by some of Chicago's most
+famous architectural accomplishments.
+
+Glass covers an area; it's not clear how we are measuring it to get to 30 miles.
+
+Mr. Stevens stopped cashing the checks he received, Mr. Bahn said, though some
+of the affected couples have said that he had continued to accept payments as
+though nothing was amiss.
+
+Use the subjunctive for this contrary-to-fact construction: "as though nothing
+were amiss."
+
+Gov. Bobby Jindal on Thursday signed into law new restrictions against abortion,
+saying they will protect women and the unborn.
+
+It's more precise to say "restrictions on abortion."
+
+But as the sun sinks on Eric Cantor, we have to reflect that one of the plusses
+to this story is that the House majority leader may have lost his seat because
+he made a mistake in presuming that Americans hate college professors more than
+professional politicians.
+
+Our newsroom dictionary, Webster's New World College, gives "pluses" as the
+preferred spelling.
+
+When the Mets arrived home Sunday after an 11-game trip, in the middle of a
+six-game losing streak, they appeared to have reached that point more quickly
+than they had expected.
+
+Actually, it turned out they were not "in the middle" of the losing streak but
+at the end; they won their next game. Rephrase.
+
+Hockey has an ineffable quality that bestows teams the ability to rally against
+nearly impossible odds.
+
+"Bestows" should be followed by "on" or "upon," or use a different verb like
+"gives" or "lends." (I leave aside the question of whether "ineffable," meaning
+"unutterable, inexpressible," is exactly the right word in this context.)
+
+Jackie Cartier of Boulder, Colo., has been running for 10 years. That has left
+her feet beaten up and bruised, with thick calluses and the occasional missing
+toenail. But she won't step foot in a salon to have a pedicure.
+
+The idiom is "set foot."
+
+LOAD-DATE: June 24, 2014
+
+LANGUAGE: ENGLISH
+
+DOCUMENT-TYPE: News
+
+PUBLICATION-TYPE: Web Blog
+
+
+                   Copyright 2014 The News York Times Company
+                              All Rights Reserved
+
+

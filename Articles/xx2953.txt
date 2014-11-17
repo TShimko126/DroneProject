@@ -1,0 +1,110 @@
+                             2953 of 2956 DOCUMENTS
+
+
+
+                               Washingtonpost.com
+
+                      October 27, 2014 Monday 10:35 PM EST
+
+Robotics company needs advice in branching out beyond Defense Department work
+
+SECTION: ; Pg. A20
+
+LENGTH: 760 words
+
+
+The entrepreneur
+
+Ben Solomon was pursuing his MBA when he met aerospace engineering PhD student
+Mac MacFarlaneat the University of Maryland and teamed with him to start a
+business. After many pivots, they found a market to sell computer science and
+electrical engineering services to manufacturers that make robotics systems,
+including drones and unmanned land and water vehicles. They found a sweet spot
+where a lot of mid-size manufacturers don't always have the internal programming
+and electrical engineering capacity needed to fulfill contracts. That opened the
+door for Solomon and MacFarlane's Hyperion Technologies.
+
+The pitch
+
+Solomon, CEO
+
+"We've been doing this work since May 2013, and we've grown to four people.
+We're set to add another two or three full-time employees as we win additional
+contracts.
+
+"We try to bring more of a commercial perspective to an industry that doesn't
+always think outside the box. We use a lot of open-source tools and
+differentiate ourselves by trying to get projects done as quickly as possible,
+charging clients by deliverable goals rather than man-hours.
+
+"Because many of the robotics systems we work with are so new, we do have a bit
+of a rare expertise in having high-level computer science people who can program
+these systems. The skill we bring to the table of being able to insert a brain
+in a robot and making it autonomous is still pretty uncommon.
+
+"An example of one of our recent projects is a computer and communications
+systems for a company that builds unmanned boats. Hyperion's system takes the
+unmanned boats from giant remote-controlled watercraft to vessels that can be
+operated and tracked via computer from anywhere in the world.
+
+"Right now, most of our contracts are services for Defense Department robotics
+systems. How do we refine our sales process to really cut across markets? Some
+of the software and electrical systems used in Defense Department robots are
+also used in medical robots and in industrial automation (factory robots). How
+do we start to form a plan to expand the segments that we are able to go after?
+
+The advice
+
+Elana Fine, managing director of the Dingman Center for Entrepreneurship at the
+University of Maryland's Robert H. Smith School of Business
+
+"It makes a lot of sense to figure out some private-sector opportunities. It
+could make you more attractive to some of your Defense Department clients and
+help you manage cash flow and increase the stability of your business.
+
+"Pick one or two sectors - perhaps something specific in the medical field or a
+specific area of industrial automation, as you said. Pick an area where there is
+the easiest application of something you've already done, or a customer that
+could be a great reference that would help drive additional customers in those
+segments.
+
+"With any new market entry, you have to figure out if it's going to be
+worthwhile for you. You're already in a pretty bureaucratic environment, dealing
+with Defense Department contracts, so evaluate your strategy based on that.
+Consider balancing your portfolio with clients in a market that is not as
+regulatory and bureaucratic. For that reason, the health-care industry may not
+be the place to start. You could look at expanding to just one player in an
+industry, or an industry that is tangential to what you're already doing. For
+example, because you're working in the world of Defense Department contracts, is
+there anything you can be doing for a company such as Boeing that also does a
+lot for Defense Department, but has a large commercial arm as well?
+
+"For a services company looking to morph to a product company, the best time to
+invest in product development is when you find a product that resonates with
+several customers and can satisfy most customer requirements with little
+customization. Use your relationships with multiple customers to figure out
+common problems. Keep close tabs on the market to gauge when the demand is
+ramping up enough to justify spending the R&D time to develop a product over the
+next few years. You never want to be too early or too late to a market. With you
+current business, you'll get information to help you time the market."
+
+Reaction
+
+Solomon
+
+"We understand that nobody really wants to be the first customer for a brand new
+company, so we have to get the beachhead opportunity and then it will be easier
+to build off of that.  It's going to be a learning process for us.
+
+LOAD-DATE: October 27, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Publication
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

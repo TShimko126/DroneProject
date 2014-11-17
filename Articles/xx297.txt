@@ -1,0 +1,86 @@
+                             297 of 2956 DOCUMENTS
+
+
+
+                             Washington Post Blogs
+
+                     October 2, 2014 Thursday 12:23 PM EST
+
+Man arrested for shooting down a neighbor's drone;
+If it were over the shooter's own land, would this be legitimate defense against
+trespass? Even if it weren't on the shooter's land, but it was apparently
+photographing into the shooter's home or fenced-off property, would it be
+legitimate defense against the tort of "intrusion upon seclusion"?
+
+BYLINE: Eugene Volokh
+
+LENGTH: 570 words
+
+
+CBS Philadelphia reports that, "[a] New Jersey man was arrested" - for
+"Possession of a Weapon for an Unlawful Purpose and Criminal Mischief" - "after
+police say he shot down a neighbor's remote control drone." The drone was
+apparently over his neighbor's land, but what if it had been over the shooter's
+land? Would it be illegal property damage - or lawful defense against trespass?
+
+Even nondeadly force against people is allowed to prevent trespass, if it's
+"reasonable"; as the Restatement (Second) of Torts puts it:
+
+An actor is privileged to use reasonable [nondeadly] force, ... to prevent or
+terminate another's intrusion upon the actor's land ..., if the actor reasonably
+believes that the intrusion can be prevented or terminated only by the force
+used, and ... the actor reasonably believes that a request [to desist] will be
+useless or that substantial harm will be done before it can be made.
+
+It seems then that force exerted only on objects would likewise be allowed in
+such situations if it's "reasonable." Indeed, a separate provision specifically
+says that reasonable force that may damage property is sometimes allowed to
+protect one's land:
+
+[O]ne is privileged to commit an act which would otherwise be a trespass to a
+chattel ... if the act ... is reasonably believed to be ... necessary to protect
+the actor's land or chattels or his possession of them, and the harm inflicted
+is not unreasonable as compared with the harm threatened.
+
+And an overflight may be a trespass to land - and thus a potential justification
+for the use of nondeadly force - if the aircraft "enters into the immediate
+reaches of the air space next to the land, and ... interferes substantially with
+the other's use and enjoyment of his land." And criminal law rules are generally
+similar; indeed, the relevant New Jersey statute provides, in relevant part,
+that "Conduct involving the appropriation, seizure or destruction of, damage to,
+intrusion on, or interference with, property is justifiable under circumstances
+which would establish a defense of privilege in a civil action."
+
+Yet is force that damages a potentially quite valuable piece of machinery
+reasonable? Is the interference of an overflying drone with one's use and
+enjoyment of land "substantial," and should shooting down the drone be seen as
+"necessary to protect the actor's land ... or his possession of [the land]"? The
+chief threat wouldn't be of physical damage to land, but of interference with
+privacy - should that count for defense-of-property purposes? What if the drone
+weren't over the shooter's land, but was instead over a public street, but
+apparently photographing into the shooter's home (if one can tell such a thing)
+or into the shooter's fenced-off swimming pool deck? Would the shooter still
+have a defense for using force purely to protect privacy (e.g., to prevent the
+tort of intrusion upon seclusion), even in the absence of a trespass)?
+
+Very interesting questions, which I thought I'd just flag here now. (Note that
+the Restatement is a distillation of the common-law rules, not a statute; the
+case law is thus free to evolve by analogy, as incidents involving drones
+arise.) I'm delighted to say, though, that Prof. Michael Froomkin (Miami) will
+be guest-blogging about these very issues today or Friday; he is the co-author
+of a new article that is all about Self-Defense Against Robots.
+
+Thanks to my colleague Richard Re for the pointer.
+
+LOAD-DATE: October 2, 2014
+
+LANGUAGE: ENGLISH
+
+PUBLICATION-TYPE: Web Blog
+
+
+Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a Washington
+                                  Post Digital
+                              All Rights Reserved
+
+

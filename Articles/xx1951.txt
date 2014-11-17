@@ -1,0 +1,164 @@
+                             1951 of 2956 DOCUMENTS
+
+
+
+                              The Washington Post
+
+                            November 4, 2013 Monday
+                                 Every Edition
+
+D.C. IT: The good, the bad and HealthCare.gov
+
+BYLINE: Marjorie Censer
+
+SECTION: Pg. A11
+
+LENGTH: 1089 words
+
+
+A government IT program crashed three days after its launch, failing under the
+weight of about three-times the expected number of applications.
+
+Sounds familiar, right? But this wasn't HealthCare.gov. It was 2009, and the
+government had rolled out Cash for Clunkers to inject new life in the auto
+industry and encourage people to trade in their old cars for more fuel-efficient
+ones.
+
+As Vivek Kundra, the former U.S. chief information officer, recalled in a 2011
+paper, federal technology officials spent a month riding "a roller coaster of
+unplanned outages and service disruptions."
+
+That troubled IT program became the inspiration for Kundra's "cloud-first"
+program, an effort to move as many government programs to the  cloud - or
+Web-based infrastructure - as possible. After a 14-hour day of working on the
+site, he wrote that he was convinced - as he roamed the District at 4 a.m. -
+that more flexible cloud computing systems would have allowed the site to
+respond to rising demand.
+
+Fast forward four years and government officials, contracting executives and
+Capitol Hill find themselves mired in similar issues. Many are pointing fingers
+- at an outdated acquisition system that wouldn't work in the commercial world,
+at a political divide that turns common bugs into a capital error and at
+companies that are overpaid and that under-deliver.
+
+There may be a nugget of truth in all of these complaints, but the real story of
+why some contractor-developed projects fail can be far more complex.
+
+What's ignored is that the government is often very successful at managing
+massive amounts of information. The National Security Agency - lately, to its
+detriment - is hugely effective at vacuuming up personal data; the IRS reliably
+hosts thousands of people filing electronics tax returns.
+
+Contractors have helped the government accomplish some of its most difficult
+tasks, from developing a rover that can explore Mars to building drones for wars
+abroad.
+
+CGI Federal, one of the main contractors for HealthCare.gov, has had its own
+successes. Earl E. Devaney, tasked by President Obama with overseeing federal
+stimulus spending in 2009, said last week that CGI successfully - and quickly -
+built an online data collection system that fed stimulus data to Recovery.gov.
+
+"When we went live on October 10, 2009, it was a different story than what we're
+seeing with HealthCare.gov," Devaney said.
+
+Still there are plenty of examples of programs that haven't worked, and
+HealthCare.gov is undeniably a black eye for the technology contracting
+community, much of which is clustered around the D.C. area.
+
+"There's no question that it is creating a negative impression that has to be
+countered," said Stan Soloway, who heads the Professional Services Council, an
+industry group.
+
+Still, he pointed to the structural issues that contributed to the  problem.
+
+Federal contractors live by a very different schedule than commercial vendors.
+Perhaps the most obvious illustration is that CGI Federal's key to winning this
+bid was a 2007 contract award.
+
+The company won a spot on a sprawling contracting program years before receiving
+an order to build an essential part of HealthCare.gov.
+
+"We're unsure a contract in 2007 was necessarily the best vehicle," said Trey
+Hodgkins of industry group TechAmerica. "We believe it would normally have been
+let as ... a full and open competition."
+
+But that's just one of the nuances of contracting, which increasingly relies on
+these contract vehicles - often compared to hunting licenses because they give
+the contractor the ability to pursue future work. Agencies have turned to these
+contracts to give them more flexibility on what they actually buy and to make it
+easier and cheaper to winnow a pool of qualified bidders to a single award.
+
+HealthCare.gov was also haunted by significant political strife. Even as
+recently as last month, Republicans sought to defund the new health care law.
+
+"It's a high wire, no net," said Don Rainey, an investor at Grotech Ventures. "I
+don't envy them in that regard."
+
+Members of Congress have pointed to successful commercial sites that encounter
+large volumes of users. Rep. Anna G. Eshoo (D-Calif.), whose district includes
+much of the San Francisco Bay area, said at a recent hearing that blaming high
+traffic volume is "kind of a lame excuse.
+
+"Amazon and eBay don't crash the week before Christmas, and ProFlowers doesn't
+crash on Valentine's Day," she chided contracting executives.
+
+But even commercial companies face problems. At a conference last week, Steven
+VanRoekel , the U.S. chief information officer, recounted that in his nearly two
+decades at Microsoft, he rolled out several buggy products.
+
+"I actually had to recall a product once," he said. "Even in large,
+multinational companies, this stuff happens."
+
+Devaney, who spent more than four decades in government, said it's simplistic to
+call HealthCare.gov a Web site, given that it has to be interoperable with a
+whole variety of existing agency databases. "Some of the systems go back to
+George Washington," he quipped.
+
+Experts in commercial ventures suggested the government might have been better
+off using an incremental approach, which officials such as Kundra have tried to
+push in the past.
+
+"To put up a Web site that hundreds of thousands or millions of people will use
+in short order is a massive undertaking," Rainey said. "The expectations were
+probably unrealistic, but it might have been better to start with a limited set
+of states and then work out the bugs."
+
+Typically, successful projects also have fixed requirements, experts say.
+
+"You'd love to say that private companies always get it right, but they run into
+problems, too," said Frank Williams, the chief executive of Evolent Health and
+former chief executive of the Advisory Board Co. "Experienced developers make
+sure the scope of the project is defined up front."
+
+CGI said in a statement that it continues to deploy experts and technology to
+improve the site. The project is "challenging, unprecedented and complex," the
+company said.
+
+Federal officials said in hearings last week that they have brought in
+technology experts to fix a whole range of issues with the system.
+
+Industry onlookers said they expect contractors to recover.
+
+"It is positively never just the contractors' fault," said George A. Price Jr.,
+senior equity research analyst for aerospace, defense and government services at
+BB&T Capital Markets. "There's a lot of negative headlines, but eventually this
+gets fixed."
+
+Steven Overly contributed to this report.
+
+marjorie.censer@washpost.com
+
+LOAD-DATE: November 4, 2013
+
+LANGUAGE: ENGLISH
+
+DISTRIBUTION: Every Zone
+
+PUBLICATION-TYPE: Newspaper
+
+
+     Copyright 2013 Washingtonpost.Newsweek Interactive Company, LLC d/b/a
+                            Washington Post Digital
+                              All Rights Reserved
+
+

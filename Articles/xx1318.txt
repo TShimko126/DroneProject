@@ -1,0 +1,184 @@
+                             1318 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             June 10, 2014 Tuesday
+                              Late Edition - Final
+
+2nd China Army Unit Implicated in Online Spying
+
+BYLINE: By NICOLE PERLROTH; David E. Sanger contributed reporting from
+Washington.
+
+SECTION: Section B; Column 0; Business/Financial Desk; Pg. 1
+
+LENGTH: 1395 words
+
+
+SAN FRANCISCO -- The email attachment looked like a brochure for a yoga studio
+in Toulouse, France, the center of the European aerospace industry. But once it
+was opened, it allowed hackers to sidestep their victim's network security and
+steal closely guarded satellite technology.
+
+The fake yoga brochure was one of many clever come-ons used by a stealth Chinese
+military unit for hacking, said researchers at CrowdStrike, an Irvine, Calif.,
+security company. Their targets were the networks of European, American and
+Japanese government entities, military contractors and research companies in the
+space and satellite industry, systematically broken into for seven years.
+
+Just weeks after the Justice Department indicted five members of the Chinese
+army, accusing them of online attacks on United States corporations, a new
+report from CrowdStrike, released on Monday, offers more evidence of the breadth
+and ambition of China's campaign to steal trade and military secrets from
+foreign victims.
+
+The report, parts of which The New York Times was able to corroborate
+independently, ties attacks against dozens of public and private sector
+organizations back to a group of Shanghai-based hackers whom CrowdStrike called
+Putter Panda because they often targeted golf-playing conference attendees. The
+National Security Agency and its partners have identified the hackers as Unit
+61486, according to interviews with a half-dozen current and former American
+officials.
+
+Those officials say the N.S.A. and its partners are currently tracking more than
+20 hacking groups in China, over half of them units of the People's Liberation
+Army, as they break into public and private sector companies ranging from
+satellite, drone and nuclear weapon component makers to technology and energy
+companies and research groups.
+
+Unit 61486, researchers say, in some instances shared computing resources and
+communicated with members of Unit 61398, the P.L.A. unit whose members were the
+focus of last month's indictments.
+
+''If you look at all the groups that we track in China, the indictments are just
+the very tip of the iceberg,'' said George Kurtz, a co-founder of CrowdStrike.
+
+Knowledge of the attacks, which continue even now and are being reported for the
+first time, emerge amid an escalating conflict between the United States and
+China over online espionage.
+
+Tensions had been simmering for years, but grew more pointed last year when an
+American cybersecurity company, Mandiant, identified Unit 61398 as the source of
+thousands of attacks on foreign companies. The Justice Department's indictment
+last month named five members of that group and, for the first time, named some
+of its victims, which included Alcoa, Westinghouse Electric and the United
+States Steel Corporation.
+
+In response, Chinese officials have denounced the indictments, denied the
+charges, cited recent revelations that the United States has engaged in its own
+cyberespionage, and announced retaliatory measures, including new inspection
+procedures for American technologies, all raising the prospect of a trade war.
+
+The decision to issue indictments against the members of Unit 61398 has proved
+controversial, even inside the Obama administration. The members of the unit are
+almost certain never to see the inside of an American courtroom, and American
+officials fear that it could become more difficult to negotiate norms of
+behavior with China.
+
+The same issue will arise in the case of this newly disclosed unit, whose
+operations pose as large a threat to American infrastructure as the one whose
+members have been indicted.
+
+CrowdStrike's forensic investigation revealed that members of Unit 61486 took
+steps to hide their origins -- by using compromised foreign websites to launch
+their attacks, for instance -- but left behind digital traces of their
+identities and whereabouts. The report does not name the companies that were
+targeted because of confidentiality agreements CrowdStrike has with clients.
+
+The hackers' tools were developed during working hours in Chinese time zones,
+researchers say, and Internet records show that in one case hackers used the
+same I.P. address as members of Unit 61398 to launch their attacks. The use of
+that address for simultaneous attacks suggests cooperation between Unit 61398
+and Unit 61486, said Adam Meyers, CrowdStrike's head of threat intelligence.
+
+CrowdStrike, founded by two former executives of the security software company
+McAfee, is one of a new generation of computer security companies that
+specialize in so-called computer forensics.
+
+Rather than reacting to attacks by hackers, the company tries to understand who
+hackers are and what methods they are using. It has released several reports on
+global hacking over the last year.
+
+The firm's investigation revealed that the group targeted its victims with
+custom malware disguised as emails containing PDF invitations to aerospace and
+satellite conferences, job postings and, in one case, the brochure for a yoga
+studio in Toulouse.
+
+Once victims clicked on decoy files, they inadvertently downloaded malicious
+programs onto their computers. That opened the door for attackers to enter the
+victim's network, see which other devices and networks their victim was
+connected to, and eventually steal trade secrets and design schematics for
+satellite and aerospace technology.
+
+CrowdStrike's researchers said they traced attacks on dozens of the company's
+clients in the space and satellite industry to the group; the researchers say
+the list of victims could number in the hundreds, if not thousands.
+
+In some cases, researchers said, attackers slipped up and registered websites
+used in their assaults under the same email address they used to register
+personal blog and social media accounts. In one case, an attacker deployed a
+remote access tool, or RAT, from a web domain registered to an email address
+that belonged to a onetime student at the School of Information Security
+Engineering at Shanghai Jiao Tong University, a top university long suspected of
+being a state recruiting ground for hackers.
+
+Representatives for Shanghai Jiaotong did not respond to fax messages requesting
+comment.
+
+In another case, an email address -- which popped up repeatedly in Internet
+records for attack domains -- was used to register a personal blog on Sina.com,
+the Chinese Internet portal, to a 35-year-old who listed the military as his
+profession. The soldier did not return requests for comment, but in security
+discussion forums, CrowdStrike's researchers uncovered discussions between that
+person and two other hackers, whose noms de guerre, ClassicWind and Linxder,
+have been linked to members of Unit 61398.
+
+The 35-year-old's Picasa albums show photos of him in military training and
+celebrating his birthday with friends in military garb, and pictures of his
+dormitory, where P.L.A. officer hats are conspicuously in the background. And in
+his album labeled ''office,'' photos show a tall white building in Shanghai,
+surrounded by satellite dishes and dormitory-style residences. Researchers at
+CrowdStrike believe it is the headquarters for Unit 61486.
+
+Visited by The New York Times, the P.L.A. headquarters -- just north of downtown
+Shanghai in the Zhabei district -- were clearly marked as a ''military zone.''
+Soldiers guard the entrance to the building, which is surrounded by tall walls
+topped with wire fencing, a moat and trees that camouflage military satellite
+dishes. Viewed from nearby landmarks, the building is full of military personnel
+and patriotic military slogans.
+
+Military analysts at the Project 2049 Institute, a defense research group in
+Arlington, Va., suspected that Unit 61486 supported China's space surveillance
+network and maintained close ties with the Beijing Remote Sensing Research
+Institute, a state-sponsored organization whose mission is to explore ''leading
+technologies in earth observation and the mechanisms for acquiring and
+distributing remote sensing information,'' according to its website. The
+analysts never presented any evidence.
+
+CrowdStrike believes its report offers the final proof. ''We've got the gun, the
+bullet and the body,'' Mr. Meyers said of evidence connecting attacks on its
+clients, in the space and satellite sectors, back to Unit 61486.
+
+''The awareness level may be going up,'' said Mr. Kurtz of CrowdStrike. ''But
+the Chinese are not slowing down. They keep plowing away.''
+
+URL:
+http://www.nytimes.com/2014/06/10/technology/private-report-further-details-chin
+ese-cyberattacks.html
+
+LOAD-DATE: June 10, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTOS: George Kurtz, chief of CrowdStrike, which issued a  new report
+on Chinese online attacks. At left, a  People's Liberation Army compound in
+Shanghai,  which CrowdStrike believes is headquarters to a  group of Chinese
+military hackers. (PHOTOGRAPH BY SAM HODGSON FOR THE NEW YORK TIMES) (B4)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

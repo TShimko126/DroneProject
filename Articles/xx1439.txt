@@ -1,0 +1,155 @@
+                             1439 of 2956 DOCUMENTS
+
+
+                               The New York Times
+
+                             August 29, 2014 Friday
+                              Late Edition - Final
+
+An Israeli App Tracking the Gaza Conflict Has Followers Near and Far
+
+BYLINE: By JODI RUDOREN
+
+SECTION: Section A; Column 0; Foreign Desk; Pg. 11
+
+LENGTH: 1166 words
+
+
+JERUSALEM -- Many Israelis and, especially, their supporters abroad, experienced
+the intensity of this summer's long battle against Palestinian militants in the
+Gaza Strip primarily the way they do so much of modern life: on their
+smartphones. Every day of the fighting -- sometimes every hour or multiple times
+a minute -- their phones flashed, or sounded a siren, signaling each of the more
+than 4,200 rockets flying toward Israel from Gaza.
+
+More than one million people have downloaded the free Red Alert app, most after
+the beginning of Israel's military operation on July 8. Many kept wailing phones
+by their bedside; the app disrupted business meetings and dinner parties,
+synagogue services and, in one famous case that spurred more downloads, a live
+television interview with Israel's ambassador to Washington.
+
+''I just never turned it off,'' said Penelope Hogan, 47, a massage therapist who
+lives in Sheepshead Bay, Brooklyn. ''I'd get one alert and then another and then
+another, I noticed my heart was beating faster. It really gave me, not an
+understanding, but an empathy, somewhat of a small understanding, what people
+were living with.''
+
+The app was developed during Israel's last conflict with Hamas, the militant
+Islamist group that controls Gaza, in November 2012, as a tool for residents of
+communities in southern Israel where most of the rockets were aimed. Ari Sprung,
+a software engineer and one of its creators, said the idea was to make sure
+people who might not hear the actual siren -- perhaps because they were driving
+or had music turned up loud -- would know to get to a shelter.
+
+During the recent battle, the app became a way for those far from the action to
+monitor it in real time -- and a weapon in the raging propaganda war. Hooked
+into the military home front's command system, Red Alert tells users when and
+where a siren sounds. The English version offers a choice of eight ringtones,
+including one that mimics the Hebrew call of ''tzeva adom,'' or color red,
+actually heard in the south, two air-raid-type sirens, and what Mr. Sprung
+described as calmer sounds, like an alarm clock, added after user complaints.
+
+Danny Gewirtz, who lives outside Jerusalem, said that when the app went off
+while he was taking a shower one morning, his wife thought it was an actual
+siren and rushed into the safe room, waking their daughter and her fiancé. ''It
+almost ended my marriage right then and there,'' said Mr. Gewirtz, 53, who runs
+an advertising company. (Afterward, his daughter changed the sound to a series
+of beeps called ''News Flash.'')
+
+Red Alert is the best known of several such smartphone apps, and there are also
+a number of social-media feeds and web tools counting rockets fired or
+intercepts by Israel's Iron Dome missile-defense system. Google Chrome users can
+add a toolbar to their web browser that flashes red with each incoming rocket.
+
+LifeUnderFire.com counts down 15 seconds, the last five flashing red and
+accompanied by a siren, then says, ''For over 14 years, one million Israelis
+have had 15 seconds to find shelter from Hamas' rocket attacks. What are you
+able to do in 15 seconds?'' IsraelHasBeenRocketFreeFor.com is a countdown clock
+of how many days, hours, minutes and seconds Israel has been rocket free for
+(1:20:46:13 as of Thursday at 5 p.m. local time).
+
+Aaron Friedman, the American-Israeli designer of the countdown clock, said his
+website's name is long, ''but tells you exactly what to expect.'' It has drawn
+more than 300,000 unique visitors, he said, since its launch July 18.
+
+''I wanted to find a way to help others realize the frequency of these
+attacks,'' explained Mr. Friedman, 29, who works with Mr. Sprung at Curiyo, a
+Jerusalem company that curates web content. ''The idea of a simple one-off
+website, a timer that counted up and reset back to zero after each rocket fired,
+that might be eye-opening.''
+
+Red Alert was originally available only in Hebrew. Ron Dermer, Israel's
+ambassador to the United States, was one of about 80,000 subscribers, and it
+went off on his phone during a congressional subcommittee hearing in March. Rep.
+Mark Meadows, a Republican from North Carolina, asked afterward if he could get
+the app in English, so Mr. Dermer contacted Kobi Snir, Mr. Sprung's
+co-developer. Now, there are 240,000 users in the United States.
+
+An African-American church in Stockton, Calif., connected the app to its sound
+system one Sunday in July and did a mock evacuation in solidarity with Israel.
+The Schusterman Family Foundation in Washington included downloading Red Alert
+in a blog post suggesting actions supporters could take to ''Stand With
+Israel.'' Haaretz, an Israeli daily newspaper, reported Thursday that a family
+of French Jews used the app to prepare for the real sirens before moving this
+summer to the southern Israeli city of Ashdod.
+
+Jon Stewart had a field day with the app, noting that in Gaza, there are neither
+sirens nor smartphone facsimiles, but what Israel calls a ''knock on the roof''
+in the form of a drone-fired missile. ''So the Israeli military warns Gaza
+residents of imminent bombing with a smaller warning bombing,'' Mr. Stewart said
+on The Daily Show. ''An 'amuse boom,' if you will.''
+
+Mr. Dermer, who has shown off the app on Capitol Hill and in meetings at the
+White House, said news producers generally asked him to turn the app off or
+ditch his phone during scores of television interviews this summer. But Bob
+Schieffer, host of Face the Nation on CBS News, heard the app's siren during a
+pre-interview phone conversation in the green room, and told him to leave it on.
+
+Sure enough, an alert sounded during the interview, and the app showed the
+rocket heading toward Gedera, which just happens to be where Mr. Dermer's mother
+was born.
+
+''I said, 'Bob, the chances of that happening are one in a million, that it
+would go to Gedera, the one place in Israel that would have the most meaning to
+me personally,' and he said, well, it really brought the point home,'' Mr.
+Dermer recalled. ''It's not the same as reading in a newspaper that 100 rockets
+were fired yesterday. Each one of them you're getting interrupted. All of a
+sudden a siren is going off in your home. Hour after hour, day after day.
+There's a different human response to it.''
+
+Mr. Sprung, 34, who moved to Israel from Miami at age 10, said he has not made
+any money from Red Alert, and that its Google-generated ads pay for server
+space. During the conflict, he hooked it into Yo, an Israeli messaging app,
+broadening access. As rockets reached all over Israel, he increased the number
+of locations to 2,000 from 55.
+
+He was interviewed about the app on Good Morning America, CNN, BBC and by a
+journalist from Japan who said his country should have something similar
+tracking missiles between North and South Korea.
+
+Heading to bed Wednesday, a day after an open-ended cease-fire was secured
+between Israel and Gaza, Mr. Sprung said he turned his phone off for the first
+time in nearly two months.
+
+''I slept much better,'' he said.
+
+URL:
+http://www.nytimes.com/2014/08/29/world/middleeast/an-israeli-app-tracking-the-g
+aza-conflict-has-followers-near-and-far.html
+
+LOAD-DATE: September 10, 2014
+
+LANGUAGE: ENGLISH
+
+GRAPHIC: PHOTO: In Ashkelon, Israel, on Sunday, a woman left the hairdresser's
+chair to go to a nearby bomb shelter as sirens rang out. The Hebrew  call of
+''tzeva adom,'' or color red, is what is heard by residents in southern Israel
+in the event of an incoming attack. (PHOTOGRAPH BY JIM HOLLANDER/EUROPEAN
+PRESSPHOTO AGENCY)
+
+PUBLICATION-TYPE: Newspaper
+
+
+                   Copyright 2014 The New York Times Company
+
+

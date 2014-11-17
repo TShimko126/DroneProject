@@ -1,0 +1,236 @@
+                             910 of 2956 DOCUMENTS
+
+
+
+                              The Washington Post
+
+                           January 23, 2014 Thursday
+                                Suburban Edition
+
+Floating eyes in the sky heighten privacy worries
+
+BYLINE: Craig Timberg
+
+SECTION: A-SECTION; Pg. A01
+
+LENGTH: 1834 words
+
+
+They will look like two giant white blimps floating high above I-95 in Maryland,
+perhaps en route to a football game somewhere along the bustling Eastern
+Seaboard. But their mission will have nothing to do with sports and everything
+to do with war.
+
+The aerostats - that is the term for lighter-than-air craft that are tethered to
+the ground - are to be set aloft on Army-owned land about 45 miles northeast of
+Washington, near Aberdeen Proving Ground, for a three-year test slated to start
+in October. From a vantage of 10,000 feet, they will cast a vast radar net from
+Raleigh, N.C., to Boston and out to Lake Erie, with the goal of detecting cruise
+missiles or enemy aircraft so they could be intercepted before reaching the
+capital.
+
+Aerostats deployed by the military at U.S. bases in Iraq and Afghanistan
+typically carried powerful surveillance cameras as well, to track the movements
+of suspected insurgents and even U.S. soldiers. When Army Staff Sgt. Robert
+Bales murdered 16 civilians in Kandahar in March 2012, an aerostat above his
+base captured video of him returning from the slaughter in the early-morning
+darkness with a rifle in his hand and a shawl over his shoulders.
+
+Defense contractor Raytheon last year touted an exercise in which it outfitted
+the aerostats planned for deployment in suburban Baltimore with one of the
+company's most powerful high-altitude surveillance systems, capable of spotting
+individual people and vehicles from a distance of many miles.
+
+The Army said it has "no current plans" to mount such cameras or infrared
+sensors on the aerostats or to share information with federal, state or local
+law enforcement, but it declined to rule out either possibility. The radar
+system that is planned for the aerostats will be capable of monitoring the
+movement of trains, boats and cars, the Army said.
+
+The prospect of military-grade tracking technology floating above suburban
+Baltimore - along one of the East Coast's busiest travel corridors - has sparked
+privacy concerns at a time of rising worry about the growth of government
+eavesdropping in the dozen years since the Sept. 11, 2001, attacks.
+
+"That's the kind of massive persistent surveillance we've always been concerned
+about with drones," said Jay Stanley, a privacy expert for the American Civil
+Liberties Union. "It's part of this trend we've seen since 9/11, which is the
+turning inward of all of these surveillance technologies."
+
+The Army played down such concerns in written responses to questions posed by
+The Washington Post, saying its goal is to test the ability of the aerostats to
+bolster the region's missile-defense capability, especially against low-flying
+cruise missiles that can be hard for ground-based systems to detect in time to
+intercept them.
+
+The Army determined it did not need to conduct a Privacy Impact Assessment,
+required for some government programs, because it was not going to collect any
+personally identifiable information, officials said in their written responses
+to The Post.
+
+"The primary mission . . . is to track airborne objects," the Army said. "Its
+secondary mission is to track surface moving objects such as vehicles or boats.
+The capability to track surface objects does not extend to individual people."
+
+Even powerful overhead surveillance systems equipped with cameras struggle to
+make out individual faces or other identifying features such as license plates
+because of the extreme angles when viewing an area from above, experts say.
+
+But privacy advocates say location information can easily lead to the
+identification of individuals if collected on a mass scale and analyzed over
+time.
+
+Researchers have found that people vary their movements little day to day,
+typically traveling from home to work and back while also regularly visiting a
+small number of other locations, such as stores, gyms or the homes of friends.
+
+Aerostats' range
+
+The aerostats planned for Maryland will have radar capable of detecting airborne
+objects from up to 340 miles away and vehicles on the surface from up to 140
+miles away - as far south as Richmond, as far west as Cumberland, Md., and as
+far north as Staten Island. The Army declined to say what size vehicles can be
+sensed from those distances.
+
+"If it's able to track vehicles, that is problematic," said Jennifer Lynch of
+the Electronic Frontier Foundation, a civil liberties group. "You could imagine
+a scenario in which the location information can reveal where you go to church,
+what doctor you're going to, whether you're cheating on your wife, all those
+types of details. . . . Once a surveillance technology is put up, it's very
+tempting for law enforcement or the military to use it for reasons they did not
+originally disclose."
+
+Technologies developed for battlefields - weapons, vehicles, communications
+systems - long have flowed homeward as overseas conflicts have ended. The
+battles that followed the Sept. 11 attacks have produced major advances in
+surveillance equipment whose manufacturers increasingly are looking to expand
+their use within the United States.
+
+Aerostats - basically big balloons on strings - grew popular in Iraq and
+Afghanistan and also are used by Israel to monitor the Gaza Strip and by the
+United States to eye movement along southern border areas. Even a rifle shot
+through an aerostat will not bring it down, because the pressure of the helium
+inside nearly matches the pressure of the air outside, preventing rapid
+deflation.
+
+TCOM, a Columbia, Md.-based company that Raytheon hired to manufacture the
+aerostats planned for the upcoming deployment, said business is growing for
+smaller, tactical systems that can be used in sensitive border or harbor areas.
+"When you need persistent surveillance in a particular area, there is no better
+solution than the aerostat because it's there all the time," said Ron Bendlin,
+TCOM's president.
+
+The Defense Department spent nearly $7 billion on 15 different lighter-than-air
+systems between 2007 and 2012, with several suffering from technical problems,
+delays and unexpectedly high costs, the Government Accountability Office found
+in an October 2012 report.
+
+The system planned for Maryland is called JLENS, short for Joint Land Attack
+Cruise Missile Defense Elevated Netted Sensor System. The system has had
+setbacks, including rising costs and an accident in 2010 that damaged one of the
+aerostats at a facility in North Carolina.
+
+A GAO report in March put the total development costs for JLENS at $2.7 billion.
+Once expected to provide 16 systems, each consisting of two aerostats and
+accompanying ground controls, only two of these systems have been built, the one
+scheduled to fly in Maryland and a second sitting in storage in Utah.
+
+Raytheon, the prime contractor on the project, declined numerous interview
+requests about the JLENS system and, after requesting questions in writing, also
+declined to answer those.
+
+The military has no concrete plans to build more JLENS systems, though
+supporters of the program have not given up hope of reviving support.
+
+"They are bringing this to the East Coast, close to Washington, to get the
+Pentagon guys and Congress to say, 'Whoa, we could really use this,'" said
+Daniel Goure of the Lexington Institute, a military think tank with ties to the
+defense industry. "This is re-purposing. You've already spent the money."
+
+Tests in Utah
+
+The JLENS aerostats can stay in the air continuously for up to 30 days and have
+shown the ability in tests to track fast-moving objects in flight. The JLENS
+radar systems also can detect what security experts call "swarming boats," the
+kind of small, agile watercraft that, when loaded with explosives, can threaten
+ships.
+
+The aerostat system destined for use outside Baltimore has spent the past few
+years based at the Utah Test and Training Range, in the vast, parched salt flats
+west of Salt Lake City.
+
+Residents of the area complained less about privacy issues than the
+militarization of the airspace. Testing of the JLENS involved small aircraft
+that raced through the sky, mimicking the flight of missiles. The radar systems
+were supposed to track them and help firing systems home in on the moving
+targets. The aerostats themselves were not armed.
+
+The Army said similar tests will not be conducted while the aerostats are
+deployed in suburban Baltimore.
+
+As the aerostats hover above the area, they will be visible - at least faintly -
+for dozens of miles in any direction. To fans seated in the stands behind home
+plate at Orioles games more than 15 miles away in downtown Baltimore, they will
+probably appear as two white dots hovering in the sky beyond the historic brick
+warehouse at Camden Yards.
+
+The JLENS system will require pilots to take precautions in flights through the
+area; the Federal Aviation Administration is creating a "special use airspace"
+for the three-year test period, the Army said.
+
+There also will be "minor adverse impacts" on the bald eagle population in the
+vicinity of Aberdeen Proving Ground, which sits among the highest density of
+nests for the iconic birds in the Chesapeake Bay region, according to an Army
+environmental assessment.
+
+One of the two base stations for the aerostats will breach a 500-meter perimeter
+established to protect a nest used by a pair of bald eagles. The environmental
+assessment says that if those eagles are disturbed or killed because of the
+proximity of the JLENS base station or related construction, it would qualify as
+a legally permissible "incidental take" of the species.
+
+In a bid to demonstrate the long-term utility of JLENS to potential customers,
+Raytheon organized and paid for an exercise at a Utah test range in which it
+outfitted an aerostat with a spherical MTS-B sensor, often used by the Air Force
+and Customs and Border Protection to conduct overhead surveillance from drones.
+The exact capabilities of the MTS-B are classified, military officials said, but
+engineers familiar with the technology said its electro-optical and infrared
+sensors probably can detect individuals from more than 20 miles away.
+
+For the Raytheon test, the MTS-B spotted a person pretending to be a terrorist
+planting an improvised roadside bomb, even though the view was obscured by smoke
+from a nearby forest fire, according to a Raytheon news release from January
+2013. Operators could see live feeds of "trucks, trains and cars from dozens of
+miles away."
+
+The Army described the MTS-B test as "a contractor conducted demonstration" and
+said that only Raytheon could provide details. The company declined to do so,
+referring all questions to the Army.
+
+Activists in Utah critical of the aerostat testing there said they were never
+alerted to the testing or to potential privacy issues for the test of Raytheon's
+surveillance sensors.
+
+"I'm positive that was never raised," said Steve Erickson of the Citizens
+Education Project, based in Salt Lake City. "Privacy was just not an issue, in
+part because of the remoteness of the place."
+
+craig.timberg@washpost.com
+
+Follow The Post's new tech blog, The Switch, where technology and policy
+connect.
+
+LOAD-DATE: January 23, 2014
+
+LANGUAGE: ENGLISH
+
+DISTRIBUTION: Every Zone
+
+PUBLICATION-TYPE: Newspaper
+
+
+     Copyright 2014 Washingtonpost.Newsweek Interactive Company, LLC d/b/a
+                            Washington Post Digital
+                              All Rights Reserved
+
+
