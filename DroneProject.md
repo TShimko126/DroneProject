@@ -1,6 +1,3 @@
-
-<link href="https://raw.githubusercontent.com/jasonm23/markdown-css-themes/gh-pages/swiss.css" type="text/css" rel="stylesheet"></link>
-
 # Drone Newspaper Article Sentiment Analysis
 
 ### Nicolas Goller, Dominic Austin, and Tyler Shimko
@@ -50,22 +47,22 @@ A training set of article categorizations was first formed. This training set ca
 
 The two populations of articles differed significantly in their overall sentiments. The population of articles categorized as "domestic" had a mean sentiment value of 5.69 while the articles categorized as "foreign" had a mean sentiment value of -7.98. Overall, the articles categorized as "foreign" were far more negative than ones categorized as "domestic" (p=0.000307). This is most likely the result of the topics covered in the articles on the foreign uses of drones covering more gruesome issues than the domestic articles. Additionally, this trend did not appear to be dependent on the newspaper covering the stories, as domestic stories were consistently more positive in each of the three newspapers examined. The articles covering foreign topics had a larger variance, however, than the domestic articles. while the domestic articles all hovered around the mean sentiment value, there were many examples of foreign uses that were far more positive than even the most positive domestic articles. This was counterbalanced by the fact that there were also many largely negative articles covering the foreign uses of drones.
 
-![Plot 1](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot3.jpg)
+![](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot3.jpg)
 
-![Plot 2](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot5.jpg)
+![](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot5.jpg)
 
 Our analysis convincingly demonstrates that media coverage of the foreign uses of drones are portrayed in a more negative fashion in the media than the domestic uses. However, our analysis does have some limitations. Primarily, we only analyzed three newspaper, all from major metropolitan areas and without a specific focus on a singular subject matter, for example defense or technology. Our findings may very well have been different if we had selected a different form of media (i.e. blogs or web-based news sources) because of the freedom to explore more radical ideas using the internet as a platform. Additionally, we only examined one year's worth of articles. Major foreign drone strikes in the past year may have skewed the negative connotation of these actions even further negative then would be normal over a 5 or 10 year span. This analysis sets the stage for future large scale analysis of media sentiment toward drones.
  
 We found that the average sentiment was negative. This can be seen across all three news sources. The Denver Post published relatively few articles about drones. This is likely due to the fact that it is a smaller news organization. The number of articles being written picked up quite significantly around July for The Washington Post and not so dramatically for the other two. The best fit lines are fairly straight, though there is a small increase in sentiment over time. 
 
-![Plot 3](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot1.jpg)
+![](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot1.jpg)
 
 We counted the number of occurrences of the word "drone" or "drones" in the articles. It turns out that the majority of the articles had between one and ten references. This suggests that the average length of the articles was pretty short. According to our results, in the past year, articles had were more foreign-minded than domestic. This is illustrated by the relative lack of red dots in the figure below. It is a bit surprising that we have so few domestic articles as there is a lot of discussion happening as the FAA seeks to provide some form of regulation for drones in the national airspace. It is quite possible that we will see many more domestic articles in the years to come. Unfortunately, in this study we did not have a great deal of this data. There does appear to be a general trend that sentiment goes up as frequency of the words "drone" and "drones" increases. It seems the positivity of the article increases as length increases. It is somewhat unclear as to what this suggests. One to five occurrence articles seem to be pretty negative.   
 
-![Plot 4](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot2.jpg)
+![](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot2.jpg)
 
 The number of articles published per week clearly increased over time. This makes a lot of sense. As drones become more and more prevalent, we are seeing more and more articles about them. There is also the possibility that The Washington Post simply writes many more articles during the summer. More investigation would be required to confirm the suspicion that drone articles are becoming more widespread.
 
-![Plot 5](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot4.jpg)
+![](https://raw.githubusercontent.com/TShimko126/DroneProject/master/Plot4.jpg)
 
 We can conclude that more articles were published by The New York Times, The Washington Post, and The Denver Post later in 2014 than earlier. We also have pretty clear results demonstrating that domestic articles are more positive than the foreign articles. 
