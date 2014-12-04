@@ -26,6 +26,7 @@ dtm2 <- removeSparseTerms(dtm, .75)
 
 wordMatrix <- as.data.frame(as.matrix(dtm2))
 wordMatrix2 <- as.data.frame(lapply(wordMatrix, function(x){x/rowSums(wordMatrix)}))
+wordMatrix2 <- wordMatrix2[complete.cases(wordMatrix2),]
 
 trainingSet <- read.csv("~/DroneProject/TrainingSet2.csv")
 
@@ -40,7 +41,7 @@ for(i in trainingSet3[,2]){
     for(j in 1:nrow(wordMatrix2)){
         if(i!=j & !(j %in% trainingSet3[,2])){
             vec2 <- as.numeric(as.vector(wordMatrix2[j,]))
-            if(cor(vec1, vec2) > .95 | textData[i,4] == textData[j,4]){
+            if(cor(vec1, vec2) > .99){
                 if(!(j %in% trainingSet3[,2])){
                     print(paste("Row", j, "removed"))
                     removeRows <- append(removeRows, j)
@@ -60,7 +61,7 @@ for(i in 1:nrow(wordMatrix3)){
         for(j in (i+1):nrow(wordMatrix3)){
             
             vec2 <- as.numeric(as.vector(wordMatrix3[j,]))
-            if(cor(vec1, vec2) > .95 | textData[i,4] == textData[j,4]){
+            if(cor(vec1, vec2) > .99){
                 if(!(row.names(wordMatrix3)[j] %in% trainingSet3[,2])){
                     print(paste("Row", j, "removed"))
                     removeRows1 <- append(removeRows1, row.names(wordMatrix3)[j])
@@ -108,23 +109,16 @@ for(i in 1:nrow(finalData)){
     finalData$category[i] <- ifelse(article %in% trainingSet3[,2], as.character(trainingSet3[which(trainingSet3[,2] == article),1]), NA)
 }
 
-length(intersect(as.numeric(row.names(finalData)), trainingSet3[,2]))
-
 wordMatrixCat <- wordMatrix4[which(!is.na(finalData$category)),]
 
 set.seed(0)
-train <- sample(1:99, 50)
-test <- setdiff(1:99, train)
+train <- sample(1:98, 50)
+test <- setdiff(1:98, train)
 wordMatrixTrain <- wordMatrixCat[train,]
 wordMatrixTest <- wordMatrixCat[test,]
 
-colnames(wordMatrixTrain) <- make.names(colnames(wordMatrixTrain))
-
 trainingCats <- ifelse(finalData[which(!is.na(finalData$category)),]$category[train]=="Junk", "Junk", "Not Junk")
 testingCats <- ifelse(finalData[which(!is.na(finalData$category)),]$category[test]=="Junk", "Junk", "Not Junk")
-
-trainingCats <- finalData[which(!is.na(finalData$category)),]$category[train]
-testingCats <- finalData[which(!is.na(finalData$category)),]$category[train]
 
 for(i in 1:15){
     results <- as.character(knn(wordMatrixTrain, wordMatrixTest, trainingCats, k = i))
@@ -132,15 +126,14 @@ for(i in 1:15){
     print(paste(i, ":", round((sum(accurate)/length(accurate))*100, 2)))
 }
 
-for(i in 1:15){
-    results <- as.character(knn(wordMatrixTrain, wordMatrixTrain, trainingCats, k = i))
-    accurate <- trainingCats == results
-    print(paste(i, ":", round((sum(accurate)/length(accurate))*100, 2)))
-}
+junkCats <- testingCats <- ifelse(finalData[which(!is.na(finalData$category)),]$category=="Junk", "Junk", "Not Junk")
 
-results <- as.character(knn(wordMatrixTrain, wordMatrix4, trainingCats, k = 15))
+results <- as.character(knn(wordMatrixCat, wordMatrix4, junkCats, k = 2))
 
 wordMatrix5 <- wordMatrix4[results!="Junk",]
+textData3 <- textData2[results!="Junk",]
+finalData2 <- finalData[results!="Junk",]
+
 
 wordMatrixCat2 <- wordMatrix4[which((!is.na(finalData$category)) & finalData$category!="Junk"),]
 
@@ -152,6 +145,7 @@ wordMatrixTest2 <- wordMatrixCat[test,]
 
 trainingCats <- finalData[which(!is.na(finalData$category)),]$category[train]
 testingCats <- finalData[which(!is.na(finalData$category)),]$category[test]
+categories <- finalData[which(!is.na(finalData$category) & finalData$category!="Junk"),]$category
 
 for(i in 1:15){
     results <- as.character(knn(wordMatrixTrain2, wordMatrixTest2, trainingCats, k = i))
@@ -159,43 +153,29 @@ for(i in 1:15){
     print(paste(i, ":", round((sum(accurate)/length(accurate))*100, 2)))
 }
 
-results <- as.character(knn(wordMatrixTrain2, wordMatrixTest2, trainingCats, k = i))
+results2 <- as.character(knn(wordMatrixCat2, wordMatrix5, categories, k = 5))
+finalData2$category <- NULL
+finalData3 <- data.frame(finalData2, category=results2)
+
+
 
 # Sentiment over time graph
 
-ggplot(finalData, aes(x=date, y=sentiment, colour=newspaper)) + geom_point(alpha=.5) + facet_grid(newspaper~.) + ylim(c(-100,100)) + stat_smooth() + xlab("Date") + ylab("Sentiment")
+ggplot(finalData3, aes(x=date, y=sentiment, colour=newspaper)) + geom_point(alpha=.5) + facet_grid(newspaper~.) + stat_smooth() + xlab("Date") + ylab("Sentiment") + ylim(c(-100, 100))
 
 # Sentiment vs mentions
 
-ggplot(finalData, aes(x=occurances, y=sentiment, colour=newspaper)) + geom_point(alpha=.5) + facet_grid(newspaper~.) + xlab('Mentions of "drone" or "drones"') + ylab("Sentiment")
+ggplot(finalData3, aes(x=occurances, y=sentiment, colour=category)) + geom_point(alpha=.5) + facet_grid(newspaper~.) + xlab('Mentions of "drone" or "drones"') + ylab("Sentiment") + ylim(c(-100, 100))
 
-summary(finalData$occurances)
+#Sentiment by category 
 
-plot(finalData$sentiment~finalData$occurances)
-lm(finalData$sentiment~finalData$occurances)
+ggplot(finalData3, aes(x=category, y=sentiment)) + geom_boxplot() + xlab("Category") + ylab("Sentiment") + ylim(c(-250, 150))
 
+ggplot(finalData3, aes(x=category, y=sentiment)) + geom_boxplot() + facet_grid(.~newspaper) + xlab("Category") + ylab("Sentiment") + ylim(c(-250, 150))
 
-lm(finalData$sentiment ~finalData$newspaper)
+t.test(finalData3$sentiment~finalData3$category)
 
-finalData$date
+# Rate of articles per week
 
-
-d <- dist(wordMatrix2, method = "euclidean") # distance matrix
-fit <- hclust(d, method="ward.D")
-plot(fit) # display dendogram
-
-
-hist(kmeans(mydata, centers=4)$cluster)
-
-
-mydata <- wordMatrix2
-wss <- (nrow(mydata)-1)*sum(apply(mydata,2,var))
-for (i in 2:15) wss[i] <- sum(kmeans(mydata,
-   centers=i)$withinss)
-plot(1:15, wss, type="b", xlab="Number of Clusters",
-  ylab="Within groups sum of squares") 
-
-
-
-findAssocs(dtm, "journalism", .6)
+ggplot(finalData3, aes(x=date)) + geom_bar(binwidth=7) + xlab("Date") + ylab("Number of Articles") + ggtitle("Number of Articles Published per Week")
 
