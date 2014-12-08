@@ -38,35 +38,18 @@
 <h2>
 <a id="introduction" class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction</h2>
 
-<p>As the military and civilian uses of unmanned aerial systems, known colloquially as "drones," have increased in recent years, so has the media coverage of the subject. However, unbiased analysis of this coverage has been minimal at best. Many of the military uses of drones are associated with negative outcomes, including death and unnecessary collateral damage, in the eyes of  general public. In contrast, the domestic uses of drones, including delivery service and environmental monitoring, tend to have more positive connotations. In this study, we objectively examine the media sentiment toward the domestic and foreign uses of drones.</p>
+<p>As the military and civilian uses of unmanned aerial systems, known colloquially as "drones," have increased in recent years, so has the media coverage of the subject. However, unbiased analysis of this coverage has been minimal at best. Many of the military uses of drones are associated with negative outcomes, including death and unnecessary collateral damage, in the eyes of  general public. In contrast, the domestic uses of drones, including delivery service and environmental monitoring, tend to have more positive connotations. In this study, we objectively examine the media sentiment toward the domestic and foreign uses of drones. We seek to determine an automated and quantitative method for the word-by-word analysis of this media coverage. </p>
 
 <h2>
 <a id="methods" class="anchor" href="#methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>Methods</h2>
 
-<h3>
-<a id="duplicate-removal" class="anchor" href="#duplicate-removal" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Duplicate Removal</em>
-</h3>
-
-<p>Duplicate articles were removed from the data set through an analysis of the correlation of fractional word composition. For each individual article, the number of occurrences was counted. These values were then normalized by article length to yield the fraction of the article composed of each individual word. A correlation value was calculated between each article pair's vectors of composition values and the second article was removed if the value exceeded 0.99. This process removed 832 of 2,954 articles.</p>
+<p>Of primary concern for this study was the accurate and complete collection of the relevant data for analysis. We utilized the news media archiving tool LexisNexis to collect all of the articles referencing "drones" that were published in the past year. In order to build up our analysis, we selected three papers with significant circulation that represented reasonable geographic spread. We were limited by the availability of archives on LexisNexis. We eventually ended up selecting the New York Times, Washington Post, and Denver Post due to a combination of geographic spread, circulation, and archive availability.</p>
 
 <h3>
-<a id="sentiment-calculation" class="anchor" href="#sentiment-calculation" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Sentiment Calculation</em>
+<a id="article-collection-and-formatting" class="anchor" href="#article-collection-and-formatting" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Article Collection and Formatting</em>
 </h3>
 
-<p>Each article was looped through with each word being compared to the <a href="http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010">AFINN sentiment dictionary</a>. Each word in the article was therefore assigned a sentiment value. This process yielded a vector of values for each word in the article which were subsequently summed to yield the final sentiment value for the article.</p>
-
-<h3>
-<a id="article-categorization-manual" class="anchor" href="#article-categorization-manual" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Article Categorization (Manual)</em>
-</h3>
-
-<p>Based on our hypothesis, we needed to divide our sample into our three categories. Foreign articles involved drone strikes, military involvement with drones, foreign possession of military drones, and foreign policy involving drones. Usually these articles talked about terrorism or the countries Afghanistan, Iran, Somalia, or Pakistan. Another common trend of these articles discussed Obama and his foreign policies. The domestic category consisted of articles that involved recreational drones and any policies only affecting the corresponding nation. This could also include public drone crashes or public concern over invasion of privacy. Domestic refers to any local drones within any country that was military related.  The junk category contained articles that either didn't involve drones or briefly mentioned drones but was too brief to provide any significant analysis. Sometimes the article would mention drones briefly but move one to the rest of the story. Some articles used the word "drone" pertaining to sound so many articles involved music and bands.
-Using one hundred articles to build a sample categorization to train our program to analyze the much larger sample, we predicted that the foreign category would have the greatest number of samples because we believe that drone strikes attract more public attention than any domestic or recreational drone use. Our assumption was correct and the foreign category was the largest. However the number of domestic articles was significantly less than the number of foreign articles which was expected but not to this degree. The category was actually the smallest of the three and was easily outnumbered by junk and foreign. The size of the junk category was larger than we expected, involving anything from article about bands to aging cheese in New York. Unfortunately this article revealed how much of our sample was irrelevant to our purpose, however it's important we remove them for accuracy. These categories will be used as a template algorithm for our program to categorize the rest of sample, so that we don't have to analyze each article independently. </p>
-
-<h3>
-<a id="article-formatting" class="anchor" href="#article-formatting" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Article Formatting</em>
-</h3>
-
-<p>We pulled all of our data down from Lexis Nexis using the keyword "drones" for The New York Times, The Denver Post, and The Washington Post. LexisNexis had all of the articles for these newspapers and they are fairly well known. Additionally, several thousand articles seemed like a reasonable dataset. The specific newspapers were chosen based on The date range of one year landed articles between October 31, 2013 and October 30, 2014 inclusively. Since this query yielded 2,954 articles and LexisNexis only allows the download of five hundred articles at a time, we were forced to download the articles in six segments. We then split those six files of articles into 2,954 different files such that each file contained one article. (xxxx01.txt, xxxx02.txt, etc). </p>
+<p>We pulled all of our data down from LexisNexis using the keyword "drones" for The New York Times, The Denver Post, and The Washington Post. LexisNexis had all of the articles for these newspapers and they are fairly well known. Additionally, several thousand articles seemed like a reasonable dataset. The specific newspapers were chosen based on The date range of one year landed articles between October 31, 2013 and October 30, 2014 inclusively. Since this query yielded 2,954 articles and LexisNexis only allows the download of five hundred articles at a time, we were forced to download the articles in six segments. We then split those six files of articles into 2,954 different files such that each file contained one article. (xxxx01.txt, xxxx02.txt, etc). </p>
 
 <p>Using these files, we parsed out the relevant data from each file - the article's newspaper name, date, length, title, and body - and placed these data on a row separated by caret characters as the caret did not appear in any of the articles. LexisNexis outputs the articles in regular pattern so parsing the articles is not too difficult. We wrote a short Java program to parse the files in the following manner:</p>
 
@@ -79,6 +62,26 @@ Using one hundred articles to build a sample categorization to train our program
 </ul>
 
 <p>So we basically stepped through each file and pulled out the newspaper the article came from, the date the article was written, the title, the body, and the length of the article. We then put this data into another file where each article corresponded to a row and the five strings of data were separated by a caret character. With these steps, the file was ready for processing.</p>
+
+<h3>
+<a id="duplicate-removal" class="anchor" href="#duplicate-removal" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Duplicate Removal</em>
+</h3>
+
+<p>Duplicate articles were removed from the dataset through an analysis of the correlation of fractional word composition. For each individual article, the number of occurrences was counted. These values were then normalized by article length to yield the fraction of the article composed of each individual word. A correlation value was calculated between each article pair's vectors of composition values and the second article was removed if the value exceeded 0.99. This process removed 832 of 2,954 articles.</p>
+
+<h3>
+<a id="sentiment-calculation" class="anchor" href="#sentiment-calculation" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Sentiment Calculation</em>
+</h3>
+
+<p>Each article was looped through with each word being compared to the <a href="http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010">AFINN sentiment dictionary</a>. Each word in the article was therefore assigned a sentiment value. This process yielded a vector of values for each word in the article which were subsequently summed to yield the final sentiment value for the article.</p>
+
+<h3>
+<a id="article-categorization-manual" class="anchor" href="#article-categorization-manual" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Article Categorization (Manual)</em>
+</h3>
+
+<p>Based on our hypothesis, we needed to divide our sample into our three categories. Foreign articles involved drone strikes, military involvement with drones, foreign possession of military drones, and foreign policy involving drones. Usually these articles talked about terrorism or the countries Afghanistan, Iran, Somalia, or Pakistan. Another common trend of these articles discussed Obama and his foreign policies. The domestic category consisted of articles that involved recreational drones and any policies only affecting the corresponding nation. This could also include public drone crashes or public concern over invasion of privacy. Domestic refers to any local drones within any country that was military related. The junk category contained articles that either didn't involve drones or briefly mentioned drones but was too brief to provide any significant analysis. Sometimes the article would mention drones briefly but move one to the rest of the story. Some articles used the word "drone" pertaining to sound so many articles involved music and bands.</p>
+
+<p>Using one hundred articles to build a sample categorization to train our program to analyze the much larger sample, we predicted that the foreign category would have the greatest number of samples because we believe that drone strikes attract more public attention than any domestic or recreational drone use. Our assumption was correct and the foreign category was the largest. However the number of domestic articles was significantly less than the number of foreign articles which was expected but not to this degree. The category was actually the smallest of the three and was easily outnumbered by junk and foreign. The size of the junk category was larger than we expected, involving anything from article about bands to aging cheese in New York. Unfortunately this article revealed how much of our sample was irrelevant to our purpose, however it's important we remove them for accuracy. These categories will be used as a template algorithm for our program to categorize the rest of sample, so that we don't have to analyze each article independently. </p>
 
 <h3>
 <a id="article-categorization-automated" class="anchor" href="#article-categorization-automated" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Article Categorization (Automated)</em>
